@@ -245,6 +245,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB892944)"
         },
+        "KB893066": {
+            "releaseDate": "2005-06-14",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB893066)"
+        },
         "KB893086": {
             "releaseDate": "2005-04-12",
             "releaseVersion": "",

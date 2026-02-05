@@ -120,6 +120,7 @@
 "srvsvc.dll",
 "stub_fpsrvadm.exe",
 "stub_fpsrvwin.exe",
+"tcpip.sys",
 "tcptest.exe",
 "type32.dll",
 "update.exe",

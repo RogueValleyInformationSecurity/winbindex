@@ -434,6 +434,11 @@
 "stub_fpsrvwin.exe": {
 "dad34abd9d2d47bbe1c60ee02bfad4ad6a33813ee7eb9235374817b5f74e74a2": "pe"
 },
+"tcpip.sys": {
+"64d7951acd1d4bfdeb1d775fafb57140de81f068e48d6d3230e7488419bd4a24": "pe",
+"8089da8791138513512047a0ec84f60ce3dcf4fe07e9dafd3d0639cffb3727c4": "pe",
+"8ebef7399d6a2a436de31b5d9cdc967ea53bb58c5ded241ed627419294b6e3fb": "pe"
+},
 "tcptest.exe": {
 "077060dddbe3cb1f20204722e1f22fd710a3596cf5ae8b2c09a57d9d744325f8": "pe"
 },
