@@ -7,9 +7,11 @@
 "pchshell.dll",
 "pchsvc.dll",
 "sbe.dll",
+"shell32.dll",
 "spcustom.dll",
 "spmsg.dll",
 "spuninst.exe",
 "update.exe",
-"verifmce.dll"
+"verifmce.dll",
+"xpsp1hfm.exe"
 ]

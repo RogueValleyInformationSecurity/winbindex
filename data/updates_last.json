@@ -9,6 +9,11 @@
             "releaseDate": "2004-05-15",
             "releaseVersion": "",
             "title": "Update for Windows XP Service Pack 1 (KB810243)"
+        },
+        "KB821557": {
+            "releaseDate": "2004-05-15",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB821557)"
         }
     }
 }
