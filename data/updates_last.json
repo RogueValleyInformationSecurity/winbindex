@@ -95,6 +95,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB873339)"
         },
+        "KB885626": {
+            "releaseDate": "2004-12-14",
+            "releaseVersion": "",
+            "title": "Critical Update for Windows XP (KB885626)"
+        },
         "KB885884": {
             "releaseDate": "2004-11-11",
             "releaseVersion": "",
