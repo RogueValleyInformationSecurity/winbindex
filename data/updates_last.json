@@ -190,6 +190,11 @@
             "releaseVersion": "",
             "title": "Critical Update for Windows XP (KB887811)"
         },
+        "KB887822": {
+            "releaseDate": "2005-04-12",
+            "releaseVersion": "",
+            "title": "Critical Update for Windows XP (KB887822)"
+        },
         "KB888113": {
             "releaseDate": "2005-02-08",
             "releaseVersion": "",
