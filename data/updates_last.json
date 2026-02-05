@@ -260,6 +260,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB893086)"
         },
+        "KB894391": {
+            "releaseDate": "2005-08-09",
+            "releaseVersion": "",
+            "title": "Update for Windows XP (KB894391)"
+        },
         "KB896344": {
             "releaseDate": "2005-06-28",
             "releaseVersion": "",
