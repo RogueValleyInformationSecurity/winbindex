@@ -115,6 +115,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB840374)"
         },
+        "KB840987": {
+            "releaseDate": "2006-04-11",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB840987)"
+        },
         "KB841356": {
             "releaseDate": "2005-04-12",
             "releaseVersion": "",
