@@ -150,6 +150,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB873376)"
         },
+        "KB885250": {
+            "releaseDate": "2005-04-26",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB885250)"
+        },
         "KB885523": {
             "releaseDate": "2005-04-12",
             "releaseVersion": "",
