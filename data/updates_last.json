@@ -210,6 +210,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB888113)"
         },
+        "KB888162": {
+            "releaseDate": "2005-05-24",
+            "releaseVersion": "",
+            "title": "Critical Update for Windows XP (KB888162)"
+        },
         "KB888302": {
             "releaseDate": "2005-02-08",
             "releaseVersion": "",
