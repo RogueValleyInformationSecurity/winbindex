@@ -24,6 +24,11 @@
             "releaseDate": "2004-05-15",
             "releaseVersion": "",
             "title": "Security Update for Microsoft Windows XP (KB825119)"
+        },
+        "KB828035": {
+            "releaseDate": "2004-05-15",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft Windows XP (KB828035)"
         }
     }
 }

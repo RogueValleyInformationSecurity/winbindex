@@ -6,6 +6,7 @@
 "hscupd.exe",
 "itircl.dll",
 "msconfig.exe",
+"msgsvc.dll",
 "pchshell.dll",
 "pchsvc.dll",
 "sbe.dll",
@@ -21,5 +22,6 @@
 "usbport.sys",
 "usbuhci.sys",
 "verifmce.dll",
+"wkssvc.dll",
 "xpsp1hfm.exe"
 ]
