@@ -115,6 +115,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB841356)"
         },
+        "KB841533": {
+            "releaseDate": "2005-04-12",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB841533)"
+        },
         "KB841873": {
             "releaseDate": "2004-12-14",
             "releaseVersion": "",
