@@ -72,6 +72,10 @@
 "itss.dll",
 "lsasrv.dll",
 "medctrro.exe",
+"migisma.dll",
+"migload.exe",
+"migwiz.exe",
+"migwiza.exe",
 "mpeg2data.ax",
 "mpg2data.ax",
 "mpg2splt.ax",
@@ -145,5 +149,6 @@
 "wzcsvc.dll",
 "xpsp1hfm.exe",
 "xpsp2res.dll",
+"xpsp3res.dll",
 "zipfldr.dll"
 ]
