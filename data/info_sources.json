@@ -376,6 +376,11 @@
 "sqlse20.dll": {
 "606e5b682e727c2bc36741a25928e4aa453ddd447f838c0a6d5d2d9d52d2387a": "pe"
 },
+"srvsvc.dll": {
+"01a4e3ee843abc9fd74546caf5495a72606ccef1bbdf37e9544ee03208b419a9": "pe",
+"f49ff11a5c929e7feb1eb38d72bc93bf1af1f0520e67039d001bd3d91e7a6e7c": "pe",
+"fca50f229a9a2d120a260620af454e1808246e45ec249582298d669bced50b3e": "pe"
+},
 "stub_fpsrvadm.exe": {
 "bce597757872f02ee5ea3a070d80913ec1ceb5bba07ccd21374fc177e0adc263": "pe"
 },

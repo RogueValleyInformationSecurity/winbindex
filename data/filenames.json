@@ -105,6 +105,7 @@
 "sqldb20.dll",
 "sqlqp20.dll",
 "sqlse20.dll",
+"srvsvc.dll",
 "stub_fpsrvadm.exe",
 "stub_fpsrvwin.exe",
 "tcptest.exe",
