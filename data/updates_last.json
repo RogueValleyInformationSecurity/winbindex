@@ -330,6 +330,11 @@
             "releaseVersion": "",
             "title": "Beta 6.2 Installer version of Security Update for Windows XP (KB899588)"
         },
+        "KB900485": {
+            "releaseDate": "2006-04-25",
+            "releaseVersion": "",
+            "title": "Update for Windows XP (KB900485)"
+        },
         "KB900725": {
             "releaseDate": "2005-10-13",
             "releaseVersion": "",
