@@ -129,6 +129,11 @@
             "releaseDate": "2005-01-17",
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB890175)"
+        },
+        "KB891711": {
+            "releaseDate": "2005-01-17",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB891711)"
         }
     }
 }
