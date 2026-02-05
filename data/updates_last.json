@@ -25,6 +25,11 @@
             "releaseVersion": "",
             "title": "Recommended Update for Windows XP SP1 (KB822603)"
         },
+        "KB824151": {
+            "releaseDate": "2004-11-19",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB824151)"
+        },
         "KB825119": {
             "releaseDate": "2004-05-15",
             "releaseVersion": "",
