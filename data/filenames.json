@@ -1,6 +1,7 @@
 [
 "admin.dll",
 "admin.exe",
+"arpidfix.exe",
 "author.dll",
 "author.exe",
 "bdaplgin.ax",
@@ -73,6 +74,7 @@
 "irinst.exe",
 "itircl.dll",
 "itss.dll",
+"kerberos.dll",
 "lsasrv.dll",
 "medctrro.exe",
 "migisma.dll",

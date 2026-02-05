@@ -5,6 +5,9 @@
 "admin.exe": {
 "fff5c26679c2d6e2d7ace6090a688d3fb611601b665ca28ca108543d42c33834": "pe"
 },
+"arpidfix.exe": {
+"88ea788e14eddee92ba73ecca752cf0a77856ebe4f8999ee5f0e7e91fdc39443": "pe"
+},
 "author.dll": {
 "c99af7830e7285dc2372e0676cf227983cc54cf30187afacbfea2c40c1368dbf": "pe"
 },
@@ -249,6 +252,11 @@
 "itss.dll": {
 "0d68462f415ed1b7a82712b8143fc4520df6e5247194c0e89a506b7622c9f499": "pe",
 "e8441b1d0ca71abfd2ef80be3a061ea2cbfc9569f33b44f01cdde02f718722ba": "pe"
+},
+"kerberos.dll": {
+"3a4456c2566968ccc4293e5503deb9dfa4d65ad12e65cf89daebac7239f8f655": "pe",
+"4fdb242bd058d250184efd4dbcd56cc2bd86f6f6fc716043c94869cac34ec193": "pe",
+"532c573ae87c97e6e053643936dd89a221a9cbb36933875dfa94447ef216b21b": "pe"
 },
 "lsasrv.dll": {
 "56547bc869a4b0cf895eaa01bc3a4f667cb7d53dd1bf7870efd3d23b6441a138": "pe"
