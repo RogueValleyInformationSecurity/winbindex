@@ -85,6 +85,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB839643)"
         },
+        "KB839645": {
+            "releaseDate": "2005-02-08",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB839645)"
+        },
         "KB841873": {
             "releaseDate": "2004-12-14",
             "releaseVersion": "",
