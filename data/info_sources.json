@@ -320,6 +320,9 @@
 "netshell.dll": {
 "445ec1bace9cfc9c73d84c5573f7da9c66144a7f3be59f8fb79ab984c499b11b": "pe"
 },
+"ntkrnlpa.exe": {
+"d17fdb34f39a433454475856422533d4ed56a54e65d3bc4dbc5b0017a2d3e6b1": "pe"
+},
 "ole32.dll": {
 "9b4b14654fa83c3c071ea9eafb785b203be6af757cc89c9e4bc8e04727219f77": "pe"
 },

@@ -94,6 +94,7 @@
 "ndisuio.sys",
 "netapi32.dll",
 "netshell.dll",
+"ntkrnlpa.exe",
 "ole32.dll",
 "pchshell.dll",
 "pchsvc.dll",

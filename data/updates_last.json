@@ -160,6 +160,11 @@
             "releaseVersion": "",
             "title": "Critical Update for Windows XP (KB885626)"
         },
+        "KB885835": {
+            "releaseDate": "2005-04-13",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB885835)"
+        },
         "KB885836": {
             "releaseDate": "2004-12-14",
             "releaseVersion": "",
