@@ -319,6 +319,11 @@
             "releaseDate": "2005-09-13",
             "releaseVersion": "",
             "title": "Beta 6.2 Installer version of Security Update for Windows XP (KB899588)"
+        },
+        "KB901017": {
+            "releaseDate": "2005-10-11",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB901017)"
         }
     }
 }
