@@ -65,6 +65,11 @@
             "releaseVersion": "",
             "title": "Critical Update for Microsoft Windows XP Media Center Edition Infrared Receiver (KB832418)"
         },
+        "KB833987": {
+            "releaseDate": "2005-04-12",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB833987)"
+        },
         "KB834840": {
             "releaseDate": "2004-10-05",
             "releaseVersion": "",
