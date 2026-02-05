@@ -230,6 +230,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB890175)"
         },
+        "KB890859": {
+            "releaseDate": "2005-07-26",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB890859)"
+        },
         "KB891711": {
             "releaseDate": "2005-01-17",
             "releaseVersion": "",
