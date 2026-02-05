@@ -20,6 +20,9 @@
 "cfgwiz.exe": {
 "f96da4655de00e88ebda7d5c106c085489f76a99334233a782d21632d4678256": "pe"
 },
+"ciodm.dll": {
+"c7f9a539aaa8db65e2110e928aa925bb6b00da28322cefcd005d139ffdc6f8e4": "pe"
+},
 "clbcatq.dll": {
 "ea77ea96292dd3a22e74ae6fb1a49378e1280c6e27dd57a8a63d58555805433d": "pe"
 },
@@ -285,6 +288,9 @@
 },
 "quartz.dll": {
 "1abb83dce4eaa88016b982bd0e8e74759599c92b0fa34f72a7be57e115a98587": "pe"
+},
+"query.dll": {
+"776c693ff8f26df4409b6e131a69417936d6ba56f8a458981fd724eb74c47cd1": "pe"
 },
 "sbe.dll": {
 "017fba71a9f06d52889562887b1f5fe60ea2fcaf33c7db1fa1090a144163fc07": "pe",
