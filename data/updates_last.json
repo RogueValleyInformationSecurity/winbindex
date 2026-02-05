@@ -4,6 +4,11 @@
             "releaseDate": "2004-05-15",
             "releaseVersion": "",
             "title": "Security Update for Microsoft Windows XP (KB328940)"
+        },
+        "KB810243": {
+            "releaseDate": "2004-05-15",
+            "releaseVersion": "",
+            "title": "Update for Windows XP Service Pack 1 (KB810243)"
         }
     }
 }
