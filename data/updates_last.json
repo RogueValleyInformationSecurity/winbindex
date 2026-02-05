@@ -150,6 +150,11 @@
             "releaseVersion": "",
             "title": "Critical Update for Windows XP (KB886185)"
         },
+        "KB886677": {
+            "releaseDate": "2005-02-24",
+            "releaseVersion": "",
+            "title": "Update for Windows XP (KB886677)"
+        },
         "KB888113": {
             "releaseDate": "2005-02-08",
             "releaseVersion": "",
