@@ -3,6 +3,7 @@
 "clbcatq.dll",
 "custom.dll",
 "custom_uninstall.dll",
+"dhcpcsvc.dll",
 "dplayx.dll",
 "dpwsockx.dll",
 "ehcir.dll",
@@ -42,6 +43,9 @@
 "msdvbnp.ax",
 "msgsvc.dll",
 "msvidctl.dll",
+"ndis.sys",
+"ndisuio.sys",
+"netshell.dll",
 "pchshell.dll",
 "pchsvc.dll",
 "psisdecd.dll",
@@ -69,5 +73,9 @@
 "wkssvc.dll",
 "wstpager.ax",
 "wstrenderer.ax",
-"xpsp1hfm.exe"
+"wzcdlg.dll",
+"wzcsapi.dll",
+"wzcsvc.dll",
+"xpsp1hfm.exe",
+"xpsp2res.dll"
 ]
