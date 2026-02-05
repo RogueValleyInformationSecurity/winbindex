@@ -75,6 +75,11 @@
             "releaseVersion": "",
             "title": "Critical Update for IntelliType Pro and IntelliPoint on Windows XP (KB834840)"
         },
+        "KB835409": {
+            "releaseDate": "2005-12-13",
+            "releaseVersion": "",
+            "title": "Update for Windows XP (KB835409)"
+        },
         "KB835732": {
             "releaseDate": "2005-02-18",
             "releaseVersion": "",
