@@ -370,6 +370,11 @@
             "releaseVersion": "",
             "title": "Update for Windows XP Media Center Edition 2005 (KB910393)"
         },
+        "KB911567": {
+            "releaseDate": "2006-04-11",
+            "releaseVersion": "",
+            "title": "Cumulative Security Update for Outlook Express for Windows XP (KB911567)"
+        },
         "KB911927": {
             "releaseDate": "2006-02-14",
             "releaseVersion": "",
