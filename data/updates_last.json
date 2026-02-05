@@ -90,6 +90,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB841873)"
         },
+        "KB873339": {
+            "releaseDate": "2004-12-14",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB873339)"
+        },
         "KB885884": {
             "releaseDate": "2004-11-11",
             "releaseVersion": "",
