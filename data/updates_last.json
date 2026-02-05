@@ -339,6 +339,11 @@
             "releaseDate": "2005-10-11",
             "releaseVersion": "",
             "title": "Beta 6.2 Installer version of Security Update for Windows XP (KB905414)"
+        },
+        "KB908250": {
+            "releaseDate": "2005-11-29",
+            "releaseVersion": "",
+            "title": "Update Rollup KB908250 for Update Rollup 2 for Microsoft Windows XP Media Center Edition 2005"
         }
     }
 }
