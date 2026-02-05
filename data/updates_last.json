@@ -34,6 +34,11 @@
             "releaseDate": "2004-05-15",
             "releaseVersion": "",
             "title": "Critical Update for Windows XP Media Center Edition 2004 (KB830786)"
+        },
+        "KB832418": {
+            "releaseDate": "2004-06-10",
+            "releaseVersion": "",
+            "title": "Critical Update for Microsoft Windows XP Media Center Edition Infrared Receiver (KB832418)"
         }
     }
 }
