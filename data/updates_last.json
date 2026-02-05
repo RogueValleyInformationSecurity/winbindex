@@ -30,6 +30,11 @@
             "releaseVersion": "",
             "title": "Security Update for Microsoft Windows XP (KB828035)"
         },
+        "KB828741": {
+            "releaseDate": "2004-07-06",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB828741)"
+        },
         "KB830786": {
             "releaseDate": "2004-05-15",
             "releaseVersion": "",
