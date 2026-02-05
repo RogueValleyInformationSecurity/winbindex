@@ -128,6 +128,7 @@
 "sqldb20.dll",
 "sqlqp20.dll",
 "sqlse20.dll",
+"srv.sys",
 "srvsvc.dll",
 "stub_fpsrvadm.exe",
 "stub_fpsrvwin.exe",
