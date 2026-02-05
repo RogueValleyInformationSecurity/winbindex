@@ -29,6 +29,11 @@
             "releaseDate": "2004-05-15",
             "releaseVersion": "",
             "title": "Security Update for Microsoft Windows XP (KB828035)"
+        },
+        "KB830786": {
+            "releaseDate": "2004-05-15",
+            "releaseVersion": "",
+            "title": "Critical Update for Windows XP Media Center Edition 2004 (KB830786)"
         }
     }
 }

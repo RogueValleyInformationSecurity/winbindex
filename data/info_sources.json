@@ -1,6 +1,76 @@
 {
+"bdaplgin.ax": {
+"13b7dc155afe46078e608b837ff8c401c958a3d9e61c5a92761fc1b3c8371793": "pe"
+},
+"custom.dll": {
+"dac5f625ea3402dab40bc63b9411314d6a72a17b43e35d00a2440c95fca0b7ef": "pe"
+},
+"ehcir.dll": {
+"0108248579f804da028f8dfcdbfec82566dd5f468e33a1a19abd87ffe3696ab8": "pe"
+},
+"ehcircl.dll": {
+"8ef0ff419a5b72b6d0b46f92e1cbf1b04d03b05ae2fd61380ab4c89d1411cc58": "pe"
+},
+"ehcm.dll": {
+"698bd34f18bf4369a372372e274c3a4fe9f2b6c830b21cb3b60186147fbc8a0f": "pe"
+},
+"ehcommon.dll": {
+"a1a67a324efd63c59639c510145c130803e3cd174634a2f7086ccb1413245cc7": "pe"
+},
+"ehdrop.dll": {
+"2e1de9cba2db5238e3e0ed083714f430fb0015939ef175716ab0e36b0c53d7d0": "pe"
+},
+"ehentt.dll": {
+"ad5b124a981f24bfc6cd58ba72fc0d387cab45ec847757e8e10e681df193d5a8": "pe"
+},
+"ehepg.dll": {
+"90c2508f2a3362455f0fb6aba5b0ea62947f244f6d533d408331fb3a53e33ee7": "pe"
+},
+"ehepgdat.dll": {
+"2ba8e22aa66b4113f487faf297d2faf94ae0a1f0c72b2d77e429e624012df699": "pe"
+},
+"ehglid.dll": {
+"696afb73e6205229fdf1c52383f5b37301014d4b886293f58f0f9f5d69bdb493": "pe"
+},
+"ehiepg.dll": {
+"59beb9a5ce7a55f6ec60273be7c259e3bcd187d55a5412ca6413b139a1f209c0": "pe"
+},
+"ehiproxy.dll": {
+"9b7695f19787b709c7abff475d40562e2a2b4a1a13a151ff70c646f191db3aec": "pe"
+},
+"ehplayer.dll": {
+"cacdff49282c4a96e4cf8142c396878242a689d0cda75476158886522b448864": "pe"
+},
+"ehproxy.dll": {
+"755a251bbcc3b02c9f2c7e943ede45759edf5e161dea470aa834c290a066ade8": "pe"
+},
+"ehrec.exe": {
+"2f82bffebe9291f09408de69e809fe8d87a551590b4a9138ae2c375014538d67": "pe"
+},
+"ehrecobj.dll": {
+"5eb8976c33536dafea076a5d3aeae3accd5f78579863c86f71bfbd756071aab9": "pe"
+},
+"ehreschs.dll": {
+"97e47a3f6e37d553fc696c169110ba45219f737ff79bced41b2ef33831e85c97": "pe"
+},
+"ehsched.exe": {
+"64f731e20fd79c7d00a2b5b5fbd56b7b656bf881ac81dea523a919a4a9a57b6a": "pe"
+},
+"ehshell.exe": {
+"e7956e2a27e7fea7e7310d95fa5300feb9384d6bf4466f01ca1d74d5406bd5eb": "pe"
+},
+"ehtray.exe": {
+"a3e96ca0950bdd8acdb585b742a1ee6feb17d9476a8a36e332398b2db54a258c": "pe"
+},
+"ehui.dll": {
+"2d5e21dab9a6e0a382e7f303bf90b6bb555dbd68b86e92fdddf845eef0a42498": "pe"
+},
+"ehuihlp.dll": {
+"5188abe69b445216f89864ab3ac8e3055c142915a8b1539b95d57de0293a813c": "pe"
+},
 "encdec.dll": {
-"814e1428778c5da3c3670c09ba6bacd3a4a0f9d3fee2b90031b72a4b4d5186f8": "pe"
+"814e1428778c5da3c3670c09ba6bacd3a4a0f9d3fee2b90031b72a4b4d5186f8": "pe",
+"a65d7ac20d94f3281fddf961e566a05fbc533979eb93b7d0ac68ac31aed31146": "pe"
 },
 "hccoin.dll": {
 "8664716c9552cf2ac1c8a7312fd3ed64f693d9bde9ac2d0ec500f215c58e3c3e": "pe"
@@ -17,12 +87,24 @@
 "itircl.dll": {
 "1f3a16d415661f5c96a890ae7846e85901e55b44900f3e8eb817640c48f5924c": "pe"
 },
+"medctrro.exe": {
+"efcacea2fb787603cde989ff7a7e9ca264e52c024609758a775463fbda3c4819": "pe"
+},
+"mpeg2data.ax": {
+"cef8cfa63ef71174b1036fe492b4a81979e6d0bad5dde4901460a72939b13c86": "pe"
+},
 "msconfig.exe": {
 "b542b92b5f0e16f78f4ff86ed29f4edbee3842c5fdc759bf6391e958cc5af314": "pe"
+},
+"msdvbnp.ax": {
+"751b117aabf662fa5389f5dca9366bb4357626c86ec7330985233c8c98953b47": "pe"
 },
 "msgsvc.dll": {
 "3a495374412099ad9f3d9930754e18b733f8261a3ce1dae4621904ee52440170": "pe",
 "ffb18b9ccfd7aafc01a4fa14da6e458461072e8e5d06792ee5d03295ea77c2c1": "pe"
+},
+"msvidctl.dll": {
+"a959f056c6d69aadc74b549504013d5b79780e7cc7d0a71efd4634a9648dfe1e": "pe"
 },
 "pchshell.dll": {
 "ab1bff0b8f7aabb4bcf5b50d51cdf936a663790e39241dab4d92ddcfd45a5b2b": "pe"
@@ -30,7 +112,20 @@
 "pchsvc.dll": {
 "f77d652e727f6e3a433969f84d7987f9eb5a90edfa090cf6895d463224b719cd": "pe"
 },
+"psisdecd.dll": {
+"6f893a32738aa54bbebf0e579272778e10d53da17c86ddd5b65990b872536a23": "pe"
+},
+"psisrndr.ax": {
+"e5b312e08b26c747d546a83f42529371df4482210c54550b012e45a50e9719b2": "pe"
+},
+"qdvd.dll": {
+"47d0e9ec1c38a0f260b1979d062a32ae55ea13e8acdd8d4e3f108e873937d80b": "pe"
+},
+"quartz.dll": {
+"1abb83dce4eaa88016b982bd0e8e74759599c92b0fa34f72a7be57e115a98587": "pe"
+},
 "sbe.dll": {
+"017fba71a9f06d52889562887b1f5fe60ea2fcaf33c7db1fa1090a144163fc07": "pe",
 "e62c5771b00291dc56ff53efd2592e57a0b3d858b7200b84fc2a42a075565d26": "pe"
 },
 "shell32.dll": {
@@ -46,6 +141,7 @@
 "spmsg.dll": {
 "1b6e9ba1ad9f58e4543a9d4df8b61c26e245cc60dc18fc27565d0f401c36a20f": "pe",
 "3ac0b6f3d9c8515974b9791c719235fa484afadbc47e71c6e48f987b4086ae99": "pe",
+"4870c36bbb2f1ce9274ed9961dacf522b14acc0953f6bafacf41974c78a65ef0": "pe",
 "4c81e226960f58a25169b435b6bfdb8ba7771bf6f7fcebdacb997b764412d1b5": "pe",
 "5fff54d8768a758d3eea07a7f5003761809188aa97108173f1d4e193504bd154": "pe"
 },
@@ -53,10 +149,24 @@
 "120e7fe9f713ff8e4a351320b85962c7513c5b366f79c426ff7740ab60394631": "pe",
 "2afcb205fc59c0095bea1717b92775d3a7edc42c0a533eaf03b639de820c91a1": "pe",
 "83f420e8342b1c716d960b2f9cb22d2258036763b645162a76a1d198b533d559": "pe",
+"d1159ef160c7e844dbc3d32a9263d62896f46fa4bc56588ef4d64d043c831f25": "pe",
 "fe03d5b8b2c92c8591f41c711059f5aa2d6537a1ffd09eabd89317664063758b": "pe"
+},
+"spupdsvc.exe": {
+"98c2ad503f4bef76397bc2e75e36b718e23b0bfd1d4286600d8be70d42a6a6ea": "pe"
+},
+"sqldb20.dll": {
+"2e5ba50dbe06a6bab35e190e2b66e1f285652b713fb7f01160f3c216316af5b5": "pe"
+},
+"sqlqp20.dll": {
+"98fe107d5c26a1231c5ef7c56618137b8908eb6ec7d2864c64e0cd6abd0e52fe": "pe"
+},
+"sqlse20.dll": {
+"606e5b682e727c2bc36741a25928e4aa453ddd447f838c0a6d5d2d9d52d2387a": "pe"
 },
 "update.exe": {
 "0f05c9064c2bc6a5ca98af3d34dc48e45fa625084e51b9b194b42d3572e60736": "pe",
+"1c05419f0b79610ac3e4b96f96fa99d826fa94ecdec14683cbd69cc07252ab2b": "pe",
 "4c27702dc9c80ffb01d955f898ad12fb0fc51906c36610a6271f945f8c57051b": "pe",
 "54324800edaeb5c7c295e28c0236f06468da3d3cbc088cfce4ea9012b54a7b62": "pe",
 "b475b58d85921b192a7cc170acc32e782bce2542a766c010f781a5ae15445791": "pe"
@@ -79,12 +189,21 @@
 "usbuhci.sys": {
 "993f5a700b3f9dea4d985cd96169fece346f701b5789dfbc8d433c5be28fb00c": "pe"
 },
+"vbicodec.ax": {
+"c5a9a1d8a91f17809390139e6317b024f49924550eea989f2912d7bd9df0c06c": "pe"
+},
 "verifmce.dll": {
 "592ba889e06ed9d2104a353801ebbe0acb7d4bd93ffb6524413e38571362ef31": "pe"
 },
 "wkssvc.dll": {
 "db413088e4579cffb227fef30c2d2640c7ee970db7f9ff389d2551e042e22ee3": "pe",
 "e052ab5408d6ca62d92d086b0530c66dbcfeee0aa94f86cba8a6c7e0f0af8e9b": "pe"
+},
+"wstpager.ax": {
+"d61bfcf9c188f7df63c2f08bd07a8a2c85af75b1e6de44832f498d4b502d2941": "pe"
+},
+"wstrenderer.ax": {
+"6411756515e8530a6f8246e8df9537f4b20fb60535442db1ffa074d573e25337": "pe"
 },
 "xpsp1hfm.exe": {
 "112f6d0475c10cac03ab8e9c8f0bdd16ac41d456527d665f0bd248c5986746d3": "pe",
