@@ -74,6 +74,11 @@
             "releaseDate": "2004-07-26",
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB839643)"
+        },
+        "KB885884": {
+            "releaseDate": "2004-11-11",
+            "releaseVersion": "",
+            "title": "Critical Update for Office XP on Windows XP Service Pack 2 (KB885884)"
         }
     }
 }
