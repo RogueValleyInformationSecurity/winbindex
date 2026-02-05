@@ -2,6 +2,9 @@
 "encdec.dll": {
 "814e1428778c5da3c3670c09ba6bacd3a4a0f9d3fee2b90031b72a4b4d5186f8": "pe"
 },
+"hccoin.dll": {
+"8664716c9552cf2ac1c8a7312fd3ed64f693d9bde9ac2d0ec500f215c58e3c3e": "pe"
+},
 "helpctr.exe": {
 "b07edfb4b553e20ad45b809544ed5432df736e81c9fe9c66ef97681a82b7adff": "pe"
 },
@@ -45,6 +48,24 @@
 "0f05c9064c2bc6a5ca98af3d34dc48e45fa625084e51b9b194b42d3572e60736": "pe",
 "4c27702dc9c80ffb01d955f898ad12fb0fc51906c36610a6271f945f8c57051b": "pe",
 "54324800edaeb5c7c295e28c0236f06468da3d3cbc088cfce4ea9012b54a7b62": "pe"
+},
+"usbccgp.sys": {
+"296b743236921f7028746fdd11ba74868de40c04752752898fe30af61288b871": "pe"
+},
+"usbehci.sys": {
+"1ca12798c7a58e94fd91663249b75cc33239b243b372c44f2b58c3f093bd937d": "pe"
+},
+"usbhub.sys": {
+"cc921a4ae6b7d0ba079bab8e2374645609eec7b4ed970932520dc7125ab7f49e": "pe"
+},
+"usbohci.sys": {
+"77018fb4ba19d4f2abeac3128672c10da5042e1d83fc40c95c94d7a207bccb12": "pe"
+},
+"usbport.sys": {
+"19ca9dfce854f98e3fe8077d570916c4a6690eaa3de3023282026590a7bceb80": "pe"
+},
+"usbuhci.sys": {
+"993f5a700b3f9dea4d985cd96169fece346f701b5789dfbc8d433c5be28fb00c": "pe"
 },
 "verifmce.dll": {
 "592ba889e06ed9d2104a353801ebbe0acb7d4bd93ffb6524413e38571362ef31": "pe"

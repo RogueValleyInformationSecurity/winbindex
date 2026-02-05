@@ -1,5 +1,6 @@
 [
 "encdec.dll",
+"hccoin.dll",
 "helpctr.exe",
 "helpsvc.exe",
 "hscupd.exe",
@@ -12,6 +13,12 @@
 "spmsg.dll",
 "spuninst.exe",
 "update.exe",
+"usbccgp.sys",
+"usbehci.sys",
+"usbhub.sys",
+"usbohci.sys",
+"usbport.sys",
+"usbuhci.sys",
 "verifmce.dll",
 "xpsp1hfm.exe"
 ]
