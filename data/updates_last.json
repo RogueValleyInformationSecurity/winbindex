@@ -109,6 +109,11 @@
             "releaseDate": "2004-11-11",
             "releaseVersion": "",
             "title": "Critical Update for Office XP on Windows XP Service Pack 2 (KB885884)"
+        },
+        "KB886185": {
+            "releaseDate": "2004-12-14",
+            "releaseVersion": "",
+            "title": "Critical Update for Windows XP (KB886185)"
         }
     }
 }
