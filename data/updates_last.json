@@ -35,6 +35,11 @@
             "releaseVersion": "",
             "title": "Security Update for Microsoft Windows XP (KB825119)"
         },
+        "KB826939": {
+            "releaseDate": "2004-12-14",
+            "releaseVersion": "",
+            "title": "Update Rollup 1 for Microsoft Windows XP (KB826939)"
+        },
         "KB826942": {
             "releaseDate": "2004-09-20",
             "releaseVersion": "",
