@@ -355,6 +355,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB908519)"
         },
+        "KB912067": {
+            "releaseDate": "2006-01-24",
+            "releaseVersion": "",
+            "title": "Update Rollup for Windows XP Media Center Edition 2005 (KB912067)"
+        },
         "KB912919": {
             "releaseDate": "2006-01-05",
             "releaseVersion": "",
