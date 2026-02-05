@@ -224,6 +224,11 @@
             "releaseDate": "2005-02-08",
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB891781)"
+        },
+        "KB892944": {
+            "releaseDate": "2005-04-12",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB892944)"
         }
     }
 }
