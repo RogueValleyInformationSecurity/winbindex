@@ -124,6 +124,11 @@
             "releaseDate": "2004-12-14",
             "releaseVersion": "",
             "title": "Critical Update for Windows XP (KB886185)"
+        },
+        "KB890175": {
+            "releaseDate": "2005-01-17",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB890175)"
         }
     }
 }
