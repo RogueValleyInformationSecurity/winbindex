@@ -226,6 +226,11 @@
 "fpsrvadm.exe": {
 "dcc567f0ac8fd541f6a3af681884edcaf8548afcf3234da30c76817ca9c0d992": "pe"
 },
+"gdi32.dll": {
+"7c9d4b29a7a18b0bc3c2b37d8bd3758e9508aa4be39655a5154e97982b6c77ee": "pe",
+"b6eedbc744f3627483c65c435e2a1888fbb5b0baad424b41aae54c9e3569d504": "pe",
+"e73b756a004d195dac923a021b89c978dbac7dbac939e4bc349f4baa6273e00d": "pe"
+},
 "hccoin.dll": {
 "8664716c9552cf2ac1c8a7312fd3ed64f693d9bde9ac2d0ec500f215c58e3c3e": "pe"
 },
@@ -290,6 +295,9 @@
 "medctrro.exe": {
 "e18d8bd92b1c82de5344ded85e8466eac03ebdcdad22295e1694427383f96a94": "pe",
 "efcacea2fb787603cde989ff7a7e9ca264e52c024609758a775463fbda3c4819": "pe"
+},
+"mf3216.dll": {
+"ae5ff946a4dcf11b46d9e440a945c0b6c3c30ba58f9e74e82e7430b0c6cfdd3a": "pe"
 },
 "migisma.dll": {
 "bfd98d89be71e165a7a0c4dc727ac063379dface46a8d4f70067f9a5878a9834": "pe"

@@ -349,6 +349,11 @@
             "releaseDate": "2005-11-29",
             "releaseVersion": "",
             "title": "Update Rollup KB908250 for Update Rollup 2 for Microsoft Windows XP Media Center Edition 2005"
+        },
+        "KB912919": {
+            "releaseDate": "2006-01-05",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP x64 Edition (KB912919)"
         }
     }
 }
