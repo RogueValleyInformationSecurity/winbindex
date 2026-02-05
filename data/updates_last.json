@@ -160,6 +160,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB873376)"
         },
+        "KB883921": {
+            "releaseDate": "2006-05-02",
+            "releaseVersion": "",
+            "title": "Update for Windows XP SP2 Serbian-Latin Language Interface Pack (KB883921)"
+        },
         "KB885250": {
             "releaseDate": "2005-04-26",
             "releaseVersion": "",
