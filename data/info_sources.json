@@ -274,6 +274,9 @@
 "netshell.dll": {
 "445ec1bace9cfc9c73d84c5573f7da9c66144a7f3be59f8fb79ab984c499b11b": "pe"
 },
+"ole32.dll": {
+"9b4b14654fa83c3c071ea9eafb785b203be6af757cc89c9e4bc8e04727219f77": "pe"
+},
 "pchshell.dll": {
 "ab1bff0b8f7aabb4bcf5b50d51cdf936a663790e39241dab4d92ddcfd45a5b2b": "pe"
 },

@@ -82,6 +82,7 @@
 "ndisuio.sys",
 "netapi32.dll",
 "netshell.dll",
+"ole32.dll",
 "pchshell.dll",
 "pchsvc.dll",
 "point32.dll",
