@@ -335,6 +335,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB901017)"
         },
+        "KB901190": {
+            "releaseDate": "2006-02-14",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB901190)"
+        },
         "KB904706": {
             "releaseDate": "2005-10-11",
             "releaseVersion": "",
