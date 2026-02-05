@@ -55,6 +55,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB837001)"
         },
+        "KB838358": {
+            "releaseDate": "2004-09-20",
+            "releaseVersion": "",
+            "title": "Critical Update for Windows XP Media Center Edition 2004 (KB838358)"
+        },
         "KB839643": {
             "releaseDate": "2004-07-26",
             "releaseVersion": "",
