@@ -145,6 +145,11 @@
             "releaseVersion": "",
             "title": "Update Rollup 1 for Windows XP Media Center Edition 2005 with HDTV Support (KB873369)"
         },
+        "KB873376": {
+            "releaseDate": "2005-04-12",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB873376)"
+        },
         "KB885626": {
             "releaseDate": "2004-12-14",
             "releaseVersion": "",
