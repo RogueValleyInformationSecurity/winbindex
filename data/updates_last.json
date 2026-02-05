@@ -370,6 +370,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB908519)"
         },
+        "KB908531": {
+            "releaseDate": "2006-04-25",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB908531)"
+        },
         "KB910393": {
             "releaseDate": "2006-03-14",
             "releaseVersion": "",
