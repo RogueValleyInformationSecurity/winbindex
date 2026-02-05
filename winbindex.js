@@ -14,10 +14,11 @@ var globalFunctions = {};
 
         var architecture = getParameterByName('arch');
         var baseDataUrl = 'data';
-        if (architecture === 'arm64' || architecture === 'insider') {
+        if (architecture === 'arm64' || architecture === 'insider' || architecture === 'legacy') {
             var archTitles = {
                 'arm64': 'ARM64',
-                'insider': 'Insider'
+                'insider': 'Insider',
+                'legacy': 'XP/2003'
             };
 
             $('#winbindex-arch').val(architecture).prop('disabled', false);
@@ -816,7 +817,19 @@ var globalFunctions = {};
                 });
             });
 
+            var legacyNames = {
+                'XP': 'Windows XP',
+                'XP-x64': 'Windows XP x64',
+                '2003': 'Windows Server 2003',
+                '2003-x64': 'Windows Server 2003 x64',
+                '2003-R2': 'Windows Server 2003 R2'
+            };
+
             items = items.map(function (item) {
+                if (legacyNames[item]) {
+                    return legacyNames[item];
+                }
+
                 var split = item.split('-', 2);
                 if (split.length === 1) {
                     return 'Windows 10 ' + split[0];

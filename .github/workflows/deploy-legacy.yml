@@ -1,0 +1,45 @@
+name: Winbindex Legacy Periodic Update
+
+defaults:
+  run:
+    shell: bash
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '30 8 * * *'
+
+concurrency: winbindex-legacy-periodic-update
+
+jobs:
+  update:
+    runs-on: windows-latest
+    steps:
+      - name: Checkout main
+        uses: actions/checkout@v4
+        with:
+          ref: main
+      - name: Checkout gh-pages-legacy
+        uses: actions/checkout@v4
+        with:
+          ref: gh-pages-legacy
+          path: data/gh-pages
+      - name: Override out_path
+        run: |
+          echo ./gh-pages/data > data/.out_path_override
+      - name: Set up uv
+        uses: astral-sh/setup-uv@v5
+      - name: Install Windows dependencies
+        run: |
+          choco install -y aria2
+      - name: Set up Git config
+        run: |
+          git config --global user.email "69083578+winbindex-deploy-bot@users.noreply.github.com"
+          git config --global user.name "winbindex-deploy-bot"
+
+          # Make sure git clean doesn't fail on long paths.
+          git config --global core.longpaths true
+      - name: Run legacy periodic update
+        run: |
+          cd data
+          uv run --script deploy_legacy.py
