@@ -260,6 +260,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB893086)"
         },
+        "KB893756": {
+            "releaseDate": "2005-09-13",
+            "releaseVersion": "",
+            "title": "XPD Beta of Security Update for Windows XP (KB893756)"
+        },
         "KB894391": {
             "releaseDate": "2005-08-09",
             "releaseVersion": "",
