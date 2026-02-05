@@ -1,6 +1,21 @@
 {
+"admin.dll": {
+"085a80062185d4f3b3d841be60289b1b47c3a0f21088147893588d93690aa080": "pe"
+},
+"admin.exe": {
+"fff5c26679c2d6e2d7ace6090a688d3fb611601b665ca28ca108543d42c33834": "pe"
+},
+"author.dll": {
+"c99af7830e7285dc2372e0676cf227983cc54cf30187afacbfea2c40c1368dbf": "pe"
+},
+"author.exe": {
+"fff5c26679c2d6e2d7ace6090a688d3fb611601b665ca28ca108543d42c33834": "pe"
+},
 "bdaplgin.ax": {
 "13b7dc155afe46078e608b837ff8c401c958a3d9e61c5a92761fc1b3c8371793": "pe"
+},
+"cfgwiz.exe": {
+"f96da4655de00e88ebda7d5c106c085489f76a99334233a782d21632d4678256": "pe"
 },
 "clbcatq.dll": {
 "ea77ea96292dd3a22e74ae6fb1a49378e1280c6e27dd57a8a63d58555805433d": "pe"
@@ -95,6 +110,66 @@
 "expsrv.dll": {
 "725be7e6e48f1b6c28604f4c58fb5913f8f2fa4dab50de3f73b1b7206bc59743": "pe"
 },
+"fp4amsft.dll": {
+"c67c30d7e919b915d1095fa7a437d57c3db2551ad6a750a86a5c97f2ef156b4f": "pe"
+},
+"fp4anscp.dll": {
+"9d0652ff11a54bd6d5984331195f9d78308752de0be993334b9d73630ad69b88": "pe"
+},
+"fp4apws.dll": {
+"6252dbd91de9f427a9345b0fbe3d20730a976de24cf9241ee715ee17fee27b39": "pe"
+},
+"fp4areg.dll": {
+"0d997b1abeaa95924138b6d19bc26749a2ff45f0bcad1ec4f0a67c200e6561be": "pe"
+},
+"fp4atxt.dll": {
+"bd5bc4c5ce5f0c567e5b563f611b1513997f17cc8d8a9910d655944d8c20cf70": "pe"
+},
+"fp4autl.dll": {
+"f7ea7ddcc5db389941f059d08f19671372692c716bf473c3eaeb334e1cf24008": "pe"
+},
+"fp4avnb.dll": {
+"b684f8a2873e2cc0129d95f18e8146c0ef3c3e62fe918286014ed9e724d1a887": "pe"
+},
+"fp4avss.dll": {
+"57080ea0c7a0bde0d74d53a176a3436c1a666513fadf05e9ef3f02cb17df1f2e": "pe"
+},
+"fp4awebs.dll": {
+"9083b7065caf4be12f94a3e6ac458b5d56a41ce734e77af988641cf83b0fa789": "pe"
+},
+"fp4awel.dll": {
+"17bea42e85d03ff3b735bc6ac15551651cfa72125697924d39d1053f4e8fd68f": "pe"
+},
+"fp98sadm.exe": {
+"26b1f8d2ef0a660cbd08f1d43ca29f379dd502314a946765125224aa9bfeb1cb": "pe"
+},
+"fp98swin.exe": {
+"9556ccdc1f03ac1e93bc11f8effb6c799ba9a2f5944cdea69633099e92e5b759": "pe"
+},
+"fpadmcgi.exe": {
+"0b62ae9995070edbe94a13f3373b53930c04c78751d32d8f2c34cc01c0c46ffb": "pe"
+},
+"fpadmdll.dll": {
+"b5ab7e30996d429a39102a0e8a6cca0c6e4566c567fed76abfdc4948ad78893f": "pe"
+},
+"fpcount.exe": {
+"1f64b2ab824dfe18919ef6ea43a231fbe3452112c7768295eb59a073d21e7094": "pe"
+},
+"fpencode.dll": {
+"456ea8a7d0a4f5428b9e91f03764432d820b4e24291d2c32004788b895242133": "pe"
+},
+"fpexedll.dll": {
+"510f2138675bcb1f980a92acbef36861d914d417be5d134ac6633e7dd1139a1f": "pe"
+},
+"fpmmc.dll": {
+"456672c3ccea3d41b6d26168e729dc309f4476c1ca694f76a265639ce7e1a517": "pe"
+},
+"fpremadm.exe": {
+"b812ae66a4763e65ec09ee289d0db5a5e011cf10cbe88f7b7ea17f264bdd56fc": "pe"
+},
+"fpsrvadm.exe": {
+"dcc567f0ac8fd541f6a3af681884edcaf8548afcf3234da30c76817ca9c0d992": "pe"
+},
 "hccoin.dll": {
 "8664716c9552cf2ac1c8a7312fd3ed64f693d9bde9ac2d0ec500f215c58e3c3e": "pe"
 },
@@ -176,6 +251,12 @@
 "5b5a0d68e0828a71702f0dd06a2394f81d63ccaa42182972fb2b028a84bf7773": "pe",
 "88578f914b8108018d828432b30cd7a38e36642c991203255702d041b639aa53": "pe"
 },
+"shtml.dll": {
+"95bc72139c4d27eafd0afc871138ad96d590a85c419794284c5406d199ddd34f": "pe"
+},
+"shtml.exe": {
+"6ac85c8e202da106415b592c89a453f452d8f2ea858bc99cf3b647c9ea948342": "pe"
+},
 "spcustom.dll": {
 "035aced97cbfe54660292b5fb09f33da8c691f49c68a3cb0c9147587b7918b69": "pe",
 "483013a0b7c5dc7680c00ba0a169794f937a72aec1d4b779bc3befcec736ed16": "pe",
@@ -214,6 +295,15 @@
 },
 "sqlse20.dll": {
 "606e5b682e727c2bc36741a25928e4aa453ddd447f838c0a6d5d2d9d52d2387a": "pe"
+},
+"stub_fpsrvadm.exe": {
+"bce597757872f02ee5ea3a070d80913ec1ceb5bba07ccd21374fc177e0adc263": "pe"
+},
+"stub_fpsrvwin.exe": {
+"dad34abd9d2d47bbe1c60ee02bfad4ad6a33813ee7eb9235374817b5f74e74a2": "pe"
+},
+"tcptest.exe": {
+"077060dddbe3cb1f20204722e1f22fd710a3596cf5ae8b2c09a57d9d744325f8": "pe"
 },
 "type32.dll": {
 "eef42c1b1702a35a948a2126b7e4c5e081e8846dd837fc372ac8bc3e27badcc0": "pe"
