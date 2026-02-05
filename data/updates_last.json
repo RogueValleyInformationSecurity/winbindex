@@ -324,6 +324,11 @@
             "releaseDate": "2005-10-11",
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB901017)"
+        },
+        "KB904706": {
+            "releaseDate": "2005-10-11",
+            "releaseVersion": "",
+            "title": "Security Update for DirectX 9 for Windows XP (KB904706)"
         }
     }
 }
