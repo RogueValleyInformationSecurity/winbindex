@@ -200,6 +200,11 @@
             "releaseVersion": "",
             "title": "Critical Update for Windows XP (KB886185)"
         },
+        "KB886540": {
+            "releaseDate": "2006-05-09",
+            "releaseVersion": "",
+            "title": "Media Pack for Windows XP Home Edition N and Windows XP Professional N (KB886540)"
+        },
         "KB886677": {
             "releaseDate": "2005-02-24",
             "releaseVersion": "",
