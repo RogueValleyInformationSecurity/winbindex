@@ -49,6 +49,11 @@
             "releaseDate": "2004-07-23",
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB837001)"
+        },
+        "KB839643": {
+            "releaseDate": "2004-07-26",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB839643)"
         }
     }
 }
