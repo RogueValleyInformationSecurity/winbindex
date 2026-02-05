@@ -105,6 +105,7 @@
 "ndis.sys",
 "ndisuio.sys",
 "netapi32.dll",
+"netman.dll",
 "netshell.dll",
 "ntkrnlpa.exe",
 "ole32.dll",
