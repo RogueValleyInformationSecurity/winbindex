@@ -360,6 +360,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB908519)"
         },
+        "KB911927": {
+            "releaseDate": "2006-02-14",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB911927)"
+        },
         "KB912067": {
             "releaseDate": "2006-01-24",
             "releaseVersion": "",
