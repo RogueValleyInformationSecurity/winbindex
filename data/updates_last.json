@@ -20,6 +20,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP x64 Edition (KB2360937)"
         },
+        "KB2387149": {
+            "releaseDate": "2010-10-12",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP x64 Edition (KB2387149)"
+        },
         "KB2518295": {
             "releaseDate": "2011-06-14",
             "releaseVersion": "",
