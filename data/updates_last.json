@@ -5126,6 +5126,11 @@
             "releaseVersion": "",
             "title": "Security Update for Internet Explorer 6 for WEPOS and POSReady 2009 (KB3087985)"
         },
+        "KB3092601": {
+            "releaseDate": "2015-11-10",
+            "releaseVersion": "",
+            "title": "Security Update for WEPOS and POSReady 2009 (KB3092601)"
+        },
         "KB3093983": {
             "releaseDate": "2015-10-13",
             "releaseVersion": "",
