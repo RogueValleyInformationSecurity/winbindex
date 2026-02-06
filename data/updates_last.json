@@ -5148,6 +5148,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB975025)"
         },
+        "KB975254": {
+            "releaseDate": "2009-10-13",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB975254)"
+        },
         "KB978338": {
             "releaseDate": "2010-04-13",
             "releaseVersion": "",
