@@ -229,6 +229,7 @@
 "rpcrt4.dll",
 "rtffilt.dll",
 "sbe.dll",
+"schannel.dll",
 "schedsvc.dll",
 "searchfilterhost.exe",
 "searchindexer.exe",
