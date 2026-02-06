@@ -2764,6 +2764,11 @@
             "releaseVersion": "",
             "title": "Security Update for Microsoft .NET Framework 2.0 SP2 on Windows Server 2003 for x64-based Systems (KB3035488)"
         },
+        "KB3037577": {
+            "releaseDate": "2015-04-14",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 2.0 SP2 on Windows Server 2003 (KB3037577)"
+        },
         "KB3037578": {
             "releaseDate": "2015-04-14",
             "releaseVersion": "",
