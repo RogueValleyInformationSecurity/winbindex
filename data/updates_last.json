@@ -5816,6 +5816,11 @@
             "releaseVersion": "",
             "title": "2018-01 Security Only Update for .NET Framework 3.0 on WES09 and POSReady 2009 (KB4055229)"
         },
+        "KB4056564": {
+            "releaseDate": "2018-05-08",
+            "releaseVersion": "",
+            "title": "2018-05 Security Update for WES09 and POSReady 2009 for x86-based Systems (KB4056564)"
+        },
         "KB4056615": {
             "releaseDate": "2018-01-05",
             "releaseVersion": "",
