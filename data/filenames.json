@@ -181,6 +181,7 @@
 "rhttpaa.dll",
 "riched20.dll",
 "rmcast.sys",
+"rpcrt4.dll",
 "sbe.dll",
 "schedsvc.dll",
 "setup_wm.exe",

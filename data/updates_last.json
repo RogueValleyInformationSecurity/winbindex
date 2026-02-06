@@ -705,6 +705,11 @@
             "releaseVersion": "",
             "title": "Update for Windows XP (KB933360)"
         },
+        "KB933729": {
+            "releaseDate": "2007-10-09",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB933729)"
+        },
         "KB935448": {
             "releaseDate": "2007-04-24",
             "releaseVersion": "",
