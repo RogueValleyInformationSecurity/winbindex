@@ -340,6 +340,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP x64 Edition (KB2535512)"
         },
+        "KB2536276": {
+            "releaseDate": "2011-08-09",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP x64 Edition (KB2536276)"
+        },
         "KB2541763": {
             "releaseDate": "2011-06-28",
             "releaseVersion": "",
