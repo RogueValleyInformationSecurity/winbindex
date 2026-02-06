@@ -30,6 +30,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows Server 2003 (KB2647170)"
         },
+        "KB2661254": {
+            "releaseDate": "2012-10-09",
+            "releaseVersion": "",
+            "title": "Update for Windows Server 2003 (KB2661254)"
+        },
         "KB2718704": {
             "releaseDate": "2012-08-29",
             "releaseVersion": "",
