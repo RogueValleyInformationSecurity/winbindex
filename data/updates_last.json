@@ -2509,6 +2509,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB951748)"
         },
+        "KB952004": {
+            "releaseDate": "2009-04-14",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB952004)"
+        },
         "KB952068": {
             "releaseDate": "2008-12-09",
             "releaseVersion": "",
