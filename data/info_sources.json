@@ -2967,9 +2967,11 @@
 "fe1c1efe28527db58a3a76c2e2550aab1839a5d1f109e5997ecdc8ec21ef100d": "pe"
 },
 "oleacc.dll": {
-"3acf2110d72509cba3bf780c5d6d662bafeea6ca423be8b0f97288b953127035": "pe"
+"3acf2110d72509cba3bf780c5d6d662bafeea6ca423be8b0f97288b953127035": "pe",
+"4c042da2d2619af968ee45d15a61ed613e137eb1ce225c09430b079fdea067e2": "pe"
 },
 "oleaccrc.dll": {
+"536863c2ff0a76ae82de66b78f946fa3ab347ad4363b1c8023bfb7099c772ce2": "pe",
 "9b2ba2f5c745a8a0db8999b743db95784ae255cc3ba4679ea76e5649a173ec39": "pe"
 },
 "oleaut32.dll": {
@@ -3964,6 +3966,7 @@
 "f8199f92f3e20f384466043a438ede7ac6c5e8df7a86eff98de93622718352f7": "pe"
 },
 "uiautomationcore.dll": {
+"1e1247a6b9143714c42bdb9a5e4355e118dc3ac3ff30251d83ea1d21cc3c2926": "pe",
 "6c6cefa55444f575a4d9ade8979f343e781409a9d5a82f2e536c67f51f2744cc": "pe"
 },
 "umandlg.dll": {
@@ -4681,6 +4684,15 @@
 },
 "wordwheel.dll": {
 "06f7a0132b8f337d2a0e1c17ab883ffb0c761e42ba5697e007ad8de10f735712": "pe"
+},
+"wow_oleacc.dll": {
+"245e2b9a9a74a92f799be7289b34553ec62d57525d84c0bf647fe9899fde8071": "pe"
+},
+"wow_oleaccrc.dll": {
+"3eb55b8542c4f8cdd0eb42b70bd1cf804a89cba4036565f0e522b14bd1de2c96": "pe"
+},
+"wow_uiautomationcore.dll": {
+"350addc6f61ef2184e421719f0b2e8a66d299ed2a9b9147a16b53e2444794d7f": "pe"
 },
 "wrasmans.dll": {
 "2bb9af47c53967f848eea1dd137eaf6a7d6c26659ab82fec063c6df79a8090e4": "pe",
