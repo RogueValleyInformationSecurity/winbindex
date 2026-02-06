@@ -1170,6 +1170,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows Media Format Runtime 9, 9.5 & 11 for Windows XP SP 2 (KB968816)"
         },
+        "KB968930": {
+            "releaseDate": "2010-06-22",
+            "releaseVersion": "",
+            "title": "Windows PowerShell 2.0 and WinRM 2.0 for Windows XP and Windows Embedded (KB968930)"
+        },
         "KB969059": {
             "releaseDate": "2009-10-13",
             "releaseVersion": "",

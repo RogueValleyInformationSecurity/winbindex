@@ -198,6 +198,9 @@
 "d906791f0af42d955f841b130cc8dbafa1a9897e1290a8105b78ecf1e9e95320": "pe",
 "fb9459250100ad48f19eca560cf96854e387d934e9fae52296aa3b11c2144c93": "pe"
 },
+"compiledcomposition.microsoft.powershell.gpowershell.dll": {
+"fe2e64d6521876ef3f7974a2470ac12d644bc0d20a19e7ee1f3fb1c51fa81376": "pe"
+},
 "corperfmonext.dll": {
 "f5fa034b91dacb9c049a8533fd1bd3e7c660b69c362b78d716d3bd9a58b8258e": "pe"
 },
@@ -982,11 +985,77 @@
 "74c4e64bef4f2aea4209d41924b3bfb4a9de1e203a0eab166d3375b7892f9abd": "pe",
 "79376e0dc19fb66a41691be2bdacba81f3e1a39b67f1a5aed4ba843d3449cce8": "pe"
 },
+"microsoft.backgroundintelligenttransfer.management.dll": {
+"85172354f686e662ee8aaac335b879df18a1a2edf73629a0fda796e761d311b2": "pe"
+},
+"microsoft.backgroundintelligenttransfer.management.interop.dll": {
+"b0ebf8ce418c8ee2414d0c3d3bbc00e9f67c56c20d77b02878b190ad1fddf781": "pe"
+},
+"microsoft.backgroundintelligenttransfer.management.resources.dll": {
+"d406713f325361d627b53246a00b5bd163113ef374bdfc8dfb74692277993fa3": "pe"
+},
 "microsoft.jscript.dll": {
 "2bcb32ca55eca0ead88fb3fbba5eb585b54b87034b5700d3731811fc32eaa953": "pe"
 },
+"microsoft.powershell.commands.diagnostics.dll": {
+"02837ac440f6ce438392fedd6577759da93860b0d650eaa71862af0c619ad3eb": "pe"
+},
+"microsoft.powershell.commands.diagnostics.resources.dll": {
+"31a40509e3c27a056fc9e9b79ad8c94627851d6ecb10b4e0f7664b7048774010": "pe"
+},
+"microsoft.powershell.commands.management.dll": {
+"9ebcad5b05b51ea7caaa5f3ae09b4452b5247f31a52fcefede55e9254fc80920": "pe"
+},
+"microsoft.powershell.commands.management.resources.dll": {
+"8a5693bceabdb321301a7aa31e3f888a6aeda66a1fa0b87f4036fcdd74743b18": "pe"
+},
+"microsoft.powershell.commands.utility.dll": {
+"2215ac7ff0106847e4a5facbd03c632dea55b70e789c16dcb8bc5397b92f962f": "pe"
+},
+"microsoft.powershell.commands.utility.resources.dll": {
+"e620acbef486c708b07dee04d689c1ebe64901e1bdc095b816b9d6da72877953": "pe"
+},
+"microsoft.powershell.consolehost.dll": {
+"758e52ef75414a0beaa38e84219ec1a56d0e9687e7c51bd7f6b0466e4385a406": "pe"
+},
+"microsoft.powershell.consolehost.resources.dll": {
+"25e388a679a45644c08d1a52afbd1ec6d2a12f299b5e6ef6fd8af5a631e76d42": "pe"
+},
+"microsoft.powershell.editor.dll": {
+"06b1bd1436e17b13b25e74c12bd30dfd3c1d34f3b6a5c301768f73c2933b8b03": "pe"
+},
+"microsoft.powershell.editor.resources.dll": {
+"69a363e59ea75557baeb4bed6b5c57c95a62cb46b89312507b1f9fa6c1bfcc07": "pe"
+},
+"microsoft.powershell.gpowershell.dll": {
+"badffeb395c69b6782718e343cedbf3384ae58304f4d6a25789057606ecc548c": "pe"
+},
+"microsoft.powershell.gpowershell.resources.dll": {
+"447df0b8154174851ea4be923382e225c556d78c0d6180c2e145edfa766ee4be": "pe"
+},
+"microsoft.powershell.graphicalhost.dll": {
+"d7edb57513b861e8a9eb0824c618ca09dc49f3bbd37bc0d61cfe0cb7232dd025": "pe"
+},
+"microsoft.powershell.graphicalhost.resources.dll": {
+"6751cf57d6ca3a35b67f6258958e66d223130bc306c1179618e22483dcd26c30": "pe"
+},
+"microsoft.powershell.security.dll": {
+"f520669633da945cd7ec1c7441a23e83cc44e390d12dc060ecc4180a96f452e2": "pe"
+},
+"microsoft.powershell.security.resources.dll": {
+"cd4f638356125bc2cf21d511801c8b3d1d24e4cfe02fc8b0e77787e44114bc48": "pe"
+},
 "microsoft.visualbasic.dll": {
 "6019491f96beb08bb50dac708d0869ca7a7dc6f80dd00bcf008ebb16b80f0d62": "pe"
+},
+"microsoft.wsman.management.dll": {
+"09dd87b07a42d9308782850d4b32d80e4c1ab2d18b0bfba8e0e6f4c8d7eb5600": "pe"
+},
+"microsoft.wsman.management.resources.dll": {
+"206089ea6c4d4de180a813f4073b91982360e533683ee1e86e08d39d3be23e5b": "pe"
+},
+"microsoft.wsman.runtime.dll": {
+"d6759528bdc45bf3be7e27817516db571141d8399fe56e12080b002aa8bd4213": "pe"
 },
 "migisma.dll": {
 "bfd98d89be71e165a7a0c4dc727ac063379dface46a8d4f70067f9a5878a9834": "pe"
@@ -1557,6 +1626,15 @@
 "point32.dll": {
 "8b182584cf3a92542ac487ab568d643dfab7b71b59ae06cc905db67dbd505813": "pe"
 },
+"powershell.exe": {
+"bfdfe5bdc4f1a1f364dc2ef56c307c9e81967ce1bcb8a42034fa9f66a105d45b": "pe"
+},
+"powershell_ise.exe": {
+"4f5b24117cdadb819638d0a4473b3cf8a5b9aa0e6e2e5d27aa09ecb9396564d2": "pe"
+},
+"powershell_ise.resources.dll": {
+"5dd4204149f662b95ec886376ae3b5197f8c6186f5764bf7da246a4dd87cd4f8": "pe"
+},
 "preinstall.exe": {
 "07322fdbebe6e3c32c7af17c11e4402c606c9bf7824b8fb87c3bb063bf385c53": "pe"
 },
@@ -1565,6 +1643,9 @@
 },
 "propsys.dll": {
 "57914a49a65a8fd7c7706be78fb0f87b4c7eeb352836e28086078d07b79848af": "pe"
+},
+"pscustomsetuputil.exe": {
+"51778ab381991cfa99cf32750fd2594051e7b13bf789d9cc1f282a59aa395275": "pe"
 },
 "psisdecd.dll": {
 "6c297176eaf151e93eaecc7514bca2806c6e5677622f3718adc7cf30683112f0": "pe",
@@ -1575,6 +1656,21 @@
 "90536c0df2915d9890020a73c07ae2b663352b6a29cb6bad1700c39fe360a165": "pe",
 "e5b312e08b26c747d546a83f42529371df4482210c54550b012e45a50e9719b2": "pe",
 "f919895b11fb2d845ef3bf7932da45c8379a0351f1009f2dfab4ad800a5c357d": "pe"
+},
+"pspluginwkr.dll": {
+"eb09bfb218d1e17342439b33f1d477860e152cd9bc6a5b418950fa5edd45e7ea": "pe"
+},
+"pssetupnativeutils.exe": {
+"82546ed7b2f2748a82bc78ceac98243d7fcf5d437114478f1e3e6e00f65b73c0": "pe"
+},
+"pwrshmsg.dll": {
+"c8e7c2a357b2b909b40cb0ed29e98d6b418897571557f8f8b1882db941304ef4": "pe"
+},
+"pwrshplugin.dll": {
+"a42e9dcffb5933b033d05ba1207aa63b48245b5bedc870db484072e00b56ab47": "pe"
+},
+"pwrshsip.dll": {
+"6281ec7671da42a5799c2b6dfef587dccd156e357a32fd701bc49d1d8761f057": "pe"
 },
 "pxdrv.dll": {
 "fef814fd60419e93c879b55775885cef0b58808adb63da4fa96766b02f2b0093": "pe"
@@ -1750,7 +1846,8 @@
 "b87c2a6545ea66bc823a7e7c88514948d8d63583dc2ac2218dc4ec3e7f04a6c3": "pe",
 "c9f42a44c8dac287698f6a780d88caf72f2781614191d0b985726137302f013b": "pe",
 "d4dacd3af5d9eb8b83b462afc3b77a2105c9e86c87d6505bee7e8b25dab348cc": "pe",
-"ddd307a9b505fbb3f838a0d9d724e4b6e6021db8c4540359551806e3f79a88db": "pe"
+"ddd307a9b505fbb3f838a0d9d724e4b6e6021db8c4540359551806e3f79a88db": "pe",
+"f8037abc86401a1d945c44334c5ee850dd88bef3807accd06e83d7794534a2a4": "pe"
 },
 "spdwnwxp.exe": {
 "b95d6e9393323b580ae01158504c0ffbf631f827aba74c33409942b68c184462": "pe"
@@ -1914,6 +2011,12 @@
 },
 "system.enterpriseservices.thunk.dll": {
 "e0abaeacb5b5aeec0fd43f9a739a1eaa29b59366a426eb1ef32c1b1acda2980f": "pe"
+},
+"system.management.automation.dll": {
+"51c39b62848d358880cf73c5e0e13ddc4678a383fb03f8a39ea1bd12b2879e75": "pe"
+},
+"system.management.automation.resources.dll": {
+"0718c165d47c8cb9b2e42edc381273694e96e1ad581dfd3d605ccdaf725f15e4": "pe"
 },
 "system.management.dll": {
 "8a68ff8db4fb3bec4c8ad1ef9aaf84ac97a6a92e887bbb86e778ef1739649f03": "pe"
@@ -2257,6 +2360,9 @@
 "a86990642fabbd4a4b7c8d1723cad0ed2f6ba76753866c6b06c20062e65e8ab2": "pe",
 "ca6c3c482c2535082b4982176db92ab706b39307ac2603e07156e17512ab6b29": "pe"
 },
+"wevtfwd.dll": {
+"934db885123d173854be891b5f766c168e9eee9451cd5169f673e0c0c7fcee2e": "pe"
+},
 "wiaservc.dll": {
 "3d95cd8cde398718c9cbf154725d35bd2bdf2f5d23e01a710d0aa777f9a17fb6": "pe",
 "5e199091f10373451623855dd2a4ed625e062545dbac20dde80c0e3e3ce271da": "pe"
@@ -2308,6 +2414,24 @@
 },
 "winntbbu.dll": {
 "3768435ed056c1e22392e7d644c24038ea4fa2a9b5c219b90f37b7e58e6c60e3": "pe"
+},
+"winrmprov.dll": {
+"72b144db80e0164784de5e0a1f1c5047e530384c45b8d0c00db5e04933833c65": "pe"
+},
+"winrs.exe": {
+"8d045b035a550353a3aebcd44f0fbe84601570a5f290ee79e4ace7c34a37bea3": "pe"
+},
+"winrscmd.dll": {
+"9f7218ceb2710f07c57561b71101844b7c385b322337a558de54a95282c632b1": "pe"
+},
+"winrshost.exe": {
+"3dc8d0d277bde6cdda0692f81983cfa4cb15a737d4d331fb7c3c177b12c6a44e": "pe"
+},
+"winrsmgr.dll": {
+"3ed501dc5c6454a2ab5da17bb77c8a696a9a52b744d3e48de73ca27b1183f4ce": "pe"
+},
+"winrssrv.dll": {
+"f65444aebf3fecfb8e7fd10dda2e485a944ebf5899885368a4ac426abfb95384": "pe"
 },
 "winsrv.dll": {
 "a7eeca58adaf0ede772c2b404bdb9f4ee9d19caa5384e41ebf0cce885a1f8594": "pe",
@@ -2446,6 +2570,27 @@
 },
 "wshom.ocx": {
 "b1c4103d2b594194cd9238587990d2a06eb4df199208fc99d50066639ca89d43": "pe"
+},
+"wsmanhttpconfig.exe": {
+"e353e51260b28223683c6e73a5af50b0e0be7191941c6017701d92f34da525ca": "pe"
+},
+"wsmauto.dll": {
+"a961c868509e7e37b0c41ddf972b894bda4adfffa660197f0b860268cf40fcce": "pe"
+},
+"wsmplpxy.dll": {
+"27120e8363db777147463db138d5cddfea05eb890f9898580b0bc5b9fa2662c2": "pe"
+},
+"wsmprovhost.exe": {
+"4321bf1d14af44165e9c18accb0fa465afdd1cdcd5a3cf0be16ea690d14ad20a": "pe"
+},
+"wsmres.dll": {
+"f2ea8209b3996df80707154321ac35a417dab9774a769b152ce630b9185cd2a1": "pe"
+},
+"wsmsvc.dll": {
+"d1ad972d438a51a4998fef68670395dae3353240ad2a17f35794287af0826ffb": "pe"
+},
+"wsmwmipl.dll": {
+"1d7ca7d7fec0616c148ee1313f636d38ce46fe91a38da5d7dc8f4c501ce540db": "pe"
 },
 "wss_spcustom.dll": {
 "9006506689f9531000edf52abedbd45ecbb85258511b9ee220856565d283ce51": "pe"
