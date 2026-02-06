@@ -322,6 +322,7 @@
 "msvidctl.dll",
 "msw3prt.dll",
 "mswebdvd.dll",
+"mswsock.dll",
 "msxml3.dll",
 "msxml6.dll",
 "mtxclu.dll",
