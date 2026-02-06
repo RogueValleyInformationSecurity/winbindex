@@ -3137,6 +3137,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP x64 Edition (KB2884256)"
         },
+        "KB2900986": {
+            "releaseDate": "2013-11-12",
+            "releaseVersion": "",
+            "title": "Cumulative Security Update for ActiveX Killbits for Windows XP (KB2900986)"
+        },
         "KB896424": {
             "releaseDate": "2005-11-08",
             "releaseVersion": "",
