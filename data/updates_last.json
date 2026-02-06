@@ -415,6 +415,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB2570947)"
         },
+        "KB2572066": {
+            "releaseDate": "2011-10-11",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 1.0 SP3 on Windows XP Tablet PC and Media Center (KB2572066)"
+        },
         "KB328940": {
             "releaseDate": "2004-05-15",
             "releaseVersion": "",
