@@ -4473,6 +4473,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP x64 Edition (KB896358)"
         },
+        "KB896422": {
+            "releaseDate": "2005-09-13",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP x64 Edition (KB896422)"
+        },
         "KB896424": {
             "releaseDate": "2005-11-08",
             "releaseVersion": "",
