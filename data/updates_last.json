@@ -1119,6 +1119,11 @@
             "releaseDate": "2010-06-08",
             "releaseVersion": "",
             "title": "Microsoft .NET Framework 3.5 SP1 and .NET Framework 2.0 SP2 Update for Windows Server 2003 and Windows XP for x64-based Systems (KB982167)"
+        },
+        "KB982168": {
+            "releaseDate": "2010-06-08",
+            "releaseVersion": "",
+            "title": "Microsoft .NET Framework 3.5 SP1 Update for Windows Server 2003 and Windows XP for x64-based Systems (KB982168)"
         }
     },
     "2003-R2": {
