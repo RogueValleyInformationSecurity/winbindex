@@ -220,6 +220,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP x64 Edition (KB2624667)"
         },
+        "KB2633952": {
+            "releaseDate": "2011-12-29",
+            "releaseVersion": "",
+            "title": "Update for Windows XP (KB2633952)"
+        },
         "KB2641690": {
             "releaseDate": "2011-11-16",
             "releaseVersion": "",
