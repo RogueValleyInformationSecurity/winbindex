@@ -606,6 +606,13 @@
 "pchsvc.dll": {
 "f77d652e727f6e3a433969f84d7987f9eb5a90edfa090cf6895d463224b719cd": "pe"
 },
+"plactive.resources.dll": {
+"bd36dc6ca219c0860f378951bc3ecdb0c5f990f9d5ad0a3cb33bf4ff6d4e5547": "pe"
+},
+"plupm.dll": {
+"0c2827fdd7c846c42310990b7c9ceb923f885ed10454e1b8c5030b279df88604": "pe",
+"39e16cc683eaa1ad1cc96820f70cc56ea3f914404c8d717e500c69cd0354aa72": "pe"
+},
 "point32.dll": {
 "8b182584cf3a92542ac487ab568d643dfab7b71b59ae06cc905db67dbd505813": "pe"
 },
