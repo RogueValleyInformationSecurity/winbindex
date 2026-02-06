@@ -4773,6 +4773,11 @@
             "releaseVersion": "",
             "title": "Update for Windows XP (KB936357)"
         },
+        "KB940157": {
+            "releaseDate": "2008-07-22",
+            "releaseVersion": "",
+            "title": "Windows Search 4.0 for Windows XP (KB940157)"
+        },
         "KB941202": {
             "releaseDate": "2007-10-09",
             "releaseVersion": "",
