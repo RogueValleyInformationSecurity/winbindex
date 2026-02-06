@@ -70,6 +70,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows Media Encoder 9 Series for Windows XP SP2 x64 Edition and Windows Server 2003 SP2 x64 Edition (KB2447961)"
         },
+        "KB2476687": {
+            "releaseDate": "2011-02-08",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP x64 Edition (KB2476687)"
+        },
         "KB2518295": {
             "releaseDate": "2011-06-14",
             "releaseVersion": "",
