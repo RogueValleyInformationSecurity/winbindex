@@ -3027,6 +3027,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP x64 Edition (KB2834886)"
         },
+        "KB2834902": {
+            "releaseDate": "2013-08-27",
+            "releaseVersion": "",
+            "title": "Security Update for Windows Media Format Runtime 9.5 for Windows XP SP2 and Windows Server 2003 SP2 x64 Edition (KB2834902)"
+        },
         "KB2844285": {
             "releaseDate": "2013-08-13",
             "releaseVersion": "",
