@@ -85,6 +85,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP x64 Edition (KB2387149)"
         },
+        "KB2416447": {
+            "releaseDate": "2010-10-12",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 1.1 SP1 on Windows XP, Windows Server 2003, Windows Vista, and Windows Server 2008 for x64-based Systems (KB2416447)"
+        },
         "KB328940": {
             "releaseDate": "2004-05-15",
             "releaseVersion": "",
