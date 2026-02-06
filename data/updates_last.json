@@ -5491,6 +5491,11 @@
             "releaseVersion": "",
             "title": "April, 2017 Security and Quality Rollup for .NET Framework 2.0 SP2 on WES09 and POSReady 2009 (KB4014580)"
         },
+        "KB4014585": {
+            "releaseDate": "2017-05-31",
+            "releaseVersion": "",
+            "title": "May, 2017 Security and Quality Rollup for .NET Framework 2.0 SP2 on WES09 and POSReady 2009 (KB4014585)"
+        },
         "KB4014605": {
             "releaseDate": "2017-05-30",
             "releaseVersion": "",
