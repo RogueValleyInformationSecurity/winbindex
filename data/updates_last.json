@@ -4911,6 +4911,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows Server 2003 (KB2957503)"
         },
+        "KB2957509": {
+            "releaseDate": "2014-06-10",
+            "releaseVersion": "",
+            "title": "Security Update for Windows Server 2003 x64 Edition (KB2957509)"
+        },
         "KB3197835": {
             "releaseDate": "2017-06-13",
             "releaseVersion": "",
