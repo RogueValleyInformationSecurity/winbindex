@@ -680,6 +680,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows Server 2003 (KB928255)"
         },
+        "KB929123": {
+            "releaseDate": "2007-06-12",
+            "releaseVersion": "",
+            "title": "Cumulative Security Update for Outlook Express for Windows XP x64 Edition (KB929123)"
+        },
         "KB930178": {
             "releaseDate": "2007-04-10",
             "releaseVersion": "",
