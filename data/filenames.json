@@ -168,6 +168,7 @@
 "hidir.sys",
 "hidparse.sys",
 "hlink.dll",
+"hlink.hp.dll",
 "hotfixinstaller.exe",
 "hotfixinstallerui.dll",
 "hscupd.exe",
