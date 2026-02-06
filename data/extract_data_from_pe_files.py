@@ -13,7 +13,7 @@ REUSE_OUTPUT_FILES = False
 def sigcheck_folder(folder: Path, output_file: Path):
     if not REUSE_OUTPUT_FILES or not output_file.is_file():
         with open(output_file, 'w') as f:
-            args = ['tools/sigcheck64_patched.exe', '-accepteula', '-nobanner', '-i', '-h', '-s', folder]
+            args = [R'tools\sigcheck64_patched.exe', '-accepteula', '-nobanner', '-i', '-h', '-s', folder]
             subprocess.run(args, stdout=f, text=True, encoding='utf-16')
 
     with open(output_file, encoding='utf-16') as f:
@@ -111,8 +111,9 @@ def parse_sigcheck(sigcheck_data, folder, path_filter_callback=None):
         if 'MachineType' in item:
             if item['MachineType'] == '43620':
                 item['MachineType'] = 'ARM64'
-            else:
-                assert item['MachineType'] in ['16-bit', '32-bit', '64-bit']
+            elif item['MachineType'] not in ['16-bit', '32-bit', '64-bit']:
+                # Old DOS/NE executables report numeric machine type values.
+                del item['MachineType']
 
         result.append(item)
 

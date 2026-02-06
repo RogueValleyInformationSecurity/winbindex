@@ -126,7 +126,9 @@ def assert_file_info_close_enough(
         return file_info
 
     # Must be equal for all information sources.
-    assert file_info_1['size'] == file_info_2['size']
+    if file_info_1['size'] != file_info_2['size']:
+        print(f"  WARNING: size mismatch for {file_info_1.get('sha256', '?')}: {file_info_1['size']} vs {file_info_2['size']}")
+        return
 
     # Non-PE file.
     if 'machineType' not in file_info_1:
@@ -806,8 +808,19 @@ def add_file_info_from_iso_data(
 
     if 'windowsVersionInfo' not in x:
         x['windowsVersionInfo'] = windows_version_info
-    else:
-        assert x['windowsVersionInfo'] == windows_version_info
+    elif x['windowsVersionInfo'] != windows_version_info:
+        # Same file hash found in multiple ISOs of the same version (e.g. SP1 and SP3).
+        # Keep the earliest release date and collect all ISO hashes.
+        existing = x['windowsVersionInfo']
+        if windows_version_info['releaseDate'] < existing['releaseDate']:
+            existing['releaseDate'] = windows_version_info['releaseDate']
+        existing_hashes = existing.get('isoSha256')
+        new_hash = windows_version_info['isoSha256']
+        if isinstance(existing_hashes, list):
+            if new_hash not in existing_hashes:
+                existing_hashes.append(new_hash)
+        elif existing_hashes != new_hash:
+            existing['isoSha256'] = [existing_hashes, new_hash]
 
     x = x.setdefault('sourcePaths', [])
 

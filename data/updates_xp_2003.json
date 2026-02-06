@@ -2734,6 +2734,106 @@
             "releaseDate": "2017-06-13",
             "releaseVersion": "",
             "title": "Security Update for Windows XP SP2 for x64-based Systems (KB4025218)"
+        },
+        "KB4500331": {
+            "releaseDate": "2019-05-14",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB4500331)"
+        },
+        "KB2794119": {
+            "releaseDate": "2012-12-11",
+            "releaseVersion": "",
+            "title": "Update for Windows XP (KB2794119)"
+        },
+        "KB2935092": {
+            "releaseDate": "2014-03-21",
+            "releaseVersion": "",
+            "title": "Hotfix for Windows XP (KB2935092)"
+        },
+        "KB2849470": {
+            "releaseDate": "2013-08-13",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB2849470)"
+        },
+        "KB2829361": {
+            "releaseDate": "2013-05-14",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB2829361)"
+        },
+        "KB2758694": {
+            "releaseDate": "2012-11-13",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft XML Core Services 4.0 Service Pack 3 (KB2758694)"
+        },
+        "KB2742595": {
+            "releaseDate": "2012-10-09",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2742595)"
+        },
+        "KB2736428": {
+            "releaseDate": "2012-10-09",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2736428)"
+        },
+        "KB2789642": {
+            "releaseDate": "2013-01-08",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2789642)"
+        },
+        "KB2836939": {
+            "releaseDate": "2013-06-11",
+            "releaseVersion": "",
+            "title": "Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2836939)"
+        },
+        "KB2901110": {
+            "releaseDate": "2014-02-11",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2901110)"
+        },
+        "KB2858302": {
+            "releaseDate": "2013-10-08",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2858302)"
+        },
+        "KB2861188": {
+            "releaseDate": "2013-10-08",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2861188)"
+        },
+        "KB2840628": {
+            "releaseDate": "2013-08-13",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2840628)"
+        },
+        "KB2804576": {
+            "releaseDate": "2013-05-14",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2804576)"
+        },
+        "KB2729449": {
+            "releaseDate": "2012-11-13",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2729449)"
+        },
+        "KB2737019": {
+            "releaseDate": "2012-11-13",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2737019)"
+        },
+        "KB2656368": {
+            "releaseDate": "2012-08-29",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2656368)"
+        },
+        "KB2656405": {
+            "releaseDate": "2012-05-08",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2656405)"
+        },
+        "KB2604121": {
+            "releaseDate": "2012-05-08",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2604121)"
         }
     },
     "XP-x64": {
@@ -4651,6 +4751,111 @@
             "releaseDate": "2017-06-13",
             "releaseVersion": "",
             "title": "Security Update for Windows XP SP2 for x64-based Systems (KB4025218)"
+        },
+        "KB4500331": {
+            "releaseDate": "2019-05-14",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB4500331)"
+        },
+        "KB956438": {
+            "releaseDate": "2013-03-12",
+            "releaseVersion": "",
+            "title": "Hotfix for Windows XP x64 Edition (KB956438)"
+        },
+        "KB2794119": {
+            "releaseDate": "2012-12-11",
+            "releaseVersion": "",
+            "title": "Update for Windows XP (KB2794119)"
+        },
+        "KB2935092": {
+            "releaseDate": "2014-03-21",
+            "releaseVersion": "",
+            "title": "Hotfix for Windows XP (KB2935092)"
+        },
+        "KB2849470": {
+            "releaseDate": "2013-08-13",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB2849470)"
+        },
+        "KB2829361": {
+            "releaseDate": "2013-05-14",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB2829361)"
+        },
+        "KB2758694": {
+            "releaseDate": "2012-11-13",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft XML Core Services 4.0 Service Pack 3 (KB2758694)"
+        },
+        "KB2742595": {
+            "releaseDate": "2012-10-09",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2742595)"
+        },
+        "KB2736428": {
+            "releaseDate": "2012-10-09",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2736428)"
+        },
+        "KB2789642": {
+            "releaseDate": "2013-01-08",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2789642)"
+        },
+        "KB2836939": {
+            "releaseDate": "2013-06-11",
+            "releaseVersion": "",
+            "title": "Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2836939)"
+        },
+        "KB2901110": {
+            "releaseDate": "2014-02-11",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2901110)"
+        },
+        "KB2858302": {
+            "releaseDate": "2013-10-08",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2858302)"
+        },
+        "KB2861188": {
+            "releaseDate": "2013-10-08",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2861188)"
+        },
+        "KB2840628": {
+            "releaseDate": "2013-08-13",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2840628)"
+        },
+        "KB2804576": {
+            "releaseDate": "2013-05-14",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2804576)"
+        },
+        "KB2729449": {
+            "releaseDate": "2012-11-13",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2729449)"
+        },
+        "KB2737019": {
+            "releaseDate": "2012-11-13",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2737019)"
+        },
+        "KB2656368": {
+            "releaseDate": "2012-08-29",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2656368)"
+        },
+        "KB2656405": {
+            "releaseDate": "2012-05-08",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2656405)"
+        },
+        "KB2604121": {
+            "releaseDate": "2012-05-08",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2604121)"
         }
     },
     "2003": {
@@ -6333,6 +6538,106 @@
             "releaseDate": "2017-05-31",
             "releaseVersion": "",
             "title": "Security Update for Microsoft .NET Framework 3.0 SP2 on Windows Server 2003 and Windows XP x86 (KB2756918)"
+        },
+        "KB4500331": {
+            "releaseDate": "2019-05-14",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB4500331)"
+        },
+        "KB956438": {
+            "releaseDate": "2013-03-12",
+            "releaseVersion": "",
+            "title": "Hotfix for Windows XP x64 Edition (KB956438)"
+        },
+        "KB2794119": {
+            "releaseDate": "2012-12-11",
+            "releaseVersion": "",
+            "title": "Update for Windows XP (KB2794119)"
+        },
+        "KB2935092": {
+            "releaseDate": "2014-03-21",
+            "releaseVersion": "",
+            "title": "Hotfix for Windows XP (KB2935092)"
+        },
+        "KB2849470": {
+            "releaseDate": "2013-08-13",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB2849470)"
+        },
+        "KB2829361": {
+            "releaseDate": "2013-05-14",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB2829361)"
+        },
+        "KB2742604": {
+            "releaseDate": "2012-10-09",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 1.1 SP1 on Windows Server 2003 (KB2742604)"
+        },
+        "KB2742595": {
+            "releaseDate": "2012-10-09",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2742595)"
+        },
+        "KB2736428": {
+            "releaseDate": "2012-10-09",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2736428)"
+        },
+        "KB2789642": {
+            "releaseDate": "2013-01-08",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2789642)"
+        },
+        "KB2836939": {
+            "releaseDate": "2013-06-11",
+            "releaseVersion": "",
+            "title": "Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2836939)"
+        },
+        "KB2901110": {
+            "releaseDate": "2014-02-11",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2901110)"
+        },
+        "KB2858302": {
+            "releaseDate": "2013-10-08",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2858302)"
+        },
+        "KB2861188": {
+            "releaseDate": "2013-10-08",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2861188)"
+        },
+        "KB2840628": {
+            "releaseDate": "2013-08-13",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2840628)"
+        },
+        "KB2804576": {
+            "releaseDate": "2013-05-14",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2804576)"
+        },
+        "KB2729449": {
+            "releaseDate": "2012-11-13",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2729449)"
+        },
+        "KB2737019": {
+            "releaseDate": "2012-11-13",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2737019)"
+        },
+        "KB2656368": {
+            "releaseDate": "2012-08-29",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2656368)"
+        },
+        "KB2604121": {
+            "releaseDate": "2012-05-08",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2604121)"
         }
     },
     "2003-x64": {
@@ -8270,6 +8575,101 @@
             "releaseDate": "2017-05-31",
             "releaseVersion": "",
             "title": "Security Update for Microsoft .NET Framework 3.0 SP2 on Windows Server 2003 and Windows XP x86 (KB2756918)"
+        },
+        "KB4500331": {
+            "releaseDate": "2019-05-14",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB4500331)"
+        },
+        "KB956438": {
+            "releaseDate": "2013-03-12",
+            "releaseVersion": "",
+            "title": "Hotfix for Windows XP x64 Edition (KB956438)"
+        },
+        "KB2794119": {
+            "releaseDate": "2012-12-11",
+            "releaseVersion": "",
+            "title": "Update for Windows XP (KB2794119)"
+        },
+        "KB2935092": {
+            "releaseDate": "2014-03-21",
+            "releaseVersion": "",
+            "title": "Hotfix for Windows XP (KB2935092)"
+        },
+        "KB2849470": {
+            "releaseDate": "2013-08-13",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB2849470)"
+        },
+        "KB2829361": {
+            "releaseDate": "2013-05-14",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB2829361)"
+        },
+        "KB2742595": {
+            "releaseDate": "2012-10-09",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2742595)"
+        },
+        "KB2736428": {
+            "releaseDate": "2012-10-09",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2736428)"
+        },
+        "KB2789642": {
+            "releaseDate": "2013-01-08",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2789642)"
+        },
+        "KB2836939": {
+            "releaseDate": "2013-06-11",
+            "releaseVersion": "",
+            "title": "Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2836939)"
+        },
+        "KB2901110": {
+            "releaseDate": "2014-02-11",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2901110)"
+        },
+        "KB2858302": {
+            "releaseDate": "2013-10-08",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2858302)"
+        },
+        "KB2861188": {
+            "releaseDate": "2013-10-08",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2861188)"
+        },
+        "KB2840628": {
+            "releaseDate": "2013-08-13",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2840628)"
+        },
+        "KB2804576": {
+            "releaseDate": "2013-05-14",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2804576)"
+        },
+        "KB2729449": {
+            "releaseDate": "2012-11-13",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2729449)"
+        },
+        "KB2737019": {
+            "releaseDate": "2012-11-13",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2737019)"
+        },
+        "KB2656368": {
+            "releaseDate": "2012-08-29",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2656368)"
+        },
+        "KB2604121": {
+            "releaseDate": "2012-05-08",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2604121)"
         }
     }
 }

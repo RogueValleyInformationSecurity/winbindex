@@ -22,6 +22,11 @@
     <link rel="stylesheet" href="modules/virtual-select/virtual-select.css">
     <link rel="stylesheet" href="loader.css">
     <link rel="stylesheet" href="winbindex.css">
+    <script>
+        if (location.search.indexOf('arch=') === -1 && location.search.indexOf('file=') === -1) {
+            location.replace('?arch=legacy');
+        }
+    </script>
 </head>
 <body class="bg-light">
 <div class="container d-flex flex-column min-vh-100">
@@ -51,10 +56,10 @@
             <div class="row">
                 <div class="col-12 col-lg-6 offset-lg-3">
                     <div id="arch-links" class="btn-group d-flex" role="group">
-                        <a href="." class="btn btn-outline-primary active w-100">x64</a>
-                        <a href="?arch=arm64" class="btn btn-outline-primary w-100">ARM64</a>
-                        <a href="?arch=insider" class="btn btn-outline-primary w-100" title="Recent binaries from Unified Update Platform builds" data-toggle="tooltip">Insider</a>
-                        <a href="?arch=legacy" class="btn btn-outline-primary w-100" title="Windows XP and Server 2003 binaries" data-toggle="tooltip">XP/2003</a>
+                        <a href="https://winbindex.m417z.com/" class="btn btn-outline-primary w-100">x64</a>
+                        <a href="https://winbindex.m417z.com/?arch=arm64" class="btn btn-outline-primary w-100">ARM64</a>
+                        <a href="https://winbindex.m417z.com/?arch=insider" class="btn btn-outline-primary w-100" title="Recent binaries from Unified Update Platform builds" data-toggle="tooltip">Insider</a>
+                        <a href="?arch=legacy" class="btn btn-outline-primary w-100 active" title="Windows XP and Server 2003 binaries" data-toggle="tooltip">XP/2003</a>
                     </div>
                 </div>
             </div>

@@ -1,0 +1,32 @@
+{
+"helpctr.exe": {
+"b07edfb4b553e20ad45b809544ed5432df736e81c9fe9c66ef97681a82b7adff": "pe"
+},
+"helpsvc.exe": {
+"98f8fa11ebeeabc9ec7d3248c6274084e539823e298380f4844af65859e9496e": "pe"
+},
+"hscupd.exe": {
+"b0b1cfb70517123303e16972e440d1f96ade53ad3f1b425ee88aa3f35c2ea9b1": "pe"
+},
+"msconfig.exe": {
+"b542b92b5f0e16f78f4ff86ed29f4edbee3842c5fdc759bf6391e958cc5af314": "pe"
+},
+"pchshell.dll": {
+"ab1bff0b8f7aabb4bcf5b50d51cdf936a663790e39241dab4d92ddcfd45a5b2b": "pe"
+},
+"pchsvc.dll": {
+"f77d652e727f6e3a433969f84d7987f9eb5a90edfa090cf6895d463224b719cd": "pe"
+},
+"spcustom.dll": {
+"483013a0b7c5dc7680c00ba0a169794f937a72aec1d4b779bc3befcec736ed16": "pe"
+},
+"spmsg.dll": {
+"1b6e9ba1ad9f58e4543a9d4df8b61c26e245cc60dc18fc27565d0f401c36a20f": "pe"
+},
+"spuninst.exe": {
+"120e7fe9f713ff8e4a351320b85962c7513c5b366f79c426ff7740ab60394631": "pe"
+},
+"update.exe": {
+"54324800edaeb5c7c295e28c0236f06468da3d3cbc088cfce4ea9012b54a7b62": "pe"
+}
+}

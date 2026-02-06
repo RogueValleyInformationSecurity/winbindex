@@ -26,7 +26,11 @@ var globalFunctions = {};
             $('#main-logo-arch-badge').text(archTitles[architecture]).removeClass('d-none');
             $('#arch-links a[href="."]').removeClass('active');
             $('#arch-links a[href="?arch=' + architecture + '"]').addClass('active');
-            baseDataUrl = 'https://m417z.com/winbindex-data-' + architecture;
+            if (architecture === 'legacy') {
+                baseDataUrl = 'data';
+            } else {
+                baseDataUrl = 'https://m417z.com/winbindex-data-' + architecture;
+            }
         }
 
         animateLogo();

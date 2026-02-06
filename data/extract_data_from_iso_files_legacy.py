@@ -46,11 +46,14 @@ class hashabledict(dict):
         return hash(tuple(sorted(self.items())))
 
 
-def main(folder: Path, windows_version: str, iso_sha256: str, release_date: str):
+def main(folder: Path, windows_version: str, iso_sha256: str, release_date: str, output_name: str = None):
     assert windows_version in config.LEGACY_VERSIONS, f'Invalid version: {windows_version}'
     assert re.match(r'^[A-Fa-f0-9]{64}$', iso_sha256)
     assert re.match(r'^\d{4}-\d{2}-\d{2}$', release_date)
     assert str(folder).startswith('\\\\?\\'), 'Prefix dir with \\\\?\\ for long paths'
+
+    if output_name is None:
+        output_name = windows_version
 
     result_files = set()
     pe_file_hashes = {}
@@ -97,7 +100,7 @@ def main(folder: Path, windows_version: str, iso_sha256: str, release_date: str)
 
     output_dir = config.out_path.joinpath('from_iso')
     output_dir.mkdir(parents=True, exist_ok=True)
-    with open(output_dir.joinpath(windows_version + '.json'), 'w') as f:
+    with open(output_dir.joinpath(output_name + '.json'), 'w') as f:
         json.dump(result, f, indent=4)
 
     info_sources_path = config.out_path.joinpath('info_sources.json')
@@ -116,8 +119,9 @@ def main(folder: Path, windows_version: str, iso_sha256: str, release_date: str)
 
 
 if __name__ == '__main__':
-    if len(sys.argv) != 5:
-        exit(f'Usage: {sys.argv[0]} folder windows_version iso_sha256 release_date_yyyy_mm_dd')
+    if len(sys.argv) not in (5, 6):
+        exit(f'Usage: {sys.argv[0]} folder windows_version iso_sha256 release_date_yyyy_mm_dd [output_name]')
 
     folder, windows_version, iso_sha256, release_date = sys.argv[1:5]
-    main(Path(folder), windows_version, iso_sha256, release_date)
+    output_name = sys.argv[5] if len(sys.argv) == 6 else None
+    main(Path(folder), windows_version, iso_sha256, release_date, output_name)
