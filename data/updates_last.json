@@ -44,6 +44,16 @@
             "releaseDate": "2005-08-09",
             "releaseVersion": "",
             "title": "Security Update for Windows XP x64 Edition (KB899591)"
+        },
+        "KB902400": {
+            "releaseDate": "2005-10-11",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP x64 Edition (KB902400)"
+        },
+        "KB909544": {
+            "releaseDate": "2005-11-29",
+            "releaseVersion": "",
+            "title": "Update for SQL Server 2000 Desktop Engine (SharePoint) on Windows Server 2003 (KB909544)"
         }
     },
     "XP": {
