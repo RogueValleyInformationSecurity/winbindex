@@ -3172,6 +3172,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP x64 Edition (KB2898715)"
         },
+        "KB2898856": {
+            "releaseDate": "2014-02-11",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 2.0 SP2 on Windows Server 2003 and Windows XP for x64-based Systems (KB2898856)"
+        },
         "KB2900986": {
             "releaseDate": "2013-11-12",
             "releaseVersion": "",
