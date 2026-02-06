@@ -2519,6 +2519,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows Server 2003 x64 Edition (KB952068)"
         },
+        "KB952069": {
+            "releaseDate": "2009-11-24",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP Service Pack 3 (KB952069)"
+        },
         "KB953300": {
             "releaseDate": "2009-10-27",
             "releaseVersion": "",
