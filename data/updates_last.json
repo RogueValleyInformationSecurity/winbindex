@@ -5253,6 +5253,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP x64 Edition (KB978338)"
         },
+        "KB978706": {
+            "releaseDate": "2010-02-09",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB978706)"
+        },
         "KB980195": {
             "releaseDate": "2010-06-08",
             "releaseVersion": "",
