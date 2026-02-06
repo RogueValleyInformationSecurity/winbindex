@@ -863,6 +863,7 @@
 "wwininet.dll",
 "wwinmm.dll",
 "wwins.exe",
+"wwintrust.dll",
 "wwmvdmod.dll",
 "wwres.dll",
 "wxpshims.dll",
