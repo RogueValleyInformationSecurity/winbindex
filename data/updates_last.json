@@ -795,6 +795,11 @@
             "releaseVersion": "",
             "title": "Security Update for Microsoft .NET Framework 1.1 SP1 on Windows XP, Windows Vista, and Windows Server 2008 x86 (KB2833941)"
         },
+        "KB2833951": {
+            "releaseDate": "2013-07-09",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 1.0 SP3 on Windows XP Tablet PC and Media Center (KB2833951)"
+        },
         "KB2839229": {
             "releaseDate": "2013-06-18",
             "releaseVersion": "",
