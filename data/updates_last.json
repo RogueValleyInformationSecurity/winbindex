@@ -1,5 +1,10 @@
 {
     "2003": {
+        "KB829358": {
+            "releaseDate": "2005-04-26",
+            "releaseVersion": "",
+            "title": "Critical Update for SQL Server 2000 Desktop Engine (Windows) on Windows Server 2003 (KB829358)"
+        },
         "KB830352": {
             "releaseDate": "2005-02-18",
             "releaseVersion": "",
