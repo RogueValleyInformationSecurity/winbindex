@@ -8553,6 +8553,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP x64 Edition (KB2626416)"
         },
+        "KB2632503": {
+            "releaseDate": "2012-01-10",
+            "releaseVersion": "",
+            "title": "Update for Windows XP x64 Edition (KB2632503)"
+        },
         "KB2633880": {
             "releaseDate": "2012-07-10",
             "releaseVersion": "",
