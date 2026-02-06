@@ -697,6 +697,11 @@
             "releaseVersion": "",
             "title": "Update for Windows Server 2003 (KB2981580)"
         },
+        "KB2993651": {
+            "releaseDate": "2014-08-27",
+            "releaseVersion": "",
+            "title": "Security Update for Windows Server 2003 x64 Edition (KB2993651)"
+        },
         "KB898458": {
             "releaseDate": "2005-06-14",
             "releaseVersion": "",
