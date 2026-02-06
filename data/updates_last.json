@@ -2419,6 +2419,11 @@
             "releaseVersion": "",
             "title": "Update for Windows Server 2003 (KB938759)"
         },
+        "KB940157": {
+            "releaseDate": "2008-07-22",
+            "releaseVersion": "",
+            "title": "Windows Search 4.0 for Windows XP (KB940157)"
+        },
         "KB941569": {
             "releaseDate": "2008-06-10",
             "releaseVersion": "",
