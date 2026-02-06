@@ -454,6 +454,7 @@
 "psisrndr.ax",
 "pspluginwkr.dll",
 "pssetupnativeutils.exe",
+"psxdllsvr.dll",
 "pwrshmsg.dll",
 "pwrshplugin.dll",
 "pwrshsip.dll",

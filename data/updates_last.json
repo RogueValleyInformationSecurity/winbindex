@@ -89,6 +89,11 @@
             "releaseDate": "2007-02-13",
             "releaseVersion": "",
             "title": "Security Update for Windows Server 2003 (KB928255)"
+        },
+        "KB939778": {
+            "releaseDate": "2007-09-25",
+            "releaseVersion": "",
+            "title": "Security Update for Windows Server 2003 (KB939778)"
         }
     },
     "XP": {
