@@ -5241,6 +5241,11 @@
             "releaseVersion": "",
             "title": "Cumulative Security Update for Internet Explorer 7 for WEPOS and POSReady 2009 (KB3134814)"
         },
+        "KB3135986": {
+            "releaseDate": "2016-07-12",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 2.0 SP2 for WEPOS and POSReady 2009 (KB3135986)"
+        },
         "KB3135993": {
             "releaseDate": "2016-04-12",
             "releaseVersion": "",
