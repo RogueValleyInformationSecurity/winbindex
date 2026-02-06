@@ -8693,6 +8693,11 @@
             "releaseVersion": "",
             "title": "Security Update for Microsoft .NET Framework 1.1 SP1 on Windows XP, Server 2003, Vista, and Server 2008 for x64 (KB2742597)"
         },
+        "KB2748349": {
+            "releaseDate": "2017-05-30",
+            "releaseVersion": "",
+            "title": "Update for Windows XP x64 Edition (KB2748349)"
+        },
         "KB2749655": {
             "releaseDate": "2012-10-09",
             "releaseVersion": "",
