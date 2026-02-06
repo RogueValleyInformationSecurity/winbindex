@@ -5,6 +5,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows Server 2003 (KB2518295)"
         },
+        "KB2616676": {
+            "releaseDate": "2011-09-19",
+            "releaseVersion": "",
+            "title": "Update for Windows Server 2003 (KB2616676)"
+        },
         "KB829358": {
             "releaseDate": "2005-04-26",
             "releaseVersion": "",
