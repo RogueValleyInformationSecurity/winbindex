@@ -770,6 +770,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB943460)"
         },
+        "KB943485": {
+            "releaseDate": "2008-01-08",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB943485)"
+        },
         "KB944653": {
             "releaseDate": "2007-12-11",
             "releaseVersion": "",
