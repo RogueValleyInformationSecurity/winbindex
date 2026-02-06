@@ -637,6 +637,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows Server 2003 and Windows Server 2008 (KB960089)"
         },
+        "KB967723": {
+            "releaseDate": "2009-09-08",
+            "releaseVersion": "",
+            "title": "Security Update for Windows Server 2003 x64 Edition (KB967723)"
+        },
         "KB969883": {
             "releaseDate": "2009-08-11",
             "releaseVersion": "",
