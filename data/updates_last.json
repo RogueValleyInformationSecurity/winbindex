@@ -90,6 +90,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows Server 2003 (KB928255)"
         },
+        "KB938759": {
+            "releaseDate": "2008-06-24",
+            "releaseVersion": "",
+            "title": "Update for Windows Server 2003 (KB938759)"
+        },
         "KB939778": {
             "releaseDate": "2007-09-25",
             "releaseVersion": "",
