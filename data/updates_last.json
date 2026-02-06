@@ -110,6 +110,11 @@
             "releaseVersion": "",
             "title": "Security Update for Microsoft .NET Framework 3.5 on Windows Server 2003 and Windows XP for x64-based Systems (KB2416468)"
         },
+        "KB2416472": {
+            "releaseDate": "2011-02-22",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 4 on Windows XP, Windows Server 2003, Windows Vista, Windows 7, Windows Server 2008 x86 (KB2416472)"
+        },
         "KB2416473": {
             "releaseDate": "2010-10-12",
             "releaseVersion": "",
