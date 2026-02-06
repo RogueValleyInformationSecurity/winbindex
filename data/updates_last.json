@@ -5258,6 +5258,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB978706)"
         },
+        "KB979099": {
+            "releaseDate": "2010-02-09",
+            "releaseVersion": "",
+            "title": "Rights Management Services Client with Service Pack 2 for Windows XP (KB979099)"
+        },
         "KB980195": {
             "releaseDate": "2010-06-08",
             "releaseVersion": "",
