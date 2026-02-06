@@ -2284,6 +2284,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows Server 2003 x64 Edition (KB2772930)"
         },
+        "KB2804577": {
+            "releaseDate": "2013-05-14",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 2.0 SP2 on Windows Server 2003 and Windows XP for x64-based Systems (KB2804577)"
+        },
         "KB2808679": {
             "releaseDate": "2013-10-08",
             "releaseVersion": "",
