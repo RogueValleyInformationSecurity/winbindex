@@ -4086,6 +4086,8 @@
 },
 "ndistapi.sys": {
 "4f6db1e499ac853fd36fd603fbb6d3ac9bdceb298c7fe1fb59a9236cb46729b2": "pe",
+"539eeda91096b0259d8a02a12b0851d3115631cfdb3295f034b2c707fb099c5d": "pe",
+"65ce98ac369f4340aa588374baba4658672cb2418fc052b34db431c2755ff10c": "pe",
 "71f5ea1b762b304ae46284f80f9aabf5eab890c9cc5f257ac84d3abf4268b3d3": "pe"
 },
 "ndisuio.sys": {
