@@ -1009,6 +1009,11 @@
             "releaseDate": "2008-12-16",
             "releaseVersion": "",
             "title": "Update for Windows XP (KB960763)"
+        },
+        "KB961118": {
+            "releaseDate": "2009-02-24",
+            "releaseVersion": "",
+            "title": "Update for Windows XP x64 Edition (KB961118)"
         }
     }
 }
