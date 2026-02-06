@@ -520,6 +520,11 @@
             "releaseVersion": "",
             "title": "Update for Windows Server 2003 x64 Edition (KB904942)"
         },
+        "KB905414": {
+            "releaseDate": "2005-10-11",
+            "releaseVersion": "",
+            "title": "Beta 6.2 Installer version of Security Update for Windows XP (KB905414)"
+        },
         "KB908981": {
             "releaseDate": "2006-04-11",
             "releaseVersion": "",
