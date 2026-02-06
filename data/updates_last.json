@@ -925,6 +925,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows Media Format Runtime 9, 9.5 & 11 for Windows XP SP 2 (KB968816)"
         },
+        "KB969059": {
+            "releaseDate": "2009-10-13",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP x64 Edition (KB969059)"
+        },
         "KB969805": {
             "releaseDate": "2009-06-09",
             "releaseVersion": "",
