@@ -2724,6 +2724,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB974112)"
         },
+        "KB974571": {
+            "releaseDate": "2009-10-13",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB974571)"
+        },
         "KB977290": {
             "releaseDate": "2010-02-09",
             "releaseVersion": "",
