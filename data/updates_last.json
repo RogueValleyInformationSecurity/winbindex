@@ -340,6 +340,11 @@
             "releaseVersion": "",
             "title": "Update for Windows XP (KB2541763)"
         },
+        "KB2555917": {
+            "releaseDate": "2011-07-12",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP x64 Edition (KB2555917)"
+        },
         "KB328940": {
             "releaseDate": "2004-05-15",
             "releaseVersion": "",
