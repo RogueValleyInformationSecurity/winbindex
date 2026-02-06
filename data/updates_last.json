@@ -797,6 +797,11 @@
             "releaseVersion": "",
             "title": "Update for Windows Server 2003 x64 Edition (KB3013410)"
         },
+        "KB3014029": {
+            "releaseDate": "2015-01-13",
+            "releaseVersion": "",
+            "title": "Security Update for Windows Server 2003 x64 Edition (KB3014029)"
+        },
         "KB898458": {
             "releaseDate": "2005-06-14",
             "releaseVersion": "",
