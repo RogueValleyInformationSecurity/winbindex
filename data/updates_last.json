@@ -694,6 +694,11 @@
             "releaseDate": "2007-04-24",
             "releaseVersion": "",
             "title": "Update for Windows XP (KB935448)"
+        },
+        "KB939373": {
+            "releaseDate": "2007-07-10",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB939373)"
         }
     }
 }
