@@ -125,6 +125,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows Server 2003 x64 Edition (KB948745)"
         },
+        "KB960082": {
+            "releaseDate": "2009-03-04",
+            "releaseVersion": "",
+            "title": "Security Update for Windows Server 2003 (KB960082)"
+        },
         "KB960089": {
             "releaseDate": "2009-02-10",
             "releaseVersion": "",
