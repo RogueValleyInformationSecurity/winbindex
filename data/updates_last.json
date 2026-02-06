@@ -6181,6 +6181,11 @@
             "releaseVersion": "",
             "title": "2018-11 Security Update for WES09 and POSReady 2009 for x86-based Systems (KB4470118)"
         },
+        "KB4470198": {
+            "releaseDate": "2018-11-13",
+            "releaseVersion": "",
+            "title": "2018-11 Security Update for WES09 and POSReady 2009 for x86-based Systems (KB4470198)"
+        },
         "KB4500331": {
             "releaseDate": "2019-05-14",
             "releaseVersion": "",
