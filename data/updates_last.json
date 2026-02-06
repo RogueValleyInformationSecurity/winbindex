@@ -975,6 +975,11 @@
             "releaseVersion": "",
             "title": "Security Update for Microsoft .NET Framework 1.0 SP3 on Windows XP Tablet PC and Media Center (KB2904878)"
         },
+        "KB2909212": {
+            "releaseDate": "2014-02-11",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB2909212)"
+        },
         "KB2914368": {
             "releaseDate": "2014-01-14",
             "releaseVersion": "",
