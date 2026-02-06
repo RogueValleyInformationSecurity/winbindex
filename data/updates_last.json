@@ -590,6 +590,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP x64 Edition (KB917734)"
         },
+        "KB920214": {
+            "releaseDate": "2006-08-08",
+            "releaseVersion": "",
+            "title": "Security Update for Outlook Express for Windows XP (KB920214)"
+        },
         "KB924881": {
             "releaseDate": "2007-01-29",
             "releaseVersion": "",
