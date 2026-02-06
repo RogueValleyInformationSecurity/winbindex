@@ -505,6 +505,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP x64 Edition (KB899591)"
         },
+        "KB901190": {
+            "releaseDate": "2006-02-14",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB901190)"
+        },
         "KB902400": {
             "releaseDate": "2005-10-11",
             "releaseVersion": "",
