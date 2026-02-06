@@ -4528,6 +4528,11 @@
             "releaseVersion": "",
             "title": "Security Update for DirectX 9 for Windows XP (KB904706)"
         },
+        "KB908531": {
+            "releaseDate": "2006-04-25",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB908531)"
+        },
         "KB911280": {
             "releaseDate": "2006-06-27",
             "releaseVersion": "",
