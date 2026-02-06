@@ -5531,6 +5531,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP SP2 for x64-based Systems (KB4018466)"
         },
+        "KB4018490": {
+            "releaseDate": "2017-05-30",
+            "releaseVersion": "",
+            "title": "Security Update for WES09 and POSReady 2009 (KB4018490)"
+        },
         "KB4022747": {
             "releaseDate": "2017-06-13",
             "releaseVersion": "",
