@@ -3963,6 +3963,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows Media Player 11 for Windows XP X64 Edition (KB2378111)"
         },
+        "KB2387149": {
+            "releaseDate": "2010-10-12",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP x64 Edition (KB2387149)"
+        },
         "KB2419635": {
             "releaseDate": "2011-01-11",
             "releaseVersion": "",
