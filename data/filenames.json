@@ -241,6 +241,7 @@
 "mrxdav.sys",
 "mrxsmb.sys",
 "msadce.dll",
+"msado15.dll",
 "msadox.dll",
 "msasn1.dll",
 "msaud32.acm",
