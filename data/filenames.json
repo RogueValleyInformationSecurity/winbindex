@@ -717,6 +717,7 @@
 "wdns.exe",
 "wdnsapi.dll",
 "wdnsperf.dll",
+"wdnsrslvr.dll",
 "wdpnet.dll",
 "wdsmkttools.dll",
 "wdssetup.exe",
