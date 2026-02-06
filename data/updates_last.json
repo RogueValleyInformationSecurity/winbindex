@@ -2274,6 +2274,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP x64 Edition (KB921883)"
         },
+        "KB922582": {
+            "releaseDate": "2006-09-12",
+            "releaseVersion": "",
+            "title": "Update for Windows XP x64 Edition (KB922582)"
+        },
         "KB922616": {
             "releaseDate": "2006-08-08",
             "releaseVersion": "",
