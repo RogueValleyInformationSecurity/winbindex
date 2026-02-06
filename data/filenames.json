@@ -525,6 +525,7 @@
 "usb8023.sys",
 "usb8023x.sys",
 "usbccgp.sys",
+"usbd.sys",
 "usbehci.sys",
 "usbhub.sys",
 "usbohci.sys",
