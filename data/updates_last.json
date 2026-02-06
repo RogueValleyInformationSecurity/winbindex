@@ -960,6 +960,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB953155)"
         },
+        "KB953295": {
+            "releaseDate": "2009-10-13",
+            "releaseVersion": "",
+            "title": "Microsoft .NET Framework 1.0 Service Pack 3 Security Update for Windows XP Tablet PC and Media Center (KB953295)"
+        },
         "KB953356": {
             "releaseDate": "2008-06-24",
             "releaseVersion": "",
