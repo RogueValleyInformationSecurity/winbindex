@@ -601,6 +601,11 @@
             "releaseDate": "2007-11-13",
             "releaseVersion": "",
             "title": "Security Update for Windows Server 2003 x64 Edition (KB941672)"
+        },
+        "KB944275": {
+            "releaseDate": "2007-12-11",
+            "releaseVersion": "",
+            "title": "Security Update for Windows Server 2003 x64 Edition (KB944275)"
         }
     },
     "XP": {
