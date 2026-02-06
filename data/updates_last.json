@@ -550,6 +550,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows Server 2003 (KB911562)"
         },
+        "KB911567": {
+            "releaseDate": "2006-04-11",
+            "releaseVersion": "",
+            "title": "Cumulative Security Update for Outlook Express for Windows XP (KB911567)"
+        },
         "KB911927": {
             "releaseDate": "2006-02-14",
             "releaseVersion": "",
