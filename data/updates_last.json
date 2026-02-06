@@ -895,6 +895,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP x64 Edition (KB2876315)"
         },
+        "KB2879017": {
+            "releaseDate": "2013-10-08",
+            "releaseVersion": "",
+            "title": "Cumulative Security Update for Internet Explorer 7 for Windows XP (KB2879017)"
+        },
         "KB328940": {
             "releaseDate": "2004-05-15",
             "releaseVersion": "",

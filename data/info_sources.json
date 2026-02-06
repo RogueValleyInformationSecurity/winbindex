@@ -1607,6 +1607,9 @@
 "iehost.dll": {
 "21df5979aa440076ee6c6ca53d89bed47eb56d2ffc1e63f95c3219530a4787cf": "pe"
 },
+"iepeers.dll": {
+"6021fc713f5c506bf3e667fede7e09803b995f8aa49ca2f38c17cb11d3bcd4b5": "pe"
+},
 "ifilterssetup.exe": {
 "07957f9b0307de018199e9f4ba7d66b0046353b8f023e0c4cbcd58cfc410bdb3": "pe"
 },

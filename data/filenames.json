@@ -146,6 +146,7 @@
 "ieexec.exe",
 "ieexecremote.dll",
 "iehost.dll",
+"iepeers.dll",
 "ifilterssetup.exe",
 "ilasm.exe",
 "imagehlp.dll",
