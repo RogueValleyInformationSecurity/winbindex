@@ -225,6 +225,7 @@
 "webclnt.dll",
 "wiaservc.dll",
 "win32k.sys",
+"winsrv.dll",
 "wisptis.exe",
 "wkssvc.dll",
 "wmp.dll",
