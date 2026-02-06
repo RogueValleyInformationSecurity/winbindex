@@ -213,6 +213,7 @@
 "wabimp.dll",
 "wdmaud.sys",
 "webclnt.dll",
+"wiaservc.dll",
 "win32k.sys",
 "wkssvc.dll",
 "wmp.dll",
