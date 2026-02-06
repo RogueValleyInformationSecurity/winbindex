@@ -5008,6 +5008,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB968537)"
         },
+        "KB970238": {
+            "releaseDate": "2009-06-09",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB970238)"
+        },
         "KB978338": {
             "releaseDate": "2010-04-13",
             "releaseVersion": "",
