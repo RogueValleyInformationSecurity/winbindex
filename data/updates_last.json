@@ -930,6 +930,11 @@
             "releaseVersion": "",
             "title": "Update for Windows XP x64 Edition (KB970653)"
         },
+        "KB971961": {
+            "releaseDate": "2009-09-08",
+            "releaseVersion": "",
+            "title": "Security Update for Jscript 5.6 for Windows XP (KB971961)"
+        },
         "KB972554": {
             "releaseDate": "2009-09-22",
             "releaseVersion": "",
