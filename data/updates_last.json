@@ -2264,6 +2264,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows Server 2003 x64 Edition (KB920683)"
         },
+        "KB920685": {
+            "releaseDate": "2006-09-12",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB920685)"
+        },
         "KB922616": {
             "releaseDate": "2006-08-08",
             "releaseVersion": "",
