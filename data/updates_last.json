@@ -1799,6 +1799,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP x64 Edition (KB2296011)"
         },
+        "KB2345886": {
+            "releaseDate": "2010-10-12",
+            "releaseVersion": "",
+            "title": "Update for Windows XP x64 Edition (KB2345886)"
+        },
         "KB2347290": {
             "releaseDate": "2010-09-14",
             "releaseVersion": "",
