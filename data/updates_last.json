@@ -760,6 +760,11 @@
             "releaseVersion": "",
             "title": "Update for Windows XP (KB941776)"
         },
+        "KB942840": {
+            "releaseDate": "2008-01-08",
+            "releaseVersion": "",
+            "title": "Update for Windows XP x64 Edition (KB942840)"
+        },
         "KB943460": {
             "releaseDate": "2007-11-13",
             "releaseVersion": "",
