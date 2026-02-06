@@ -90,6 +90,7 @@
 "jscript.dll",
 "kb888795_custom.dll",
 "kerberos.dll",
+"kernel32.dll",
 "lsasrv.dll",
 "medctrro.exe",
 "mf3216.dll",
