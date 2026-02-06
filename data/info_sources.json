@@ -12232,6 +12232,7 @@
 },
 "msinfo.dll": {
 "a251fa63584d4ec1b5a9a17bc7ad91aa0812dfa429aa60c293fdfaecb66a3b48": "file",
+"d55d83e9998dd59dd059b46c2e1927486a134fb6c89b34281ae9fc381752101e": "pe",
 "f5cd6311864bffee8c349bb8231aedab687e9f9341dbea8d06c5a1d771fc433b": "file"
 },
 "msinfo32.exe": {
