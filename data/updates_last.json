@@ -5418,6 +5418,11 @@
             "releaseVersion": "",
             "title": "Update for Windows XP (KB981793)"
         },
+        "KB981997": {
+            "releaseDate": "2010-08-24",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP Embedded (KB981997)"
+        },
         "KB982167": {
             "releaseDate": "2010-06-08",
             "releaseVersion": "",
