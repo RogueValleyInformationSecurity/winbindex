@@ -1680,6 +1680,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP x64 Edition (KB982000)"
         },
+        "KB982132": {
+            "releaseDate": "2010-10-12",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP x64 Edition (KB982132)"
+        },
         "KB982167": {
             "releaseDate": "2010-06-08",
             "releaseVersion": "",
