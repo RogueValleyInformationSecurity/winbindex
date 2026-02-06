@@ -2319,6 +2319,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows Server 2003 x64 Edition (KB926122)"
         },
+        "KB926436": {
+            "releaseDate": "2007-02-13",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB926436)"
+        },
         "KB927489": {
             "releaseDate": "2007-05-08",
             "releaseVersion": "",
