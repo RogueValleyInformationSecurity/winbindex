@@ -636,6 +636,7 @@
 "wevtfwd.dll",
 "wgdi32.dll",
 "whhctrl.ocx",
+"whttpext.dll",
 "wiaservc.dll",
 "wicm32.dll",
 "wieencode.dll",
