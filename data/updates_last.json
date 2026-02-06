@@ -2174,6 +2174,11 @@
             "releaseVersion": "",
             "title": "Security Update for DirectX 9 for Windows XP (KB904706)"
         },
+        "KB904942": {
+            "releaseDate": "2006-05-23",
+            "releaseVersion": "",
+            "title": "Update for Windows Server 2003 x64 Edition (KB904942)"
+        },
         "KB908531": {
             "releaseDate": "2006-04-25",
             "releaseVersion": "",
