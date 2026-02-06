@@ -611,6 +611,9 @@
 "exts.dll": {
 "c0d69e748007268b80d3d3bda5967ebccbaeb3a39d9a37dc6a9c3ed3ebe63d9a": "pe"
 },
+"fastfat.sys": {
+"a2a041f9c1f1b90b6da1d35626b7df5ab3a886c5a27aa1a1788692747c5ec91d": "pe"
+},
 "faxpatch.exe": {
 "68a7e38d2c10827e9aa5fc8b28ee0ecd683ceedea3f6eea6beb510a45e6823c0": "pe"
 },
