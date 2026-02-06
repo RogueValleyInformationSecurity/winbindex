@@ -750,6 +750,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows Server 2003 x64 Edition (KB942288)"
         },
+        "KB942831": {
+            "releaseDate": "2008-02-12",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB942831)"
+        },
         "KB942840": {
             "releaseDate": "2008-01-08",
             "releaseVersion": "",
