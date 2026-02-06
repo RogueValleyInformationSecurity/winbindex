@@ -510,6 +510,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP x64 Edition (KB902400)"
         },
+        "KB904706": {
+            "releaseDate": "2005-10-11",
+            "releaseVersion": "",
+            "title": "Security Update for DirectX 9 for Windows XP (KB904706)"
+        },
         "KB904942": {
             "releaseDate": "2006-05-23",
             "releaseVersion": "",
