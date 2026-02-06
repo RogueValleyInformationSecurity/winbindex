@@ -435,6 +435,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB2584146)"
         },
+        "KB2585542": {
+            "releaseDate": "2012-01-10",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB2585542)"
+        },
         "KB2592799": {
             "releaseDate": "2011-10-11",
             "releaseVersion": "",
