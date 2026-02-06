@@ -4966,6 +4966,11 @@
             "releaseVersion": "",
             "title": "Cumulative Security Update for Internet Explorer 6 for Windows Server 2003 (KB3003057)"
         },
+        "KB3011780": {
+            "releaseDate": "2014-11-18",
+            "releaseVersion": "",
+            "title": "Security Update for WEPOS and POSReady 2009 (KB3011780)"
+        },
         "KB3197835": {
             "releaseDate": "2017-06-13",
             "releaseVersion": "",
