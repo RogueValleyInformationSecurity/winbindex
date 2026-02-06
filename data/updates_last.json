@@ -165,6 +165,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP x64 Edition (KB2476687)"
         },
+        "KB2478960": {
+            "releaseDate": "2011-02-08",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP x64 Edition (KB2478960)"
+        },
         "KB328940": {
             "releaseDate": "2004-05-15",
             "releaseVersion": "",
