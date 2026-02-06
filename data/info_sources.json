@@ -5528,6 +5528,9 @@
 "srrstr.dll": {
 "2dedb86471f9b40690ade2c9581a5856a9a93a7fae0eed3d97e03207299b2d44": "pe"
 },
+"srv.hp.sys": {
+"e643a74d34bdefe82fd91c048f642f822c6fb76e4a21d707177fc24dbfdd4995": "pe"
+},
 "srv.sys": {
 "00513f28bb5d85bcc3b124bd157eae32c6010541b6a7b69572993bcec8e720da": "pe",
 "0293d4a6dfa2d909aec8a6bd58f14fa37f01f7497cef4731b5c17f2eb8d02c8c": "pe",

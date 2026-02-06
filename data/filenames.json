@@ -599,6 +599,7 @@
 "sqmapi.dll",
 "srchadmin.dll",
 "srrstr.dll",
+"srv.hp.sys",
 "srv.sys",
 "srvsvc.dll",
 "stclient.dll",
