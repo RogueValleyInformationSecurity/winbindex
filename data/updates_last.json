@@ -647,6 +647,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows Server 2003 x64 Edition (KB969883)"
         },
+        "KB971513": {
+            "releaseDate": "2009-10-27",
+            "releaseVersion": "",
+            "title": "Update For Windows Server 2003 X64 Edition(KB971513)"
+        },
         "KB972554": {
             "releaseDate": "2009-09-22",
             "releaseVersion": "",
