@@ -370,6 +370,11 @@
             "releaseVersion": "",
             "title": "Update for Windows XP (KB2541763)"
         },
+        "KB2544893": {
+            "releaseDate": "2011-11-08",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB2544893)"
+        },
         "KB2555917": {
             "releaseDate": "2011-07-12",
             "releaseVersion": "",
