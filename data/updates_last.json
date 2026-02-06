@@ -155,6 +155,11 @@
             "releaseVersion": "",
             "title": "Update for Windows Server 2003 (KB973825)"
         },
+        "KB973917": {
+            "releaseDate": "2010-04-13",
+            "releaseVersion": "",
+            "title": "Update for Windows Server 2003 (KB973917)"
+        },
         "KB977290": {
             "releaseDate": "2010-02-09",
             "releaseVersion": "",
