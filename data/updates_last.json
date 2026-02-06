@@ -950,6 +950,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows Server 2003 x64 Edition (KB969883)"
         },
+        "KB970430": {
+            "releaseDate": "2009-12-08",
+            "releaseVersion": "",
+            "title": "Update for Windows XP x64 Edition (KB970430)"
+        },
         "KB970483": {
             "releaseDate": "2009-06-09",
             "releaseVersion": "",
