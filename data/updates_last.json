@@ -2369,6 +2369,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB932168)"
         },
+        "KB935839": {
+            "releaseDate": "2007-06-26",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP x64 Edition (KB935839)"
+        },
         "KB935840": {
             "releaseDate": "2007-06-12",
             "releaseVersion": "",
