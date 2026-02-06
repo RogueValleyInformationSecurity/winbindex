@@ -1250,6 +1250,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP Service Pack 3 (KB972187)"
         },
+        "KB972270": {
+            "releaseDate": "2010-01-12",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP x64 Edition (KB972270)"
+        },
         "KB973039": {
             "releaseDate": "2009-11-10",
             "releaseVersion": "",
