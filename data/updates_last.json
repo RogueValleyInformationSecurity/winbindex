@@ -775,6 +775,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB939373)"
         },
+        "KB939683": {
+            "releaseDate": "2008-08-12",
+            "releaseVersion": "",
+            "title": "Update for Windows Media Player 11 for Windows XP (KB939683)"
+        },
         "KB940157": {
             "releaseDate": "2008-07-22",
             "releaseVersion": "",
