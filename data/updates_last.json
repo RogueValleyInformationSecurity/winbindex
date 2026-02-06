@@ -3903,6 +3903,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB2121546)"
         },
+        "KB2124261": {
+            "releaseDate": "2010-09-14",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB2124261)"
+        },
         "KB2160329": {
             "releaseDate": "2010-08-10",
             "releaseVersion": "",
