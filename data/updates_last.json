@@ -8653,6 +8653,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP x64 Edition (KB2718523)"
         },
+        "KB2718704": {
+            "releaseDate": "2012-08-29",
+            "releaseVersion": "",
+            "title": "Update for Windows XP x64 Edition (KB2718704)"
+        },
         "KB2724197": {
             "releaseDate": "2012-10-09",
             "releaseVersion": "",
