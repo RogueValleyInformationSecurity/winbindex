@@ -18,6 +18,7 @@
 "custom.dll",
 "custom_uninstall.dll",
 "dhcpcsvc.dll",
+"directdb.dll",
 "dnsapi.dll",
 "dplayx.dll",
 "dpwsockx.dll",
