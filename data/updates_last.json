@@ -100,6 +100,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows Server 2003 (KB2957503)"
         },
+        "KB2981580": {
+            "releaseDate": "2014-08-12",
+            "releaseVersion": "",
+            "title": "Update for Windows Server 2003 (KB2981580)"
+        },
         "KB829358": {
             "releaseDate": "2005-04-26",
             "releaseVersion": "",
