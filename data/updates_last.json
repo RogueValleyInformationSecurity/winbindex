@@ -5048,6 +5048,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP x64 Edition (KB971657)"
         },
+        "KB973354": {
+            "releaseDate": "2009-08-11",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB973354)"
+        },
         "KB978338": {
             "releaseDate": "2010-04-13",
             "releaseVersion": "",
