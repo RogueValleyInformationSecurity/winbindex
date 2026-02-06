@@ -1444,6 +1444,11 @@
             "releaseDate": "2010-04-13",
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB981332)"
+        },
+        "KB981349": {
+            "releaseDate": "2010-04-13",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB981349)"
         }
     }
 }
