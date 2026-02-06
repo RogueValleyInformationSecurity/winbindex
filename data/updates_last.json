@@ -2879,6 +2879,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP SP3 for XPe and WEPOS (KB3197835)"
         },
+        "KB4024402": {
+            "releaseDate": "2017-06-13",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP SP2 for x64-based Systems (KB4024402)"
+        },
         "KB893756": {
             "releaseDate": "2005-09-13",
             "releaseVersion": "",
