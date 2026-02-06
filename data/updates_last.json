@@ -5053,6 +5053,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB973354)"
         },
+        "KB973507": {
+            "releaseDate": "2009-08-11",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB973507)"
+        },
         "KB978338": {
             "releaseDate": "2010-04-13",
             "releaseVersion": "",
