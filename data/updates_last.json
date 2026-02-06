@@ -490,6 +490,11 @@
             "releaseVersion": "",
             "title": "Update Rollup for Windows XP Media Center Edition 2005 (KB919803)"
         },
+        "KB920142": {
+            "releaseDate": "2007-02-27",
+            "releaseVersion": "",
+            "title": "February 2007 CardSpace Update for Windows XP Tablet PC Edition (KB920142)"
+        },
         "KB920214": {
             "releaseDate": "2006-08-08",
             "releaseVersion": "",

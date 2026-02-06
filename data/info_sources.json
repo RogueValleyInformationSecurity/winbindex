@@ -799,6 +799,9 @@
 "tcptest.exe": {
 "077060dddbe3cb1f20204722e1f22fd710a3596cf5ae8b2c09a57d9d744325f8": "pe"
 },
+"tpgwlnot.dll": {
+"58c6aa17efc83573baa26a1b4f0a3f93920dea888dd8bf26ffc5627c51a5ac97": "pe"
+},
 "tunmp.sys": {
 "680f9bd302623fa6b95d0282012c4c4990fedf5c40a6bd7adb5df749be9a3ed8": "pe",
 "7ec902290bf8d3a16f01f2392d5d631f691420868fa4b0be4af2944af01a2637": "pe"
@@ -900,6 +903,9 @@
 "win32k.sys": {
 "b888b53837dd1722523c0c6db4148a157176ee00cfcaeff9bfaa78ce99989472": "pe",
 "c17da72fc3583c7e40ea79c60f402789141cd2cbc889b36ded206f6a18904499": "pe"
+},
+"wisptis.exe": {
+"377f6b875bdc916869d10847c8231262ded0defbe373d12718fc9bc734f0230a": "pe"
 },
 "wkssvc.dll": {
 "5af83aae41b2c2db9e950b34475da49bf415a6137bc32bd772a448fd207740ca": "pe",
