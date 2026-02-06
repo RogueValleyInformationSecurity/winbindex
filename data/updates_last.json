@@ -2174,6 +2174,11 @@
             "releaseVersion": "",
             "title": "Security Update for DirectX 9 for Windows XP (KB904706)"
         },
+        "KB912919": {
+            "releaseDate": "2006-01-05",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP x64 Edition (KB912919)"
+        },
         "KB920683": {
             "releaseDate": "2006-08-08",
             "releaseVersion": "",
