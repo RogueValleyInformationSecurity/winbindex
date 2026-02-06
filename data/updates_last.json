@@ -1560,6 +1560,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP Embedded (KB981852)"
         },
+        "KB981997": {
+            "releaseDate": "2010-08-24",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP Embedded (KB981997)"
+        },
         "KB982167": {
             "releaseDate": "2010-06-08",
             "releaseVersion": "",
