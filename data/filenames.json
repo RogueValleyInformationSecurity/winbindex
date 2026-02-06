@@ -194,6 +194,7 @@
 "netshell.dll",
 "ntfs.sys",
 "ntkrnlpa.exe",
+"ntoskrnl.exe",
 "nwapi32.dll",
 "nwprovau.dll",
 "nwrdr.sys",
