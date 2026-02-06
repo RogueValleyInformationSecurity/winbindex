@@ -687,6 +687,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows Server 2003 x64 Edition (KB2957509)"
         },
+        "KB2961072": {
+            "releaseDate": "2014-07-08",
+            "releaseVersion": "",
+            "title": "Security Update for Windows Server 2003 x64 Edition (KB2961072)"
+        },
         "KB898458": {
             "releaseDate": "2005-06-14",
             "releaseVersion": "",
