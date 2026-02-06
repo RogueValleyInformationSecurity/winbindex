@@ -970,6 +970,11 @@
             "releaseVersion": "",
             "title": "Microsoft .NET Framework 1.0 Service Pack 3 Security Update for Windows XP Tablet PC and Media Center (KB953295)"
         },
+        "KB953297": {
+            "releaseDate": "2010-06-22",
+            "releaseVersion": "",
+            "title": "Microsoft .NET Framework 1.1 Service Pack 1 Security Update for Windows 2000, Windows XP, Windows Vista, Windows Server 2008 (KB953297)"
+        },
         "KB953300": {
             "releaseDate": "2009-10-27",
             "releaseVersion": "",

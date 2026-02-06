@@ -408,6 +408,9 @@
 "faxpatch.exe": {
 "68a7e38d2c10827e9aa5fc8b28ee0ecd683ceedea3f6eea6beb510a45e6823c0": "pe"
 },
+"filehashfixup.exe": {
+"2281dd614e950ad48ae10c11cdcde35679ff30defbe8619ee07a285ca71d117f": "pe"
+},
 "fixccs.exe": {
 "f8332da8bf4879ab86b1b8a2afe9086b892b8fdc4f83c7be5ca5899a60382d6f": "pe"
 },
