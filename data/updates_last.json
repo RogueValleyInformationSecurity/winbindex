@@ -605,6 +605,11 @@
             "releaseVersion": "",
             "title": "Security Update for Outlook Express for Windows XP (KB920214)"
         },
+        "KB921503": {
+            "releaseDate": "2007-08-14",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB921503)"
+        },
         "KB922582": {
             "releaseDate": "2006-09-12",
             "releaseVersion": "",
