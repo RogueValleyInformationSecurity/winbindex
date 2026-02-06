@@ -440,6 +440,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB914798)"
         },
+        "KB916595": {
+            "releaseDate": "2006-09-12",
+            "releaseVersion": "",
+            "title": "Update for Windows XP (KB916595)"
+        },
         "KB917159": {
             "releaseDate": "2006-07-11",
             "releaseVersion": "",
