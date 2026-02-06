@@ -1230,6 +1230,11 @@
             "releaseVersion": "",
             "title": "Security Update for Jscript 5.6 for Windows XP (KB971961)"
         },
+        "KB972187": {
+            "releaseDate": "2009-11-24",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP Service Pack 3 (KB972187)"
+        },
         "KB973039": {
             "releaseDate": "2009-11-10",
             "releaseVersion": "",
