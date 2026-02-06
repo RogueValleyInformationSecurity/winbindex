@@ -983,6 +983,7 @@
 "wship6.dll",
 "wshlwapi.dll",
 "wshom.ocx",
+"wshsvcs.dll",
 "wsmanhttpconfig.exe",
 "wsmauto.dll",
 "wsmplpxy.dll",
