@@ -1075,6 +1075,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP x64 Edition (KB2933528)"
         },
+        "KB3197835": {
+            "releaseDate": "2017-06-13",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP SP3 for XPe and WEPOS (KB3197835)"
+        },
         "KB328940": {
             "releaseDate": "2004-05-15",
             "releaseVersion": "",
