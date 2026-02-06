@@ -2972,6 +2972,11 @@
             "releaseVersion": "",
             "title": "Security Update for Microsoft .NET Framework 3.5 SP1 on Windows XP, Server 2003, Vista, Server 2008 x86 (KB2736416)"
         },
+        "KB2742596": {
+            "releaseDate": "2017-05-30",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 2.0 SP2 on Windows Server 2003 and Windows XP x86 (KB2742596)"
+        },
         "KB2801109": {
             "releaseDate": "2013-04-09",
             "releaseVersion": "",
