@@ -4721,6 +4721,11 @@
             "releaseVersion": "",
             "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2858302)"
         },
+        "KB2859537": {
+            "releaseDate": "2013-08-13",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB2859537)"
+        },
         "KB2861188": {
             "releaseDate": "2013-10-08",
             "releaseVersion": "",
