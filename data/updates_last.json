@@ -5296,6 +5296,11 @@
             "releaseVersion": "",
             "title": "Security Update for Microsoft .NET Framework 4 for WES09 and POSReady 2009 (KB3142029)"
         },
+        "KB3142046": {
+            "releaseDate": "2016-07-12",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 3.0 SP2 for WEPOS and POSReady 2009 (KB3142046)"
+        },
         "KB3145739": {
             "releaseDate": "2016-04-12",
             "releaseVersion": "",
