@@ -73,6 +73,9 @@
 "6c405b445ffcdd2a1eb17ae72f2bd357cc85d4f1796a7175f89f1d1e671be3dd": "pe",
 "9e0fa00550229883025e8ad0bc3e3f55457b241d0d259b178935f0b16ec30bb2": "pe"
 },
+"advpack.dll": {
+"7735dfb067c97033031d45593c320d1229f3acba896c1a4e815a2d1bfd786b11": "pe"
+},
 "aec.sys": {
 "0216d2277b6b4ab9b0e47e093ceeac2030efb4b87ba048ea730e40119aa06444": "pe"
 },
@@ -4725,6 +4728,9 @@
 "update.sys": {
 "59ebd6ae33e42b35715e42787a409a401f363b0ee4ef9055d1e58ebb4bbdf7af": "pe",
 "8d429f6b4a206d82c3bb18c7675b6c3910d5a1cb892f5d07ea8e8080d729ad07": "pe"
+},
+"updroots.exe": {
+"9e538a58aed94a7748df9262ae0343dea9efce8d9117e0868eb404e1098747b6": "pe"
 },
 "updspapi.dll": {
 "0acbbaa648ffbcc6375736dd35ee7a20bfcf5976dfc558ca72d820e7f7cdad85": "pe",
