@@ -690,6 +690,11 @@
             "releaseVersion": "",
             "title": "Update for Windows XP (KB929338)"
         },
+        "KB929399": {
+            "releaseDate": "2008-08-12",
+            "releaseVersion": "",
+            "title": "Update for Windows Media Format 11 SDK for Windows XP (KB929399)"
+        },
         "KB930178": {
             "releaseDate": "2007-04-10",
             "releaseVersion": "",
