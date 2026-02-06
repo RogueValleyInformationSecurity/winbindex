@@ -144,6 +144,7 @@
 "quartz.dll",
 "query.dll",
 "remotesp.tsp",
+"rmcast.sys",
 "sbe.dll",
 "schedsvc.dll",
 "setup_wm.exe",

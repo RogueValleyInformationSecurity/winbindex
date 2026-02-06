@@ -470,6 +470,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB917953)"
         },
+        "KB919007": {
+            "releaseDate": "2006-09-12",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB919007)"
+        },
         "KB919803": {
             "releaseDate": "2006-07-25",
             "releaseVersion": "",
