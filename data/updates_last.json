@@ -717,6 +717,11 @@
             "releaseVersion": "",
             "title": "Security Update for Microsoft .NET Framework 3.0 SP2 on Windows Server 2003 (KB2973115)"
         },
+        "KB2978124": {
+            "releaseDate": "2014-11-11",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 2.0 SP2 on Windows Server 2003 (KB2978124)"
+        },
         "KB2979574": {
             "releaseDate": "2014-10-14",
             "releaseVersion": "",
