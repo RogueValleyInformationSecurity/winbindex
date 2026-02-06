@@ -4978,6 +4978,11 @@
             "releaseVersion": "",
             "title": "Update for Windows XP (KB959772)"
         },
+        "KB960225": {
+            "releaseDate": "2009-03-10",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB960225)"
+        },
         "KB961118": {
             "releaseDate": "2009-02-24",
             "releaseVersion": "",
