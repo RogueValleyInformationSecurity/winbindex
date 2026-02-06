@@ -2184,6 +2184,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB908531)"
         },
+        "KB910437": {
+            "releaseDate": "2007-03-27",
+            "releaseVersion": "",
+            "title": "Update for Windows XP x64 Edition (KB910437)"
+        },
         "KB911280": {
             "releaseDate": "2006-06-27",
             "releaseVersion": "",
