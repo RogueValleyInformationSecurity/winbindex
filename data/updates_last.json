@@ -3062,6 +3062,11 @@
             "releaseVersion": "",
             "title": "Security Update for Microsoft .NET Framework 3.0 SP2 on Windows Server 2003 and Windows XP x86 (KB2861189)"
         },
+        "KB2862152": {
+            "releaseDate": "2013-11-12",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP x64 Edition (KB2862152)"
+        },
         "KB2862330": {
             "releaseDate": "2013-10-08",
             "releaseVersion": "",

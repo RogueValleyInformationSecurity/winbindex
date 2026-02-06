@@ -711,6 +711,7 @@
 "wmvdmod.dll",
 "wnetapi32.dll",
 "wntdll.dll",
+"woakley.dll",
 "wodbc32.dll",
 "wole32.dll",
 "wolecli32.dll",
