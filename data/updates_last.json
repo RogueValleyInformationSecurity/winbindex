@@ -6211,6 +6211,11 @@
             "releaseVersion": "",
             "title": "2018-12 Security Only Update for .NET Framework 3.5 SP1 on WES09 and POSReady 2009 (KB4470633)"
         },
+        "KB4473077": {
+            "releaseDate": "2018-12-11",
+            "releaseVersion": "",
+            "title": "2018-12 Security Update for WES09 and POSReady 2009 for x86-based Systems (KB4473077)"
+        },
         "KB4500331": {
             "releaseDate": "2019-05-14",
             "releaseVersion": "",
