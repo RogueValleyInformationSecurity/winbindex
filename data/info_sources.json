@@ -1256,7 +1256,8 @@
 },
 "wmp.dll": {
 "76f26bf6c8536bf148166bea9337f323de2d23cfe07622b9aeec13a45e5c0cdd": "pe",
-"7d26bf3eb4e03339f1df223cbf7021825137de86b6175ec5bbd5e83cf35cc68d": "pe"
+"7d26bf3eb4e03339f1df223cbf7021825137de86b6175ec5bbd5e83cf35cc68d": "pe",
+"ed81ca24cd83d2c4e37b6ccd783c342a36f9e0af058286e980b03ce3815580b5": "pe"
 },
 "wmplayer.exe": {
 "96da1ac1f56f98d71b852df152f7941c8c5da928fe6ecf7cdeacafaf1d30e9db": "pe"
