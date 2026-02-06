@@ -5481,6 +5481,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP SP2 for x64-based Systems (KB4012598)"
         },
+        "KB4014570": {
+            "releaseDate": "2017-05-30",
+            "releaseVersion": "",
+            "title": "April, 2017 Security and Quality Rollup for .NET Framework 4 on WES09 and POSReady 2009 (KB4014570)"
+        },
         "KB4018271": {
             "releaseDate": "2017-06-13",
             "releaseVersion": "",
