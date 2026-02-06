@@ -586,6 +586,11 @@
             "releaseDate": "2007-01-29",
             "releaseVersion": "",
             "title": "Update for Windows SharePoint Services for Windows Server 2003 x64 Edition (KB924881)"
+        },
+        "KB927489": {
+            "releaseDate": "2007-05-08",
+            "releaseVersion": "",
+            "title": "Microsoft MS Gothic and MS Mincho JIS2004 Support Fonts for Windows Server 2003 x64 Edition (KB927489)"
         }
     },
     "XP": {
