@@ -1500,6 +1500,11 @@
             "releaseVersion": "",
             "title": "Microsoft .NET Framework 1.1 SP1 Security Update for Windows 2000 and Windows XP (KB979906)"
         },
+        "KB979909": {
+            "releaseDate": "2010-07-13",
+            "releaseVersion": "",
+            "title": "Microsoft .NET Framework 3.5 SP1 and .NET Framework 2.0 SP2 Security Update for Windows Server 2003 and Windows XP for x64-based Systems (KB979909)"
+        },
         "KB980218": {
             "releaseDate": "2010-06-08",
             "releaseVersion": "",
