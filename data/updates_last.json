@@ -3928,6 +3928,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP x64 Edition (KB2259922)"
         },
+        "KB2279986": {
+            "releaseDate": "2010-10-12",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP x64 Edition (KB2279986)"
+        },
         "KB2286198": {
             "releaseDate": "2010-08-24",
             "releaseVersion": "",
