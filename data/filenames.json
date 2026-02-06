@@ -622,6 +622,7 @@
 "wcomctl32.dll",
 "wcomsvcs.dll",
 "wcomuid.dll",
+"wcrypt32.dll",
 "wdmaud.sys",
 "wdsmkttools.dll",
 "wdssetup.exe",
