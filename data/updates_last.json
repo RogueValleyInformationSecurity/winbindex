@@ -657,6 +657,11 @@
             "releaseVersion": "",
             "title": "Update for Windows Server 2003 x64 Edition (KB2904266)"
         },
+        "KB2922717": {
+            "releaseDate": "2014-03-11",
+            "releaseVersion": "",
+            "title": "Update for Windows Server 2003 (KB2922717)"
+        },
         "KB898458": {
             "releaseDate": "2005-06-14",
             "releaseVersion": "",
