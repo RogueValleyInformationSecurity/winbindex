@@ -3267,6 +3267,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP SP3 for XPe and WEPOS (KB3197835)"
         },
+        "KB4012583": {
+            "releaseDate": "2017-06-13",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP for x64-based Systems (KB4012583)"
+        },
         "KB4012598": {
             "releaseDate": "2017-05-31",
             "releaseVersion": "",
