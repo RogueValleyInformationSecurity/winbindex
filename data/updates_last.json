@@ -430,6 +430,11 @@
             "releaseVersion": "",
             "title": "Security Update for Microsoft .NET Framework 2.0 SP2 on Windows Server 2003 and Windows XP for x64-based Systems (KB2789643)"
         },
+        "KB2794119": {
+            "releaseDate": "2017-05-30",
+            "releaseVersion": "",
+            "title": "Update for Windows XP x64 Edition (KB2794119)"
+        },
         "KB2804577": {
             "releaseDate": "2013-05-14",
             "releaseVersion": "",
