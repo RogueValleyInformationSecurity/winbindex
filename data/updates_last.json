@@ -504,6 +504,11 @@
             "releaseDate": "2006-08-08",
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB921398)"
+        },
+        "KB921883": {
+            "releaseDate": "2006-09-12",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP x64 Edition (KB921883)"
         }
     }
 }
