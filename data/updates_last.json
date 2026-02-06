@@ -4763,6 +4763,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP x64 Edition (KB936021)"
         },
+        "KB936357": {
+            "releaseDate": "2007-11-13",
+            "releaseVersion": "",
+            "title": "Update for Windows XP (KB936357)"
+        },
         "KB941202": {
             "releaseDate": "2007-10-09",
             "releaseVersion": "",
