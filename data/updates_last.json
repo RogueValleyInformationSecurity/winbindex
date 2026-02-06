@@ -787,6 +787,11 @@
             "releaseVersion": "",
             "title": "Update for Windows Server 2003 x64 Edition (KB3000988)"
         },
+        "KB3002657": {
+            "releaseDate": "2015-03-16",
+            "releaseVersion": "",
+            "title": "Security Update for Windows Server 2003 x64 Edition (KB3002657)"
+        },
         "KB3006226": {
             "releaseDate": "2014-11-11",
             "releaseVersion": "",
