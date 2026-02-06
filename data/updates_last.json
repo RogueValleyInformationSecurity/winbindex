@@ -415,6 +415,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows Server 2003 (KB830352)"
         },
+        "KB839645": {
+            "releaseDate": "2005-02-08",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB839645)"
+        },
         "KB843496": {
             "releaseDate": "2004-09-20",
             "releaseVersion": "",
