@@ -749,6 +749,11 @@
             "releaseDate": "2007-10-09",
             "releaseVersion": "",
             "title": "Update for Windows XP (KB941776)"
+        },
+        "KB943460": {
+            "releaseDate": "2007-11-13",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB943460)"
         }
     }
 }
