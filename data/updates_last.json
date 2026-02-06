@@ -1239,6 +1239,11 @@
             "releaseDate": "2009-08-14",
             "releaseVersion": "",
             "title": "Security Update for Windows XP x64 Edition (KB973869)"
+        },
+        "KB974112": {
+            "releaseDate": "2009-10-13",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB974112)"
         }
     }
 }
