@@ -130,6 +130,11 @@
             "releaseVersion": "",
             "title": "Security Update for Microsoft .NET Framework 2.0 SP2 on Windows Server 2003 (KB2979574)"
         },
+        "KB2979575": {
+            "releaseDate": "2014-10-14",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 4 on Windows Server 2003, Vista, Windows 7, Server 2008 x86 (KB2979575)"
+        },
         "KB2981580": {
             "releaseDate": "2014-08-12",
             "releaseVersion": "",
