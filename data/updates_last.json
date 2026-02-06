@@ -2879,6 +2879,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB978601)"
         },
+        "KB978695": {
+            "releaseDate": "2010-06-08",
+            "releaseVersion": "",
+            "title": "Security Update for 32-bit Windows Media Format Runtime 11 for Windows XP x64 Edition (KB978695)"
+        },
         "KB978706": {
             "releaseDate": "2010-02-09",
             "releaseVersion": "",
