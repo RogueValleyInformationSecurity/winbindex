@@ -480,6 +480,11 @@
             "releaseVersion": "",
             "title": "Security Update for Microsoft .NET Framework 3.0 SP2 on Windows Server 2003 and Windows XP for x64-based Systems (KB2604110)"
         },
+        "KB2604111": {
+            "releaseDate": "2012-07-10",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 3.5 SP1 on Windows XP, Server 2003, Vista, Server 2008 x86 (KB2604111)"
+        },
         "KB2616310": {
             "releaseDate": "2011-11-08",
             "releaseVersion": "",
