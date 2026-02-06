@@ -2564,6 +2564,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB958469)"
         },
+        "KB958869": {
+            "releaseDate": "2009-10-13",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB958869)"
+        },
         "KB960089": {
             "releaseDate": "2009-02-10",
             "releaseVersion": "",
