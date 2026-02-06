@@ -820,6 +820,11 @@
             "releaseVersion": "",
             "title": "Update for Microsoft .NET Framework 3.5 SP1 on Windows XP, Server 2003, Vista and Server 2008 for x64-based Systems (KB2836940)"
         },
+        "KB2836941": {
+            "releaseDate": "2014-02-11",
+            "releaseVersion": "",
+            "title": "Update for Microsoft .NET Framework 2.0 SP2 on Windows Server 2003 and Windows XP for x64-based Systems (KB2836941)"
+        },
         "KB2839229": {
             "releaseDate": "2013-06-18",
             "releaseVersion": "",
