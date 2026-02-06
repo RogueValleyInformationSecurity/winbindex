@@ -5761,6 +5761,11 @@
             "releaseVersion": "",
             "title": "Security Update for WES09 and POSReady 2009 (KB4048970)"
         },
+        "KB4049068": {
+            "releaseDate": "2017-11-27",
+            "releaseVersion": "",
+            "title": "Update for WES09 and POSReady 2009 (KB4049068)"
+        },
         "KB4050795": {
             "releaseDate": "2017-11-14",
             "releaseVersion": "",
