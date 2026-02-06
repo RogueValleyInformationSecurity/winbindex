@@ -4913,6 +4913,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP x64 Edition (KB954154)"
         },
+        "KB954156": {
+            "releaseDate": "2008-09-15",
+            "releaseVersion": "",
+            "title": "Security Update for Windows Media Encoder 9 Series for Windows XP (KB954156)"
+        },
         "KB955069": {
             "releaseDate": "2008-11-11",
             "releaseVersion": "",
