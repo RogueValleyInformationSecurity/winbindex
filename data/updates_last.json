@@ -8838,6 +8838,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP x64 Edition (KB2862335)"
         },
+        "KB2863058": {
+            "releaseDate": "2013-08-13",
+            "releaseVersion": "",
+            "title": "Update for Windows XP x64 Edition (KB2863058)"
+        },
         "KB2863239": {
             "releaseDate": "2013-10-08",
             "releaseVersion": "",
