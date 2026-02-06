@@ -710,6 +710,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB932168)"
         },
+        "KB932823": {
+            "releaseDate": "2008-05-27",
+            "releaseVersion": "",
+            "title": "Update for Windows XP (KB932823)"
+        },
         "KB933360": {
             "releaseDate": "2007-08-28",
             "releaseVersion": "",
