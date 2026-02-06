@@ -1749,6 +1749,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows Server 2003 x64 Edition (KB2207559)"
         },
+        "KB2229593": {
+            "releaseDate": "2010-07-13",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB2229593)"
+        },
         "KB2388210": {
             "releaseDate": "2010-10-26",
             "releaseVersion": "",
