@@ -50,6 +50,11 @@
             "releaseVersion": "",
             "title": "Update for Windows Server 2003 x64 Edition (KB2808679)"
         },
+        "KB2890882": {
+            "releaseDate": "2013-10-22",
+            "releaseVersion": "",
+            "title": "Update for Windows Server 2003 x64 Edition (KB2890882)"
+        },
         "KB829358": {
             "releaseDate": "2005-04-26",
             "releaseVersion": "",
