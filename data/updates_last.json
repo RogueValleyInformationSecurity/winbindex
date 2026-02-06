@@ -1994,6 +1994,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP x64 Edition (KB2507618)"
         },
+        "KB2507938": {
+            "releaseDate": "2011-07-12",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP x64 Edition (KB2507938)"
+        },
         "KB2509553": {
             "releaseDate": "2011-04-12",
             "releaseVersion": "",
