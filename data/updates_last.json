@@ -571,6 +571,13 @@
             "title": "Security Update for Windows Server 2003 (KB981550)"
         }
     },
+    "2003-R2": {
+        "KB953298": {
+            "releaseDate": "2009-10-13",
+            "releaseVersion": "",
+            "title": "Microsoft .NET Framework 1.1 Service Pack 1 Security Update for Windows Server 2003 x86 and Windows Server 2003 R2 x86 (KB953298)"
+        }
+    },
     "2003-x64": {
         "KB2207559": {
             "releaseDate": "2010-12-14",
