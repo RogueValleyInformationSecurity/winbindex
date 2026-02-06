@@ -40,6 +40,11 @@
             "releaseVersion": "",
             "title": "Update for Windows Server 2003 x64 Edition (KB2718704)"
         },
+        "KB2749655": {
+            "releaseDate": "2012-10-09",
+            "releaseVersion": "",
+            "title": "Update for Windows Server 2003 (KB2749655)"
+        },
         "KB829358": {
             "releaseDate": "2005-04-26",
             "releaseVersion": "",
