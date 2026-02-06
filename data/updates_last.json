@@ -540,6 +540,11 @@
             "releaseVersion": "",
             "title": "Cumulative Security Update for Outlook Express for Windows XP x64 Edition (KB923694)"
         },
+        "KB923980": {
+            "releaseDate": "2006-12-12",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB923980)"
+        },
         "KB924191": {
             "releaseDate": "2006-10-10",
             "releaseVersion": "",
