@@ -570,6 +570,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP x64 Edition (KB914389)"
         },
+        "KB917344": {
+            "releaseDate": "2006-06-13",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB917344)"
+        },
         "KB924881": {
             "releaseDate": "2007-01-29",
             "releaseVersion": "",
