@@ -779,6 +779,11 @@
             "releaseDate": "2007-12-11",
             "releaseVersion": "",
             "title": "Security Update for Windows XP x64 Edition (KB944653)"
+        },
+        "KB946627": {
+            "releaseDate": "2008-01-08",
+            "releaseVersion": "",
+            "title": "Update for Internet Explorer 6 for Windows XP (KB946627)"
         }
     }
 }
