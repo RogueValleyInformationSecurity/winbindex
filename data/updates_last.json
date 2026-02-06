@@ -480,6 +480,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB2620712)"
         },
+        "KB2621440": {
+            "releaseDate": "2012-03-13",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB2621440)"
+        },
         "KB2624667": {
             "releaseDate": "2011-12-13",
             "releaseVersion": "",
