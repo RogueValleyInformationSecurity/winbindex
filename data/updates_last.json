@@ -6231,6 +6231,11 @@
             "releaseVersion": "",
             "title": "2019-01 Security Only Update for .NET Framework 2.0 SP2 on WES09 and POSReady 2009 (KB4480087)"
         },
+        "KB4480965": {
+            "releaseDate": "2019-01-08",
+            "releaseVersion": "",
+            "title": "2019-01 Cumulative Security Update for Internet Explorer 8 for WES09 and POSReady 2009 for x86-based systems (KB4480965)"
+        },
         "KB4483187": {
             "releaseDate": "2018-12-19",
             "releaseVersion": "",
