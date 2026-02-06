@@ -430,6 +430,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows Server 2003 (KB883935)"
         },
+        "KB885836": {
+            "releaseDate": "2004-12-14",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB885836)"
+        },
         "KB887797": {
             "releaseDate": "2005-08-09",
             "releaseVersion": "",
