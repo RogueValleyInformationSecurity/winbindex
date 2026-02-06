@@ -1902,7 +1902,9 @@
 "a8e8acb31016228a89080e897d1272b6e1deb3514df1356ccf215e809fd33375": "pe",
 "bcad25c8b2ff36e93131459a5cc99eca48e59023cc36d02290ccd183482f40e1": "pe",
 "ca39367fe2fbfdcf23bc6dd571b36a9832702ce796ff3edd6c41298374a8b149": "pe",
-"dee4db47d1fc23efa1b53cbf5dd38d12b7657a4067af8c0067c7b90dfc14abe2": "pe"
+"d379b9c45ad7f8dc772f2cc5bd7e081982aa278398dbdab4629bb36af6ebbda5": "pe",
+"dee4db47d1fc23efa1b53cbf5dd38d12b7657a4067af8c0067c7b90dfc14abe2": "pe",
+"f363b17d55f1f169911879372b3bf4f84545f522ecbaa48e25f3dd7557ebf148": "pe"
 },
 "inetmib1.dll": {
 "13884ecaeaba608cba2e06b9160cf6901a50268579d2ba1fd40f9f18df2ade5e": "pe",
@@ -4372,6 +4374,10 @@
 },
 "windowssearchres.dll": {
 "17c0649dff5effd48a3a88fa1f76abaa341c2c17999f2faa939da64bf48b579b": "pe"
+},
+"winetcomm.dll": {
+"5dd7a8a3cb6221e6b2a63f0e74a9d1c201133eeecb7df963703da096b0c918b1": "pe",
+"8ac6d1317ea0cf5359101ce4284b9c3821bdfeb34fbbea7b3cf02f3b8737c251": "pe"
 },
 "winhttp.dll": {
 "12250fac4dd8a57455f418cbc2dc9425dcd25e1f4b04e16c721a1de8362f4eca": "pe",

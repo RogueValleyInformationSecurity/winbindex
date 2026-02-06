@@ -621,6 +621,7 @@
 "win32spl.dll",
 "windowssearch.exe",
 "windowssearchres.dll",
+"winetcomm.dll",
 "winhttp.dll",
 "wininet.dll",
 "winmm.dll",
