@@ -534,6 +534,7 @@
 "usbohci.sys",
 "usbport.sys",
 "usbscan.sys",
+"usbser.sys",
 "usbuhci.sys",
 "usbvideo.sys",
 "user32.dll",

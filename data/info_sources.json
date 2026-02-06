@@ -3567,6 +3567,9 @@
 "usbscan.sys": {
 "6e5ebbc8b70c1d593634daf0c190deadfda18c3cbc8f552a76f156f3869ef05b": "pe"
 },
+"usbser.sys": {
+"2d450199338a217fbd951317812a74223e8b477974c7634667e8896316c3fea0": "pe"
+},
 "usbuhci.sys": {
 "993f5a700b3f9dea4d985cd96169fece346f701b5789dfbc8d433c5be28fb00c": "pe"
 },
