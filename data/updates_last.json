@@ -85,6 +85,11 @@
             "releaseVersion": "",
             "title": "Security Update for Microsoft .NET Framework 4 on Windows Server 2003, Vista, Windows 7, Server 2008 x86 (KB2931365)"
         },
+        "KB2932079": {
+            "releaseDate": "2014-05-13",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 2.0 SP2 on Windows Server 2003 (KB2932079)"
+        },
         "KB829358": {
             "releaseDate": "2005-04-26",
             "releaseVersion": "",
