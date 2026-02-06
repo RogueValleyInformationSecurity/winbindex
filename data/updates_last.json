@@ -575,6 +575,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB2653956)"
         },
+        "KB2655992": {
+            "releaseDate": "2012-08-29",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB2655992)"
+        },
         "KB2656352": {
             "releaseDate": "2012-05-22",
             "releaseVersion": "",
