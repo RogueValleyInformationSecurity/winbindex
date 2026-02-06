@@ -2484,6 +2484,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB950749)"
         },
+        "KB951748": {
+            "releaseDate": "2008-07-22",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB951748)"
+        },
         "KB952068": {
             "releaseDate": "2008-12-09",
             "releaseVersion": "",
