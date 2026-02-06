@@ -232,6 +232,7 @@
 "kb888795_custom.dll",
 "kbdnec.dll",
 "kblcheckere.dll",
+"kdcsvc.dll",
 "kerberos.dll",
 "kernel32.dll",
 "kmixer.sys",

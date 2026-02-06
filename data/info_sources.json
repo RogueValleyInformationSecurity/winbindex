@@ -2557,6 +2557,10 @@
 "kblcheckere.dll": {
 "669aaeac2f2abd57dbc8dc14f51ae1b611c3091076dda8c5cf81bb5e7a635b5a": "pe"
 },
+"kdcsvc.dll": {
+"aea13d630d481805a47045d072e7fbca7db3abfc0ac2d561e719c981849533d8": "pe",
+"c2a3444336c9d53f07f1762dd0f7123b7fcfd624b655161ac0eeb6741acc1d58": "pe"
+},
 "kerberos.dll": {
 "3a4456c2566968ccc4293e5503deb9dfa4d65ad12e65cf89daebac7239f8f655": "pe",
 "4fdb242bd058d250184efd4dbcd56cc2bd86f6f6fc716043c94869cac34ec193": "pe",
