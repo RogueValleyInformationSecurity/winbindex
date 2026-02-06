@@ -3002,6 +3002,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP x64 Edition (KB2820917)"
         },
+        "KB2832411": {
+            "releaseDate": "2013-07-09",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 3.0 SP2 on Windows Server 2003 and Windows XP for x64-based Systems (KB2832411)"
+        },
         "KB896424": {
             "releaseDate": "2005-11-08",
             "releaseVersion": "",
