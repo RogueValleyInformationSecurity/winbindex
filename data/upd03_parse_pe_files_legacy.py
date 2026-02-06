@@ -254,9 +254,16 @@ def scan_pe_file(file_path: Path):
         result['signatureType'] = 'Overlay'
         result['signingDate'] = signing_times
     except signify.exceptions.SignedPEParseError as e:
-        if str(e) != 'The PE file does not contain a certificate table.':
-            raise
-        result['signingStatus'] = 'Unsigned'
+        if str(e) == 'The PE file does not contain a certificate table.':
+            result['signingStatus'] = 'Unsigned'
+        else:
+            # Legacy PE files may have unusual certificate structures
+            # (e.g. "Unknown certificate revision 256"). Treat as signed
+            # but with unknown signing date.
+            print(f'  WARNING: Could not parse signature for {file_path.name}: {e}')
+            result['signingStatus'] = 'Unknown'
+            result['signatureType'] = 'Overlay'
+            result['signingDate'] = []
 
     return result
 

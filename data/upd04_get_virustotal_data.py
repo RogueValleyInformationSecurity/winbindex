@@ -45,7 +45,7 @@ def create_virustotal_urllib_session():
         'Accept-Ianguage': 'en-US,en;q=0.9,es;q=0.8',  # That's a deliberate typo, seems like an anti-automation protection
         'X-Tool': 'vt-ui-main',
     })
-    session.proxies.update({'https': 'http://127.0.0.1:8080'})  # for pymultitor
+    session.proxies.update({'https': config.vt_proxy})
 
     return session
 
@@ -221,21 +221,25 @@ def get_virustotal_data_for_files(names_and_hashes, session: requests.Session, o
     count = 0
 
     for names_and_hashes_chunk in chunks(names_and_hashes, chunk_size):
-        sleep_time = 1
-        while True:
-            try:
-                hashes_found = lookup_virustotal_bulk_hashes_exist(session, [hash for name, hash in names_and_hashes_chunk])
-                break
-            except Exception as e:
-                print(e)
-                time.sleep(sleep_time)
-                sleep_time = min(sleep_time * 2, 60 * 5)
-                print('Retrying')
+        if getattr(config, 'vt_skip_bulk_check', False):
+            hashes_found = {hash: True for name, hash in names_and_hashes_chunk}
+        else:
+            sleep_time = 1
+            while True:
+                try:
+                    hashes_found = lookup_virustotal_bulk_hashes_exist(session, [hash for name, hash in names_and_hashes_chunk])
+                    break
+                except Exception as e:
+                    print(e)
+                    time.sleep(sleep_time)
+                    sleep_time = min(sleep_time * 2, 60 * 5)
+                    print('Retrying')
 
         print(f'Found {sum(hashes_found.values())} hashes of {len(hashes_found)}')
 
         for name, hash in names_and_hashes_chunk:
             if hashes_found[hash]:
+                retry_sleep = 1
                 while True:
                     if time_to_stop and datetime.now() >= time_to_stop:
                         result['next'] = (name, hash)
@@ -251,17 +255,22 @@ def get_virustotal_data_for_files(names_and_hashes, session: requests.Session, o
                         file_result = 'exception'
 
                     if file_result != 'retry':
+                        retry_sleep = 1
                         break
 
-                    # print('Waiting to retry...')
-                    # time.sleep(30)
-                    print(f'Retrying {hash} ({name})')
+                    retry_sleep = min(retry_sleep * 2, 300)
+                    on_rate_limit = getattr(config, 'vt_on_rate_limit', None)
+                    if on_rate_limit:
+                        on_rate_limit()
+                    print(f'Rate limited, waiting {retry_sleep}s before retrying {hash} ({name})')
+                    time.sleep(retry_sleep)
 
                 if file_result in ['ok', 'exists']:
                     result['found'].add((name, hash))
                 elif file_result == 'not_found':
-                    assert False, (name, hash)
-                    # result['not_found'].add((name, hash))
+                    if not getattr(config, 'vt_skip_bulk_check', False):
+                        assert False, (name, hash)
+                    result['not_found'].add((name, hash))
                 elif file_result == 'too_large_no_pe_info':
                     result['not_found'].add((name, hash))
                 else:

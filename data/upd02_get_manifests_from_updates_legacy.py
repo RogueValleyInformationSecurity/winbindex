@@ -123,9 +123,8 @@ def get_update(windows_version: str, update_kb: str):
     version_patterns = {
         'XP':       r'\bWindows XP\b(?!.*(?:x64|Professional x64))',
         'XP-x64':   r'\bWindows XP\b.*\b(?:x64|Professional x64)\b',
-        '2003':     r'\bWindows Server 2003\b(?!.*(?:x64|R2))',
-        '2003-x64': r'\bWindows Server 2003\b.*\bx64\b(?!.*\bR2\b)',
-        '2003-R2':  r'\bWindows Server 2003 R2\b',
+        '2003':     r'\bWindows Server 2003\b(?!.*\bx64\b)',
+        '2003-x64': r'\bWindows Server 2003\b.*\bx64\b',
     }
 
     version_pattern = version_patterns.get(windows_version)

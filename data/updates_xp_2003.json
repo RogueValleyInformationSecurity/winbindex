@@ -5209,6 +5209,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows Server 2003 (KB972554)"
         },
+        "KB953298": {
+            "releaseDate": "2009-10-13",
+            "releaseVersion": "",
+            "title": "Microsoft .NET Framework 1.1 Service Pack 1 Security Update for Windows Server 2003 x86 and Windows Server 2003 R2 x86 (KB953298)"
+        },
         "KB954155": {
             "releaseDate": "2009-10-13",
             "releaseVersion": "",
@@ -5434,6 +5439,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP x64 Edition (KB2387149)"
         },
+        "KB2416451": {
+            "releaseDate": "2010-10-12",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 1.1 SP1, Windows Server 2003, and Windows Server 2003 R2 x86 (KB2416451)"
+        },
         "KB2416468": {
             "releaseDate": "2010-10-12",
             "releaseVersion": "",
@@ -5604,6 +5614,11 @@
             "releaseVersion": "",
             "title": "Security Update for Microsoft .NET Framework 4 on Windows XP, Windows Server 2003, Windows Vista, Windows 7, Windows Server 2008 x86 (KB2518870)"
         },
+        "KB2572069": {
+            "releaseDate": "2011-10-11",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 1.1 SP1 on Windows Server 2003 and Windows Server 2003 R2 x86 (KB2572069)"
+        },
         "KB2592799": {
             "releaseDate": "2011-10-11",
             "releaseVersion": "",
@@ -5634,6 +5649,11 @@
             "releaseVersion": "",
             "title": "Update for Windows XP (KB2633952)"
         },
+        "KB2656358": {
+            "releaseDate": "2011-12-29",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 1.1 SP1 on Windows Server 2003 and Windows Server 2003 R2 x86 (KB2656358)"
+        },
         "KB2632503": {
             "releaseDate": "2012-01-10",
             "releaseVersion": "",
@@ -5658,6 +5678,11 @@
             "releaseDate": "2012-03-13",
             "releaseVersion": "",
             "title": "Security Update for Windows Server 2003 (KB2647170)"
+        },
+        "KB2604078": {
+            "releaseDate": "2012-05-08",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 1.1 SP1 on Windows Server 2003 and Windows Server 2003 R2 x86 (KB2604078)"
         },
         "KB2659262": {
             "releaseDate": "2012-05-08",
@@ -5709,6 +5734,11 @@
             "releaseVersion": "",
             "title": "Security Update for Microsoft .NET Framework 2.0 SP2 on Windows Server 2003 and Windows XP x86 (KB2656369)"
         },
+        "KB2656376": {
+            "releaseDate": "2012-08-29",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 1.1 SP1 on Windows Server 2003 and Windows Server 2003 R2 x86 (KB2656376)"
+        },
         "KB2685939": {
             "releaseDate": "2012-08-29",
             "releaseVersion": "",
@@ -5754,6 +5784,11 @@
             "releaseVersion": "",
             "title": "Update for Windows Server 2003 (KB2749655)"
         },
+        "KB2698032": {
+            "releaseDate": "2012-11-13",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 1.1 SP1 on Windows Server 2003 and Windows Server 2003 R2 x86 (KB2698032)"
+        },
         "KB2727528": {
             "releaseDate": "2012-11-13",
             "releaseVersion": "",
@@ -5788,6 +5823,11 @@
             "releaseDate": "2013-07-09",
             "releaseVersion": "",
             "title": "Security Update for Microsoft .NET Framework 2.0 SP2 on Windows Server 2003 and Windows XP for x64-based Systems (KB2833940)"
+        },
+        "KB2833949": {
+            "releaseDate": "2013-07-09",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 1.1 SP1 on Windows Server 2003 and Windows Server 2003 R2 x86 (KB2833949)"
         },
         "KB2850851": {
             "releaseDate": "2013-07-09",
@@ -5909,6 +5949,11 @@
             "releaseVersion": "",
             "title": "Security Update for Microsoft .NET Framework 2.0 SP2 on Windows Server 2003 and Windows XP for x64-based Systems (KB2898856)"
         },
+        "KB2898860": {
+            "releaseDate": "2014-02-11",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 1.1 SP1 on Windows Server 2003 and Windows Server 2003 R2 x86 (KB2898860)"
+        },
         "KB2901111": {
             "releaseDate": "2014-02-11",
             "releaseVersion": "",
@@ -5943,6 +5988,11 @@
             "releaseDate": "2014-05-13",
             "releaseVersion": "",
             "title": "Security Update for Windows Server 2003 x64 Edition (KB2926765)"
+        },
+        "KB2931352": {
+            "releaseDate": "2014-05-13",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 1.1 SP1 on Windows Server 2003 and Windows Server 2003 R2 x86 (KB2931352)"
         },
         "KB2931365": {
             "releaseDate": "2014-05-13",
@@ -6164,6 +6214,11 @@
             "releaseVersion": "",
             "title": "Security Update for Microsoft .NET Framework 2.0 SP2 on Windows Server 2003 for x64-based Systems (KB2894843)"
         },
+        "KB3037572": {
+            "releaseDate": "2015-04-14",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 1.1 SP1 on Windows Server 2003 and Windows Server 2003 R2 x86 (KB3037572)"
+        },
         "KB3037577": {
             "releaseDate": "2015-04-14",
             "releaseVersion": "",
@@ -6178,6 +6233,11 @@
             "releaseDate": "2015-04-14",
             "releaseVersion": "",
             "title": "Cumulative Security Update for Internet Explorer 7 for Windows Server 2003 (KB3038314)"
+        },
+        "KB3023211": {
+            "releaseDate": "2015-05-12",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 1.1 SP1 on Windows Server 2003 and Windows Server 2003 R2 x86 (KB3023211)"
         },
         "KB3023220": {
             "releaseDate": "2015-05-12",
@@ -8210,68 +8270,6 @@
             "releaseDate": "2017-05-31",
             "releaseVersion": "",
             "title": "Security Update for Microsoft .NET Framework 3.0 SP2 on Windows Server 2003 and Windows XP x86 (KB2756918)"
-        }
-    },
-    "2003-R2": {
-        "KB953298": {
-            "releaseDate": "2009-10-13",
-            "releaseVersion": "",
-            "title": "Microsoft .NET Framework 1.1 Service Pack 1 Security Update for Windows Server 2003 x86 and Windows Server 2003 R2 x86 (KB953298)"
-        },
-        "KB2416451": {
-            "releaseDate": "2010-10-12",
-            "releaseVersion": "",
-            "title": "Security Update for Microsoft .NET Framework 1.1 SP1, Windows Server 2003, and Windows Server 2003 R2 x86 (KB2416451)"
-        },
-        "KB2572069": {
-            "releaseDate": "2011-10-11",
-            "releaseVersion": "",
-            "title": "Security Update for Microsoft .NET Framework 1.1 SP1 on Windows Server 2003 and Windows Server 2003 R2 x86 (KB2572069)"
-        },
-        "KB2656358": {
-            "releaseDate": "2011-12-29",
-            "releaseVersion": "",
-            "title": "Security Update for Microsoft .NET Framework 1.1 SP1 on Windows Server 2003 and Windows Server 2003 R2 x86 (KB2656358)"
-        },
-        "KB2604078": {
-            "releaseDate": "2012-05-08",
-            "releaseVersion": "",
-            "title": "Security Update for Microsoft .NET Framework 1.1 SP1 on Windows Server 2003 and Windows Server 2003 R2 x86 (KB2604078)"
-        },
-        "KB2656376": {
-            "releaseDate": "2012-08-29",
-            "releaseVersion": "",
-            "title": "Security Update for Microsoft .NET Framework 1.1 SP1 on Windows Server 2003 and Windows Server 2003 R2 x86 (KB2656376)"
-        },
-        "KB2698032": {
-            "releaseDate": "2012-11-13",
-            "releaseVersion": "",
-            "title": "Security Update for Microsoft .NET Framework 1.1 SP1 on Windows Server 2003 and Windows Server 2003 R2 x86 (KB2698032)"
-        },
-        "KB2833949": {
-            "releaseDate": "2013-07-09",
-            "releaseVersion": "",
-            "title": "Security Update for Microsoft .NET Framework 1.1 SP1 on Windows Server 2003 and Windows Server 2003 R2 x86 (KB2833949)"
-        },
-        "KB2898860": {
-            "releaseDate": "2014-02-11",
-            "releaseVersion": "",
-            "title": "Security Update for Microsoft .NET Framework 1.1 SP1 on Windows Server 2003 and Windows Server 2003 R2 x86 (KB2898860)"
-        },
-        "KB2931352": {
-            "releaseDate": "2014-05-13",
-            "releaseVersion": "",
-            "title": "Security Update for Microsoft .NET Framework 1.1 SP1 on Windows Server 2003 and Windows Server 2003 R2 x86 (KB2931352)"
-        },
-        "KB3037572": {
-            "releaseDate": "2015-04-14",
-            "releaseVersion": "",
-            "title": "Security Update for Microsoft .NET Framework 1.1 SP1 on Windows Server 2003 and Windows Server 2003 R2 x86 (KB3037572)"
-        },
-        "KB3023211": {
-            "releaseDate": "2015-05-12",
-            "releaseVersion": "",
-            "title": "Security Update for Microsoft .NET Framework 1.1 SP1 on Windows Server 2003 and Windows Server 2003 R2 x86 (KB3023211)"
         }
     }
 }

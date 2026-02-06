@@ -821,8 +821,7 @@ var globalFunctions = {};
                 'XP': 'Windows XP',
                 'XP-x64': 'Windows XP x64',
                 '2003': 'Windows Server 2003',
-                '2003-x64': 'Windows Server 2003 x64',
-                '2003-R2': 'Windows Server 2003 R2'
+                '2003-x64': 'Windows Server 2003 x64'
             };
 
             items = items.map(function (item) {

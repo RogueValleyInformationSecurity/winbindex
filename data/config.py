@@ -105,6 +105,9 @@ file_details_unsigned_with_overlay = [
 ]
 
 # Details: https://gist.github.com/m417z/3248c18efd942f63013b8d3035e2dc79
+vt_proxy = 'http://127.0.0.1:8080'  # pymultitor
+vt_skip_bulk_check = False
+
 file_hashes_mismatch = {
     # Temporary workaround for what seems to be an incorrect SHA256 hash in
     # KB5017389 and newer Windows 11 22H2 update manifests for some of the

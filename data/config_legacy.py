@@ -51,10 +51,32 @@ file_hashes_unsigned_with_overlay = set()
 
 file_details_unsigned_with_overlay = []
 
+vt_proxy = 'socks5h://127.0.0.1:9150'  # Tor Browser SOCKS5
+vt_skip_bulk_check = True  # Bulk endpoint blocks Tor exit nodes
+
+def vt_on_rate_limit():
+    """Request a new Tor circuit via the control port."""
+    import socket
+    from pathlib import Path
+    cookie_path = Path.home() / 'Desktop' / 'Tor Browser' / 'Browser' / 'TorBrowser' / 'Data' / 'Tor' / 'control_auth_cookie'
+    if not cookie_path.exists():
+        return
+    try:
+        s = socket.socket()
+        s.settimeout(5)
+        s.connect(('127.0.0.1', 9151))
+        s.send(f'AUTHENTICATE {cookie_path.read_bytes().hex()}\r\n'.encode())
+        s.recv(1024)
+        s.send(b'SIGNAL NEWNYM\r\n')
+        s.recv(1024)
+        s.close()
+    except Exception:
+        pass
+
 file_hashes_mismatch = {}
 
 # Legacy version identifiers.
-LEGACY_VERSIONS = ['XP', 'XP-x64', '2003', '2003-x64', '2003-R2']
+LEGACY_VERSIONS = ['XP', 'XP-x64', '2003', '2003-x64']
 
 # Search suffixes for the Microsoft Update Catalog, keyed by version ID.
 CATALOG_SEARCH_SUFFIXES = {
@@ -62,5 +84,4 @@ CATALOG_SEARCH_SUFFIXES = {
     'XP-x64':   'Windows XP x64',
     '2003':     'Windows Server 2003',
     '2003-x64': 'Windows Server 2003 x64',
-    '2003-R2':  'Windows Server 2003 R2',
 }

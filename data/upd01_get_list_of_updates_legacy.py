@@ -32,9 +32,8 @@ CATALOG_URL = 'https://www.catalog.update.microsoft.com/Search.aspx'
 VERSION_PATTERNS = {
     'XP':       r'\bWindows XP\b(?!.*(?:x64|Professional x64))',
     'XP-x64':   r'\bWindows XP\b.*\b(?:x64|Professional x64)\b',
-    '2003':     r'\bWindows Server 2003\b(?!.*(?:x64|R2))',
-    '2003-x64': r'\bWindows Server 2003\b.*\bx64\b(?!.*\bR2\b)',
-    '2003-R2':  r'\bWindows Server 2003 R2\b',
+    '2003':     r'\bWindows Server 2003\b(?!.*\bx64\b)',
+    '2003-x64': r'\bWindows Server 2003\b.*\bx64\b',
 }
 
 FILTER_REGEX = r'\bItanium\b|\bia64\b|\bIA-64\b'
