@@ -413,6 +413,7 @@
 "splitter.sys",
 "spmsg.dll",
 "spnpinst.exe",
+"spoolsv.exe",
 "sprecovr.exe",
 "spuninst.exe",
 "spupdsvc.exe",
