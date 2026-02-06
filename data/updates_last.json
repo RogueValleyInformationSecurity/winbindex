@@ -800,6 +800,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows Server 2003 x64 Edition (KB948745)"
         },
+        "KB950749": {
+            "releaseDate": "2008-05-13",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB950749)"
+        },
         "KB960082": {
             "releaseDate": "2009-03-04",
             "releaseVersion": "",
