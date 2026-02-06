@@ -1959,6 +1959,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP x64 Edition (KB2503658)"
         },
+        "KB2506212": {
+            "releaseDate": "2011-04-12",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP x64 Edition (KB2506212)"
+        },
         "KB2524426": {
             "releaseDate": "2011-05-10",
             "releaseVersion": "",
