@@ -5516,6 +5516,11 @@
             "releaseVersion": "",
             "title": "Security Update for WES09 and POSReady 2009 (KB4015067)"
         },
+        "KB4017018": {
+            "releaseDate": "2017-05-30",
+            "releaseVersion": "",
+            "title": "Security Update for WES09 and POSReady 2009 (KB4017018)"
+        },
         "KB4018271": {
             "releaseDate": "2017-06-13",
             "releaseVersion": "",
