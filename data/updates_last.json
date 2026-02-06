@@ -429,6 +429,11 @@
             "releaseDate": "2006-04-25",
             "releaseVersion": "",
             "title": "Update Rollup for Windows XP Media Center 2005 (KB914548)"
+        },
+        "KB914798": {
+            "releaseDate": "2006-06-13",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB914798)"
         }
     }
 }
