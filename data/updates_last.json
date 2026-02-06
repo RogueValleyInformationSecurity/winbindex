@@ -2654,6 +2654,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP x64 Edition (KB969947)"
         },
+        "KB970430": {
+            "releaseDate": "2009-12-08",
+            "releaseVersion": "",
+            "title": "Update for Windows XP x64 Edition (KB970430)"
+        },
         "KB970437": {
             "releaseDate": "2009-06-09",
             "releaseVersion": "",
