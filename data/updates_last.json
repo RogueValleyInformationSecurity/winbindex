@@ -745,6 +745,11 @@
             "releaseVersion": "",
             "title": "Security Update for Microsoft .NET Framework 2.0 SP2 on Windows Server 2003 and Windows XP x86 (KB2742596)"
         },
+        "KB2742607": {
+            "releaseDate": "2017-05-30",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 1.0 SP3 on Windows XP Tablet PC and Media Center (KB2742607)"
+        },
         "KB2756822": {
             "releaseDate": "2012-10-09",
             "releaseVersion": "",

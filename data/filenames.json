@@ -492,6 +492,7 @@
 "system.web.regularexpressions.dll",
 "system.web.services.dll",
 "system.windows.forms.dll",
+"system.windows.forms.resources.dll",
 "system.xml.dll",
 "t2embed.dll",
 "tapisrv.dll",
