@@ -15,6 +15,11 @@
             "releaseVersion": "",
             "title": "Update for Windows Server 2003 (KB2616676)"
         },
+        "KB2641690": {
+            "releaseDate": "2011-11-16",
+            "releaseVersion": "",
+            "title": "Update for Windows Server 2003 (KB2641690)"
+        },
         "KB829358": {
             "releaseDate": "2005-04-26",
             "releaseVersion": "",
