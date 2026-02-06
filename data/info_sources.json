@@ -202,6 +202,7 @@
 "fe507c254f8934a58f6679f445e42b8db29b5fa757ad04722e721e5c6f563f37": "pe"
 },
 "custdll.dll": {
+"231767c889e73010e7bc345386a7ba669d04f84c60596bd8ae2fd33672050db7": "pe",
 "937c97fb40e4c870924b7333430b98f89ed8195a7ded8d29b9b57c8ea69a8cf7": "pe"
 },
 "custom.dll": {
@@ -2279,6 +2280,9 @@
 },
 "wmavds32.ax": {
 "bed4051031fa7f8cfd90ff5206fdc119ee7597eff927a1cbe61adf5e42b8eae3": "pe"
+},
+"wmenceng.dll": {
+"081f97c0f9a5af2bf1ed448075ff8f5771adb2d07d6df5f5ba85e20309ee3ba7": "pe"
 },
 "wmex.dll": {
 "01dd123f65c59d1313c991ee6a651b33c7908973eb7fecfd6f412ca3d9a06368": "pe"
