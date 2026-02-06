@@ -2474,6 +2474,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows Server 2003 x64 Edition (KB944275)"
         },
+        "KB944338": {
+            "releaseDate": "2008-08-12",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP x64 Edition (KB944338)"
+        },
         "KB948496": {
             "releaseDate": "2008-03-11",
             "releaseVersion": "",
