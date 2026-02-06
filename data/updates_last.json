@@ -571,6 +571,13 @@
             "title": "Security Update for Windows Server 2003 (KB981550)"
         }
     },
+    "2003-x64": {
+        "KB898458": {
+            "releaseDate": "2005-06-14",
+            "releaseVersion": "",
+            "title": "Security Update for Windows Server 2003 x64 Edition (KB898458)"
+        }
+    },
     "XP": {
         "KB2079403": {
             "releaseDate": "2010-12-14",
