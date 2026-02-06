@@ -60,6 +60,9 @@
 "e9944ca11ccf9e0516d072f9fb5f1f8a9aa3218762aeabf93178ec302051966a": "pe",
 "f21465bfc77aa2f6f92b026dab19eb959e64d18ce5e0b56d34afd4c47541b0b4": "pe"
 },
+"adfsreg.exe": {
+"b8eba0100cfc3294898d34269b4a03f87f90632508263556a5417460d972b9c2": "pe"
+},
 "admin.dll": {
 "085a80062185d4f3b3d841be60289b1b47c3a0f21088147893588d93690aa080": "pe",
 "9e79bff68fbd108e020c6afb324cace8a55e54bc6f3de49abe40c836274282d6": "pe"
@@ -2346,6 +2349,18 @@
 },
 "ifilterssetup.exe": {
 "07957f9b0307de018199e9f4ba7d66b0046353b8f023e0c4cbcd58cfc410bdb3": "pe"
+},
+"ifsext.dll": {
+"562c9499bdd198a825f277be16b56dafb3130fec4c33e5ccce14a7fef32714b6": "pe",
+"b01f3e3d49002583c1eeff61b09cdb68ed7f99fe192137293b6ba312bd76de14": "pe"
+},
+"ifsfilt.dll": {
+"353438e2e42fb4ebd9f4f26c52bd061763b947b80fcd1cf0fc9bbe5834cfdefa": "pe",
+"c2b2de5d5a76e61974fcd15a5de5fc4418b94f0512b985a1ff0e7433d8b7ee7c": "pe"
+},
+"ifsutils.dll": {
+"9554ece833e8b4f433ed3bcaf69efcce92491b21716110d05b24ca08a64cd01b": "pe",
+"cd2934b657a50c26f56bd79131911b0c983cc1f18d0c27dfb933c9795d71c310": "pe"
 },
 "igmpv2.dll": {
 "e003661803f6c18fc886cec665b35e99fc9d86a0184b2db980ac17897cfc25a2": "pe"
@@ -4774,6 +4789,10 @@
 },
 "system.web.regularexpressions.dll": {
 "ef7f7fb29a109f133f088ad6df1ea34afadacd1e65c7b288cab5e9c05fda2842": "pe"
+},
+"system.web.security.singlesignon.dll": {
+"4f891788aba8fad01115489b88b949079cabca899bd5646cee258e49f990b9bb": "pe",
+"dcd5cf7c25deb282ae423aea168a7ff42c2eca1cfc08a9fea5ef872b21c075e8": "pe"
 },
 "system.web.services.dll": {
 "5b530342b07be59f1a37dcbb10e5035c1711c23351a539c7771c77a9647ceadb": "pe"
