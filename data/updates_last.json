@@ -2544,6 +2544,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP x64 Edition (KB956744)"
         },
+        "KB956844": {
+            "releaseDate": "2009-09-08",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP x64 Edition (KB956844)"
+        },
         "KB957097": {
             "releaseDate": "2008-11-11",
             "releaseVersion": "",
