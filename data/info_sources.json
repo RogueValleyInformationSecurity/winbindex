@@ -4289,6 +4289,14 @@
 "wisptis.exe": {
 "377f6b875bdc916869d10847c8231262ded0defbe373d12718fc9bc734f0230a": "pe"
 },
+"wjgdw400.dll": {
+"5ecf0aedc21fbd3164d1e872db13eff81805a10b998f1a6258bd8dae3e3a5e5e": "pe",
+"e3c770269cca9c31cf6bfeb1be1cbd7b3b2945eb0403fb0976915ad60c40a66b": "pe"
+},
+"wjgpl400.dll": {
+"3b709cedc879caab5f15675dda80291cff02977607645b471dd10cf46f611506": "pe",
+"ac3c9ec016009d3cd95d0527aa0d669e22bade1c015e10daf7616ffd3f7bf9f0": "pe"
+},
 "wksprt.exe": {
 "8a7b119d0872ce89bc86e45ad40e40819304ff6d67ab885aadbf6e9e741b5c7d": "pe"
 },
