@@ -805,6 +805,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB2839229)"
         },
+        "KB2845142": {
+            "releaseDate": "2013-07-09",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB2845142)"
+        },
         "KB328940": {
             "releaseDate": "2004-05-15",
             "releaseVersion": "",
