@@ -880,6 +880,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB950762)"
         },
+        "KB950974": {
+            "releaseDate": "2008-08-12",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP x64 Edition (KB950974)"
+        },
         "KB951376": {
             "releaseDate": "2008-06-18",
             "releaseVersion": "",
