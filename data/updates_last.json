@@ -3297,6 +3297,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP SP2 for x64-based Systems (KB4022747)"
         },
+        "KB4024323": {
+            "releaseDate": "2017-06-13",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP SP2 for x64-based Systems (KB4024323)"
+        },
         "KB896424": {
             "releaseDate": "2005-11-08",
             "releaseVersion": "",
