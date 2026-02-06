@@ -4526,6 +4526,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB2802968)"
         },
+        "KB2804576": {
+            "releaseDate": "2013-05-14",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2804576)"
+        },
         "KB2804577": {
             "releaseDate": "2013-05-14",
             "releaseVersion": "",
