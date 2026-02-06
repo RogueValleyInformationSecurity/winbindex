@@ -725,6 +725,7 @@
 "wow_uiautomationcore.dll",
 "wpngfilt.dll",
 "wrasmans.dll",
+"wrpcrt4.dll",
 "ws2_32.dll",
 "ws301_spcustom.dll",
 "wschannel.dll",
