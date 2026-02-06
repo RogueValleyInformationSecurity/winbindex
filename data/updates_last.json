@@ -3207,6 +3207,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP x64 Edition (KB2916036)"
         },
+        "KB2922229": {
+            "releaseDate": "2014-04-08",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP x64 Edition (KB2922229)"
+        },
         "KB2929961": {
             "releaseDate": "2014-03-11",
             "releaseVersion": "",
