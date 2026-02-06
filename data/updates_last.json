@@ -564,6 +564,11 @@
             "releaseDate": "2006-09-26",
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB925486)"
+        },
+        "KB926247": {
+            "releaseDate": "2006-12-12",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB926247)"
         }
     }
 }
