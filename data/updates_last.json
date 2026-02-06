@@ -2259,6 +2259,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB2719985)"
         },
+        "KB2724197": {
+            "releaseDate": "2012-10-09",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB2724197)"
+        },
         "KB2748349": {
             "releaseDate": "2012-12-11",
             "releaseVersion": "",
