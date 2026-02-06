@@ -5021,6 +5021,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows Server 2003 x64 Edition (KB3035132)"
         },
+        "KB3038314": {
+            "releaseDate": "2015-04-14",
+            "releaseVersion": "",
+            "title": "Cumulative Security Update for Internet Explorer 7 for Windows Server 2003 (KB3038314)"
+        },
         "KB3039066": {
             "releaseDate": "2015-03-10",
             "releaseVersion": "",
