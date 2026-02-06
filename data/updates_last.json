@@ -2812,6 +2812,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB2598479)"
         },
+        "KB2604092": {
+            "releaseDate": "2012-05-22",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 2.0 SP2 on Windows Server 2003 and Windows XP x86 (KB2604092)"
+        },
         "KB2618451": {
             "releaseDate": "2011-12-13",
             "releaseVersion": "",
