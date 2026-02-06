@@ -540,6 +540,11 @@
             "releaseVersion": "",
             "title": "Update for SQL Server 2000 Desktop Engine (SharePoint) on Windows Server 2003 (KB909544)"
         },
+        "KB910437": {
+            "releaseDate": "2007-03-27",
+            "releaseVersion": "",
+            "title": "Update for Windows XP x64 Edition (KB910437)"
+        },
         "KB911280": {
             "releaseDate": "2006-06-27",
             "releaseVersion": "",
