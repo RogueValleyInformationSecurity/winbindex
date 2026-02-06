@@ -2034,6 +2034,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP x64 Edition (KB2511455)"
         },
+        "KB2518870": {
+            "releaseDate": "2011-10-11",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 4 on Windows XP, Windows Server 2003, Windows Vista, Windows 7, Windows Server 2008 x86 (KB2518870)"
+        },
         "KB2524375": {
             "releaseDate": "2011-04-26",
             "releaseVersion": "",
