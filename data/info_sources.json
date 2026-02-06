@@ -808,6 +808,14 @@
 "ksecdd.sys": {
 "fe90589415bdb3ba482d3ebe1a87a7bf1429791e8f18bcb66bf8874631cc8b2c": "pe"
 },
+"l3codeca.acm": {
+"bb61b64446871e8f6ebbe650040558aaf97eec7b74a0e88e83885e16bec87e90": "pe",
+"ffcd2b9e6401d2614830999ea24eda2c48f8bf4fd3b2f9ad95eba89513080fe3": "pe"
+},
+"l3codecx.ax": {
+"1256780a7b76e36e7c3f752eaf6ba920025af5fd25540ac9eaddf1c064465a52": "pe",
+"5f234eb22dc504855edaf495fd175dd5a0c1aca45ed911fea4c294d86e3b9f33": "pe"
+},
 "lhmstsc.exe": {
 "833fc857abeb60010e759b9f78383d483737b7f9adf7509038507d878802abc5": "pe"
 },
