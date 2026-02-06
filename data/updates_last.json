@@ -4543,6 +4543,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP x64 Edition (KB912919)"
         },
+        "KB913446": {
+            "releaseDate": "2006-02-14",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB913446)"
+        },
         "KB914389": {
             "releaseDate": "2006-06-13",
             "releaseVersion": "",
