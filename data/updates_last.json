@@ -390,6 +390,11 @@
             "releaseVersion": "",
             "title": "Update for Windows XP Media Center Edition 2005 (KB910393)"
         },
+        "KB910437": {
+            "releaseDate": "2007-03-27",
+            "releaseVersion": "",
+            "title": "Update for Windows XP x64 Edition (KB910437)"
+        },
         "KB911565": {
             "releaseDate": "2006-11-28",
             "releaseVersion": "",
