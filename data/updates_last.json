@@ -1185,6 +1185,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP x64 Edition (KB971032)"
         },
+        "KB971486": {
+            "releaseDate": "2009-10-13",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP x64 Edition (KB971486)"
+        },
         "KB971557": {
             "releaseDate": "2009-08-11",
             "releaseVersion": "",
