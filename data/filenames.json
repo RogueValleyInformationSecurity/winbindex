@@ -699,6 +699,7 @@
 "ws301_spcustom.dll",
 "wschannel.dll",
 "wsdueng.dll",
+"wshell32.dll",
 "wship6.dll",
 "wshom.ocx",
 "wsmanhttpconfig.exe",
