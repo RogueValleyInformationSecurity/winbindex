@@ -2059,6 +2059,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP x64 Edition (KB2536276)"
         },
+        "KB2539631": {
+            "releaseDate": "2011-08-09",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 2.0 SP2 on Windows Server 2003 and Windows XP x86 (KB2539631)"
+        },
         "KB2562485": {
             "releaseDate": "2011-10-25",
             "releaseVersion": "",
