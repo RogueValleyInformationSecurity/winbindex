@@ -1579,6 +1579,11 @@
             "releaseDate": "2010-06-22",
             "releaseVersion": "",
             "title": "Microsoft .NET Framework 3.5 Security Update for Windows Server 2003 and Windows XP for x64-based Systems (KB982865)"
+        },
+        "KB983582": {
+            "releaseDate": "2010-08-10",
+            "releaseVersion": "",
+            "title": "Security Update for .NET Framework 3.5 on Windows Server 2003 and Windows XP for x64-based Systems (KB983582)"
         }
     }
 }
