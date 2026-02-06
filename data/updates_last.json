@@ -4271,6 +4271,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB2641653)"
         },
+        "KB2641690": {
+            "releaseDate": "2011-11-16",
+            "releaseVersion": "",
+            "title": "Update for Windows XP x64 Edition (KB2641690)"
+        },
         "KB2646524": {
             "releaseDate": "2012-01-10",
             "releaseVersion": "",
