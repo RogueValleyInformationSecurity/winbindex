@@ -1354,6 +1354,11 @@
             "releaseDate": "2009-11-24",
             "releaseVersion": "",
             "title": "Update for Windows XP x64 Edition (KB976098)"
+        },
+        "KB977914": {
+            "releaseDate": "2010-02-09",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB977914)"
         }
     }
 }
