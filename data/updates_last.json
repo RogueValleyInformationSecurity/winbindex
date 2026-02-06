@@ -4931,6 +4931,11 @@
             "releaseVersion": "",
             "title": "Cumulative Security Update for Internet Explorer 7 for Windows Server 2003 (KB2987107)"
         },
+        "KB2989935": {
+            "releaseDate": "2014-11-11",
+            "releaseVersion": "",
+            "title": "Security Update for Windows Server 2003 (KB2989935)"
+        },
         "KB2993254": {
             "releaseDate": "2014-10-14",
             "releaseVersion": "",
