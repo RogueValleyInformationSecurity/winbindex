@@ -2912,6 +2912,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB2676562)"
         },
+        "KB2685939": {
+            "releaseDate": "2012-08-29",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP x64 Edition (KB2685939)"
+        },
         "KB896424": {
             "releaseDate": "2005-11-08",
             "releaseVersion": "",
