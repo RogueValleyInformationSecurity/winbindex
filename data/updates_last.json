@@ -572,6 +572,11 @@
         }
     },
     "2003-x64": {
+        "KB2207559": {
+            "releaseDate": "2010-12-14",
+            "releaseVersion": "",
+            "title": "Security Update for Windows Server 2003 x64 Edition (KB2207559)"
+        },
         "KB2388210": {
             "releaseDate": "2010-10-26",
             "releaseVersion": "",

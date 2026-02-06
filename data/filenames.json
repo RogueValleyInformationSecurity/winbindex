@@ -813,6 +813,7 @@
 "wmvdecod.dll",
 "wmvdmod.dll",
 "wnetapi32.dll",
+"wnetlogon.dll",
 "wntdll.dll",
 "wntdsa.dll",
 "woakley.dll",
