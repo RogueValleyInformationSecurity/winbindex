@@ -4611,6 +4611,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB2839229)"
         },
+        "KB2840628": {
+            "releaseDate": "2013-08-13",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2840628)"
+        },
         "KB2844285": {
             "releaseDate": "2013-08-13",
             "releaseVersion": "",
