@@ -1,0 +1,590 @@
+{
+    "windowsVersion": "XP",
+    "windowsIsoSha256": "27a93e28b12603ffd6f0f23a3d20827f0ebf731f1373e1907aed190638515f44",
+    "windowsReleaseDate": "2008-05-06",
+    "files": [
+        {
+            "path": "IMAGES\\FAQ_MPLY.GIF",
+            "md5": "fcfbeb5bf7f7b05dff39d53dce1643b6",
+            "sha1": "96fb9e397e634e43adf4259fa94e967bf323f1a7",
+            "sha256": "b477a19cdd04539871f029f54fea6a01274c426fe3718d8ffc7788cb74aeefaa",
+            "size": 1728
+        },
+        {
+            "path": "IMAGES\\FAQ_BG2.JPG",
+            "md5": "a2cbab4b885a65d3996a50e530f1cf2f",
+            "sha1": "86d2b58b3546067ad83c95ef4cc943e8de7a3609",
+            "sha256": "8890b4eaa5a427f2ed0b3760bd370be43ef7b1efcd8c75423081dbf64f109c6d",
+            "size": 4615
+        },
+        {
+            "path": "DOTNETFX\\XPSPSCEN.DLL",
+            "md5": "0f63ec318f4197645146e16c3c124526",
+            "sha1": "437e2111529dff79dfde6a76947e280fa7e9e6c8",
+            "sha256": "fc3930b89e04dd9abb35cc0c6322eef7309e9b5d841a15220de970a572d6b55f",
+            "size": 286720,
+            "machineType": 332,
+            "timestamp": 1090093276,
+            "virtualSize": 294912,
+            "signingStatus": "Unsigned",
+            "description": "VS Setup Baseline Scenario",
+            "version": "7.00.9581"
+        },
+        {
+            "path": "DOTNETFX\\SUITE.DLL",
+            "md5": "54c11774ae2a30b3d33f43ac8ae073fd",
+            "sha1": "7daa9470f6a3fbc304b5ad089c94285e9bd77e76",
+            "sha256": "b8e42fb7ad0d8e7f55e1c6ab243c7eb76a8489445721b2188808bba2a4182e7b",
+            "size": 36864,
+            "machineType": 332,
+            "timestamp": 1090093245,
+            "virtualSize": 36864,
+            "signingStatus": "Unsigned",
+            "description": "Suite Integration Toolkit Object",
+            "version": "7.00.9581"
+        },
+        {
+            "path": "DOTNETFX\\SETUPDB.DLL",
+            "md5": "122d4b34e01cc567046cc9c7d09a5d77",
+            "sha1": "271898c68088cfbff8e017549014ed336225ebeb",
+            "sha256": "c109f418dc6a3430f48d4ec983be51913b51929516784be82c80561e3a44ea4b",
+            "size": 155648,
+            "machineType": 332,
+            "timestamp": 1090093219,
+            "virtualSize": 163840,
+            "signingStatus": "Unsigned",
+            "description": "Suite Integration Toolkit Object",
+            "version": "7.00.9581"
+        },
+        {
+            "path": "DOTNETFX\\DISKMGR.DLL",
+            "md5": "322976e571e41eaaab1e0b0d69a8306d",
+            "sha1": "b02498fdbca5633232477fc151c31d0bfb2897a1",
+            "sha256": "06617da7e83679027d2a647c0d54e1c0367a89030aa9ccfc9e0bd534085036e0",
+            "size": 143360,
+            "machineType": 332,
+            "timestamp": 1090093226,
+            "virtualSize": 151552,
+            "signingStatus": "Unsigned",
+            "description": "Suite Integration Toolkit Object",
+            "version": "7.00.9581"
+        },
+        {
+            "path": "DOTNETFX\\DFFACT.DLL",
+            "md5": "6171c7453678296e59967a4225993269",
+            "sha1": "4a65c68eb5974a3b9e280d599ff3deec39df90bb",
+            "sha256": "6c63439bd7397892f9e71591ebab18124e3421be74da4c7752050f11073fb3c6",
+            "size": 135168,
+            "machineType": 332,
+            "timestamp": 1090093243,
+            "virtualSize": 143360,
+            "signingStatus": "Unsigned",
+            "description": "Suite Integration Toolkit Object",
+            "version": "7.00.9581"
+        },
+        {
+            "path": "DOTNETFX\\CDMGR.DLL",
+            "md5": "e0fb6f3a6f78d0ef842320169598692a",
+            "sha1": "62b6ee267e9db976718cb17bdc1d6b89f8b6856a",
+            "sha256": "a16910ae5bce831debe068f7397562ea62eff97d2be5c61d12c7d2aedae5b41e",
+            "size": 147456,
+            "machineType": 332,
+            "timestamp": 1090093222,
+            "virtualSize": 155648,
+            "signingStatus": "Unsigned",
+            "description": "Suite Integration Toolkit Object",
+            "version": "7.00.9581"
+        },
+        {
+            "path": "DOTNETFX\\NDPSP.EXE",
+            "md5": "c746f3d6c21950f1c7443ae7628c9473",
+            "sha1": "cb58373898285f8434e473e590fece1b7b605597",
+            "sha256": "a8fc5436a0273a813eeb91559813994b0606efe55815ef0c1b5d0775b6a6f5f0",
+            "size": 10694464,
+            "machineType": 332,
+            "timestamp": 1087937584,
+            "virtualSize": 57344,
+            "signingStatus": "Signed",
+            "signingDate": [
+                "2004-07-17T02:02:33"
+            ],
+            "signatureType": "Overlay",
+            "version": "1.0.871.2738"
+        },
+        {
+            "path": "READMESP.HTM",
+            "md5": "ffe361f6a4ce9583837fd179d86d1983",
+            "sha1": "0f5db6598e4028aacdeb3fa7b3391708997d027c",
+            "sha256": "6b73ca307161970c2cc89dec1de3dbc076d2a29d433906a696029f519609a42a",
+            "size": 15243
+        },
+        {
+            "path": "IMAGES\\FAQ_ARUP.GIF",
+            "md5": "3e278196e7b6ed5e5084ef73d548ec1c",
+            "sha1": "1e67f76ec80e71fbdd9b4e28f7655c214ad2a8dc",
+            "sha256": "286469b2d30e74740b6cbe42b1272eba3b035421d3ad546d372d294d93a53c73",
+            "size": 97
+        },
+        {
+            "path": "IMAGES\\FAQ_FRWL.GIF",
+            "md5": "2170691bfb1ea7393ca3f54c6f339c3c",
+            "sha1": "b74065ca9f92245b305844b1801c69b2f0e5867f",
+            "sha256": "3eb2b504c292ac215f8ef45cdfd9ace4de3501056b559929dd84eaf2e4d61ba0",
+            "size": 1589
+        },
+        {
+            "path": "AUTORUN.INF",
+            "md5": "02cc70024e4909fa12b7514865d06c5e",
+            "sha1": "13a84c7763ca5b56f8a0bf1c05a59c7668ad0b84",
+            "sha256": "a5219049b1732d0e9e0b2e8d24db9e94168fa6264c934635970c95d131135538",
+            "size": 64
+        },
+        {
+            "path": "DOTNETFX\\DEFHELP.DLL",
+            "md5": "81bf3c521de548f4f76aad5a9e72b8aa",
+            "sha1": "1845238196b267c6265b46fd54b3c91cc8a26141",
+            "sha256": "f406b29653a928d76439965a8235161dd73ee535844a7622eab17567c13e0ca5",
+            "size": 122880,
+            "machineType": 332,
+            "timestamp": 1090093232,
+            "virtualSize": 131072,
+            "signingStatus": "Unsigned",
+            "description": "Suite Integration Toolkit Object",
+            "version": "7.00.9581"
+        },
+        {
+            "path": "DOTNETFX\\DELTEMP.EXE",
+            "md5": "c586ad18e2ac57c3a9893a0db8059a2d",
+            "sha1": "67fbfebd439dd3a67f2357e029e6ee1738aa62cf",
+            "sha256": "0fbeda8d016dcc20ee67aab242bad90b5e042ca0d2a6019c76fb72307b06fdc8",
+            "size": 36864,
+            "machineType": 332,
+            "timestamp": 1090093213,
+            "virtualSize": 40960,
+            "signingStatus": "Unsigned"
+        },
+        {
+            "path": "DOTNETFX\\DFCHGFLD.DLL",
+            "md5": "5db0c7d242722bfaacdada2f9d5323d3",
+            "sha1": "9683dcc7e7a705a45336edc6ddfa0434212ce187",
+            "sha256": "1a1f270ad49b4e17b63cf35e85ac51330a2a822fa160e6542e440f938e811549",
+            "size": 163840,
+            "machineType": 332,
+            "timestamp": 1090093235,
+            "virtualSize": 176128,
+            "signingStatus": "Unsigned",
+            "description": "Suite Integration Toolkit Object",
+            "version": "7.00.9581"
+        },
+        {
+            "path": "IMAGES\\FAQ_PRGS.JPG",
+            "md5": "a1bb2cfb9263432f6287e65fa8a437c4",
+            "sha1": "74c5bdaedeaa914daf81c6be4cab78c683432ad8",
+            "sha256": "336e573885ace84d5e9d60cd9a237d55a79fa405efe879462534a0ea9258c528",
+            "size": 30626
+        },
+        {
+            "path": "DOTNETFX\\GENCOMP.DLL",
+            "md5": "c7157af3484b7dd503e5954ac7a1a8e4",
+            "sha1": "c9f33edb6c9aceeb998865effc369d9de5fa69eb",
+            "sha256": "c21459d82691ca75bca0c72bb8b8a1d7941a6da48f174d156f3985bc33a571c7",
+            "size": 335872,
+            "machineType": 332,
+            "timestamp": 1090093257,
+            "virtualSize": 344064,
+            "signingStatus": "Unsigned",
+            "description": "VS Setup Generic Component",
+            "version": "7.00.9581"
+        },
+        {
+            "path": "DOTNETFX\\SVRGRMGR.DLL",
+            "md5": "dff3d0ac5fe21cf81bab42080e603f82",
+            "sha1": "a83d324445d7c3a20f6f7d1468d637c0c5d95698",
+            "sha256": "f54cb1753105f0663871d994de83d6b9adf970f059b38deba595557b64c6ad7a",
+            "size": 200704,
+            "machineType": 332,
+            "timestamp": 1090093234,
+            "virtualSize": 208896,
+            "signingStatus": "Unsigned",
+            "description": "Suite Integration Toolkit Object",
+            "version": "7.00.9581"
+        },
+        {
+            "path": "DOTNETFX\\DEPMGR.DLL",
+            "md5": "e2e1fa073b9270a84f90f3854cdac178",
+            "sha1": "acced7d5ab08b8a70ec1a2a4b50ad4a90a0fe9c5",
+            "sha256": "ebcd292b1900f4365911adc6dfa301a6b9d4213e3edba859128dc79f56756291",
+            "size": 192512,
+            "machineType": 332,
+            "timestamp": 1090093246,
+            "virtualSize": 200704,
+            "signingStatus": "Unsigned",
+            "description": "Suite Integration Toolkit Object",
+            "version": "7.00.9581"
+        },
+        {
+            "path": "DOTNETFX\\DOTNETFX.EXE",
+            "md5": "52456ac39bbb4640930d155c15160556",
+            "sha1": "16a354a2207c4c8846b617cbc78f7b7c1856340e",
+            "sha256": "ba0e58ec93f2ffd54fc7c627eeca9502e11ab3c6fc85dcbeff113bd61d995bce",
+            "size": 24265736,
+            "machineType": 332,
+            "timestamp": 960324236,
+            "virtualSize": 24272896,
+            "signingStatus": "Signed",
+            "signingDate": [
+                "2003-02-21T20:37:37"
+            ],
+            "signatureType": "Overlay",
+            "description": "IExpress Setup",
+            "version": "1.1.4322.573"
+        },
+        {
+            "path": "DOTNETFX\\MSVCP70.DLL",
+            "md5": "d04f7aaca2319a3bcdb2c5d5dd6f6026",
+            "sha1": "2f0c431be7da7f359bb75b9ba319d6f3dea08919",
+            "sha256": "9255c60b194cf849f3db54587627e1b8fce10c88875748642b58ee8e27e22536",
+            "size": 487424,
+            "machineType": 332,
+            "timestamp": 1010230817,
+            "virtualSize": 487424,
+            "signingStatus": "Unsigned",
+            "description": "Microsoft\u00ae C++ Runtime Library",
+            "version": "7.00.9466.0"
+        },
+        {
+            "path": "WINXP_LOGO_HORIZ_SM.GIF",
+            "md5": "a56bd55a14940384701f2c2f410bec70",
+            "sha1": "1deaeee6465088bdd7a0a897ca088e6912290ad9",
+            "sha256": "51a23c903c030479234571cd76bfc02392cbec9d4a633195b37fff801e432570",
+            "size": 6895
+        },
+        {
+            "path": "DOTNETFX\\DFDEPUI.DLL",
+            "md5": "15601280664c00596ac5bb6d1a9bd612",
+            "sha1": "33ebdd29b60f44fcc72737fffe6ed4150f620820",
+            "sha256": "d10a1d836eb3aebcaefbca729798e10ae4f05bedf66b3c576c0f57c2c7c1bf05",
+            "size": 233472,
+            "machineType": 332,
+            "timestamp": 1090093239,
+            "virtualSize": 241664,
+            "signingStatus": "Unsigned",
+            "description": "Suite Integration Toolkit Object",
+            "version": "7.00.9581"
+        },
+        {
+            "path": "DOTNETFX\\EULA.TXT",
+            "md5": "100b4cbb7d3b2d93ff5a968cfa51cf67",
+            "sha1": "cefec5ac340fcadbb06a3c5b3a60190bc6d89216",
+            "sha256": "a6cb9fd479cff42c13e33fd2aec1097f897f12972fa3bd331a7dbe9b286eba7c",
+            "size": 23940
+        },
+        {
+            "path": "DOTNETFX\\CMNRES.DLL",
+            "md5": "6af8b9b79cb7977d9324ea02f7d1f4df",
+            "sha1": "1cb20062e339890dacd5faeb2056c2428a3d6af0",
+            "sha256": "0e812ab57c58c324e730d28d26de64864576ef87f851a645a6b0a3bc2036df81",
+            "size": 40960,
+            "machineType": 332,
+            "timestamp": 1090093213,
+            "virtualSize": 45056,
+            "signingStatus": "Unsigned",
+            "description": "Suite Integration Toolkit Object",
+            "version": "7.00.9581"
+        },
+        {
+            "path": "DOTNETFX\\ACCMGR.DLL",
+            "md5": "333e59186a4d638966d698bd3d5cb3b7",
+            "sha1": "305ba7906f4eb7a91e46cf6f8da1e3628dbd602e",
+            "sha256": "06e86aa121bf96b574438733081e67515a85593409ecb6ef98d0e4b27d03f917",
+            "size": 143360,
+            "machineType": 332,
+            "timestamp": 1090093227,
+            "virtualSize": 151552,
+            "signingStatus": "Unsigned",
+            "description": "Suite Integration Toolkit Object",
+            "version": "7.00.9581"
+        },
+        {
+            "path": "DOTNETFX\\SITSETUP.DLL",
+            "md5": "2e4f13419a6c21f854d5c32e13c70795",
+            "sha1": "18892462150fe7a1eeb86fb04c772cba9be312fc",
+            "sha256": "4abc018ab96f6d530df6f76d5e74dd55c481a16cbddefcc0d28e66c5b8f6fa6d",
+            "size": 647168,
+            "machineType": 332,
+            "timestamp": 1090093221,
+            "virtualSize": 655360,
+            "signingStatus": "Unsigned",
+            "description": "Suite Integration Toolkit Object",
+            "version": "7.00.9581"
+        },
+        {
+            "path": "DOTNETFX\\UIMGR.DLL",
+            "md5": "756f9827f47bc2bbb9c8c181f1dfa376",
+            "sha1": "9f15a3022e1d498fd0431905f23d3eee4605224b",
+            "sha256": "4583b50bcf7f98b5ce73c0570205e28dff5bda1bbf00e5fc908622eee4eff6eb",
+            "size": 274432,
+            "machineType": 332,
+            "timestamp": 1090093268,
+            "virtualSize": 282624,
+            "signingStatus": "Unsigned",
+            "description": "VS Setup UI Manager DLL",
+            "version": "7.00.9581"
+        },
+        {
+            "path": "DOTNETFX\\XPSPREQS.DLL",
+            "md5": "4e6e4d5fe0b5c0210b20a508c8ad69e8",
+            "sha1": "8857e4b306957dc8f5e3c298f40475a6f19dbc68",
+            "sha256": "48bb031b382ed751b0f50b4a34f926f237df72ed9610c62b6eae6120bc7ccc7d",
+            "size": 200704,
+            "machineType": 332,
+            "timestamp": 1090093273,
+            "virtualSize": 208896,
+            "signingStatus": "Unsigned",
+            "description": "VS Setup Base Requirements",
+            "version": "7.00.9581"
+        },
+        {
+            "path": "XPSP3.CMD",
+            "md5": "02e30f081dc2a2bc9fb6eb5f40356fab",
+            "sha1": "209a6fa7ca5cbd02a491005631e204569406b00b",
+            "sha256": "8e8bafb89e3a8abbae4d99e2f77d4dc52517cb0dc85c51f082bf4997f40c5518",
+            "size": 97
+        },
+        {
+            "path": "DOTNETFX\\BASELINE.DAT",
+            "md5": "cbd16175a45faa2ff9bacd135b336b9e",
+            "sha1": "7d15c63cdcdb14b8822da57c4e71ec804208049f",
+            "sha256": "57466830338d1d91e4ea66f506069e97edfc77bff952a0cdb311c63bcf033645",
+            "size": 1773
+        },
+        {
+            "path": "IMAGES\\FAQ_SHLD.GIF",
+            "md5": "88c2f4d11b9c6a2a21bdc86bd86d9746",
+            "sha1": "9b6510360e8a6dcf6d04e69e8b67154a83ddde4b",
+            "sha256": "d884f20e0897eef8980d94bbf9ee74c880d39cb0c944f12948d1b43b2c5d6341",
+            "size": 1572
+        },
+        {
+            "path": "DOTNETFX\\TEMPLMGR.DLL",
+            "md5": "d89cacbcb0f8e165724657a9e6aaea33",
+            "sha1": "69849809315b981a6d3da4a28b5341781e3e744b",
+            "sha256": "5c1c832bb7bf126c7df0f22588f943d9f1ee754772c9689a43902dfccd66a850",
+            "size": 339968,
+            "machineType": 332,
+            "timestamp": 1090093238,
+            "virtualSize": 348160,
+            "signingStatus": "Unsigned",
+            "description": "Suite Integration Toolkit Object",
+            "version": "7.00.9581"
+        },
+        {
+            "path": "IMAGES\\FAQ_OUEX.GIF",
+            "md5": "82a42023b17bdeb20ba902b70ec2b59a",
+            "sha1": "d58060683276bfee5d2bb4598a366ceb227dc758",
+            "sha256": "0a17b227d980d855471bc659cd20271809a7e00b71d10439fbcc184340295237",
+            "size": 1546
+        },
+        {
+            "path": "IMAGES\\FAQ_WUPD.GIF",
+            "md5": "2cb3013168c053702dd17c5854f96cca",
+            "sha1": "37318eaf16670d04fb291b64abcd1d38429cc25a",
+            "sha256": "1a2e331de3ce14ba8058d8b76593421fa63ad5178e1a5e5e855d73bd9777249a",
+            "size": 1626
+        },
+        {
+            "path": "DOTNETFX\\SETUP.SDB",
+            "md5": "3f28f55c7d0f8f53d58855fee0745eb8",
+            "sha1": "7016a82996d2575216c00184f1d32083e58ce77c",
+            "sha256": "6d86d7be38581d6175738383acd957d287da3151e3744758ee9901a18b265ce1",
+            "size": 10274
+        },
+        {
+            "path": "DOTNETFX\\VALIDATE.DLL",
+            "md5": "f669eefc9430151d2f4d2983af332839",
+            "sha1": "11966ac6845027de73e2e1da52340fa43826c650",
+            "sha256": "b0463ee25cc601f890a825c32a62e31c70ba0659e2628d6164b16005d0882570",
+            "size": 135168,
+            "machineType": 332,
+            "timestamp": 1090093229,
+            "virtualSize": 143360,
+            "signingStatus": "Unsigned",
+            "description": "Suite Integration Toolkit Object",
+            "version": "7.00.9581"
+        },
+        {
+            "path": "DOTNETFX\\SETUP.EXE",
+            "md5": "9a0e6e91eaf6b9c0fa45bab15d1626ad",
+            "sha1": "774cebf2cb829febf31031b6fa0599aedd6669a4",
+            "sha256": "dcdbaafff45fe9f48cd12ebac1b41fce21d5762eb57b6fd5a73a6ce3238b4c4a",
+            "size": 129720,
+            "machineType": 332,
+            "timestamp": 1090093230,
+            "virtualSize": 131072,
+            "signingStatus": "Signed",
+            "signingDate": [
+                "2004-07-18T23:52:24"
+            ],
+            "signatureType": "Overlay",
+            "description": "Suite Integration Toolkit Executable",
+            "version": "7.00.9581"
+        },
+        {
+            "path": "SPWIZENG.DLL",
+            "md5": "0c62ca430b3570322fe96a8fb2c7fb3d",
+            "sha1": "6e9339b54afe0eb3a6f1facec3fc44e8119a1b89",
+            "sha256": "075614d0b05bfe762947ff4f7cd9e3e7d4dee3e8789d549c962fdd261f65ce9b",
+            "size": 157696,
+            "machineType": 332,
+            "timestamp": 1208131896,
+            "virtualSize": 167936,
+            "signingStatus": "Unsigned",
+            "description": "Setup Wizard Framework",
+            "version": "5.1.2600.5512 (xpsp.080413-2111)"
+        },
+        {
+            "path": "IMAGES\\FAQ_PBLK.GIF",
+            "md5": "f6d771bd95c0446131ca47b778a106d4",
+            "sha1": "33bd9ef13d2777fc3f12eac7a46d65726df93e6e",
+            "sha256": "239cda4c55c1fbcc1c882cf7740aa1c7e16f5c58c0b312b48018781a411e818b",
+            "size": 1547
+        },
+        {
+            "path": "DOTNETFX\\VS_SETUP.PDI",
+            "md5": "da476c579a0d20010f8dce2e4eb7050d",
+            "sha1": "d005f37a17c5ec767e05387ed3c9324116ef7fc7",
+            "sha256": "ee177566abafcdad2d93cebab48d91976d31fbcb54ff86ccff1c48fae1b986cc",
+            "size": 321
+        },
+        {
+            "path": "DOTNETFX\\REBOOTST.EXE",
+            "md5": "bdf28f6144b29933201a160b5d7c3690",
+            "sha1": "ec216a60235124f42d6f70e0bcefba02019445c2",
+            "sha256": "05c8f8c14e33ff50d816cfa87dde5d7d05d9767e352e2eaff49f581953d2ae78",
+            "size": 118784,
+            "machineType": 332,
+            "timestamp": 1090093299,
+            "virtualSize": 122880,
+            "signingStatus": "Unsigned",
+            "description": "Visual Studio RebootSt",
+            "version": "7.00.9581"
+        },
+        {
+            "path": "AUTORUN.EXE",
+            "md5": "3955fae1ae553f616f8c2328fd24289c",
+            "sha1": "b9bd568c1bafc4f435886cb20b7058b4d42d2e77",
+            "sha256": "75415bd04fae21b1564d594d9d37e67f51bcb82a6be94cab8ac7532fa77ac373",
+            "size": 18944,
+            "machineType": 332,
+            "timestamp": 1208111789,
+            "virtualSize": 28672,
+            "signingStatus": "Unsigned",
+            "description": "Autorun program",
+            "version": "5.1.2600.5512 (xpsp.080413-2111)"
+        },
+        {
+            "path": "sigcheck64.txt",
+            "md5": "04c3002aa68b48df9a85bbc565157b01",
+            "sha1": "f1ea9942ffbb4e183a1213ad621dfd2c15efd029",
+            "sha256": "86ed5d1b6e7d8c9981076517636447e5110a32282046d4ba436c4a49888213ca",
+            "size": 2689964
+        },
+        {
+            "path": "DOTNETFX\\XPSPUI.DLL",
+            "md5": "47199b06294b0836e31cc0912bef117e",
+            "sha1": "2e9aaf93e77665d31dd98cb57a503c84ac465412",
+            "sha256": "2140924e696108e47bc3833ecfd35d34e5948ddc52b01796c19f4db58a746620",
+            "size": 774144,
+            "machineType": 332,
+            "timestamp": 1090093291,
+            "virtualSize": 786432,
+            "signingStatus": "Unsigned",
+            "description": "Baseline UI Pages DLL",
+            "version": "7.00.9581"
+        },
+        {
+            "path": "FAQ.HTM",
+            "md5": "35313ac16ef30ca57551b759d82a30f1",
+            "sha1": "ae828e26e2011d2d5de24d77e6348683c50529ca",
+            "sha256": "59876d01ca3f0b384e401f62bb007754b97d7c6598d0ff8843fd3fc0579ce553",
+            "size": 5846
+        },
+        {
+            "path": "DOTNETFX\\SETLOG.DLL",
+            "md5": "d847b07af6769ee0fcd15befa642b227",
+            "sha1": "93da2c9b772ce299c676a2ecc7e9e591d3dd524d",
+            "sha256": "53299527959f3edde9ffd734f5aca2216a7a72ad01aa17f587a2d41edd6f8eef",
+            "size": 139264,
+            "machineType": 332,
+            "timestamp": 1090093217,
+            "virtualSize": 147456,
+            "signingStatus": "Unsigned",
+            "description": "Suite Integration Toolkit Object",
+            "version": "7.00.9581"
+        },
+        {
+            "path": "IMAGES\\FAQ_INEX.GIF",
+            "md5": "09639bbdd49c387673feea0bbaa67975",
+            "sha1": "5783762c6589ff2ba918f33e939f867f1c04557d",
+            "sha256": "bce0e0c908d16d423ba8028f086e9e8ddbcb8ac9499971f9dbfdd463f2b23f6f",
+            "size": 1726
+        },
+        {
+            "path": "DOTNETFX\\HTMLLITE.DLL",
+            "md5": "2bf6499e9bebea72de545ed0ce281cd5",
+            "sha1": "23b6704371547e1d235ad6e31e6424ce0483a119",
+            "sha256": "d6bd3bc2e6aa2569415956ef5a7b9b4997d1200168eac2f3658b2f440a35c9e0",
+            "size": 131072,
+            "machineType": 332,
+            "timestamp": 1090093295,
+            "virtualSize": 131072,
+            "signingStatus": "Unsigned",
+            "description": "Microsoft\u00ae HtmlLite Control",
+            "version": "7.00.9581"
+        },
+        {
+            "path": "DOTNETFX\\DFFACT.DAT",
+            "md5": "721b06d9d8b52902b8d8c5ec8ca32855",
+            "sha1": "cce600d93910b8a12b013921555060ce6a14e58b",
+            "sha256": "471a2599d39c0dcee07e5641c0a64e7ec57079d897b1c16e02c32e84cd6d3ec5",
+            "size": 308
+        },
+        {
+            "path": "WINDOWSXP-KB936929-SP3-X86-ENU.EXE",
+            "md5": "bb25707c919dd835a9d9706b5725af58",
+            "sha1": "c81472f7eeea2eca421e116cd4c03e2300ebfde4",
+            "sha256": "62e524a552db9f6fd22d469010ea4d7e28ee06fa615a1c34362129f808916654",
+            "size": 331805736,
+            "machineType": 332,
+            "timestamp": 1119977701,
+            "virtualSize": 122880,
+            "signingStatus": "Signed",
+            "signingDate": [
+                "2008-04-14T04:30:34"
+            ],
+            "signatureType": "Overlay",
+            "description": "Self-Extracting Cabinet",
+            "version": "6.2.0029.0 (SRV03_QFE.031113-0918)"
+        },
+        {
+            "path": "IMAGES\\FAQ_ATPL.CSS",
+            "md5": "643ef88fc45412dc4247dbc01b4ddd24",
+            "sha1": "a054ca53794c7935602c910c8defb77e3d3806ae",
+            "sha256": "8d0aaf76dbf36317d4bc2e7484cfb8d961ad036b15182d652f8d224deda7843c",
+            "size": 2721
+        },
+        {
+            "path": "DOTNETFX\\MSVCR70.DLL",
+            "md5": "9972a6ed4f2388dbfa8e0a96f6f3fdf1",
+            "sha1": "61b8f573db448ae6351ae3475c2e7c482d81533c",
+            "sha256": "f68e4cdbc879423ea47d763a6768567f5f8063924f13a74239750c13fa8d168a",
+            "size": 344064,
+            "machineType": 332,
+            "timestamp": 1010230644,
+            "virtualSize": 344064,
+            "signingStatus": "Unsigned",
+            "description": "Microsoft\u00ae C Runtime Library",
+            "version": "7.00.9466.0"
+        }
+    ]
+}
