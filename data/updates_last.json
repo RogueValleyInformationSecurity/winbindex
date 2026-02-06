@@ -1000,6 +1000,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB2930275)"
         },
+        "KB2933528": {
+            "releaseDate": "2014-03-11",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP x64 Edition (KB2933528)"
+        },
         "KB328940": {
             "releaseDate": "2004-05-15",
             "releaseVersion": "",
