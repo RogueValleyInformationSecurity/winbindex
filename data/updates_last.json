@@ -139,6 +139,11 @@
             "releaseDate": "2009-06-09",
             "releaseVersion": "",
             "title": "Security Update for Windows Server 2003 (KB969805)"
+        },
+        "KB973825": {
+            "releaseDate": "2009-07-28",
+            "releaseVersion": "",
+            "title": "Update for Windows Server 2003 (KB973825)"
         }
     },
     "XP": {
