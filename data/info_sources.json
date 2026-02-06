@@ -34,6 +34,9 @@
 "browser.dll": {
 "3ef83aabb3b933b7cf440e918c402f386043bdf1bddf83fe53a227246c764a61": "pe"
 },
+"browseui.dll": {
+"c7c550f316fe9bcad3782444df3c1f756c9cecc2d1bcbfb482187d37a50c0c53": "pe"
+},
 "cdosys.dll": {
 "1ae6e7a976cb2441d00b4bed80a6d541d50fb2e278b16c390601353a2e445965": "pe",
 "2f5e41849d1572bea102b17f903ff850a8faa18ce75a9fd859b5ed8266527fae": "pe",
@@ -595,6 +598,11 @@
 },
 "shdoclc.dll": {
 "d726558280bfa8fdef0d5f35881ee222c312e722acbff514dc7543bcf8f0a19f": "pe"
+},
+"shdocvw.dll": {
+"41db749818cfc32ac5330155a64d31ff38e2a8ed7ebebeab58337f18da1f9b6b": "pe",
+"b394d2fbaa413c491899cb44e0a817aa4e350165fca2f80cf277401248edb49b": "pe",
+"bb144889a0096f84bfbb6bd496c593d8a0726ea047ad65399d91d612b6ae1c07": "pe"
 },
 "shell32.dll": {
 "5b5a0d68e0828a71702f0dd06a2394f81d63ccaa42182972fb2b028a84bf7773": "pe",
