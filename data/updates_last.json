@@ -4171,6 +4171,11 @@
             "releaseVersion": "",
             "title": "Security Update for Microsoft .NET Framework 3.5 SP1 on Windows XP, Server 2003, Vista, Server 2008 x86 (KB2604111)"
         },
+        "KB2604121": {
+            "releaseDate": "2012-05-08",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2604121)"
+        },
         "KB2616310": {
             "releaseDate": "2011-11-08",
             "releaseVersion": "",
