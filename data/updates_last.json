@@ -535,6 +535,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB924191)"
         },
+        "KB924270": {
+            "releaseDate": "2006-11-14",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB924270)"
+        },
         "KB924496": {
             "releaseDate": "2006-10-10",
             "releaseVersion": "",
