@@ -589,6 +589,11 @@
             "releaseDate": "2006-12-12",
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB926255)"
+        },
+        "KB926436": {
+            "releaseDate": "2007-02-13",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB926436)"
         }
     }
 }
