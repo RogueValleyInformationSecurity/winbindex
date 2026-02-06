@@ -27790,6 +27790,7 @@
 },
 "wsnmp32.dll": {
 "1ac24a8817396fa4172dc6216fbf82a1f6f8f9a1a1f87d6884ff17dccb15c3ff": "file",
+"3173581b012afcbf2b02948a2a733b85be0e68b1a31b9ecbf871f50f697284c4": "pe",
 "e3fc3a91a1469194e5a35dcae784fa237bc3f44e749f7c31e88084458e8fdb34": "file"
 },
 "wsnmpapi.dll": {
