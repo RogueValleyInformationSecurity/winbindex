@@ -5381,6 +5381,11 @@
             "releaseVersion": "",
             "title": "Security Update for WES09 and POSReady 2009 (KB3185911)"
         },
+        "KB3189598": {
+            "releaseDate": "2016-12-13",
+            "releaseVersion": "",
+            "title": "November, 2016 Security and Quality Rollup for .NET Framework 3.0, 4 on WES09 and POSReady (KB3189598)"
+        },
         "KB3190847": {
             "releaseDate": "2016-10-11",
             "releaseVersion": "",
