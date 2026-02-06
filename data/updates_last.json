@@ -120,6 +120,11 @@
             "releaseVersion": "",
             "title": "Update for Windows Server 2003 (KB2981580)"
         },
+        "KB2998527": {
+            "releaseDate": "2014-09-23",
+            "releaseVersion": "",
+            "title": "Update for Windows Server 2003 x64 Edition (KB2998527)"
+        },
         "KB829358": {
             "releaseDate": "2005-04-26",
             "releaseVersion": "",
