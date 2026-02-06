@@ -2514,6 +2514,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows Server 2003 x64 Edition (KB952068)"
         },
+        "KB954156": {
+            "releaseDate": "2008-09-15",
+            "releaseVersion": "",
+            "title": "Security Update for Windows Media Encoder 9 Series for Windows XP (KB954156)"
+        },
         "KB960089": {
             "releaseDate": "2009-02-10",
             "releaseVersion": "",
