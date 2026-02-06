@@ -835,6 +835,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB2845187)"
         },
+        "KB2847311": {
+            "releaseDate": "2013-10-08",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP x64 Edition (KB2847311)"
+        },
         "KB2850851": {
             "releaseDate": "2013-07-09",
             "releaseVersion": "",
