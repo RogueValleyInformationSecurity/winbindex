@@ -4468,6 +4468,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP SP2 for x64-based Systems (KB4025218)"
         },
+        "KB896358": {
+            "releaseDate": "2005-09-13",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP x64 Edition (KB896358)"
+        },
         "KB896424": {
             "releaseDate": "2005-11-08",
             "releaseVersion": "",
