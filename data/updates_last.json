@@ -8943,6 +8943,11 @@
             "releaseVersion": "",
             "title": "Security Update for Microsoft .NET Framework 2.0 SP2 on Windows Server 2003 and Windows XP x86 (KB2901111)"
         },
+        "KB2904266": {
+            "releaseDate": "2013-12-10",
+            "releaseVersion": "",
+            "title": "Update for Windows XP (KB2904266)"
+        },
         "KB2909212": {
             "releaseDate": "2014-02-11",
             "releaseVersion": "",
