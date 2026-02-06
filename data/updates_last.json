@@ -2924,6 +2924,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB979683)"
         },
+        "KB980218": {
+            "releaseDate": "2010-06-08",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP x64 Edition (KB980218)"
+        },
         "KB980232": {
             "releaseDate": "2010-04-13",
             "releaseVersion": "",
