@@ -3192,6 +3192,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB2909212)"
         },
+        "KB2909213": {
+            "releaseDate": "2014-02-11",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP x64 Edition (KB2909213)"
+        },
         "KB2914368": {
             "releaseDate": "2014-01-14",
             "releaseVersion": "",
