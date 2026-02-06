@@ -177,6 +177,7 @@
 "webclnt.dll",
 "win32k.sys",
 "wkssvc.dll",
+"wmp.dll",
 "wmplayer.exe",
 "wmploc.dll",
 "wmsdmoe2.dll",

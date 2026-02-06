@@ -699,6 +699,9 @@
 "db413088e4579cffb227fef30c2d2640c7ee970db7f9ff389d2551e042e22ee3": "pe",
 "e052ab5408d6ca62d92d086b0530c66dbcfeee0aa94f86cba8a6c7e0f0af8e9b": "pe"
 },
+"wmp.dll": {
+"7d26bf3eb4e03339f1df223cbf7021825137de86b6175ec5bbd5e83cf35cc68d": "pe"
+},
 "wmplayer.exe": {
 "96da1ac1f56f98d71b852df152f7941c8c5da928fe6ecf7cdeacafaf1d30e9db": "pe"
 },
