@@ -325,6 +325,11 @@
             "releaseVersion": "",
             "title": "Security Update for Microsoft .NET Framework 3.0 SP2 on Windows Server 2003 for x64-based Systems (KB3048073)"
         },
+        "KB3048074": {
+            "releaseDate": "2015-05-12",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 4 on Windows Server 2003, Vista, Server 2008 x64 (KB3048074)"
+        },
         "KB3049874": {
             "releaseDate": "2015-03-27",
             "releaseVersion": "",
