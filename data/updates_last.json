@@ -1600,6 +1600,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP Embedded (KB981997)"
         },
+        "KB982000": {
+            "releaseDate": "2010-09-14",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP x64 Edition (KB982000)"
+        },
         "KB982167": {
             "releaseDate": "2010-06-08",
             "releaseVersion": "",
