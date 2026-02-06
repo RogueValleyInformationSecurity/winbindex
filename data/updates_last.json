@@ -4928,6 +4928,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP x64 Edition (KB954154)"
         },
+        "KB954155": {
+            "releaseDate": "2009-10-13",
+            "releaseVersion": "",
+            "title": "Security Update for 64-bit Windows Media Format Runtime 9.5 for Windows XP x64 Edition and Windows Server 2003 x64 Edition (KB954155)"
+        },
         "KB954156": {
             "releaseDate": "2008-09-15",
             "releaseVersion": "",
