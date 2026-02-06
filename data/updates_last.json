@@ -385,6 +385,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP x64 Edition (KB2570222)"
         },
+        "KB2570791": {
+            "releaseDate": "2011-08-23",
+            "releaseVersion": "",
+            "title": "Update for Windows XP (KB2570791)"
+        },
         "KB328940": {
             "releaseDate": "2004-05-15",
             "releaseVersion": "",
