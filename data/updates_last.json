@@ -5,6 +5,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP x64 Edition (KB2115168)"
         },
+        "KB2160329": {
+            "releaseDate": "2010-08-10",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB2160329)"
+        },
         "KB2229593": {
             "releaseDate": "2010-07-13",
             "releaseVersion": "",
