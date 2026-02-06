@@ -328,6 +328,7 @@
 "qdvd.dll",
 "quartz.dll",
 "query.dll",
+"rastls.dll",
 "regasm.exe",
 "regcode.dll",
 "regedit.exe",
