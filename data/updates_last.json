@@ -535,6 +535,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB2660465)"
         },
+        "KB2661637": {
+            "releaseDate": "2012-02-14",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB2661637)"
+        },
         "KB328940": {
             "releaseDate": "2004-05-15",
             "releaseVersion": "",

@@ -140,6 +140,7 @@
 "http.sys",
 "httpapi.dll",
 "httpext.dll",
+"iacenc.dll",
 "iccvid.dll",
 "ieexec.exe",
 "ieexecremote.dll",
