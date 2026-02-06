@@ -2309,6 +2309,11 @@
             "releaseVersion": "",
             "title": "Update for Windows SharePoint Services for Windows Server 2003 x64 Edition (KB924881)"
         },
+        "KB925720": {
+            "releaseDate": "2007-02-13",
+            "releaseVersion": "",
+            "title": "February 2007 CardSpace Update for Windows XP x64 Edition (KB925720)"
+        },
         "KB926122": {
             "releaseDate": "2007-07-10",
             "releaseVersion": "",
