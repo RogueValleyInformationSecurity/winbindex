@@ -1089,6 +1089,11 @@
             "releaseDate": "2009-03-10",
             "releaseVersion": "",
             "title": "Update for Windows XP (KB967715)"
+        },
+        "KB968537": {
+            "releaseDate": "2009-06-09",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB968537)"
         }
     }
 }
