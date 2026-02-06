@@ -750,6 +750,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB941568)"
         },
+        "KB941644": {
+            "releaseDate": "2008-01-08",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB941644)"
+        },
         "KB941776": {
             "releaseDate": "2007-10-09",
             "releaseVersion": "",
