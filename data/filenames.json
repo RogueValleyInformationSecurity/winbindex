@@ -143,6 +143,7 @@
 "mqupgrd.dll",
 "mqutil.dll",
 "mrxdav.sys",
+"msadce.dll",
 "msadox.dll",
 "msconfig.exe",
 "msctf.dll",
