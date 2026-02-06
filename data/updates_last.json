@@ -434,6 +434,11 @@
             "releaseDate": "2006-06-13",
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB914798)"
+        },
+        "KB917344": {
+            "releaseDate": "2006-06-13",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB917344)"
         }
     }
 }
