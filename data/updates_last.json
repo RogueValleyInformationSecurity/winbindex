@@ -5286,6 +5286,11 @@
             "releaseVersion": "",
             "title": "Security Update for WEPOS and POSReady 2009 (KB3140735)"
         },
+        "KB3142027": {
+            "releaseDate": "2016-07-12",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 2.0 SP2 for WES09 and POSReady 2009 (KB3142027)"
+        },
         "KB3142029": {
             "releaseDate": "2016-05-10",
             "releaseVersion": "",
