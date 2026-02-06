@@ -5356,6 +5356,11 @@
             "releaseVersion": "",
             "title": "Security Update for WES09 and POSReady 2009 (KB3170455)"
         },
+        "KB3178034": {
+            "releaseDate": "2016-08-09",
+            "releaseVersion": "",
+            "title": "Security Update for WES09 and POSReady 2009 (KB3178034)"
+        },
         "KB3197835": {
             "releaseDate": "2017-06-13",
             "releaseVersion": "",
