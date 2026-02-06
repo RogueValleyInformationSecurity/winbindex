@@ -60,6 +60,11 @@
             "releaseVersion": "",
             "title": "Update for Windows Server 2003 x64 Edition (KB2904266)"
         },
+        "KB2918614": {
+            "releaseDate": "2014-11-11",
+            "releaseVersion": "",
+            "title": "Security Update for Windows Server 2003 (KB2918614)"
+        },
         "KB2922717": {
             "releaseDate": "2014-03-11",
             "releaseVersion": "",
