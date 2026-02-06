@@ -555,6 +555,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows Server 2003 (KB2918614)"
         },
+        "KB2922229": {
+            "releaseDate": "2014-04-08",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP x64 Edition (KB2922229)"
+        },
         "KB2922717": {
             "releaseDate": "2014-03-11",
             "releaseVersion": "",
