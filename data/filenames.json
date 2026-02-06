@@ -709,6 +709,7 @@
 "wcorpol.dll",
 "wcrypt32.dll",
 "wcryptdlg.dll",
+"wdirectdb.dll",
 "wdmaud.sys",
 "wdns.exe",
 "wdnsapi.dll",
