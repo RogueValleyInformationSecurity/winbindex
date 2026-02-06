@@ -770,6 +770,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB941568)"
         },
+        "KB941569": {
+            "releaseDate": "2008-06-10",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP with Windows Media Format Runtime 9 (KB941569)"
+        },
         "KB941644": {
             "releaseDate": "2008-01-08",
             "releaseVersion": "",
