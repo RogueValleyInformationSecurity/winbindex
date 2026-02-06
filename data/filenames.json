@@ -459,6 +459,7 @@
 "shlwapi.dll",
 "shtml.dll",
 "shtml.exe",
+"smb.sys",
 "smss.exe",
 "smtpsvc.dll",
 "snmp.exe",
