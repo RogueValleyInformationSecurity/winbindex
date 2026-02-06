@@ -1323,6 +1323,17 @@
 "migwiza.exe": {
 "7f7266ef7b3a1e30c1cb28fb3369683d35fe1f7546e21d773c3c71c175f9b3b1": "pe"
 },
+"mp4sdecd.dll": {
+"005e4f2d75f1f48c2e4080c7588c45d479483589a9760107f1a9f01ba0bcb90e": "pe"
+},
+"mp4sdmod.dll": {
+"3509a09684b71e27e24f8582f536a9e014dfe43d6e1515635cdca1471c62ab8f": "pe",
+"52039fa80667c2f2ef5a9be03b87354e83127fe907f033d559b12a51eefbcb13": "pe",
+"a41e6b35ceea27e0768ffecfa76df2772a5dd73444b4eb27b8f412bb591083f0": "pe"
+},
+"mp4sds32.ax": {
+"ea4210bc095214952c4ce7e5ac585fb16ceebe119249e64ce60ef040ca12e808": "pe"
+},
 "mpeg2data.ax": {
 "cef8cfa63ef71174b1036fe492b4a81979e6d0bad5dde4901460a72939b13c86": "pe"
 },
@@ -1331,6 +1342,9 @@
 },
 "mpg2splt.ax": {
 "23d1153de3046fefe24a6ccbe6880daa4179afe3da85560d8be82a28f110112c": "pe"
+},
+"mpg4ds32.ax": {
+"6edd18eada315c9d0dfb498bd18979aa48e0033338a698ab5d6e6b17a39d1eb0": "pe"
 },
 "mqac.sys": {
 "d22240cbdae0d2932d8f88c90c2a42e45352e75b32094ca37963dddf53e315ac": "pe"
