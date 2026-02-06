@@ -844,6 +844,11 @@
             "releaseDate": "2008-05-13",
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB950749)"
+        },
+        "KB950762": {
+            "releaseDate": "2008-06-10",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB950762)"
         }
     }
 }
