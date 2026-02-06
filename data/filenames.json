@@ -724,6 +724,7 @@
 "webcheck.dll",
 "webclnt.dll",
 "wes.dll",
+"wesent.dll",
 "wevtfwd.dll",
 "wgdi32.dll",
 "wgpkcsp.dll",
