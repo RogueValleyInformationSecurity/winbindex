@@ -5291,6 +5291,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB908531)"
         },
+        "KB909520": {
+            "releaseDate": "2007-02-13",
+            "releaseVersion": "",
+            "title": "Microsoft Base Smart Card Cryptographic Service Provider Package: x86 (KB909520)"
+        },
         "KB910393": {
             "releaseDate": "2006-03-14",
             "releaseVersion": "",
