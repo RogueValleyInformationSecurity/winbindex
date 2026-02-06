@@ -210,6 +210,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB2483618)"
         },
+        "KB2502898": {
+            "releaseDate": "2011-03-08",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP Media Center Edition 2005 Update Rollup 2 X86 Edition (KB2502898)"
+        },
         "KB328940": {
             "releaseDate": "2004-05-15",
             "releaseVersion": "",
