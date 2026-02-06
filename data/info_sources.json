@@ -368,6 +368,10 @@
 "b6eedbc744f3627483c65c435e2a1888fbb5b0baad424b41aae54c9e3569d504": "pe",
 "e73b756a004d195dac923a021b89c978dbac7dbac939e4bc349f4baa6273e00d": "pe"
 },
+"gdiplus.dll": {
+"2be272a683c26255a674d4afedb3a495d214adce69d819ea2ade77f489b30487": "pe",
+"aec83a43be0e64fe38fc9d0654a170df1e7bd8de605d1aa327bab4493fbbcdc2": "pe"
+},
 "hccoin.dll": {
 "8664716c9552cf2ac1c8a7312fd3ed64f693d9bde9ac2d0ec500f215c58e3c3e": "pe"
 },

@@ -90,6 +90,7 @@
 "fpremadm.exe",
 "fpsrvadm.exe",
 "gdi32.dll",
+"gdiplus.dll",
 "hccoin.dll",
 "helpctr.exe",
 "helpsvc.exe",
