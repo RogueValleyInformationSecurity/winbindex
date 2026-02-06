@@ -13978,6 +13978,7 @@
 },
 "npfs.sys": {
 "4adfc76965ba2a5f488e71789a4e4ea702a74af42725f72130d1ca919406cf19": "file",
+"9104c3d91e81a1eaad8ad15042ac7e0bf4ad82ccee8d31085fa6c16414491d21": "pe",
 "bca88a6a56e2ab513d25af15cc6d4951fb00c57fd427278e587a23f8e0ead032": "file"
 },
 "nppagent.exe": {
