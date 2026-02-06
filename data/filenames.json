@@ -122,6 +122,7 @@
 "hlink.dll",
 "hscupd.exe",
 "http.sys",
+"httpext.dll",
 "ieexec.exe",
 "ieexecremote.dll",
 "iehost.dll",
