@@ -400,6 +400,11 @@
             "releaseVersion": "",
             "title": "Security Update for Microsoft .NET Framework 2.0 SP2 on Windows Server 2003 and Windows XP x86 (KB2742596)"
         },
+        "KB2748349": {
+            "releaseDate": "2017-05-30",
+            "releaseVersion": "",
+            "title": "Update for Windows XP x64 Edition (KB2748349)"
+        },
         "KB2749655": {
             "releaseDate": "2012-10-09",
             "releaseVersion": "",
