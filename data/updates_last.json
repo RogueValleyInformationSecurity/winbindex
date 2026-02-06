@@ -2289,6 +2289,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB923191)"
         },
+        "KB923414": {
+            "releaseDate": "2006-10-10",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB923414)"
+        },
         "KB924881": {
             "releaseDate": "2007-01-29",
             "releaseVersion": "",
