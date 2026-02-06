@@ -600,6 +600,11 @@
             "releaseVersion": "",
             "title": "Security Update for Microsoft .NET Framework 1.1 SP1 on Windows XP, Server 2003, Vista, and Server 2008 for x64 (KB2656370)"
         },
+        "KB2656378": {
+            "releaseDate": "2012-08-29",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 1.0 SP3 on Windows XP Tablet PC and Media Center (KB2656378)"
+        },
         "KB2656407": {
             "releaseDate": "2012-05-22",
             "releaseVersion": "",

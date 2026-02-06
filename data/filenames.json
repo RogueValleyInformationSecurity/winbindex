@@ -462,6 +462,7 @@
 "system.dll",
 "system.drawing.design.dll",
 "system.drawing.dll",
+"system.drawing.resources.dll",
 "system.enterpriseservices.dll",
 "system.enterpriseservices.thunk.dll",
 "system.management.automation.dll",
