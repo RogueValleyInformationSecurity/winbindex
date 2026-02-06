@@ -265,6 +265,11 @@
             "releaseVersion": "",
             "title": "Security Update for Microsoft .NET Framework 2.0 SP2 on Windows Server 2003 for x64-based Systems (KB3023220)"
         },
+        "KB3023221": {
+            "releaseDate": "2015-05-12",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 4 on Windows Server 2003, Vista, Windows 7, Server 2008, Server 2008 R2 x64 (KB3023221)"
+        },
         "KB3023562": {
             "releaseDate": "2015-02-10",
             "releaseVersion": "",
