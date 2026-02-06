@@ -865,6 +865,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB951698)"
         },
+        "KB951978": {
+            "releaseDate": "2008-07-08",
+            "releaseVersion": "",
+            "title": "Update for Windows XP (KB951978)"
+        },
         "KB953356": {
             "releaseDate": "2008-06-24",
             "releaseVersion": "",
