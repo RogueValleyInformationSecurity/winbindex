@@ -975,6 +975,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB956802)"
         },
+        "KB956803": {
+            "releaseDate": "2009-01-13",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB956803)"
+        },
         "KB956841": {
             "releaseDate": "2008-10-14",
             "releaseVersion": "",
