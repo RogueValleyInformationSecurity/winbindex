@@ -435,6 +435,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB2592799)"
         },
+        "KB2616310": {
+            "releaseDate": "2011-11-08",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB2616310)"
+        },
         "KB328940": {
             "releaseDate": "2004-05-15",
             "releaseVersion": "",
