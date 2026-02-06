@@ -890,6 +890,11 @@
             "releaseVersion": "",
             "title": "Security Update for Outlook Express for Windows XP (KB951066)"
         },
+        "KB951072": {
+            "releaseDate": "2008-08-12",
+            "releaseVersion": "",
+            "title": "Update for Windows XP (KB951072)"
+        },
         "KB951376": {
             "releaseDate": "2008-06-18",
             "releaseVersion": "",
