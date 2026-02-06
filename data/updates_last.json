@@ -5276,6 +5276,11 @@
             "releaseVersion": "",
             "title": "Cumulative Security Update for Internet Explorer 8 for WEPOS and POSReady 2009 (KB3148198)"
         },
+        "KB3148851": {
+            "releaseDate": "2016-04-12",
+            "releaseVersion": "",
+            "title": "Update for WEPOS and POSReady 2009 (KB3148851)"
+        },
         "KB3197835": {
             "releaseDate": "2017-06-13",
             "releaseVersion": "",
