@@ -1305,6 +1305,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP x64 Edition (KB974318)"
         },
+        "KB974392": {
+            "releaseDate": "2009-12-08",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB974392)"
+        },
         "KB974571": {
             "releaseDate": "2009-10-13",
             "releaseVersion": "",
