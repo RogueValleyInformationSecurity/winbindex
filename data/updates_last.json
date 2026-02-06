@@ -2564,6 +2564,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB961501)"
         },
+        "KB963093": {
+            "releaseDate": "2009-06-09",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB963093)"
+        },
         "KB967715": {
             "releaseDate": "2009-03-10",
             "releaseVersion": "",
