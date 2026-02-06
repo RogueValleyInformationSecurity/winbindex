@@ -629,6 +629,11 @@
             "releaseDate": "2007-02-13",
             "releaseVersion": "",
             "title": "Security Update for Windows XP x64 Edition (KB928843)"
+        },
+        "KB929338": {
+            "releaseDate": "2007-03-13",
+            "releaseVersion": "",
+            "title": "Update for Windows XP (KB929338)"
         }
     }
 }
