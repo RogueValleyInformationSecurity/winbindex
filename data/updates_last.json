@@ -1439,6 +1439,11 @@
             "releaseDate": "2010-04-13",
             "releaseVersion": "",
             "title": "Security Update for Windows XP x64 Edition (KB980232)"
+        },
+        "KB981332": {
+            "releaseDate": "2010-04-13",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB981332)"
         }
     }
 }
