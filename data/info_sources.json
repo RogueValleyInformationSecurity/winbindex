@@ -548,6 +548,10 @@
 "fusion.dll": {
 "9bd586a6d4bff36127cc2fe66500ca5c6df1bba838b7da7508dd7a8cb36e33da": "pe"
 },
+"fxscover.exe": {
+"c071a087dc63b5f00fd2fbcd3a569ca4bbab1e47e95d4c3081c88624afc7e283": "pe",
+"de56736f6bc09959fd2e1c7bd9072a4cffc71e5cf2f4b455be559d3cca3acf34": "pe"
+},
 "gacutil.exe": {
 "29183f1c8e0cc6cdf5dbf51ee86869086c1d00d8a281a6ecf3698743318c2b0d": "pe"
 },
