@@ -575,6 +575,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB923414)"
         },
+        "KB923561": {
+            "releaseDate": "2009-04-14",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB923561)"
+        },
         "KB923689": {
             "releaseDate": "2008-06-10",
             "releaseVersion": "",
