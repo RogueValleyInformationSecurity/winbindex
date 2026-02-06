@@ -403,6 +403,7 @@
 "shtml.dll",
 "shtml.exe",
 "smss.exe",
+"smtpsvc.dll",
 "snmp.exe",
 "spcmdcon.sys",
 "spcompat.dll",
