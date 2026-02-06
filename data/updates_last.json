@@ -2224,6 +2224,11 @@
             "releaseVersion": "",
             "title": "Security Update for Microsoft .NET Framework 2.0 SP2 on Windows Server 2003 and Windows XP for x64-based Systems (KB2686828)"
         },
+        "KB2691442": {
+            "releaseDate": "2012-08-29",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP x64 Edition (KB2691442)"
+        },
         "KB2718704": {
             "releaseDate": "2012-08-29",
             "releaseVersion": "",
