@@ -6121,6 +6121,11 @@
             "releaseVersion": "",
             "title": "Update for WES09 and POSReady 2009 (KB4459091)"
         },
+        "KB4462774": {
+            "releaseDate": "2018-11-13",
+            "releaseVersion": "",
+            "title": "2018-08 Security Only Update for .NET Framework 4.0 on WES09 and POSReady 2009 (KB4462774)"
+        },
         "KB4462935": {
             "releaseDate": "2018-10-09",
             "releaseVersion": "",
