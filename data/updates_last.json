@@ -3898,6 +3898,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP x64 Edition (KB2115168)"
         },
+        "KB2121546": {
+            "releaseDate": "2010-09-14",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB2121546)"
+        },
         "KB2160329": {
             "releaseDate": "2010-08-10",
             "releaseVersion": "",
