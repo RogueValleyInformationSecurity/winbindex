@@ -682,6 +682,11 @@
             "releaseVersion": "",
             "title": "Security Update for Microsoft .NET Framework 2.0 SP2 on Windows Server 2003 (KB2932079)"
         },
+        "KB2957509": {
+            "releaseDate": "2014-06-10",
+            "releaseVersion": "",
+            "title": "Security Update for Windows Server 2003 x64 Edition (KB2957509)"
+        },
         "KB898458": {
             "releaseDate": "2005-06-14",
             "releaseVersion": "",
