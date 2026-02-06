@@ -215,6 +215,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows Server 2003 (KB2621146)"
         },
+        "KB2624667": {
+            "releaseDate": "2011-12-13",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP x64 Edition (KB2624667)"
+        },
         "KB2641690": {
             "releaseDate": "2011-11-16",
             "releaseVersion": "",
