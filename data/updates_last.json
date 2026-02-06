@@ -3087,6 +3087,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP x64 Edition (KB2864063)"
         },
+        "KB2868038": {
+            "releaseDate": "2013-10-08",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP x64 Edition (KB2868038)"
+        },
         "KB2876217": {
             "releaseDate": "2013-09-10",
             "releaseVersion": "",
