@@ -266,6 +266,7 @@
 "mscorjit.dll",
 "mscorld.dll",
 "mscorlib.dll",
+"mscorlib.resources.dll",
 "mscorpe.dll",
 "mscorrc.chs.dll",
 "mscorrc.cht.dll",
