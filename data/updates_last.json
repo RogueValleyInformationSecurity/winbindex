@@ -5201,6 +5201,11 @@
             "releaseVersion": "",
             "title": "Security Update for WEPOS and POSReady 2009 (KB3126041)"
         },
+        "KB3126587": {
+            "releaseDate": "2016-02-09",
+            "releaseVersion": "",
+            "title": "Security Update for WEPOS and POSReady 2009 (KB3126587)"
+        },
         "KB3197835": {
             "releaseDate": "2017-06-13",
             "releaseVersion": "",
