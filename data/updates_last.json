@@ -5328,6 +5328,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB975467)"
         },
+        "KB975558": {
+            "releaseDate": "2010-10-12",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB975558)"
+        },
         "KB975561": {
             "releaseDate": "2010-03-09",
             "releaseVersion": "",
