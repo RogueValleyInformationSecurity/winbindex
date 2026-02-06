@@ -2824,6 +2824,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows Server 2003 (KB977290)"
         },
+        "KB977914": {
+            "releaseDate": "2010-02-09",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB977914)"
+        },
         "KB981550": {
             "releaseDate": "2010-09-14",
             "releaseVersion": "",
