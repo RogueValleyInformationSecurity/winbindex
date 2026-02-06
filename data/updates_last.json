@@ -2807,6 +2807,11 @@
             "releaseVersion": "",
             "title": "Cumulative Security Update for ActiveX Killbits for Windows XP x64 Edition (KB2618451)"
         },
+        "KB2620712": {
+            "releaseDate": "2011-12-13",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB2620712)"
+        },
         "KB896424": {
             "releaseDate": "2005-11-08",
             "releaseVersion": "",
