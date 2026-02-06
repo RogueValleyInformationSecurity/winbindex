@@ -5431,6 +5431,11 @@
             "releaseVersion": "",
             "title": "Security Update for WES09 and POSReady 2009 (KB3203859)"
         },
+        "KB3204724": {
+            "releaseDate": "2016-12-13",
+            "releaseVersion": "",
+            "title": "Security Update for WES09 and POSReady 2009 (KB3204724)"
+        },
         "KB328940": {
             "releaseDate": "2004-05-15",
             "releaseVersion": "",
