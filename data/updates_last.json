@@ -1,4 +1,11 @@
 {
+    "2003": {
+        "KB843496": {
+            "releaseDate": "2004-09-20",
+            "releaseVersion": "",
+            "title": "Update for Windows Media Services 9 Series on Windows Server 2003 (KB843496)"
+        }
+    },
     "XP": {
         "KB2079403": {
             "releaseDate": "2010-12-14",

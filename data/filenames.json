@@ -749,6 +749,7 @@
 "wmsjro.dll",
 "wmspdmod.dll",
 "wmsrating.dll",
+"wmsserver.dll",
 "wmstime.dll",
 "wmsv1_0.dll",
 "wmsxml3.dll",
