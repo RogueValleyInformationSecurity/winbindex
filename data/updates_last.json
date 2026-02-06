@@ -550,6 +550,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows Server 2003 (KB911562)"
         },
+        "KB911927": {
+            "releaseDate": "2006-02-14",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB911927)"
+        },
         "KB912919": {
             "releaseDate": "2006-01-05",
             "releaseVersion": "",
