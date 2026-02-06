@@ -760,6 +760,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB941644)"
         },
+        "KB941693": {
+            "releaseDate": "2008-04-08",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB941693)"
+        },
         "KB941776": {
             "releaseDate": "2007-10-09",
             "releaseVersion": "",
