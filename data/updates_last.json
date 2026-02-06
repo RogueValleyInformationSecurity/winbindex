@@ -535,6 +535,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB921398)"
         },
+        "KB921503": {
+            "releaseDate": "2007-08-14",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB921503)"
+        },
         "KB921883": {
             "releaseDate": "2006-09-12",
             "releaseVersion": "",

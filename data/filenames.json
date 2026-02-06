@@ -163,6 +163,7 @@
 "nwrdr.sys",
 "nwwks.dll",
 "ole32.dll",
+"oleaut32.dll",
 "oledlg.dll",
 "osk.exe",
 "pchshell.dll",
