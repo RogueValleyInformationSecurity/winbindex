@@ -3893,6 +3893,11 @@
         }
     },
     "XP-x64": {
+        "KB2229593": {
+            "releaseDate": "2010-07-13",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB2229593)"
+        },
         "KB2419635": {
             "releaseDate": "2011-01-11",
             "releaseVersion": "",
