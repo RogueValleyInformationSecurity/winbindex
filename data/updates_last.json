@@ -2139,6 +2139,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows Server 2003 (KB3077657)"
         },
+        "KB893756": {
+            "releaseDate": "2005-09-13",
+            "releaseVersion": "",
+            "title": "XPD Beta of Security Update for Windows XP (KB893756)"
+        },
         "KB898458": {
             "releaseDate": "2005-06-14",
             "releaseVersion": "",
