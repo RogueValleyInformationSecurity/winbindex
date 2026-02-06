@@ -1,9 +1,13 @@
 # /// script
 # requires-python = ">=3.11"
-# dependencies = []
+# dependencies = [
+#   "cabarchive",
+# ]
 # ///
 
 from pathlib import Path
+from struct import unpack
+import subprocess
 import json
 import stat
 import sys
@@ -26,11 +30,12 @@ if __name__ == '__main__':
 # 7z.exe x C:\path\to\windows.iso -oC:\w
 #
 # XP ISOs have an i386\ directory (x86) or amd64\ directory (x64).
-# Compressed files like *.dl_, *.ex_, *.sy_ need decompression:
-#   expand.exe file.dl_ file.dll
 #
 # Embedded CABs (driver.cab, sp2.cab, etc.) need extraction:
 #   expand.exe -r -f:* file.cab output_dir\
+#
+# Compressed single-file cabinets (*.dl_, *.ex_, *.sy_, etc.) are
+# expanded automatically by this script before PE analysis.
 #
 # Then point this script at the resulting folder.
 # Note: Prefix the path with \\?\:
@@ -38,6 +43,119 @@ if __name__ == '__main__':
 # In order to add support for long paths to sigcheck.
 #
 # Finally, run upd05_group_by_filename.py to aggregate the results.
+
+
+MSCF_MAGIC = b'MSCF'           # Microsoft Cabinet Format
+SZDD_MAGIC = b'SZDD\x88\xf0\x27\x33'  # SZDD/KWAJ compressed
+
+
+def get_cabinet_filename(filepath):
+    """Read the real filename from an MSCF or SZDD cabinet header.
+
+    Returns the real filename (str), or None if the file is not a cabinet.
+    """
+    with open(filepath, 'rb') as f:
+        header = f.read(64)
+
+    if header[:4] == MSCF_MAGIC:
+        return _get_mscf_filename(filepath)
+    elif header[:8] == SZDD_MAGIC:
+        return _get_szdd_filename(filepath, header)
+    return None
+
+
+def _get_mscf_filename(filepath):
+    """Extract the first filename from an MSCF cabinet."""
+    with open(filepath, 'rb') as f:
+        data = f.read()
+
+    # MSCF header: offset 16 = coffFiles (u32 LE) — points to first CFFILE entry.
+    coff_files = unpack('<I', data[16:20])[0]
+
+    # CFFILE fixed header is 16 bytes, followed by null-terminated szName.
+    name_offset = coff_files + 16
+    name_end = data.index(b'\x00', name_offset)
+    name = data[name_offset:name_end].decode('ascii', errors='replace')
+    # Strip any directory prefix (some cabinets embed paths).
+    return name.split('\\')[-1].split('/')[-1]
+
+
+def _get_szdd_filename(filepath, header):
+    """Reconstruct the filename for an SZDD-compressed file.
+
+    Byte 9 of the SZDD header contains the missing last character of the
+    original extension. Replace the trailing '_' in the filename with it.
+    """
+    missing_char = chr(header[9])
+    if missing_char == '\x00':
+        return None  # No recovery info
+    name = filepath.name
+    if name.endswith('_'):
+        return name[:-1] + missing_char
+    return None
+
+
+def expand_cabinet_python(filepath, target):
+    """Expand an MSCF cabinet using the cabarchive library."""
+    import cabarchive
+    with open(filepath, 'rb') as f:
+        data = f.read()
+    arc = cabarchive.CabArchive(data)
+    # Take the first (and usually only) file in the cabinet.
+    for cff in arc.values():
+        target.write_bytes(cff.buf)
+        return
+    raise ValueError('Empty cabinet')
+
+
+def expand_cabinet_fallback(filepath, target):
+    """Expand a cabinet file using expand.exe (handles LZX/Quantum/SZDD)."""
+    # expand.exe doesn't understand \\?\ long-path prefix, strip it.
+    src = str(filepath)
+    dst = str(target)
+    if src.startswith('\\\\?\\'):
+        src = src[4:]
+    if dst.startswith('\\\\?\\'):
+        dst = dst[4:]
+    subprocess.run(
+        [R'C:\WINDOWS\system32\expand.exe', src, dst],
+        check=True, capture_output=True,
+    )
+
+
+def expand_compressed_files(folder):
+    """Expand cabinet-compressed _-suffix files in-place."""
+    count = 0
+    errors = 0
+    for filepath in sorted(folder.rglob('*')):
+        if not filepath.is_file() or not filepath.name.endswith('_'):
+            continue
+
+        real_name = get_cabinet_filename(filepath)
+        if real_name is None:
+            continue  # Not a cabinet file, leave it
+
+        target = filepath.parent / real_name
+        if target.exists():
+            # Already expanded (e.g. by a prior run); remove the compressed copy.
+            filepath.unlink()
+            count += 1
+            continue
+
+        try:
+            expand_cabinet_python(filepath, target)
+        except Exception:
+            try:
+                expand_cabinet_fallback(filepath, target)
+            except Exception as e:
+                print(f'  Warning: failed to expand {filepath.name}: {e}')
+                errors += 1
+                continue
+
+        filepath.unlink()
+        count += 1
+
+    print(f'  Expanded {count} compressed files' + (f' ({errors} errors)' if errors else ''))
 
 
 # https://stackoverflow.com/a/1151705
@@ -54,6 +172,9 @@ def main(folder: Path, windows_version: str, iso_sha256: str, release_date: str,
 
     if output_name is None:
         output_name = windows_version
+
+    print('Expanding compressed files...')
+    expand_compressed_files(folder)
 
     result_files = set()
     pe_file_hashes = {}
