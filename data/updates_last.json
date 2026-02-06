@@ -1190,6 +1190,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows Media Player 11 for Windows XP X64 Edition (KB973540)"
         },
+        "KB973768": {
+            "releaseDate": "2009-09-08",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB973768)"
+        },
         "KB973815": {
             "releaseDate": "2009-08-11",
             "releaseVersion": "",
