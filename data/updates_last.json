@@ -770,6 +770,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP x64 Edition (KB2813170)"
         },
+        "KB2839229": {
+            "releaseDate": "2013-06-18",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB2839229)"
+        },
         "KB328940": {
             "releaseDate": "2004-05-15",
             "releaseVersion": "",
