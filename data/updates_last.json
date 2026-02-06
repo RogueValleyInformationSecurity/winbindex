@@ -2149,6 +2149,11 @@
             "releaseVersion": "",
             "title": "Update for Windows XP x64 Edition (KB898715)"
         },
+        "KB899587": {
+            "releaseDate": "2005-08-09",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB899587)"
+        },
         "KB920683": {
             "releaseDate": "2006-08-08",
             "releaseVersion": "",
