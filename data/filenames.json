@@ -518,6 +518,8 @@
 "update.exe",
 "update.sys",
 "updspapi.dll",
+"usb8023.sys",
+"usb8023x.sys",
 "usbccgp.sys",
 "usbehci.sys",
 "usbhub.sys",
