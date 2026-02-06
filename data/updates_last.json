@@ -4,6 +4,11 @@
             "releaseDate": "2004-09-20",
             "releaseVersion": "",
             "title": "Update for Windows Media Services 9 Series on Windows Server 2003 (KB843496)"
+        },
+        "KB883935": {
+            "releaseDate": "2004-10-12",
+            "releaseVersion": "",
+            "title": "Security Update for Windows Server 2003 (KB883935)"
         }
     },
     "XP": {
