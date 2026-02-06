@@ -1419,6 +1419,11 @@
             "releaseDate": "2010-02-23",
             "releaseVersion": "",
             "title": "Update for Windows XP (KB979306)"
+        },
+        "KB979309": {
+            "releaseDate": "2010-04-13",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB979309)"
         }
     }
 }

@@ -30,6 +30,7 @@
 "browseui.dll",
 "bthport.sys",
 "cabinet.dll",
+"cabview.dll",
 "caspol.exe",
 "cdosys.dll",
 "cfgwiz.exe",
