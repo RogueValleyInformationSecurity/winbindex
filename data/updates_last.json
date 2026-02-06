@@ -2837,6 +2837,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP x64 Edition (KB2638806)"
         },
+        "KB2644615": {
+            "releaseDate": "2012-01-10",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP x64 Edition (KB2644615)"
+        },
         "KB2656353": {
             "releaseDate": "2011-12-29",
             "releaseVersion": "",
