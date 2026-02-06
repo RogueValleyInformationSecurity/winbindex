@@ -4008,6 +4008,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP x64 Edition (KB2419635)"
         },
+        "KB2423089": {
+            "releaseDate": "2010-12-14",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP x64 Edition (KB2423089)"
+        },
         "KB2468871": {
             "releaseDate": "2011-09-13",
             "releaseVersion": "",
