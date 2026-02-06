@@ -642,6 +642,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows Server 2003 x64 Edition (KB2772930)"
         },
+        "KB2808679": {
+            "releaseDate": "2013-10-08",
+            "releaseVersion": "",
+            "title": "Update for Windows Server 2003 x64 Edition (KB2808679)"
+        },
         "KB898458": {
             "releaseDate": "2005-06-14",
             "releaseVersion": "",
