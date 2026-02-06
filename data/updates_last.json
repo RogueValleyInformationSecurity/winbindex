@@ -592,6 +592,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows Server 2003 x64 Edition (KB2524426)"
         },
+        "KB2562485": {
+            "releaseDate": "2011-10-25",
+            "releaseVersion": "",
+            "title": "Security Update for Windows Server 2003 x64 Edition (KB2562485)"
+        },
         "KB2607712": {
             "releaseDate": "2011-10-11",
             "releaseVersion": "",
