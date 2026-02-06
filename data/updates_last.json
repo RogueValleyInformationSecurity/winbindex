@@ -1155,6 +1155,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP x64 Edition (KB969059)"
         },
+        "KB969878": {
+            "releaseDate": "2009-10-13",
+            "releaseVersion": "",
+            "title": "Security Update for Windows 2000, Windows XP and Windows 2003 (KB969878)"
+        },
         "KB970238": {
             "releaseDate": "2009-06-09",
             "releaseVersion": "",
