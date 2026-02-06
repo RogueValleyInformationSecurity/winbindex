@@ -626,6 +626,11 @@
             "releaseDate": "2008-06-10",
             "releaseVersion": "",
             "title": "Security Update for Windows Server 2003 x64 Edition (KB948745)"
+        },
+        "KB952068": {
+            "releaseDate": "2008-12-09",
+            "releaseVersion": "",
+            "title": "Security Update for Windows Server 2003 x64 Edition (KB952068)"
         }
     },
     "XP": {
