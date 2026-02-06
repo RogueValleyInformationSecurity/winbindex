@@ -1429,6 +1429,11 @@
             "releaseDate": "2010-04-13",
             "releaseVersion": "",
             "title": "Security Update for Windows Media Player 9 for Windows XP SP3 (KB979402)"
+        },
+        "KB979683": {
+            "releaseDate": "2010-04-13",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB979683)"
         }
     }
 }
