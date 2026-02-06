@@ -2449,6 +2449,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows Server 2003 x64 Edition (KB942288)"
         },
+        "KB942763": {
+            "releaseDate": "2008-08-12",
+            "releaseVersion": "",
+            "title": "Update for Windows XP (KB942763)"
+        },
         "KB942831": {
             "releaseDate": "2008-02-12",
             "releaseVersion": "",
