@@ -710,6 +710,11 @@
             "releaseVersion": "",
             "title": "Update for Windows XP (KB933360)"
         },
+        "KB936021": {
+            "releaseDate": "2007-09-11",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP x64 Edition (KB936021)"
+        },
         "KB938759": {
             "releaseDate": "2008-06-24",
             "releaseVersion": "",
