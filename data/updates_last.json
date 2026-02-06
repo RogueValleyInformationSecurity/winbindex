@@ -2264,6 +2264,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB2724197)"
         },
+        "KB2729450": {
+            "releaseDate": "2012-11-13",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 2.0 SP2 on Windows Server 2003 and Windows XP for x64-based Systems (KB2729450)"
+        },
         "KB2748349": {
             "releaseDate": "2012-12-11",
             "releaseVersion": "",
