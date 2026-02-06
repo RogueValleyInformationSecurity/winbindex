@@ -2741,6 +2741,11 @@
             "releaseDate": "2005-07-11",
             "releaseVersion": "",
             "title": "Update for Windows XP x64 Edition (KB898715)"
+        },
+        "KB901214": {
+            "releaseDate": "2005-07-12",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP x64 Edition (KB901214)"
         }
     }
 }
