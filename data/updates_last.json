@@ -4571,6 +4571,11 @@
             "releaseVersion": "",
             "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2789642)"
         },
+        "KB2789643": {
+            "releaseDate": "2017-05-30",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 2.0 SP2 on Windows Server 2003 and Windows XP for x64-based Systems (KB2789643)"
+        },
         "KB2794119": {
             "releaseDate": "2012-12-11",
             "releaseVersion": "",
