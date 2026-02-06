@@ -5183,6 +5183,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB975467)"
         },
+        "KB976098": {
+            "releaseDate": "2009-11-24",
+            "releaseVersion": "",
+            "title": "Update for Windows XP x64 Edition (KB976098)"
+        },
         "KB978338": {
             "releaseDate": "2010-04-13",
             "releaseVersion": "",
