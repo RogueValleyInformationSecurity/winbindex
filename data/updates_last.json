@@ -2982,6 +2982,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB2780091)"
         },
+        "KB2789643": {
+            "releaseDate": "2017-05-30",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 2.0 SP2 on Windows Server 2003 and Windows XP for x64-based Systems (KB2789643)"
+        },
         "KB2801109": {
             "releaseDate": "2013-04-09",
             "releaseVersion": "",
