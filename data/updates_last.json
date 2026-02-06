@@ -645,6 +645,11 @@
             "releaseVersion": "",
             "title": "Remote Desktop Connection (Terminal Services Client 6.0) for Windows XP (KB925876)"
         },
+        "KB925877": {
+            "releaseDate": "2007-02-27",
+            "releaseVersion": "",
+            "title": "Remote Desktop Connection (Terminal Services Client 6.0) MUI Language Pack for Windows XP (KB925877)"
+        },
         "KB926436": {
             "releaseDate": "2007-02-13",
             "releaseVersion": "",
