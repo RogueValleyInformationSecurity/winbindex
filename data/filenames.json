@@ -325,6 +325,7 @@
 "narrator.exe",
 "ndis.sys",
 "ndisuio.sys",
+"ndproxy.sys",
 "netapi32.dll",
 "netfxupdate.exe",
 "netlogon.dll",

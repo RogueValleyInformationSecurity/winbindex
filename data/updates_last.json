@@ -130,6 +130,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP x64 Edition (KB2436673)"
         },
+        "KB2440591": {
+            "releaseDate": "2010-12-14",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP x64 Edition (KB2440591)"
+        },
         "KB328940": {
             "releaseDate": "2004-05-15",
             "releaseVersion": "",
