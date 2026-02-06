@@ -459,6 +459,11 @@
             "releaseDate": "2006-06-13",
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB917953)"
+        },
+        "KB919803": {
+            "releaseDate": "2006-07-25",
+            "releaseVersion": "",
+            "title": "Update Rollup for Windows XP Media Center Edition 2005 (KB919803)"
         }
     }
 }
