@@ -184,6 +184,7 @@
 "rpcrt4.dll",
 "sbe.dll",
 "schedsvc.dll",
+"secdrv.sys",
 "setup_wm.exe",
 "shdoclc.dll",
 "shdocvw.dll",
