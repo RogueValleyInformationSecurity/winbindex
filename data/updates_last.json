@@ -805,6 +805,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB2839229)"
         },
+        "KB2844285": {
+            "releaseDate": "2013-08-13",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 2.0 SP2 on Windows Server 2003 and Windows XP for x64-based Systems (KB2844285)"
+        },
         "KB2845142": {
             "releaseDate": "2013-07-09",
             "releaseVersion": "",
