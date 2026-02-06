@@ -2369,6 +2369,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP x64 Edition (KB930178)"
         },
+        "KB931374": {
+            "releaseDate": "2008-02-12",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB931374)"
+        },
         "KB931836": {
             "releaseDate": "2007-08-28",
             "releaseVersion": "",
