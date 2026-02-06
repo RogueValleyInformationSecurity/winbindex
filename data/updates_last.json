@@ -5483,6 +5483,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP x64 Edition (KB982665)"
         },
+        "KB982802": {
+            "releaseDate": "2010-09-14",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP x64 Edition (KB982802)"
+        },
         "KB982865": {
             "releaseDate": "2010-06-22",
             "releaseVersion": "",
