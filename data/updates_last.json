@@ -917,6 +917,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows Server 2003 x64 Edition (KB3050946)"
         },
+        "KB3057839": {
+            "releaseDate": "2015-06-09",
+            "releaseVersion": "",
+            "title": "Security Update for Windows Server 2003 x64 Edition (KB3057839)"
+        },
         "KB3061518": {
             "releaseDate": "2015-05-12",
             "releaseVersion": "",
