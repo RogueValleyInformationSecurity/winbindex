@@ -5461,6 +5461,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP for x64-based Systems (KB4012583)"
         },
+        "KB4012584": {
+            "releaseDate": "2017-03-14",
+            "releaseVersion": "",
+            "title": "Security Update for WES09 and POSReady 2009 (KB4012584)"
+        },
         "KB4012598": {
             "releaseDate": "2017-05-31",
             "releaseVersion": "",
