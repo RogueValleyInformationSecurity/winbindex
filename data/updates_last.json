@@ -5856,6 +5856,11 @@
             "releaseVersion": "",
             "title": "2018-02 Security Update for Windows XP Embedded SP3 for x86-based Systems (KB4074852)"
         },
+        "KB4087398": {
+            "releaseDate": "2018-03-13",
+            "releaseVersion": "",
+            "title": "2018-03 Security Update for WES09 and POSReady 2009 for x86-based Systems (KB4087398)"
+        },
         "KB4500331": {
             "releaseDate": "2019-05-14",
             "releaseVersion": "",
