@@ -260,6 +260,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows Server 2003 (KB3033889)"
         },
+        "KB3039066": {
+            "releaseDate": "2015-03-10",
+            "releaseVersion": "",
+            "title": "Security Update for Windows Server 2003 (KB3039066)"
+        },
         "KB829358": {
             "releaseDate": "2005-04-26",
             "releaseVersion": "",
