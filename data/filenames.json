@@ -501,6 +501,7 @@
 "rtcres.dll",
 "rtffilt.dll",
 "sbe.dll",
+"scesrv.dll",
 "schannel.dll",
 "schedsvc.dll",
 "scrrun.dll",

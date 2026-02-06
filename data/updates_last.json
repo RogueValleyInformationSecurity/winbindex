@@ -195,6 +195,11 @@
             "releaseVersion": "",
             "title": "Cumulative Security Update for Internet Explorer 6 for Windows Server 2003 (KB3003057)"
         },
+        "KB3004361": {
+            "releaseDate": "2015-02-10",
+            "releaseVersion": "",
+            "title": "Security Update for Windows Server 2003 (KB3004361)"
+        },
         "KB3006226": {
             "releaseDate": "2014-11-11",
             "releaseVersion": "",
