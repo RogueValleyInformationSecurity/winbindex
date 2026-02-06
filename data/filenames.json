@@ -774,6 +774,7 @@
 "wjsdbgui.dll",
 "wjsprofilerui.dll",
 "wjsproxy.dll",
+"wkerberos.dll",
 "wkernel32.dll",
 "wksprt.exe",
 "wksprtps.dll",
