@@ -795,6 +795,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB2778344)"
         },
+        "KB2779030": {
+            "releaseDate": "2017-05-31",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB2779030)"
+        },
         "KB2779562": {
             "releaseDate": "2012-12-11",
             "releaseVersion": "",
