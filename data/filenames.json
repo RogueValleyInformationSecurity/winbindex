@@ -141,6 +141,7 @@
 "gdi32.dll",
 "gdiplus.dll",
 "gpkcsp.dll",
+"hal.dll",
 "hccoin.dll",
 "helpctr.exe",
 "helpsvc.exe",
