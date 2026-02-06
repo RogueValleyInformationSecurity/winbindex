@@ -687,6 +687,7 @@
 "wcorpol.dll",
 "wcrypt32.dll",
 "wdmaud.sys",
+"wdns.exe",
 "wdnsapi.dll",
 "wdpnet.dll",
 "wdsmkttools.dll",
