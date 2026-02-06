@@ -4531,6 +4531,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB2813347)"
         },
+        "KB2829361": {
+            "releaseDate": "2013-05-14",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB2829361)"
+        },
         "KB2832411": {
             "releaseDate": "2013-07-09",
             "releaseVersion": "",
