@@ -2857,6 +2857,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP x64 Edition (KB2626416)"
         },
+        "KB2633880": {
+            "releaseDate": "2012-07-10",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 2.0 SP2 on Windows Server 2003 and Windows XP for x64-based Systems (KB2633880)"
+        },
         "KB2638806": {
             "releaseDate": "2012-01-10",
             "releaseVersion": "",
