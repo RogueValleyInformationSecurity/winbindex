@@ -672,6 +672,11 @@
             "releaseVersion": "",
             "title": "Update for Windows Server 2003 (KB2927811)"
         },
+        "KB2931365": {
+            "releaseDate": "2014-05-13",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 4 on Windows Server 2003, Vista, Windows 7, Server 2008 x86 (KB2931365)"
+        },
         "KB898458": {
             "releaseDate": "2005-06-14",
             "releaseVersion": "",
