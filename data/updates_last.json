@@ -79,6 +79,11 @@
             "releaseDate": "2006-06-13",
             "releaseVersion": "",
             "title": "Security Update for Windows XP x64 Edition (KB914389)"
+        },
+        "KB924881": {
+            "releaseDate": "2007-01-29",
+            "releaseVersion": "",
+            "title": "Update for Windows SharePoint Services for Windows Server 2003 x64 Edition (KB924881)"
         }
     },
     "XP": {
