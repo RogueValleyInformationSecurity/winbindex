@@ -1070,6 +1070,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB960803)"
         },
+        "KB960859": {
+            "releaseDate": "2009-08-11",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP x64 Edition (KB960859)"
+        },
         "KB961118": {
             "releaseDate": "2009-02-24",
             "releaseVersion": "",
