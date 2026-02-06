@@ -5458,6 +5458,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB979683)"
         },
+        "KB979687": {
+            "releaseDate": "2010-10-12",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP x64 Edition (KB979687)"
+        },
         "KB979909": {
             "releaseDate": "2010-07-13",
             "releaseVersion": "",
