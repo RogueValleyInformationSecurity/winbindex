@@ -785,6 +785,11 @@
             "releaseVersion": "",
             "title": "Security Update for Microsoft .NET Framework 3.0 SP2 on Windows Server 2003 and Windows XP for x64-based Systems (KB2832411)"
         },
+        "KB2833940": {
+            "releaseDate": "2013-07-09",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 2.0 SP2 on Windows Server 2003 and Windows XP for x64-based Systems (KB2833940)"
+        },
         "KB2839229": {
             "releaseDate": "2013-06-18",
             "releaseVersion": "",
