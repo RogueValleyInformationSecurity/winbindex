@@ -2419,6 +2419,11 @@
             "releaseVersion": "",
             "title": "Security Update for Microsoft .NET Framework 2.0 SP2 on Windows Server 2003 and Windows XP for x64-based Systems (KB2898856)"
         },
+        "KB2901111": {
+            "releaseDate": "2014-02-11",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 2.0 SP2 on Windows Server 2003 and Windows XP x86 (KB2901111)"
+        },
         "KB2904266": {
             "releaseDate": "2013-12-10",
             "releaseVersion": "",
