@@ -6341,6 +6341,11 @@
             "releaseVersion": "",
             "title": "2019-03 Security Update for POSReady 2009 for x86-based Systems (KB4489973)"
         },
+        "KB4489974": {
+            "releaseDate": "2019-03-12",
+            "releaseVersion": "",
+            "title": "2019-03 Security Update for POSReady 2009 for x86-based Systems (KB4489974)"
+        },
         "KB4500331": {
             "releaseDate": "2019-05-14",
             "releaseVersion": "",
