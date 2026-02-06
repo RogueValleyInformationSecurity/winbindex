@@ -1080,6 +1080,11 @@
             "releaseVersion": "",
             "title": "Update for Windows XP x64 Edition (KB961118)"
         },
+        "KB961371": {
+            "releaseDate": "2009-08-25",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP x64 Edition (KB961371)"
+        },
         "KB961373": {
             "releaseDate": "2009-04-14",
             "releaseVersion": "",
