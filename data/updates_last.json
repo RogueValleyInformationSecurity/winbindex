@@ -165,6 +165,11 @@
             "releaseVersion": "",
             "title": "Security Update for Microsoft .NET Framework 2.0 SP2 on Windows Server 2003 and Windows XP x86 (KB2539631)"
         },
+        "KB2539636": {
+            "releaseDate": "2011-08-23",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 4 on Windows XP, Windows Server 2003, Windows Vista, Windows 7, Windows Server 2008, Windows Server 2008 R2 for x64-based Systems (KB2539636)"
+        },
         "KB2566454": {
             "releaseDate": "2011-08-09",
             "releaseVersion": "",
