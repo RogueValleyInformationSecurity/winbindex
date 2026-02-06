@@ -2780,11 +2780,22 @@
 "wmavds32.ax": {
 "bed4051031fa7f8cfd90ff5206fdc119ee7597eff927a1cbe61adf5e42b8eae3": "pe"
 },
+"wmdevctl.dll": {
+"5d33fab00fdd4b6cc61fb0ec0756ed83d03bc908ea2d245eb3d77bb7c1a0a831": "pe"
+},
+"wmenc.exe": {
+"8d6a9c2286e09fc7191936599d02a1d9261ec58cf464d2567508e1e01cdf2a6a": "pe"
+},
+"wmencagt.exe": {
+"a4b289390a75429e5f0d718ef475cb77b544071a784f95afd44392c053ff22db": "pe"
+},
 "wmenceng.dll": {
-"081f97c0f9a5af2bf1ed448075ff8f5771adb2d07d6df5f5ba85e20309ee3ba7": "pe"
+"081f97c0f9a5af2bf1ed448075ff8f5771adb2d07d6df5f5ba85e20309ee3ba7": "pe",
+"39825e9acb4cbd8910da67317c7753d1cad744282ddb99ee664cbbc39f8f2df4": "pe"
 },
 "wmex.dll": {
-"01dd123f65c59d1313c991ee6a651b33c7908973eb7fecfd6f412ca3d9a06368": "pe"
+"01dd123f65c59d1313c991ee6a651b33c7908973eb7fecfd6f412ca3d9a06368": "pe",
+"4ec01fa3cb989519e94e895ed62bd31063b9795070f7880ce6a4ee6619a993ab": "pe"
 },
 "wmiprvsd.dll": {
 "7b5d3a16c8bfae36aa42ac9d11fcb2f84deb7a4fee74f30d144f470fa1b5dc85": "pe"
