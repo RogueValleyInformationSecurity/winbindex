@@ -2589,6 +2589,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows Server 2003 x64 Edition (KB969883)"
         },
+        "KB970437": {
+            "releaseDate": "2009-06-09",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB970437)"
+        },
         "KB971513": {
             "releaseDate": "2009-10-27",
             "releaseVersion": "",
