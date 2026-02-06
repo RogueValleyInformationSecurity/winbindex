@@ -4431,6 +4431,11 @@
             "releaseVersion": "",
             "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2736428)"
         },
+        "KB2737019": {
+            "releaseDate": "2012-11-13",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2737019)"
+        },
         "KB2742595": {
             "releaseDate": "2012-10-09",
             "releaseVersion": "",
