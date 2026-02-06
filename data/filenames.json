@@ -608,6 +608,7 @@
 "wclbcatq.dll",
 "wcolbact.dll",
 "wcomadmin.dll",
+"wcomctl32.dll",
 "wcomsvcs.dll",
 "wcomuid.dll",
 "wdmaud.sys",
