@@ -1565,6 +1565,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB980436)"
         },
+        "KB981322": {
+            "releaseDate": "2010-09-14",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP Embedded (KB981322)"
+        },
         "KB981332": {
             "releaseDate": "2010-04-13",
             "releaseVersion": "",

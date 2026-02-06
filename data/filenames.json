@@ -491,6 +491,7 @@
 "usbport.sys",
 "usbuhci.sys",
 "user32.dll",
+"usp10.dll",
 "utilman.exe",
 "vbc.exe",
 "vbc7ui.chs.dll",
