@@ -928,6 +928,9 @@
 "msconfig.exe": {
 "b542b92b5f0e16f78f4ff86ed29f4edbee3842c5fdc759bf6391e958cc5af314": "pe"
 },
+"msconv97.dll": {
+"3de38fdaa429301c4de3797a9aadab11cc805e9073fb256dfd07bc0b719f2087": "pe"
+},
 "mscorcfg.dll": {
 "9e813f9772ef86086d4aa9a1b08880c9c214f93136ee9c2bcc16aa3713f0abdd": "pe"
 },
