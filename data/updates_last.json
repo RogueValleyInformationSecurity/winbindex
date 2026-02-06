@@ -4663,6 +4663,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB923414)"
         },
+        "KB923689": {
+            "releaseDate": "2008-06-10",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP with Windows Media Format Runtime 9 (KB923689)"
+        },
         "KB923694": {
             "releaseDate": "2006-12-12",
             "releaseVersion": "",
