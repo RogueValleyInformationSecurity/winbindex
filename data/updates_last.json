@@ -385,6 +385,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB2761226)"
         },
+        "KB2807986": {
+            "releaseDate": "2013-03-12",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB2807986)"
+        },
         "KB2808679": {
             "releaseDate": "2013-10-08",
             "releaseVersion": "",
