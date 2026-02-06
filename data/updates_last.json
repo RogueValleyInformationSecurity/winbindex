@@ -290,6 +290,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP x64 Edition (KB2511455)"
         },
+        "KB2524375": {
+            "releaseDate": "2011-04-26",
+            "releaseVersion": "",
+            "title": "Update for Windows XP x64 Edition (KB2524375)"
+        },
         "KB328940": {
             "releaseDate": "2004-05-15",
             "releaseVersion": "",
