@@ -199,6 +199,7 @@
 "mrxsmb.sys",
 "msadce.dll",
 "msadox.dll",
+"msasn1.dll",
 "mscms.dll",
 "msconfig.exe",
 "mscorcfg.dll",

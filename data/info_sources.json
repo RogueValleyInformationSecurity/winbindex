@@ -848,6 +848,12 @@
 "msadox.dll": {
 "01e590813d3e21d1acf8055cbdbbf7439ce57c3138b19d1d007cea3bcdfbe74e": "pe"
 },
+"msasn1.dll": {
+"09c75d1d434ff6bbe9b3f5e0a8e63944acb34e364c4a89676ded2204dbd1aef5": "pe",
+"32d74378c355cc774f6d0e6c78e38dffaa836f2b43712e89dd34bc29b3b2f1a3": "pe",
+"84f6c1432c546e921f389e5d359cad25f8b7ac906e1c0dea86618c205cedc01e": "pe",
+"ce341ff1e43b88805bc8ffcf8f7aab95a0aa3cff9aa6dc4cfebef4a22d01dbab": "pe"
+},
 "mscms.dll": {
 "2b75da898d59f7e77a5266555dc960969dd2dfb6231d73eca078b5d076dcbad8": "pe",
 "502b9d43eb6305508e8cdf034528c3f1ddf4525727c1b7663ea835be2307ff20": "pe",
