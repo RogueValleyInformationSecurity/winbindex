@@ -805,6 +805,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP x64 Edition (KB944653)"
         },
+        "KB945553": {
+            "releaseDate": "2008-04-08",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB945553)"
+        },
         "KB946627": {
             "releaseDate": "2008-01-08",
             "releaseVersion": "",

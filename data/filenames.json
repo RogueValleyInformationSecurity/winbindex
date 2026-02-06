@@ -27,6 +27,7 @@
 "dhcpcsvc.dll",
 "directdb.dll",
 "dnsapi.dll",
+"dnsrslvr.dll",
 "dplayx.dll",
 "dpwsockx.dll",
 "ehcir.dll",
