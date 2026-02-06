@@ -891,6 +891,7 @@
 "wsmres.dll",
 "wsmsvc.dll",
 "wsmwmipl.dll",
+"wsnmp.exe",
 "wss_spcustom.dll",
 "wstclient.dll",
 "wstpager.ax",
