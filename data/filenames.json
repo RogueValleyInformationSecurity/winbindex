@@ -412,6 +412,7 @@
 "netupgrd.dll",
 "ngen.exe",
 "ntdll.dll",
+"ntdsa.dll",
 "ntdsatq.r2.dll",
 "ntfs.sys",
 "ntkrnlmp.exe",
