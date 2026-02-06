@@ -1066,6 +1066,10 @@
 "isenpid.dll": {
 "ae897d710af5a8ca36dcdcb51ee5eafd902fc164589fdd0273cad6984a62663a": "pe"
 },
+"isign32.dll": {
+"732fc4e8982d7505beabbffc970c234ae0281b6189cdb05ca32f2f8b1280166f": "pe",
+"cdcfbadac5f8e66aed9ea10c61bb52c28fc44ae0e6a8cfccb609633aec360327": "pe"
+},
 "ispid.dll": {
 "2e80093d2bcdc4fb05bed40d2a81ef106d81e1eda109cd81931c285ae03ead22": "pe"
 },
