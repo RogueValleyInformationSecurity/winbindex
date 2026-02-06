@@ -1645,6 +1645,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows Server 2003 (KB981550)"
         },
+        "KB981793": {
+            "releaseDate": "2010-05-25",
+            "releaseVersion": "",
+            "title": "Update for Windows Server 2003 x64 Edition (KB981793)"
+        },
         "KB982167": {
             "releaseDate": "2010-06-08",
             "releaseVersion": "",
