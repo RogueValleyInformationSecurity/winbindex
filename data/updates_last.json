@@ -2494,6 +2494,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB950749)"
         },
+        "KB951066": {
+            "releaseDate": "2008-08-12",
+            "releaseVersion": "",
+            "title": "Security Update for Outlook Express for Windows XP (KB951066)"
+        },
         "KB951748": {
             "releaseDate": "2008-07-22",
             "releaseVersion": "",
