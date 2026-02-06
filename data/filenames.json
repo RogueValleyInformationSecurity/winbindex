@@ -421,6 +421,7 @@
 "sbe.dll",
 "schannel.dll",
 "schedsvc.dll",
+"scrrun.dll",
 "searchfilterhost.exe",
 "searchindexer.exe",
 "searchprotocolhost.exe",

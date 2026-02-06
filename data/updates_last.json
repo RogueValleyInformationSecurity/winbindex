@@ -925,6 +925,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP x64 Edition (KB2884256)"
         },
+        "KB2892075": {
+            "releaseDate": "2013-12-10",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB2892075)"
+        },
         "KB2900986": {
             "releaseDate": "2013-11-12",
             "releaseVersion": "",

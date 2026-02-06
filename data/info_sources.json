@@ -2820,6 +2820,9 @@
 "556b2378f7df1313f43611a7515db84c5ed0b421a19ca7a5b0c421ff553bdc2e": "pe",
 "77f81016fea124054a6ed99e7ab3fd74900899e1aa703ad0ba409e4aeda9ff55": "pe"
 },
+"scrrun.dll": {
+"fb1a693b0628cdd6e289e01f0bd0bdda0cd3d5aa2fe3aefeb7c451a1dcf5defc": "pe"
+},
 "searchfilterhost.exe": {
 "7cdb618ab145cb0e2b2ab3c87542e56624c6fb075c7806494936bf52a9467aab": "pe"
 },
