@@ -1020,6 +1020,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB974392)"
         },
+        "KB974417": {
+            "releaseDate": "2010-05-11",
+            "releaseVersion": "",
+            "title": "Microsoft .NET Framework 2.0 Service Pack 2 Security Update for Windows Server 2003 and Windows XP for x64-based Systems (KB974417)"
+        },
         "KB975025": {
             "releaseDate": "2009-10-13",
             "releaseVersion": "",
