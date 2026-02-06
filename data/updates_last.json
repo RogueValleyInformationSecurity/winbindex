@@ -275,6 +275,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB891781)"
         },
+        "KB892312": {
+            "releaseDate": "2008-11-25",
+            "releaseVersion": "",
+            "title": "Windows Movie Maker Utility for Windows XP Home Edition N and Windows XP Professional N (KB892312)"
+        },
         "KB892944": {
             "releaseDate": "2005-04-12",
             "releaseVersion": "",
