@@ -747,6 +747,7 @@
 "7bf68b55431d415bbeb3bd0b96f39924b509fbbed57ca01d38dbdafa3f557ecb": "pe"
 },
 "hidparse.sys": {
+"2535478d90accdfaaa44a4b024a15a1057142d6a632bdb2e4298327ee07cefa4": "pe",
 "f851e99b968bbab82e3b0d1d2f985aee1ead10c3bbacdd02bab2acee57cb048a": "pe"
 },
 "hlink.dll": {
@@ -4164,6 +4165,7 @@
 "5401724e49243625c43b3f9032e592ef43605c2510e809c1d318a7792ab9fbba": "pe"
 },
 "usbscan.sys": {
+"64a9a4fc4096e06dc8947b427fba0ecf4ec57781d625d27af93cab098781d377": "pe",
 "6e5ebbc8b70c1d593634daf0c190deadfda18c3cbc8f552a76f156f3869ef05b": "pe"
 },
 "usbser.sys": {
