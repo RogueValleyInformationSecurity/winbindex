@@ -4828,6 +4828,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP x64 Edition (KB948590)"
         },
+        "KB950749": {
+            "releaseDate": "2008-05-13",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB950749)"
+        },
         "KB954154": {
             "releaseDate": "2008-09-09",
             "releaseVersion": "",
