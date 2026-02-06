@@ -1135,6 +1135,11 @@
             "releaseVersion": "",
             "title": "Microsoft .NET Framework 3.5 SP1 Update for Windows Server 2003 and Windows XP for x64-based Systems (KB982168)"
         },
+        "KB982214": {
+            "releaseDate": "2010-08-10",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB982214)"
+        },
         "KB982524": {
             "releaseDate": "2010-07-27",
             "releaseVersion": "",
