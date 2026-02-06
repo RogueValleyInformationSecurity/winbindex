@@ -1345,6 +1345,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB975560)"
         },
+        "KB975561": {
+            "releaseDate": "2010-03-09",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP x64 Edition (KB975561)"
+        },
         "KB975713": {
             "releaseDate": "2010-02-09",
             "releaseVersion": "",
