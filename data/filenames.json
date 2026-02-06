@@ -377,6 +377,7 @@
 "oleacc.dll",
 "oleaccrc.dll",
 "oleaut32.dll",
+"olecnv32.dll",
 "oledlg.dll",
 "oschoice.exe",
 "osk.exe",
