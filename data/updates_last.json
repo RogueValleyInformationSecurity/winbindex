@@ -4663,6 +4663,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB926247)"
         },
+        "KB926436": {
+            "releaseDate": "2007-02-13",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB926436)"
+        },
         "KB931261": {
             "releaseDate": "2007-04-10",
             "releaseVersion": "",

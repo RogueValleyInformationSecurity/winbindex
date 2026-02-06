@@ -861,6 +861,7 @@
 "woleaut32.dll",
 "wolecli32.dll",
 "wolecnv32.dll",
+"woledlg.dll",
 "wordpad.exe",
 "wordwheel.dll",
 "wosk.exe",
