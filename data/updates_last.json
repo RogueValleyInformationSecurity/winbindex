@@ -900,6 +900,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB951376)"
         },
+        "KB951618": {
+            "releaseDate": "2008-09-09",
+            "releaseVersion": "",
+            "title": "Update for Windows XP (KB951618)"
+        },
         "KB951698": {
             "releaseDate": "2008-06-24",
             "releaseVersion": "",
