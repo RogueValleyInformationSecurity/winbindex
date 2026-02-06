@@ -15,6 +15,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB2229593)"
         },
+        "KB2286198": {
+            "releaseDate": "2010-08-24",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP Embedded (KB2286198)"
+        },
         "KB328940": {
             "releaseDate": "2004-05-15",
             "releaseVersion": "",
