@@ -4941,6 +4941,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows Server 2003 x64 Edition (KB2991963)"
         },
+        "KB2992611": {
+            "releaseDate": "2014-11-11",
+            "releaseVersion": "",
+            "title": "Security Update for Windows Server 2003 (KB2992611)"
+        },
         "KB2993254": {
             "releaseDate": "2014-10-14",
             "releaseVersion": "",
