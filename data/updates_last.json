@@ -4923,6 +4923,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB953155)"
         },
+        "KB953300": {
+            "releaseDate": "2009-10-27",
+            "releaseVersion": "",
+            "title": "Microsoft .NET Framework 2.0 Service Pack 1 Security Update for Windows Server 2003 and Windows XP for x64-based Systems (KB953300)"
+        },
         "KB954154": {
             "releaseDate": "2008-09-09",
             "releaseVersion": "",
