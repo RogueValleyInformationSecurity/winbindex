@@ -5288,6 +5288,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP x64 Edition (KB978338)"
         },
+        "KB978542": {
+            "releaseDate": "2010-05-11",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB978542)"
+        },
         "KB978601": {
             "releaseDate": "2010-04-13",
             "releaseVersion": "",
