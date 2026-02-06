@@ -5521,6 +5521,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB925486)"
         },
+        "KB925673": {
+            "releaseDate": "2007-04-03",
+            "releaseVersion": "",
+            "title": "Update for MSXML6 for Windows XP (KB925673)"
+        },
         "KB925720": {
             "releaseDate": "2007-02-13",
             "releaseVersion": "",
