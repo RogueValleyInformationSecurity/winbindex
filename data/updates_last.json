@@ -2839,6 +2839,11 @@
             "releaseVersion": "",
             "title": "Update for Windows XP x64 Edition (KB976098)"
         },
+        "KB976323": {
+            "releaseDate": "2010-07-13",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB976323)"
+        },
         "KB976569": {
             "releaseDate": "2010-02-23",
             "releaseVersion": "",
