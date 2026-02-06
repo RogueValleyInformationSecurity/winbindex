@@ -865,6 +865,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows Server 2003 and Windows Server 2008 (KB960089)"
         },
+        "KB961118": {
+            "releaseDate": "2009-02-24",
+            "releaseVersion": "",
+            "title": "Update for Windows XP x64 Edition (KB961118)"
+        },
         "KB969805": {
             "releaseDate": "2009-06-09",
             "releaseVersion": "",
