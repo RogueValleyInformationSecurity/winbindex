@@ -2914,6 +2914,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP x64 Edition (KB979482)"
         },
+        "KB979559": {
+            "releaseDate": "2010-06-08",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP x64 Edition (KB979559)"
+        },
         "KB979683": {
             "releaseDate": "2010-04-13",
             "releaseVersion": "",
