@@ -505,6 +505,11 @@
             "releaseVersion": "",
             "title": "February 2007 CardSpace Update for Windows XP Tablet PC Edition (KB920142)"
         },
+        "KB920213": {
+            "releaseDate": "2007-05-08",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB920213)"
+        },
         "KB920214": {
             "releaseDate": "2006-08-08",
             "releaseVersion": "",
