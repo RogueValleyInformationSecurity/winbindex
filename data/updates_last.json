@@ -20,6 +20,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows Server 2003 (KB883935)"
         },
+        "KB887797": {
+            "releaseDate": "2005-08-09",
+            "releaseVersion": "",
+            "title": "Cumulative Update for Outlook Express for Windows Server 2003 (KB887797)"
+        },
         "KB898715": {
             "releaseDate": "2005-07-11",
             "releaseVersion": "",
