@@ -645,6 +645,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP x64 Edition (KB2685939)"
         },
+        "KB2686509": {
+            "releaseDate": "2012-08-29",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP Embedded (KB2686509)"
+        },
         "KB328940": {
             "releaseDate": "2004-05-15",
             "releaseVersion": "",
