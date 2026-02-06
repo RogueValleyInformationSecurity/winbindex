@@ -490,6 +490,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP x64 Edition (KB2626416)"
         },
+        "KB2628259": {
+            "releaseDate": "2012-01-10",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP Media Center Edition 2005 Update Rollup 2 X86 Edition (KB2628259)"
+        },
         "KB2633171": {
             "releaseDate": "2011-12-13",
             "releaseVersion": "",
