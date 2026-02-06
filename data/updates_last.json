@@ -1109,6 +1109,11 @@
             "releaseDate": "2009-06-09",
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB970483)"
+        },
+        "KB971633": {
+            "releaseDate": "2009-07-14",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB971633)"
         }
     }
 }
