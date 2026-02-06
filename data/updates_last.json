@@ -2812,6 +2812,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB2620712)"
         },
+        "KB2624667": {
+            "releaseDate": "2011-12-13",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP x64 Edition (KB2624667)"
+        },
         "KB896424": {
             "releaseDate": "2005-11-08",
             "releaseVersion": "",
