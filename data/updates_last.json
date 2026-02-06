@@ -415,6 +415,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB913446)"
         },
+        "KB913580": {
+            "releaseDate": "2006-06-13",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB913580)"
+        },
         "KB913800": {
             "releaseDate": "2006-04-25",
             "releaseVersion": "",
