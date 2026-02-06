@@ -245,6 +245,11 @@
             "releaseVersion": "",
             "title": "Update Rollup 1 for eHome Infrared Receiver for Windows XP Media Center Edition (KB888795)"
         },
+        "KB890046": {
+            "releaseDate": "2007-05-08",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB890046)"
+        },
         "KB890047": {
             "releaseDate": "2005-02-08",
             "releaseVersion": "",
