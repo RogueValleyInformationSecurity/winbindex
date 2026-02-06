@@ -94,6 +94,11 @@
             "releaseDate": "2007-09-25",
             "releaseVersion": "",
             "title": "Security Update for Windows Server 2003 (KB939778)"
+        },
+        "KB943484": {
+            "releaseDate": "2008-02-12",
+            "releaseVersion": "",
+            "title": "Security Update for Windows Server 2003 x64 Edition (KB943484)"
         }
     },
     "XP": {
