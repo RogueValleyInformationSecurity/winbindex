@@ -853,6 +853,7 @@
 "wshdocvw.dll",
 "wshell32.dll",
 "wship6.dll",
+"wshlwapi.dll",
 "wshom.ocx",
 "wsmanhttpconfig.exe",
 "wsmauto.dll",
