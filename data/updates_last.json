@@ -965,6 +965,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP for x64-based Systems (KB4012583)"
         },
+        "KB4018466": {
+            "releaseDate": "2017-06-13",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP SP2 for x64-based Systems (KB4018466)"
+        },
         "KB825119": {
             "releaseDate": "2004-05-15",
             "releaseVersion": "",
