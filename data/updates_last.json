@@ -1779,6 +1779,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB2229593)"
         },
+        "KB2259922": {
+            "releaseDate": "2010-09-14",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP x64 Edition (KB2259922)"
+        },
         "KB2286198": {
             "releaseDate": "2010-08-24",
             "releaseVersion": "",
