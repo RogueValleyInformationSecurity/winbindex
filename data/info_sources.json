@@ -2135,6 +2135,10 @@
 "rastls.dll": {
 "4882fc54f7cd8ac23daa0e38911d7f14410784b0ba1e0754fbf9c3c56e974a4f": "pe"
 },
+"rdpwd.sys": {
+"1b29d928ddd43a1929d5a788648536603ea60af6d4ec9bf0b20ad7f71bd88acb": "pe",
+"93100b9a5c3165d6b2e0676a95be228f886f340a106b9c8cd4a3b472bc77748a": "pe"
+},
 "regasm.exe": {
 "01bb85d1ce7f6aeabaf2a4e38bc28efd03a945412a50746ca981891576d28e62": "pe"
 },
