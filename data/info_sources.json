@@ -1903,6 +1903,10 @@
 "ndis.sys": {
 "404ad930e03934ac4bf8770c49700c98f9ae8a12ef0d1172e3297bfb725cda3e": "pe"
 },
+"ndistapi.sys": {
+"4f6db1e499ac853fd36fd603fbb6d3ac9bdceb298c7fe1fb59a9236cb46729b2": "pe",
+"71f5ea1b762b304ae46284f80f9aabf5eab890c9cc5f257ac84d3abf4268b3d3": "pe"
+},
 "ndisuio.sys": {
 "db8f63a4c9eb110665f76ff3cae261f3d2aa8d720178c7a411744f79fc5f7047": "pe"
 },

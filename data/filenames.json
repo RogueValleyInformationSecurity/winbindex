@@ -330,6 +330,7 @@
 "mup.sys",
 "narrator.exe",
 "ndis.sys",
+"ndistapi.sys",
 "ndisuio.sys",
 "ndproxy.sys",
 "netapi32.dll",
