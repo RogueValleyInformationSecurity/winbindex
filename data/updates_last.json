@@ -100,6 +100,11 @@
             "releaseVersion": "",
             "title": "Security Update for .NET Framework 3.5 on Windows Server 2003 and Windows XP for x64-based Systems (KB2478656)"
         },
+        "KB2478658": {
+            "releaseDate": "2011-06-14",
+            "releaseVersion": "",
+            "title": "Security Update for .NET Framework 2.0 SP2 and 3.5 SP1 on Windows Server 2003 and Windows XP x86 (KB2478658)"
+        },
         "KB2478971": {
             "releaseDate": "2011-02-08",
             "releaseVersion": "",
