@@ -465,6 +465,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB891781)"
         },
+        "KB896426": {
+            "releaseDate": "2005-06-14",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB896426)"
+        },
         "KB898715": {
             "releaseDate": "2005-07-11",
             "releaseVersion": "",
