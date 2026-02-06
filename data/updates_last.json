@@ -19,6 +19,11 @@
             "releaseDate": "2004-10-12",
             "releaseVersion": "",
             "title": "Security Update for Windows Server 2003 (KB883935)"
+        },
+        "KB898715": {
+            "releaseDate": "2005-07-11",
+            "releaseVersion": "",
+            "title": "Update for Windows XP x64 Edition (KB898715)"
         }
     },
     "XP": {
