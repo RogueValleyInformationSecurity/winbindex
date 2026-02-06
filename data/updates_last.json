@@ -6201,6 +6201,11 @@
             "releaseVersion": "",
             "title": "2018-12 Cumulative Security Update for Internet Explorer 8 for WES09 and POSReady 2009 for x86-based systems (KB4470199)"
         },
+        "KB4470490": {
+            "releaseDate": "2018-12-11",
+            "releaseVersion": "",
+            "title": "2018-12 Security Only Update for .NET Framework 4.0 on WES09 and POSReady 2009 (KB4470490)"
+        },
         "KB4500331": {
             "releaseDate": "2019-05-14",
             "releaseVersion": "",
