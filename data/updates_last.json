@@ -857,6 +857,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows Server 2003 (KB3033395)"
         },
+        "KB3033890": {
+            "releaseDate": "2015-06-09",
+            "releaseVersion": "",
+            "title": "Security Update for Windows Server 2003 x64 Edition (KB3033890)"
+        },
         "KB3035132": {
             "releaseDate": "2015-03-10",
             "releaseVersion": "",

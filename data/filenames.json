@@ -905,6 +905,7 @@
 "wwins.exe",
 "wwinsevnt.dll",
 "wwintrust.dll",
+"wwmp.dll",
 "wwmvdmod.dll",
 "wwres.dll",
 "wws03res.dll",
