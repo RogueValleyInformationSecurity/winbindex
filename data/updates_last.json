@@ -780,6 +780,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB2780091)"
         },
+        "KB2799494": {
+            "releaseDate": "2017-05-30",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB2799494)"
+        },
         "KB2804577": {
             "releaseDate": "2013-05-14",
             "releaseVersion": "",
