@@ -4783,6 +4783,11 @@
             "releaseVersion": "",
             "title": "Update for Windows XP x64 Edition (KB942840)"
         },
+        "KB943485": {
+            "releaseDate": "2008-01-08",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB943485)"
+        },
         "KB944338": {
             "releaseDate": "2008-08-12",
             "releaseVersion": "",
