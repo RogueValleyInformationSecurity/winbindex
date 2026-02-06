@@ -1259,6 +1259,11 @@
             "releaseDate": "2009-10-13",
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB975254)"
+        },
+        "KB975467": {
+            "releaseDate": "2009-10-13",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB975467)"
         }
     }
 }
