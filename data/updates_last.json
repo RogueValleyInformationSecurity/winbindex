@@ -250,6 +250,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB2483618)"
         },
+        "KB2485376": {
+            "releaseDate": "2013-07-09",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP x64 Edition (KB2485376)"
+        },
         "KB2485663": {
             "releaseDate": "2011-04-12",
             "releaseVersion": "",
