@@ -681,6 +681,11 @@
             "releaseDate": "2010-02-09",
             "releaseVersion": "",
             "title": "Security Update for Windows Server 2003 (KB977290)"
+        },
+        "KB982632": {
+            "releaseDate": "2010-05-25",
+            "releaseVersion": "",
+            "title": "Update for Internet Explorer 8 Compatibility View List for Windows Server 2003 x64 Edition (KB982632)"
         }
     },
     "XP": {
