@@ -650,6 +650,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP Embedded (KB2686509)"
         },
+        "KB2686828": {
+            "releaseDate": "2012-08-29",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 2.0 SP2 on Windows Server 2003 and Windows XP for x64-based Systems (KB2686828)"
+        },
         "KB328940": {
             "releaseDate": "2004-05-15",
             "releaseVersion": "",
