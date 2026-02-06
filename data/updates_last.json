@@ -515,6 +515,11 @@
             "releaseVersion": "",
             "title": "Update for Windows XP x64 Edition (KB922582)"
         },
+        "KB922819": {
+            "releaseDate": "2006-10-10",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB922819)"
+        },
         "KB925486": {
             "releaseDate": "2006-09-26",
             "releaseVersion": "",
