@@ -65,6 +65,11 @@
             "releaseVersion": "",
             "title": "Update for SQL Server 2000 Desktop Engine (SharePoint) on Windows Server 2003 (KB909544)"
         },
+        "KB911280": {
+            "releaseDate": "2006-06-27",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP x64 Edition (KB911280)"
+        },
         "KB911562": {
             "releaseDate": "2006-04-11",
             "releaseVersion": "",
