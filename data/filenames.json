@@ -1053,6 +1053,7 @@
 "wwab32.dll",
 "wwabimp.dll",
 "wwebcheck.dll",
+"wwebclnt.dll",
 "wwininet.dll",
 "wwinmm.dll",
 "wwins.exe",
