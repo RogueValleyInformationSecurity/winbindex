@@ -2751,7 +2751,9 @@
 "ae897d710af5a8ca36dcdcb51ee5eafd902fc164589fdd0273cad6984a62663a": "pe"
 },
 "isign32.dll": {
+"7297107ecbda5bae4f5332839a6c2a9ad57f62649d01f46557f583b8ce366d88": "pe",
 "732fc4e8982d7505beabbffc970c234ae0281b6189cdb05ca32f2f8b1280166f": "pe",
+"7da3548bf037d66d9d0fe6ff126b003d9f06a13835b5aeb8812988a5af030e40": "pe",
 "cdcfbadac5f8e66aed9ea10c61bb52c28fc44ae0e6a8cfccb609633aec360327": "pe"
 },
 "ispid.dll": {
@@ -6969,6 +6971,10 @@
 },
 "wiprtrmgr.dll": {
 "1ca9ab2ea2095d2601b073e478c42c4d0a67a080b1aed9ee99e1bfb71b32a167": "pe"
+},
+"wisign32.dll": {
+"22aac2a9f51961cede48173476c0c362e7c6eb9502bfaf218b1ceca336ce1817": "pe",
+"94336bc4cdc8dfaa033b2936dd87a7d60ae5f4132a1c11015ff29f9e7a2df444": "pe"
 },
 "wisptis.exe": {
 "377f6b875bdc916869d10847c8231262ded0defbe373d12718fc9bc734f0230a": "pe"
