@@ -10168,7 +10168,8 @@
 },
 "ks.sys": {
 "a0d118c97ffdf703fea5e98c641cb7fff93df06d35f3b026a2a2dc00e9970e84": "file",
-"a8d600cd0c592dfb875de2d4f1aedb207b80a43cf724051b6552bb6e539e9afc": "file"
+"a8d600cd0c592dfb875de2d4f1aedb207b80a43cf724051b6552bb6e539e9afc": "file",
+"db415898ba0fbba0f15f69ca8276cd9d9298a6bbbcb0a18de4cac9f1333895ce": "pe"
 },
 "ksecdd.sys": {
 "025653494481e2a756fdb41c1a33f7e3fa11ea9b31a0d00930619a13a6bdcb36": "pe",
