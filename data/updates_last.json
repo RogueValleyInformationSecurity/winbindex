@@ -617,6 +617,11 @@
             "releaseVersion": "",
             "title": "Security Update for Microsoft .NET Framework 1.1 SP1 on Windows Server 2003 and Windows Server 2003 R2 x86 (KB2931352)"
         },
+        "KB3037572": {
+            "releaseDate": "2015-04-14",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 1.1 SP1 on Windows Server 2003 and Windows Server 2003 R2 x86 (KB3037572)"
+        },
         "KB953298": {
             "releaseDate": "2009-10-13",
             "releaseVersion": "",

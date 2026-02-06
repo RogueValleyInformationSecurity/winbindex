@@ -594,6 +594,7 @@
 "system.security.dll",
 "system.serviceprocess.dll",
 "system.web.dll",
+"system.web.mobile.dll",
 "system.web.regularexpressions.dll",
 "system.web.security.singlesignon.dll",
 "system.web.services.dll",
