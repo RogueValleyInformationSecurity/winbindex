@@ -130,6 +130,9 @@
 "bdaplgin.ax": {
 "13b7dc155afe46078e608b837ff8c401c958a3d9e61c5a92761fc1b3c8371793": "pe"
 },
+"bootstrap.exe": {
+"fbce3eea24a3536329476f1093c69b29e6172b4bbb87638ce075a8be567cf803": "pe"
+},
 "browser.dll": {
 "3ef83aabb3b933b7cf440e918c402f386043bdf1bddf83fe53a227246c764a61": "pe"
 },
