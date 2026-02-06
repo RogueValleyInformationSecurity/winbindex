@@ -1829,6 +1829,11 @@
             "releaseVersion": "",
             "title": "Update for Windows Server 2003 x64 Edition (KB2388210)"
         },
+        "KB2416447": {
+            "releaseDate": "2010-10-12",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 1.1 SP1 on Windows XP, Windows Server 2003, Windows Vista, and Windows Server 2008 for x64-based Systems (KB2416447)"
+        },
         "KB2478953": {
             "releaseDate": "2011-02-08",
             "releaseVersion": "",
