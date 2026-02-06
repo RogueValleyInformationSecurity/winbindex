@@ -2735,5 +2735,12 @@
             "releaseVersion": "",
             "title": "Security Update for .NET Framework 2.0 SP2 and 3.5 SP1 on Windows Server 2003 and Windows XP for x64-based Systems (KB983583)"
         }
+    },
+    "XP-x64": {
+        "KB898715": {
+            "releaseDate": "2005-07-11",
+            "releaseVersion": "",
+            "title": "Update for Windows XP x64 Edition (KB898715)"
+        }
     }
 }
