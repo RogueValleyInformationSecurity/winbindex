@@ -4971,6 +4971,11 @@
             "releaseVersion": "",
             "title": "Security Update for WEPOS and POSReady 2009 (KB3011780)"
         },
+        "KB3013126": {
+            "releaseDate": "2014-12-09",
+            "releaseVersion": "",
+            "title": "Security Update for Windows Server 2003 (KB3013126)"
+        },
         "KB3197835": {
             "releaseDate": "2017-06-13",
             "releaseVersion": "",
