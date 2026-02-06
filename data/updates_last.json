@@ -4296,6 +4296,11 @@
             "releaseVersion": "",
             "title": "Security Update for Microsoft .NET Framework 1.0 SP3 on Windows XP Tablet PC and Media Center (KB2656378)"
         },
+        "KB2656405": {
+            "releaseDate": "2012-05-08",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2656405)"
+        },
         "KB2656407": {
             "releaseDate": "2012-05-22",
             "releaseVersion": "",
