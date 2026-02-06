@@ -2057,6 +2057,18 @@
 "installutil.exe": {
 "40e07bb2c110fd3799115766ac748989e91fcc143e736e7069909cc330cbbc01": "pe"
 },
+"instmsi.exe": {
+"781effbc345bc4a731ff5279103f51ad098e84d995a9d64216956cf2267bd712": "pe"
+},
+"instmsi20.exe": {
+"75fe45643cde8ff1d26e9889f54725440a66bf0bb7e0f3e3a88511c8c55be9d2": "pe"
+},
+"instmsiw.exe": {
+"69e647aa1f9303461b51b127e55992b160625307ba3d77d1b64985bd4b245ae5": "pe"
+},
+"instmsiw20.exe": {
+"242daf8aeb1c8b1298316b6daeaac56a30ae48b199b759ba1e1d577bfefd61ab": "pe"
+},
 "intl.cpl": {
 "e69aa232f4b7160e4620e72b202425aae0e5e7320cf4fa529e1ac13ac6ed749d": "pe"
 },
@@ -2931,6 +2943,9 @@
 "1800e2a67d57faff261f63cc0bc7378404d9ef37fd39bf0ef44d9cb261a3ae2e": "pe",
 "a4e3289f5642c218b177bd54dd4f9b081018eb7390947af8c5e6aebc84a69831": "pe"
 },
+"msvcr71.dll": {
+"8094af5ee310714caebccaeee7769ffb08048503ba478b879edfef5f1a24fefe": "pe"
+},
 "msvcrt.dll": {
 "10b7483ac554b79c81c1039332a846bbd3e2ecac742b4de41e1dee56db900ffc": "pe",
 "276c7a824ff25311f4407c82fce40b1672bfbd639f0d22a0eeeb4437ac1659bd": "pe"
@@ -3539,7 +3554,8 @@
 "b31401b74c038bccd74aed03f8c7879c053c975905883dff040f5642abd118ae": "pe",
 "b5f047b2fee1b1bf59bba285301f2eef359a3c3aa8330e565a09c1f184714e0e": "pe",
 "da246c6eb00030852a7a70a9fab410ad6e218cdb448b3d78fb06780f6d13e088": "pe",
-"e3b54ef31bcef763c2b78774b27ddd768dd27f9cd45f0d4a09fa1adf8f81b655": "pe"
+"e3b54ef31bcef763c2b78774b27ddd768dd27f9cd45f0d4a09fa1adf8f81b655": "pe",
+"e6a8c2a8bc9794aee76febd98afdb2cef23f43d262364c2bbfe2068d18878fa5": "pe"
 },
 "setup_wm.exe": {
 "08d83fab0cf074438c955173cac93cf4993fbeb9765304b2e1c9b43404e2fded": "pe"
@@ -3907,14 +3923,26 @@
 "spupdwxp.exe": {
 "32e5bcdb069aad59426e2c0c1c1ab67f8b2fe1135fb2489451a460c7656d9d43": "pe"
 },
+"sqdedev.dll": {
+"f10c0d1bd2bf5e079afff806f9da2443e8e825898ebc546b51a545117f8212db": "pe"
+},
 "sqldb20.dll": {
 "2e5ba50dbe06a6bab35e190e2b66e1f285652b713fb7f01160f3c216316af5b5": "pe"
 },
 "sqlqp20.dll": {
 "98fe107d5c26a1231c5ef7c56618137b8908eb6ec7d2864c64e0cd6abd0e52fe": "pe"
 },
+"sqlresld.dll": {
+"687c409ac64b83154765d0f13c0e0f7530900cb7ada39da085d8a8634d43bc55": "pe"
+},
 "sqlse20.dll": {
 "606e5b682e727c2bc36741a25928e4aa453ddd447f838c0a6d5d2d9d52d2387a": "pe"
+},
+"sqlsut.dll": {
+"1e4cfeae331c81f6ceb8a827dc7cd3e9804c86e882485d946cab22cc949081ae": "pe"
+},
+"sqlunirl.dll": {
+"c52fd5a610e933915f1df03ac4acf5a3a8647d8d0a8b915a0f0dee50269691e0": "pe"
 },
 "sqmapi.dll": {
 "bd6395a58f55a8b1f4063e813ce7438f695b9b086bb965d8ac44e7a97d35a93c": "pe"
