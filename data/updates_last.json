@@ -3307,6 +3307,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP SP2 for x64-based Systems (KB4024402)"
         },
+        "KB4025218": {
+            "releaseDate": "2017-06-13",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP SP2 for x64-based Systems (KB4025218)"
+        },
         "KB896424": {
             "releaseDate": "2005-11-08",
             "releaseVersion": "",
