@@ -1744,6 +1744,11 @@
         }
     },
     "2003-x64": {
+        "KB2115168": {
+            "releaseDate": "2010-08-10",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP x64 Edition (KB2115168)"
+        },
         "KB2207559": {
             "releaseDate": "2010-12-14",
             "releaseVersion": "",
