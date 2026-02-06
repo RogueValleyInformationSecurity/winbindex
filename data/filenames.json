@@ -838,6 +838,7 @@
 "woccache.dll",
 "wodbc32.dll",
 "wole32.dll",
+"woleaut32.dll",
 "wolecli32.dll",
 "wolecnv32.dll",
 "wordpad.exe",
