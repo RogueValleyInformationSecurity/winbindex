@@ -210,6 +210,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP x64 Edition (KB2567680)"
         },
+        "KB2570791": {
+            "releaseDate": "2011-08-23",
+            "releaseVersion": "",
+            "title": "Update for Windows Server 2003 (KB2570791)"
+        },
         "KB2572069": {
             "releaseDate": "2011-10-11",
             "releaseVersion": "",
