@@ -40,6 +40,9 @@
 "8ce17e70b10d3490029da7e47b9254e07d37256c53288caf50130e905bbe521f": "pe",
 "a8474de762846b515cc76d62251cd0d11f7c8ba2b958735ad3c90db570067179": "pe"
 },
+"atl.dll": {
+"19f5ec6a1ec9dd38edf51bccbb2a1dcbfb6a569b0e552830a2b8a8596fcc6780": "pe"
+},
 "author.dll": {
 "c99af7830e7285dc2372e0676cf227983cc54cf30187afacbfea2c40c1368dbf": "pe"
 },
@@ -439,6 +442,16 @@
 "84e6acc81e742092764fe22b855fa72321a016734fc3eda0e3eb90403b3040b0": "pe",
 "ae5ff946a4dcf11b46d9e440a945c0b6c3c30ba58f9e74e82e7430b0c6cfdd3a": "pe"
 },
+"mfc40u.dll": {
+"15ccef5404b897df3026aff7323cd92072ff938b53ecfeed6b3f9dc396508987": "pe"
+},
+"mfc42.dll": {
+"f3ac862c873c4ea1d291b5994e6fd6c0ec9ab86cbf0f325a1797001dfec586db": "pe"
+},
+"mfc42u.dll": {
+"3dd81b500d2f378d7491633b4d73e6ba0eb76f7ec0a514d62eb1e1e46a838e1f": "pe",
+"74c4e64bef4f2aea4209d41924b3bfb4a9de1e203a0eab166d3375b7892f9abd": "pe"
+},
 "migisma.dll": {
 "bfd98d89be71e165a7a0c4dc727ac063379dface46a8d4f70067f9a5878a9834": "pe"
 },
@@ -546,6 +559,9 @@
 },
 "mstvcapn.dll": {
 "01c1c8ce5a1548bb131f33cc056ecacf1506caab79566a8f23a59d75375da9ad": "pe"
+},
+"msvcp60.dll": {
+"1800e2a67d57faff261f63cc0bc7378404d9ef37fd39bf0ef44d9cb261a3ae2e": "pe"
 },
 "msvidctl.dll": {
 "0f6de7f30a434fc754745721f17bd1576b7f6dbe8e70e18f281e862950662718": "pe",
