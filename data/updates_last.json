@@ -2204,6 +2204,11 @@
             "releaseVersion": "",
             "title": "Update for Windows XP x64 Edition (KB914784)"
         },
+        "KB917344": {
+            "releaseDate": "2006-06-13",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB917344)"
+        },
         "KB920683": {
             "releaseDate": "2006-08-08",
             "releaseVersion": "",
