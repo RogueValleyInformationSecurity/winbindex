@@ -649,6 +649,11 @@
             "releaseDate": "2007-04-10",
             "releaseVersion": "",
             "title": "Security Update for Windows XP x64 Edition (KB930178)"
+        },
+        "KB931784": {
+            "releaseDate": "2007-04-10",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB931784)"
         }
     }
 }
