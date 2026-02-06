@@ -385,6 +385,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows Server 2003 (KB3069392)"
         },
+        "KB3070102": {
+            "releaseDate": "2015-07-14",
+            "releaseVersion": "",
+            "title": "Security Update for Windows Server 2003 x64 Edition (KB3070102)"
+        },
         "KB829358": {
             "releaseDate": "2005-04-26",
             "releaseVersion": "",
