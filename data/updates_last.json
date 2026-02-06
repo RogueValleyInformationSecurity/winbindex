@@ -2796,6 +2796,11 @@
             "releaseDate": "2006-08-08",
             "releaseVersion": "",
             "title": "Security Update for Windows XP x64 Edition (KB922616)"
+        },
+        "KB931261": {
+            "releaseDate": "2007-04-10",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP x64 Edition (KB931261)"
         }
     }
 }
