@@ -5971,6 +5971,11 @@
             "releaseVersion": "",
             "title": "Cumulative Security Update for Internet Explorer 8 for WES09 and POSReady 2009 (KB4230450)"
         },
+        "KB4230467": {
+            "releaseDate": "2018-06-12",
+            "releaseVersion": "",
+            "title": "2018-06 Security Update for WES09 and POSReady 2009 for x86-based Systems (KB4230467)"
+        },
         "KB4316682": {
             "releaseDate": "2018-05-30",
             "releaseVersion": "",
