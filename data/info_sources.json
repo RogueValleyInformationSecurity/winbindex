@@ -5354,6 +5354,8 @@
 },
 "waclayers.dll": {
 "3e01992e324bcf303deff3ba38332f5a6d25fe9509fdfa5758ff701e4cfeec1e": "pe",
+"515f356f6cff4d7dae2c230147ee37b590acada068b6a37faba2df9001cf97bd": "pe",
+"a0065b6955e7d163ac3fb455cc57381a6c9c03548f71e23bbb1a203e63225741": "pe",
 "da0abbb48482febcf1ebabd3508b75fd546b5e31fd22a62c3c52ccf287aad9d8": "pe"
 },
 "wadvapi32.dll": {
