@@ -4506,6 +4506,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB2780091)"
         },
+        "KB2789642": {
+            "releaseDate": "2013-01-08",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2789642)"
+        },
         "KB2794119": {
             "releaseDate": "2012-12-11",
             "releaseVersion": "",
