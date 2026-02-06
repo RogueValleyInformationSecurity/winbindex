@@ -40,6 +40,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP Embedded (KB2286198)"
         },
+        "KB2290570": {
+            "releaseDate": "2010-09-14",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB2290570)"
+        },
         "KB328940": {
             "releaseDate": "2004-05-15",
             "releaseVersion": "",
