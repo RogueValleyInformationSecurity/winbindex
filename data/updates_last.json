@@ -1010,6 +1010,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB958687)"
         },
+        "KB958690": {
+            "releaseDate": "2009-03-10",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB958690)"
+        },
         "KB960763": {
             "releaseDate": "2008-12-16",
             "releaseVersion": "",
