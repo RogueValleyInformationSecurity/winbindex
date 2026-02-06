@@ -2344,6 +2344,11 @@
             "releaseVersion": "",
             "title": "Microsoft MS Gothic and MS Mincho JIS2004 Support Fonts for Windows Server 2003 x64 Edition (KB927489)"
         },
+        "KB930178": {
+            "releaseDate": "2007-04-10",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP x64 Edition (KB930178)"
+        },
         "KB938759": {
             "releaseDate": "2008-06-24",
             "releaseVersion": "",
