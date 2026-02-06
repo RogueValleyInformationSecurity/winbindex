@@ -455,6 +455,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB2603381)"
         },
+        "KB2604042": {
+            "releaseDate": "2012-05-08",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 1.0 SP3 on Windows XP Tablet PC and Media Center (KB2604042)"
+        },
         "KB2616310": {
             "releaseDate": "2011-11-08",
             "releaseVersion": "",
