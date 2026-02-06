@@ -814,6 +814,11 @@
             "releaseDate": "2008-01-08",
             "releaseVersion": "",
             "title": "Update for Internet Explorer 6 for Windows XP (KB946627)"
+        },
+        "KB950749": {
+            "releaseDate": "2008-05-13",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB950749)"
         }
     }
 }
