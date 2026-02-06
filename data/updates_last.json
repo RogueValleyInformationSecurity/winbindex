@@ -4146,6 +4146,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB2598479)"
         },
+        "KB2598845": {
+            "releaseDate": "2011-10-25",
+            "releaseVersion": "",
+            "title": "Update for Internet Explorer 8 Compatibility View List for Windows XP (KB2598845)"
+        },
         "KB2603381": {
             "releaseDate": "2012-01-10",
             "releaseVersion": "",
