@@ -190,6 +190,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows Server 2003 (KB2998579)"
         },
+        "KB3003057": {
+            "releaseDate": "2014-11-11",
+            "releaseVersion": "",
+            "title": "Cumulative Security Update for Internet Explorer 6 for Windows Server 2003 (KB3003057)"
+        },
         "KB829358": {
             "releaseDate": "2005-04-26",
             "releaseVersion": "",
