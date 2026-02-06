@@ -421,6 +421,7 @@
 "quartz.dll",
 "query.dll",
 "rastls.dll",
+"rdbss.sys",
 "rdpwd.sys",
 "regasm.exe",
 "regcode.dll",

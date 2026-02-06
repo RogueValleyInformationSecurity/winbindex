@@ -2761,6 +2761,11 @@
             "releaseDate": "2005-10-11",
             "releaseVersion": "",
             "title": "Security Update for Windows XP x64 Edition (KB902400)"
+        },
+        "KB914389": {
+            "releaseDate": "2006-06-13",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP x64 Edition (KB914389)"
         }
     }
 }
