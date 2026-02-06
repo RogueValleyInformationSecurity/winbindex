@@ -113,7 +113,15 @@ def get_update(windows_version: str, update_kb: str):
     search_suffix = config.CATALOG_SEARCH_SUFFIXES.get(windows_version, '')
     search_query = f'{update_kb} {search_suffix}'.strip()
 
-    found_updates = search_for_updates(search_query)
+    try:
+        found_updates = search_for_updates(search_query)
+    except UpdateNotFound:
+        # Fallback: search with just the KB number (e.g. for POSReady/Embedded
+        # updates that don't match the version-specific suffix).
+        if search_suffix:
+            found_updates = search_for_updates(update_kb)
+        else:
+            raise
 
     # Filter out Itanium/IA-64 updates.
     filter_regex = r'\bItanium\b|\bia64\b|\bIA-64\b'
@@ -127,9 +135,15 @@ def get_update(windows_version: str, update_kb: str):
         '2003-x64': r'\bWindows Server 2003\b.*\bx64\b',
     }
 
+    # POSReady 2009 / WES09 / XP Embedded are XP SP3-based.
+    embedded_xp_pattern = r'\b(?:POSReady\s*2009|WEPOS|WES09|Windows\s+(?:XP\s+)?Embedded\s+(?:Standard\s+)?2009?)\b'
+
     version_pattern = version_patterns.get(windows_version)
     if version_pattern:
         version_filtered = [u for u in found_updates if re.search(version_pattern, u[1], re.IGNORECASE)]
+        # For XP, also accept POSReady/WES09/Embedded entries.
+        if not version_filtered and windows_version in ('XP', 'XP-x64'):
+            version_filtered = [u for u in found_updates if re.search(embedded_xp_pattern, u[1], re.IGNORECASE)]
         if version_filtered:
             found_updates = version_filtered
 

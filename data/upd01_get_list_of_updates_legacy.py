@@ -36,6 +36,9 @@ VERSION_PATTERNS = {
     '2003-x64': r'\bWindows Server 2003\b.*\bx64\b',
 }
 
+# POSReady 2009 / WES09 / XP Embedded are XP SP3-based.  Map them to XP.
+EMBEDDED_XP_PATTERN = r'\b(?:POSReady\s*2009|WEPOS|WES09|Windows\s+(?:XP\s+)?Embedded\s+(?:Standard\s+)?2009?)\b'
+
 FILTER_REGEX = r'\bItanium\b|\bia64\b|\bIA-64\b'
 
 # Multiple focused search queries to maximize coverage.
@@ -54,7 +57,39 @@ SEARCH_QUERIES = [
     'Windows Server 2003 Service Pack',
     'Windows Server 2003 SP2',
     'Windows Server 2003 R2',
+    # POSReady 2009 / WES09 / XP Embedded (XP SP3-based).
+    'Security Update for WEPOS and POSReady 2009',
+    'Update for WEPOS and POSReady 2009',
+    'Security Update for WES09 and POSReady 2009',
+    'Update for WES09 and POSReady 2009',
+    'Security Update for POSReady 2009 for',
+    'Update for POSReady 2009 for',
+    'Security Update for Windows XP Embedded',
+    'Update for Windows XP Embedded',
 ]
+
+# KBs that exist in the catalog but aren't discoverable via text search queries.
+# These are searched individually by KB number.  Sourced from:
+# https://github.com/CNMan/MicrosoftHotfixesList/tree/master/winxp_with_sp3_x86
+# https://github.com/CNMan/MicrosoftHotfixesList/issues/2
+SUPPLEMENTAL_KBS = [
+    # POSReady 2009 security updates (2019) — catalog text search misses these.
+    'KB4486468', 'KB4487989', 'KB4487990', 'KB4489493', 'KB4489973', 'KB4489977',
+    'KB4490228', 'KB4490385', 'KB4491443', 'KB4493341', 'KB4493435', 'KB4493563',
+    'KB4493790', 'KB4493793', 'KB4493794', 'KB4493795', 'KB4493796', 'KB4493797',
+    'KB4493927', 'KB4494059', 'KB4494528', 'KB4495022', 'KB4500331',
+    # Misc XP updates not found by search queries.
+    'KB2598845', 'KB2859537', 'KB2770660', 'KB4489974',
+]
+
+# KBs with known download URLs that are NOT in the Microsoft Update Catalog.
+# Metadata is manually specified.  Download URLs go in config_legacy.py.
+MANUAL_KBS = {
+    'KB892130': {'versions': ['XP'], 'title': 'Update for Windows XP (KB892130)', 'date': '2008-04-08'},
+    'KB909520': {'versions': ['XP'], 'title': 'Microsoft Base Smart Card Cryptographic Service Provider Package: x86 (KB909520)', 'date': '2007-02-13'},
+    'KB923789': {'versions': ['XP'], 'title': 'Flash Player Security Update for Windows XP (KB923789)', 'date': '2007-01-09'},
+    'KB925673': {'versions': ['XP'], 'title': 'Update for MSXML6 for Windows XP (KB925673)', 'date': '2007-04-03'},
+}
 
 
 def search_catalog_pages(session, query, max_pages=50):
@@ -63,9 +98,15 @@ def search_catalog_pages(session, query, max_pages=50):
     all_entries = []
 
     for page in range(1, max_pages + 1):
+        # The catalog omits server-rendered results when p= is set on
+        # single-page result sets, so omit p= on the first page.
+        params = {'q': query}
+        if page > 1:
+            params['p'] = page
+
         for attempt in range(3):
             try:
-                resp = session.get(CATALOG_URL, params={'q': query, 'p': page}, timeout=30)
+                resp = session.get(CATALOG_URL, params=params, timeout=30)
                 if 'The website has encountered a problem' not in resp.text:
                     break
             except requests.RequestException:
@@ -116,6 +157,10 @@ def classify_title(title):
     for version, pattern in VERSION_PATTERNS.items():
         if re.search(pattern, title, re.IGNORECASE):
             versions.append(version)
+
+    # POSReady 2009 / WES09 / XP Embedded are XP SP3-based — classify as XP.
+    if not versions and re.search(EMBEDDED_XP_PATTERN, title, re.IGNORECASE):
+        versions.append('XP')
 
     return versions
 
@@ -175,6 +220,51 @@ def main():
 
         print(f'  Found {len(entries)} entries, {new_count} new unique KBs (total: {len(all_kbs)})')
         time.sleep(1)
+
+    # Supplemental: individually search for KBs that text search queries miss.
+    # Use a fresh session to avoid catalog rate-limiting/session issues.
+    supplemental_to_search = [kb for kb in SUPPLEMENTAL_KBS if kb not in all_kbs]
+    if supplemental_to_search:
+        print(f'\nSearching {len(supplemental_to_search)} supplemental KBs individually...')
+        supp_session = requests.Session()
+        for kb in supplemental_to_search:
+            entries = search_catalog_pages(supp_session, kb, max_pages=1)
+            for uid, title, date_raw in entries:
+                m = re.search(r'\b(KB\d+)\b', title, re.IGNORECASE)
+                if not m or m.group(1).upper() != kb:
+                    continue
+                versions = classify_title(title)
+                if not versions:
+                    continue
+                date_str = parse_date(date_raw)
+                if kb not in all_kbs:
+                    all_kbs[kb] = {
+                        'versions': set(),
+                        'title': title,
+                        'date': date_str,
+                    }
+                all_kbs[kb]['versions'].update(versions)
+                if date_str and not all_kbs[kb]['date']:
+                    all_kbs[kb]['date'] = date_str
+                    all_kbs[kb]['title'] = title
+                break
+            if kb in all_kbs:
+                print(f'  {kb}: found')
+            else:
+                print(f'  {kb}: not found in catalog')
+            time.sleep(0.3)
+
+        print(f'  Total after supplemental: {len(all_kbs)}')
+
+    # Add manual entries for KBs not in the catalog.
+    for kb, info in MANUAL_KBS.items():
+        if kb not in all_kbs:
+            all_kbs[kb] = {
+                'versions': set(info['versions']),
+                'title': info['title'],
+                'date': info['date'],
+            }
+            print(f'  Added manual entry: {kb}')
 
     # Build output JSON grouped by version.
     output = {version: {} for version in config.LEGACY_VERSIONS}

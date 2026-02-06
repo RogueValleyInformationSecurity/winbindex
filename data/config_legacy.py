@@ -12,7 +12,13 @@ windows_versions_unsupported = {}
 
 updates_unsupported = set()
 
-updates_alternative_links = {}
+updates_alternative_links = {
+    # KBs not in the Microsoft Update Catalog (from CNMan/MicrosoftHotfixesList).
+    ('XP', 'KB892130'): 'http://www.download.windowsupdate.com/msdownload/update/software/crup/2008/04/windowsxp-kb892130-enu-x86_72e487d115be77f49f64053893a23ecb58bc59cb.exe',
+    ('XP', 'KB909520'): 'http://www.download.windowsupdate.com/msdownload/update/v3-19990518/cabpool/windows-kb909520-v1.000-x86-chs_ca6202718780a81d6b960030ff6245016427cd6c.exe',
+    ('XP', 'KB923789'): 'http://www.download.windowsupdate.com/msdownload/update/v3-19990518/cabpool/windowsxp-kb923789-x86-chs_173c45a77fcdf77d2c6e8d51988e6c0ff677eaa8.exe',
+    ('XP', 'KB925673'): 'http://www.download.windowsupdate.com/msdownload/update/v3-19990518/cabpool/msxml6-kb925673-enu-x86_571e99946aa6674ee6a70cf5801682ec323c7ae0.exe',
+}
 
 # Legacy pipeline handles multiple architectures per version, not a single global one.
 updates_architecture = None

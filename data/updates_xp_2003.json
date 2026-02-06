@@ -580,6 +580,16 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB926255)"
         },
+        "KB923789": {
+            "releaseDate": "2007-01-09",
+            "releaseVersion": "",
+            "title": "Flash Player Security Update for Windows XP (KB923789)"
+        },
+        "KB909520": {
+            "releaseDate": "2007-02-13",
+            "releaseVersion": "",
+            "title": "Microsoft Base Smart Card Cryptographic Service Provider Package: x86 (KB909520)"
+        },
         "KB918118": {
             "releaseDate": "2007-02-13",
             "releaseVersion": "",
@@ -639,6 +649,11 @@
             "releaseDate": "2007-03-27",
             "releaseVersion": "",
             "title": "Update for Windows XP x64 Edition (KB910437)"
+        },
+        "KB925673": {
+            "releaseDate": "2007-04-03",
+            "releaseVersion": "",
+            "title": "Update for MSXML6 for Windows XP (KB925673)"
         },
         "KB925902": {
             "releaseDate": "2007-04-04",
@@ -805,6 +820,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB943055)"
         },
+        "KB892130": {
+            "releaseDate": "2008-04-08",
+            "releaseVersion": "",
+            "title": "Update for Windows XP (KB892130)"
+        },
         "KB941693": {
             "releaseDate": "2008-04-08",
             "releaseVersion": "",
@@ -900,11 +920,6 @@
             "releaseVersion": "",
             "title": "Update for Windows Media Player 11 for Windows XP (KB939683)"
         },
-        "KB942763": {
-            "releaseDate": "2008-08-12",
-            "releaseVersion": "",
-            "title": "Update for Windows XP (KB942763)"
-        },
         "KB950974": {
             "releaseDate": "2008-08-12",
             "releaseVersion": "",
@@ -914,11 +929,6 @@
             "releaseDate": "2008-08-12",
             "releaseVersion": "",
             "title": "Security Update for Outlook Express for Windows XP (KB951066)"
-        },
-        "KB951072": {
-            "releaseDate": "2008-08-12",
-            "releaseVersion": "",
-            "title": "Update for Windows XP (KB951072)"
         },
         "KB952287": {
             "releaseDate": "2008-08-12",
@@ -984,11 +994,6 @@
             "releaseDate": "2008-12-09",
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB954600)"
-        },
-        "KB955839": {
-            "releaseDate": "2008-12-09",
-            "releaseVersion": "",
-            "title": "Update for Windows XP (KB955839)"
         },
         "KB956802": {
             "releaseDate": "2008-12-09",
@@ -1175,11 +1180,6 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP x64 Edition (KB961371)"
         },
-        "KB970653": {
-            "releaseDate": "2009-08-25",
-            "releaseVersion": "",
-            "title": "Update for Windows XP x64 Edition (KB970653)"
-        },
         "KB956744": {
             "releaseDate": "2009-09-08",
             "releaseVersion": "",
@@ -1293,32 +1293,12 @@
         "KB972187": {
             "releaseDate": "2009-11-24",
             "releaseVersion": "",
-            "title": "Security Update for Windows XP Service Pack 3 (KB972187)"
+            "title": "Security Update for Windows XP Service Pack 2 (KB972187)"
         },
         "KB973687": {
             "releaseDate": "2009-11-24",
             "releaseVersion": "",
-            "title": "Update for Windows XP x64 Edition (KB973687)"
-        },
-        "KB976098": {
-            "releaseDate": "2009-11-24",
-            "releaseVersion": "",
-            "title": "Update for Windows XP x64 Edition (KB976098)"
-        },
-        "KB955759": {
-            "releaseDate": "2009-12-08",
-            "releaseVersion": "",
-            "title": "Update for Windows XP x64 Edition (KB955759)"
-        },
-        "KB970430": {
-            "releaseDate": "2009-12-08",
-            "releaseVersion": "",
-            "title": "Update for Windows XP x64 Edition (KB970430)"
-        },
-        "KB971737": {
-            "releaseDate": "2009-12-08",
-            "releaseVersion": "",
-            "title": "Update for Windows XP x64 Edition (KB971737)"
+            "title": "Update for Windows XP (KB973687)"
         },
         "KB973904": {
             "releaseDate": "2009-12-08",
@@ -1390,16 +1370,6 @@
             "releaseVersion": "",
             "title": "Microsoft .NET Framework 3.0 Service Pack 2 Update for Windows Server 2003 and Windows XP for x64-based Systems (KB976570)"
         },
-        "KB976662": {
-            "releaseDate": "2010-02-23",
-            "releaseVersion": "",
-            "title": "Update for Windows XP x64 Edition (KB976662)"
-        },
-        "KB979306": {
-            "releaseDate": "2010-02-23",
-            "releaseVersion": "",
-            "title": "Update for Windows XP (KB979306)"
-        },
         "KB977165": {
             "releaseDate": "2010-03-02",
             "releaseVersion": "",
@@ -1465,11 +1435,6 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB978542)"
         },
-        "KB981793": {
-            "releaseDate": "2010-05-25",
-            "releaseVersion": "",
-            "title": "Update for Windows XP (KB981793)"
-        },
         "KB975562": {
             "releaseDate": "2010-06-08",
             "releaseVersion": "",
@@ -1508,7 +1473,7 @@
         "KB982167": {
             "releaseDate": "2010-06-08",
             "releaseVersion": "",
-            "title": "Microsoft .NET Framework 3.5 SP1 and .NET Framework 2.0 SP2 Update for Windows Server 2003 and Windows XP for x64-based Systems (KB982167)"
+            "title": "Microsoft .NET Framework 3.5 SP1 and .NET Framework 2.0 SP2 Update for Windows Server 2003 and Windows XP x86 (KB982167)"
         },
         "KB982168": {
             "releaseDate": "2010-06-08",
@@ -1523,7 +1488,7 @@
         "KB968930": {
             "releaseDate": "2010-06-22",
             "releaseVersion": "",
-            "title": "Windows PowerShell 2.0 and WinRM 2.0 for Windows XP and Windows Embedded (KB968930)"
+            "title": "Windows PowerShell 2.0 and WinRM 2.0 for Windows Server 2003 x64 Edition (KB968930)"
         },
         "KB982865": {
             "releaseDate": "2010-06-22",
@@ -1553,7 +1518,7 @@
         "KB982524": {
             "releaseDate": "2010-07-27",
             "releaseVersion": "",
-            "title": "Microsoft .NET Framework 3.5 SP1 and .NET Framework 2.0 SP2 Update for Windows Server 2003 and Windows XP for x64-based Systems (KB982524)"
+            "title": "Microsoft .NET Framework 3.5 SP1 and .NET Framework 2.0 SP2 Update for Windows Server 2003 and Windows XP x86 (KB982524)"
         },
         "KB2115168": {
             "releaseDate": "2010-08-10",
@@ -1615,11 +1580,6 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB2124261)"
         },
-        "KB2141007": {
-            "releaseDate": "2010-09-14",
-            "releaseVersion": "",
-            "title": "Update for Windows XP (KB2141007)"
-        },
         "KB2259922": {
             "releaseDate": "2010-09-14",
             "releaseVersion": "",
@@ -1650,11 +1610,6 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP x64 Edition (KB982802)"
         },
-        "KB2158563": {
-            "releaseDate": "2010-09-28",
-            "releaseVersion": "",
-            "title": "Update for Windows XP (KB2158563)"
-        },
         "KB2279986": {
             "releaseDate": "2010-10-12",
             "releaseVersion": "",
@@ -1664,11 +1619,6 @@
             "releaseDate": "2010-10-12",
             "releaseVersion": "",
             "title": "Security Update for Windows XP x64 Edition (KB2296011)"
-        },
-        "KB2345886": {
-            "releaseDate": "2010-10-12",
-            "releaseVersion": "",
-            "title": "Update for Windows XP x64 Edition (KB2345886)"
         },
         "KB2360937": {
             "releaseDate": "2010-10-12",
@@ -1760,11 +1710,6 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP x64 Edition (KB2443105)"
         },
-        "KB2443685": {
-            "releaseDate": "2010-12-14",
-            "releaseVersion": "",
-            "title": "Update for Windows XP (KB2443685)"
-        },
         "KB2447961": {
             "releaseDate": "2010-12-14",
             "releaseVersion": "",
@@ -1809,11 +1754,6 @@
             "releaseDate": "2011-02-22",
             "releaseVersion": "",
             "title": "Security Update for Microsoft .NET Framework 4 on Windows XP, Windows Server 2003, Windows Vista, Windows 7, Windows Server 2008 x86 (KB2416472)"
-        },
-        "KB971029": {
-            "releaseDate": "2011-02-22",
-            "releaseVersion": "",
-            "title": "Update for Windows XP x64 Edition (KB971029)"
         },
         "KB2479943": {
             "releaseDate": "2011-03-08",
@@ -1915,11 +1855,6 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP x64 Edition (KB2511455)"
         },
-        "KB2524375": {
-            "releaseDate": "2011-04-26",
-            "releaseVersion": "",
-            "title": "Update for Windows XP x64 Edition (KB2524375)"
-        },
         "KB2476490": {
             "releaseDate": "2011-06-14",
             "releaseVersion": "",
@@ -1955,11 +1890,6 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP x64 Edition (KB2535512)"
         },
-        "KB2541763": {
-            "releaseDate": "2011-06-28",
-            "releaseVersion": "",
-            "title": "Update for Windows XP (KB2541763)"
-        },
         "KB2507938": {
             "releaseDate": "2011-07-12",
             "releaseVersion": "",
@@ -1985,11 +1915,6 @@
             "releaseVersion": "",
             "title": "Security Update for Microsoft .NET Framework 2.0 SP2 on Windows Server 2003 and Windows XP x86 (KB2539631)"
         },
-        "KB2562937": {
-            "releaseDate": "2011-08-09",
-            "releaseVersion": "",
-            "title": "Update Rollup for ActiveX Killbits for Windows XP x64 Edition (KB2562937)"
-        },
         "KB2566454": {
             "releaseDate": "2011-08-09",
             "releaseVersion": "",
@@ -2010,11 +1935,6 @@
             "releaseVersion": "",
             "title": "Security Update for Microsoft .NET Framework 4 on Windows XP, Windows Server 2003, Windows Vista, Windows 7, Windows Server 2008, Windows Server 2008 R2 for x64-based Systems (KB2539636)"
         },
-        "KB2570791": {
-            "releaseDate": "2011-08-23",
-            "releaseVersion": "",
-            "title": "Update for Windows XP (KB2570791)"
-        },
         "KB2468871": {
             "releaseDate": "2011-09-13",
             "releaseVersion": "",
@@ -2024,6 +1944,11 @@
             "releaseDate": "2011-09-13",
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB2570947)"
+        },
+        "KB2616676": {
+            "releaseDate": "2011-09-19",
+            "releaseVersion": "",
+            "title": "Update for Windows XP x64 Edition (KB2616676)"
         },
         "KB2518870": {
             "releaseDate": "2011-10-11",
@@ -2055,6 +1980,16 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB2592799)"
         },
+        "KB2607712": {
+            "releaseDate": "2011-10-11",
+            "releaseVersion": "",
+            "title": "Update for Windows XP (KB2607712)"
+        },
+        "KB2598845": {
+            "releaseDate": "2011-10-25",
+            "releaseVersion": "",
+            "title": "Update for Internet Explorer 8 Compatibility View List for Windows XP (KB2598845)"
+        },
         "KB2544893": {
             "releaseDate": "2011-11-08",
             "releaseVersion": "",
@@ -2064,6 +1999,11 @@
             "releaseDate": "2011-11-08",
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB2616310)"
+        },
+        "KB2641690": {
+            "releaseDate": "2011-11-16",
+            "releaseVersion": "",
+            "title": "Update for Windows XP x64 Edition (KB2641690)"
         },
         "KB2618451": {
             "releaseDate": "2011-12-13",
@@ -2105,11 +2045,6 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB2639417)"
         },
-        "KB2633952": {
-            "releaseDate": "2011-12-29",
-            "releaseVersion": "",
-            "title": "Update for Windows XP (KB2633952)"
-        },
         "KB2656353": {
             "releaseDate": "2011-12-29",
             "releaseVersion": "",
@@ -2144,11 +2079,6 @@
             "releaseDate": "2012-01-10",
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB2631813)"
-        },
-        "KB2632503": {
-            "releaseDate": "2012-01-10",
-            "releaseVersion": "",
-            "title": "Update for Windows XP (KB2632503)"
         },
         "KB2646524": {
             "releaseDate": "2012-01-10",
@@ -2310,10 +2240,20 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP x64 Edition (KB2718523)"
         },
+        "KB2718704": {
+            "releaseDate": "2012-08-29",
+            "releaseVersion": "",
+            "title": "Update for Windows XP x64 Edition (KB2718704)"
+        },
         "KB2719985": {
             "releaseDate": "2012-08-29",
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB2719985)"
+        },
+        "KB2661254": {
+            "releaseDate": "2012-10-09",
+            "releaseVersion": "",
+            "title": "Update for Windows XP (KB2661254)"
         },
         "KB2705219": {
             "releaseDate": "2012-10-09",
@@ -2335,10 +2275,10 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB2731847)"
         },
-        "KB2756822": {
+        "KB2749655": {
             "releaseDate": "2012-10-09",
             "releaseVersion": "",
-            "title": "Update for Windows XP (KB2756822)"
+            "title": "Update for Windows XP (KB2749655)"
         },
         "KB2698023": {
             "releaseDate": "2012-11-13",
@@ -2370,10 +2310,10 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB2758857)"
         },
-        "KB2779562": {
+        "KB2770660": {
             "releaseDate": "2012-12-11",
             "releaseVersion": "",
-            "title": "Update for Windows XP (KB2779562)"
+            "title": "Security Update for Windows XP (KB2770660)"
         },
         "KB2807986": {
             "releaseDate": "2013-03-12",
@@ -2455,10 +2395,10 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB2850869)"
         },
-        "KB2863058": {
+        "KB2859537": {
             "releaseDate": "2013-08-13",
             "releaseVersion": "",
-            "title": "Update for Windows XP (KB2863058)"
+            "title": "Security Update for Windows XP (KB2859537)"
         },
         "KB2834903": {
             "releaseDate": "2013-08-27",
@@ -2575,6 +2515,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP x64 Edition (KB2898715)"
         },
+        "KB2904266": {
+            "releaseDate": "2013-12-10",
+            "releaseVersion": "",
+            "title": "Update for Windows XP (KB2904266)"
+        },
         "KB2914368": {
             "releaseDate": "2014-01-14",
             "releaseVersion": "",
@@ -2635,6 +2580,566 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP x64 Edition (KB2922229)"
         },
+        "KB2926765": {
+            "releaseDate": "2014-05-13",
+            "releaseVersion": "",
+            "title": "Security Update for Windows Server 2003 x64 Edition (KB2926765)"
+        },
+        "KB2939576": {
+            "releaseDate": "2014-06-10",
+            "releaseVersion": "",
+            "title": "Security Update for Windows Server 2003 (KB2939576)"
+        },
+        "KB2957503": {
+            "releaseDate": "2014-06-10",
+            "releaseVersion": "",
+            "title": "Security Update for Windows Server 2003 (KB2957503)"
+        },
+        "KB2957509": {
+            "releaseDate": "2014-06-10",
+            "releaseVersion": "",
+            "title": "Security Update for Windows Server 2003 x64 Edition (KB2957509)"
+        },
+        "KB2961072": {
+            "releaseDate": "2014-07-08",
+            "releaseVersion": "",
+            "title": "Security Update for Windows Server 2003 x64 Edition (KB2961072)"
+        },
+        "KB2993651": {
+            "releaseDate": "2014-08-27",
+            "releaseVersion": "",
+            "title": "Security Update for Windows Server 2003 x64 Edition (KB2993651)"
+        },
+        "KB2987107": {
+            "releaseDate": "2014-10-14",
+            "releaseVersion": "",
+            "title": "Cumulative Security Update for Internet Explorer 7 for Windows Server 2003 (KB2987107)"
+        },
+        "KB2993254": {
+            "releaseDate": "2014-10-14",
+            "releaseVersion": "",
+            "title": "Security Update for Windows Server 2003 x64 Edition (KB2993254)"
+        },
+        "KB2998579": {
+            "releaseDate": "2014-10-14",
+            "releaseVersion": "",
+            "title": "Security Update for Windows Server 2003 (KB2998579)"
+        },
+        "KB2918614": {
+            "releaseDate": "2014-11-11",
+            "releaseVersion": "",
+            "title": "Security Update for Windows Server 2003 (KB2918614)"
+        },
+        "KB2989935": {
+            "releaseDate": "2014-11-11",
+            "releaseVersion": "",
+            "title": "Security Update for Windows Server 2003 (KB2989935)"
+        },
+        "KB2991963": {
+            "releaseDate": "2014-11-11",
+            "releaseVersion": "",
+            "title": "Security Update for Windows Server 2003 x64 Edition (KB2991963)"
+        },
+        "KB2992611": {
+            "releaseDate": "2014-11-11",
+            "releaseVersion": "",
+            "title": "Security Update for Windows Server 2003 (KB2992611)"
+        },
+        "KB3003057": {
+            "releaseDate": "2014-11-11",
+            "releaseVersion": "",
+            "title": "Cumulative Security Update for Internet Explorer 6 for Windows Server 2003 (KB3003057)"
+        },
+        "KB3011780": {
+            "releaseDate": "2014-11-18",
+            "releaseVersion": "",
+            "title": "Security Update for WEPOS and POSReady 2009 (KB3011780)"
+        },
+        "KB3013126": {
+            "releaseDate": "2014-12-09",
+            "releaseVersion": "",
+            "title": "Security Update for Windows Server 2003 (KB3013126)"
+        },
+        "KB3019215": {
+            "releaseDate": "2015-01-13",
+            "releaseVersion": "",
+            "title": "Security Update for Windows Server 2003 (KB3019215)"
+        },
+        "KB3020393": {
+            "releaseDate": "2015-01-13",
+            "releaseVersion": "",
+            "title": "Security Update for Windows Server 2003 x64 Edition (KB3020393)"
+        },
+        "KB3021674": {
+            "releaseDate": "2015-01-13",
+            "releaseVersion": "",
+            "title": "Security Update for Windows Server 2003 (KB3021674)"
+        },
+        "KB3004361": {
+            "releaseDate": "2015-02-10",
+            "releaseVersion": "",
+            "title": "Security Update for Windows Server 2003 (KB3004361)"
+        },
+        "KB3023562": {
+            "releaseDate": "2015-02-10",
+            "releaseVersion": "",
+            "title": "Security Update for Windows Server 2003 (KB3023562)"
+        },
+        "KB3029944": {
+            "releaseDate": "2015-02-10",
+            "releaseVersion": "",
+            "title": "Security Update for WEPOS and POSReady 2009 (KB3029944)"
+        },
+        "KB3032359": {
+            "releaseDate": "2015-03-10",
+            "releaseVersion": "",
+            "title": "Cumulative Security Update for Internet Explorer 6 for WEPOS and POSReady 2009 (KB3032359)"
+        },
+        "KB3033889": {
+            "releaseDate": "2015-03-10",
+            "releaseVersion": "",
+            "title": "Security Update for Windows Server 2003 (KB3033889)"
+        },
+        "KB3035132": {
+            "releaseDate": "2015-03-10",
+            "releaseVersion": "",
+            "title": "Security Update for Windows Server 2003 x64 Edition (KB3035132)"
+        },
+        "KB3039066": {
+            "releaseDate": "2015-03-10",
+            "releaseVersion": "",
+            "title": "Security Update for Windows Server 2003 (KB3039066)"
+        },
+        "KB3046049": {
+            "releaseDate": "2015-03-10",
+            "releaseVersion": "",
+            "title": "Security Update for Windows Server 2003 x64 Edition (KB3046049)"
+        },
+        "KB3038314": {
+            "releaseDate": "2015-04-14",
+            "releaseVersion": "",
+            "title": "Cumulative Security Update for Internet Explorer 7 for Windows Server 2003 (KB3038314)"
+        },
+        "KB3049563": {
+            "releaseDate": "2015-05-12",
+            "releaseVersion": "",
+            "title": "Cumulative Security Update for Internet Explorer 8 for Windows Server 2003 x64 Edition (KB3049563)"
+        },
+        "KB3061518": {
+            "releaseDate": "2015-05-12",
+            "releaseVersion": "",
+            "title": "Security Update for Windows Server 2003 x64 Edition (KB3061518)"
+        },
+        "KB3033890": {
+            "releaseDate": "2015-06-09",
+            "releaseVersion": "",
+            "title": "Security Update for Windows Server 2003 x64 Edition (KB3033890)"
+        },
+        "KB3058515": {
+            "releaseDate": "2015-06-09",
+            "releaseVersion": "",
+            "title": "Cumulative Security Update for Internet Explorer 6 for Windows Server 2003 x64 Edition (KB3058515)"
+        },
+        "KB3065822": {
+            "releaseDate": "2015-07-14",
+            "releaseVersion": "",
+            "title": "Cumulative Security Update for Internet Explorer 7 for WEPOS and POSReady 2009 (KB3065822)"
+        },
+        "KB3065979": {
+            "releaseDate": "2015-07-14",
+            "releaseVersion": "",
+            "title": "Update for WEPOS and POSReady 2009 (KB3065979)"
+        },
+        "KB3067903": {
+            "releaseDate": "2015-07-14",
+            "releaseVersion": "",
+            "title": "Security Update for WEPOS and POSReady 2009 (KB3067903)"
+        },
+        "KB3072630": {
+            "releaseDate": "2015-07-14",
+            "releaseVersion": "",
+            "title": "Security Update for WEPOS and POSReady 2009 (KB3072630)"
+        },
+        "KB3072633": {
+            "releaseDate": "2015-07-14",
+            "releaseVersion": "",
+            "title": "Security Update for WEPOS and POSReady 2009 (KB3072633)"
+        },
+        "KB3073921": {
+            "releaseDate": "2015-08-11",
+            "releaseVersion": "",
+            "title": "Security Update for WEPOS and POSReady 2009 (KB3073921)"
+        },
+        "KB3076895": {
+            "releaseDate": "2015-08-11",
+            "releaseVersion": "",
+            "title": "Security Update for WEPOS and POSReady 2009 (KB3076895)"
+        },
+        "KB3078071": {
+            "releaseDate": "2015-08-11",
+            "releaseVersion": "",
+            "title": "Cumulative Security Update for Internet Explorer 7 for WEPOS and POSReady 2009 (KB3078071)"
+        },
+        "KB3078601": {
+            "releaseDate": "2015-08-11",
+            "releaseVersion": "",
+            "title": "Security Update for WEPOS and POSReady 2009 (KB3078601)"
+        },
+        "KB3087985": {
+            "releaseDate": "2015-08-18",
+            "releaseVersion": "",
+            "title": "Security Update for Internet Explorer 6 for WEPOS and POSReady 2009 (KB3087985)"
+        },
+        "KB3087038": {
+            "releaseDate": "2015-09-08",
+            "releaseVersion": "",
+            "title": "Cumulative Security Update for Internet Explorer 6 for WEPOS and POSReady 2009 (KB3087038)"
+        },
+        "KB3087039": {
+            "releaseDate": "2015-09-08",
+            "releaseVersion": "",
+            "title": "Security Update for WEPOS and POSReady 2009 (KB3087039)"
+        },
+        "KB3080446": {
+            "releaseDate": "2015-10-13",
+            "releaseVersion": "",
+            "title": "Security Update for WEPOS and POSReady 2009 (KB3080446)"
+        },
+        "KB3093983": {
+            "releaseDate": "2015-10-13",
+            "releaseVersion": "",
+            "title": "Cumulative Security Update for Internet Explorer 7 for WEPOS and POSReady 2009 (KB3093983)"
+        },
+        "KB3094996": {
+            "releaseDate": "2015-10-13",
+            "releaseVersion": "",
+            "title": "Security Update for WEPOS and POSReady 2009 (KB3094996)"
+        },
+        "KB3081320": {
+            "releaseDate": "2015-11-10",
+            "releaseVersion": "",
+            "title": "Security Update for WEPOS and POSReady 2009 (KB3081320)"
+        },
+        "KB3092601": {
+            "releaseDate": "2015-11-10",
+            "releaseVersion": "",
+            "title": "Security Update for WEPOS and POSReady 2009 (KB3092601)"
+        },
+        "KB3097877": {
+            "releaseDate": "2015-11-10",
+            "releaseVersion": "",
+            "title": "Security Update for WEPOS and POSReady 2009 (KB3097877)"
+        },
+        "KB3100773": {
+            "releaseDate": "2015-11-10",
+            "releaseVersion": "",
+            "title": "Cumulative Security Update for Internet Explorer 7 for WEPOS and POSReady 2009 (KB3100773)"
+        },
+        "KB3104002": {
+            "releaseDate": "2015-12-08",
+            "releaseVersion": "",
+            "title": "Cumulative Security Update for Internet Explorer 6 for WEPOS and POSReady 2009 (KB3104002)"
+        },
+        "KB3105579": {
+            "releaseDate": "2015-12-08",
+            "releaseVersion": "",
+            "title": "Security Update for WEPOS and POSReady 2009 (KB3105579)"
+        },
+        "KB3108381": {
+            "releaseDate": "2015-12-08",
+            "releaseVersion": "",
+            "title": "Security Update for WEPOS and POSReady 2009 (KB3108381)"
+        },
+        "KB3109094": {
+            "releaseDate": "2015-12-08",
+            "releaseVersion": "",
+            "title": "Security Update for WEPOS and POSReady 2009 (KB3109094)"
+        },
+        "KB3109560": {
+            "releaseDate": "2016-01-12",
+            "releaseVersion": "",
+            "title": "Security Update for WEPOS and POSReady 2009 (KB3109560)"
+        },
+        "KB3121918": {
+            "releaseDate": "2016-01-12",
+            "releaseVersion": "",
+            "title": "Security Update for WEPOS and POSReady 2009 (KB3121918)"
+        },
+        "KB3124275": {
+            "releaseDate": "2016-01-12",
+            "releaseVersion": "",
+            "title": "Cumulative Security Update for Internet Explorer 6 for WEPOS and POSReady 2009 (KB3124275)"
+        },
+        "KB3124624": {
+            "releaseDate": "2016-01-12",
+            "releaseVersion": "",
+            "title": "Security Update for WEPOS and POSReady 2009 (KB3124624)"
+        },
+        "KB3124280": {
+            "releaseDate": "2016-02-09",
+            "releaseVersion": "",
+            "title": "Security Update for WEPOS and POSReady 2009 (KB3124280)"
+        },
+        "KB3126041": {
+            "releaseDate": "2016-02-09",
+            "releaseVersion": "",
+            "title": "Security Update for WEPOS and POSReady 2009 (KB3126041)"
+        },
+        "KB3126587": {
+            "releaseDate": "2016-02-09",
+            "releaseVersion": "",
+            "title": "Security Update for WEPOS and POSReady 2009 (KB3126587)"
+        },
+        "KB3126593": {
+            "releaseDate": "2016-02-09",
+            "releaseVersion": "",
+            "title": "Security Update for WEPOS and POSReady 2009 (KB3126593)"
+        },
+        "KB3134214": {
+            "releaseDate": "2016-02-09",
+            "releaseVersion": "",
+            "title": "Security Update for WEPOS and POSReady 2009 (KB3134214)"
+        },
+        "KB3134814": {
+            "releaseDate": "2016-02-09",
+            "releaseVersion": "",
+            "title": "Cumulative Security Update for Internet Explorer 7 for WEPOS and POSReady 2009 (KB3134814)"
+        },
+        "KB3139398": {
+            "releaseDate": "2016-03-08",
+            "releaseVersion": "",
+            "title": "Security Update for WEPOS and POSReady 2009 (KB3139398)"
+        },
+        "KB3139914": {
+            "releaseDate": "2016-03-08",
+            "releaseVersion": "",
+            "title": "Security Update for WEPOS and POSReady 2009 (KB3139914)"
+        },
+        "KB3139929": {
+            "releaseDate": "2016-03-08",
+            "releaseVersion": "",
+            "title": "Cumulative Security Update for Internet Explorer 7 for WEPOS and POSReady 2009 (KB3139929)"
+        },
+        "KB3139940": {
+            "releaseDate": "2016-03-08",
+            "releaseVersion": "",
+            "title": "Security Update for WEPOS and POSReady 2009 (KB3139940)"
+        },
+        "KB3140410": {
+            "releaseDate": "2016-03-08",
+            "releaseVersion": "",
+            "title": "Security Update for WEPOS and POSReady 2009 (KB3140410)"
+        },
+        "KB3140709": {
+            "releaseDate": "2016-03-08",
+            "releaseVersion": "",
+            "title": "Security Update for WEPOS and POSReady 2009 (KB3140709)"
+        },
+        "KB3140735": {
+            "releaseDate": "2016-03-08",
+            "releaseVersion": "",
+            "title": "Security Update for WEPOS and POSReady 2009 (KB3140735)"
+        },
+        "KB3135993": {
+            "releaseDate": "2016-04-12",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 4 for WEPOS and POSReady 2009 (KB3135993)"
+        },
+        "KB3145739": {
+            "releaseDate": "2016-04-12",
+            "releaseVersion": "",
+            "title": "Security Update for WEPOS and POSReady 2009 (KB3145739)"
+        },
+        "KB3146963": {
+            "releaseDate": "2016-04-12",
+            "releaseVersion": "",
+            "title": "Security Update for WEPOS and POSReady 2009 (KB3146963)"
+        },
+        "KB3148198": {
+            "releaseDate": "2016-04-12",
+            "releaseVersion": "",
+            "title": "Cumulative Security Update for Internet Explorer 8 for WEPOS and POSReady 2009 (KB3148198)"
+        },
+        "KB3148851": {
+            "releaseDate": "2016-04-12",
+            "releaseVersion": "",
+            "title": "Update for WEPOS and POSReady 2009 (KB3148851)"
+        },
+        "KB3149090": {
+            "releaseDate": "2016-04-12",
+            "releaseVersion": "",
+            "title": "Security Update for WEPOS and POSReady 2009 (KB3149090)"
+        },
+        "KB3142029": {
+            "releaseDate": "2016-05-10",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 4 for WES09 and POSReady 2009 (KB3142029)"
+        },
+        "KB3153704": {
+            "releaseDate": "2016-05-10",
+            "releaseVersion": "",
+            "title": "Security Update for WES09 and POSReady 2009 (KB3153704)"
+        },
+        "KB3161561": {
+            "releaseDate": "2016-06-14",
+            "releaseVersion": "",
+            "title": "Security Update for WES09 and POSReady 2009 (KB3161561)"
+        },
+        "KB3161949": {
+            "releaseDate": "2016-06-14",
+            "releaseVersion": "",
+            "title": "Security Update for WES09 and POSReady 2009 (KB3161949)"
+        },
+        "KB3122653": {
+            "releaseDate": "2016-07-12",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 4 for WEPOS and POSReady 2009 (KB3122653)"
+        },
+        "KB3123055": {
+            "releaseDate": "2016-07-12",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 2.0 SP2 for WEPOS and POSReady 2009 (KB3123055)"
+        },
+        "KB3127223": {
+            "releaseDate": "2016-07-12",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 2.0 SP2 for WEPOS and POSReady 2009 (KB3127223)"
+        },
+        "KB3127225": {
+            "releaseDate": "2016-07-12",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 4 for WEPOS and POSReady 2009 (KB3127225)"
+        },
+        "KB3135986": {
+            "releaseDate": "2016-07-12",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 2.0 SP2 for WEPOS and POSReady 2009 (KB3135986)"
+        },
+        "KB3142027": {
+            "releaseDate": "2016-07-12",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 2.0 SP2 for WES09 and POSReady 2009 (KB3142027)"
+        },
+        "KB3142046": {
+            "releaseDate": "2016-07-12",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 3.0 SP2 for WEPOS and POSReady 2009 (KB3142046)"
+        },
+        "KB3163248": {
+            "releaseDate": "2016-07-12",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 2.0 SP2 for WES09 and POSReady 2009 (KB3163248)"
+        },
+        "KB3163249": {
+            "releaseDate": "2016-07-12",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 4 for WES09 and POSReady 2009 (KB3163249)"
+        },
+        "KB3170455": {
+            "releaseDate": "2016-07-12",
+            "releaseVersion": "",
+            "title": "Security Update for WES09 and POSReady 2009 (KB3170455)"
+        },
+        "KB3178034": {
+            "releaseDate": "2016-08-09",
+            "releaseVersion": "",
+            "title": "Security Update for WES09 and POSReady 2009 (KB3178034)"
+        },
+        "KB3177186": {
+            "releaseDate": "2016-09-13",
+            "releaseVersion": "",
+            "title": "Security Update for WES09 and POSReady 2009 (KB3177186)"
+        },
+        "KB3184122": {
+            "releaseDate": "2016-09-13",
+            "releaseVersion": "",
+            "title": "Security Update for POSReady 2009 and WES09 (KB3184122)"
+        },
+        "KB3185911": {
+            "releaseDate": "2016-09-13",
+            "releaseVersion": "",
+            "title": "Security Update for WES09 and POSReady 2009 (KB3185911)"
+        },
+        "KB3183431": {
+            "releaseDate": "2016-10-11",
+            "releaseVersion": "",
+            "title": "Security Update for WES09 and POSReady 2009 (KB3183431)"
+        },
+        "KB3190847": {
+            "releaseDate": "2016-10-11",
+            "releaseVersion": "",
+            "title": "Security Update for WES09 and POSReady 2009 (KB3190847)"
+        },
+        "KB3194371": {
+            "releaseDate": "2016-11-08",
+            "releaseVersion": "",
+            "title": "Security Update for WES09 and POSReady 2009 (KB3194371)"
+        },
+        "KB3196718": {
+            "releaseDate": "2016-11-08",
+            "releaseVersion": "",
+            "title": "Security Update for WES09 and POSReady 2009 (KB3196718)"
+        },
+        "KB3198218": {
+            "releaseDate": "2016-11-08",
+            "releaseVersion": "",
+            "title": "Security Update for WES09 and POSReady 2009 (KB3198218)"
+        },
+        "KB3198510": {
+            "releaseDate": "2016-11-08",
+            "releaseVersion": "",
+            "title": "Security Update for WES09 and POSReady 2009 (KB3198510)"
+        },
+        "KB3203859": {
+            "releaseDate": "2016-11-08",
+            "releaseVersion": "",
+            "title": "Security Update for WES09 and POSReady 2009 (KB3203859)"
+        },
+        "KB3189598": {
+            "releaseDate": "2016-12-13",
+            "releaseVersion": "",
+            "title": "November, 2016 Security and Quality Rollup for .NET Framework 3.0, 4 on WES09 and POSReady (KB3189598)"
+        },
+        "KB3196348": {
+            "releaseDate": "2016-12-13",
+            "releaseVersion": "",
+            "title": "Security Update for WES09 and POSReady 2009 (KB3196348)"
+        },
+        "KB3196726": {
+            "releaseDate": "2016-12-13",
+            "releaseVersion": "",
+            "title": "Security Update for WES09 and POSReady 2009 (KB3196726)"
+        },
+        "KB3204724": {
+            "releaseDate": "2016-12-13",
+            "releaseVersion": "",
+            "title": "Security Update for WES09 and POSReady 2009 (KB3204724)"
+        },
+        "KB3216916": {
+            "releaseDate": "2017-03-14",
+            "releaseVersion": "",
+            "title": "Security Update for WES09 and POSReady 2009 (KB3216916)"
+        },
+        "KB4011981": {
+            "releaseDate": "2017-03-14",
+            "releaseVersion": "",
+            "title": "Security Update for WES09 and POSReady 2009 (KB4011981)"
+        },
+        "KB4012355": {
+            "releaseDate": "2017-03-14",
+            "releaseVersion": "",
+            "title": "March, 2017 Security and Quality Rollup for .NET Framework 4 on WES09 and POSReady 2009 (KB4012355)"
+        },
+        "KB4012584": {
+            "releaseDate": "2017-03-14",
+            "releaseVersion": "",
+            "title": "Security Update for WES09 and POSReady 2009 (KB4012584)"
+        },
+        "KB3217127": {
+            "releaseDate": "2017-03-21",
+            "releaseVersion": "",
+            "title": "March, 2017 Preview of Quality Rollup for .NET Framework 2.0 on WES09 and POSReady 2009 (KB3217127)"
+        },
         "KB2736416": {
             "releaseDate": "2017-05-30",
             "releaseVersion": "",
@@ -2650,6 +3155,11 @@
             "releaseVersion": "",
             "title": "Security Update for Microsoft .NET Framework 1.0 SP3 on Windows XP Tablet PC and Media Center (KB2742607)"
         },
+        "KB2756918": {
+            "releaseDate": "2017-05-30",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 3.0 SP2 on Windows Server 2003 and Windows XP for x64-based Systems (KB2756918)"
+        },
         "KB2778344": {
             "releaseDate": "2017-05-30",
             "releaseVersion": "",
@@ -2659,6 +3169,16 @@
             "releaseDate": "2017-05-30",
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB2780091)"
+        },
+        "KB2789643": {
+            "releaseDate": "2017-05-30",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 2.0 SP2 on Windows Server 2003 and Windows XP for x64-based Systems (KB2789643)"
+        },
+        "KB2794119": {
+            "releaseDate": "2017-05-30",
+            "releaseVersion": "",
+            "title": "Update for Windows XP x64 Edition (KB2794119)"
         },
         "KB2799494": {
             "releaseDate": "2017-05-30",
@@ -2670,6 +3190,61 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB2802968)"
         },
+        "KB4014570": {
+            "releaseDate": "2017-05-30",
+            "releaseVersion": "",
+            "title": "April, 2017 Security and Quality Rollup for .NET Framework 4 on WES09 and POSReady 2009 (KB4014570)"
+        },
+        "KB4014580": {
+            "releaseDate": "2017-05-30",
+            "releaseVersion": "",
+            "title": "April, 2017 Security and Quality Rollup for .NET Framework 2.0 SP2 on WES09 and POSReady 2009 (KB4014580)"
+        },
+        "KB4014605": {
+            "releaseDate": "2017-05-30",
+            "releaseVersion": "",
+            "title": "May, 2017 Security and Quality Rollup for .NET Framework 4 on WES09 and POSReady 2009 (KB4014605)"
+        },
+        "KB4014652": {
+            "releaseDate": "2017-05-30",
+            "releaseVersion": "",
+            "title": "Security Update for WES09 and POSReady 2009 (KB4014652)"
+        },
+        "KB4014793": {
+            "releaseDate": "2017-05-30",
+            "releaseVersion": "",
+            "title": "Security Update for WES09 and POSReady 2009 (KB4014793)"
+        },
+        "KB4014794": {
+            "releaseDate": "2017-05-30",
+            "releaseVersion": "",
+            "title": "Security Update for WES09 and POSReady 2009 (KB4014794)"
+        },
+        "KB4015067": {
+            "releaseDate": "2017-05-30",
+            "releaseVersion": "",
+            "title": "Security Update for WES09 and POSReady 2009 (KB4015067)"
+        },
+        "KB4017018": {
+            "releaseDate": "2017-05-30",
+            "releaseVersion": "",
+            "title": "Security Update for WES09 and POSReady 2009 (KB4017018)"
+        },
+        "KB4018490": {
+            "releaseDate": "2017-05-30",
+            "releaseVersion": "",
+            "title": "Security Update for WES09 and POSReady 2009 (KB4018490)"
+        },
+        "KB4019206": {
+            "releaseDate": "2017-05-30",
+            "releaseVersion": "",
+            "title": "Security Update for WES09 and POSReady 2009 (KB4019206)"
+        },
+        "KB4020517": {
+            "releaseDate": "2017-05-30",
+            "releaseVersion": "",
+            "title": "Update for .NET Framework 2.0 SP2 on WES09 and POSReady 2009 (KB4020517)"
+        },
         "KB2742597": {
             "releaseDate": "2017-05-31",
             "releaseVersion": "",
@@ -2680,30 +3255,50 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB2753842)"
         },
-        "KB2756918": {
-            "releaseDate": "2017-05-31",
-            "releaseVersion": "",
-            "title": "Security Update for Microsoft .NET Framework 3.0 SP2 on Windows Server 2003 and Windows XP x86 (KB2756918)"
-        },
         "KB2757638": {
             "releaseDate": "2017-05-31",
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB2757638)"
         },
-        "KB2770660": {
-            "releaseDate": "2017-05-31",
-            "releaseVersion": "",
-            "title": "Security Update for Windows XP (KB2770660)"
-        },
-        "KB2779030": {
-            "releaseDate": "2017-05-31",
-            "releaseVersion": "",
-            "title": "Security Update for Windows XP (KB2779030)"
-        },
         "KB4012598": {
             "releaseDate": "2017-05-31",
             "releaseVersion": "",
             "title": "Security Update for Windows XP SP2 for x64-based Systems (KB4012598)"
+        },
+        "KB4014585": {
+            "releaseDate": "2017-05-31",
+            "releaseVersion": "",
+            "title": "May, 2017 Security and Quality Rollup for .NET Framework 2.0 SP2 on WES09 and POSReady 2009 (KB4014585)"
+        },
+        "KB4015380": {
+            "releaseDate": "2017-05-31",
+            "releaseVersion": "",
+            "title": "Security Update for WES09 and POSReady 2009 (KB4015380)"
+        },
+        "KB4015383": {
+            "releaseDate": "2017-05-31",
+            "releaseVersion": "",
+            "title": "Security Update for WES09 and POSReady 2009 (KB4015383)"
+        },
+        "KB4017101": {
+            "releaseDate": "2017-05-31",
+            "releaseVersion": "",
+            "title": "May, 2017 Security and Quality Rollup for .NET Framework 3.0 SP2 on WES09 and POSReady 2009 (KB4017101)"
+        },
+        "KB4020510": {
+            "releaseDate": "2017-05-31",
+            "releaseVersion": "",
+            "title": "Update for .NET Framework 4 on WES09 and POSReady 2009 (KB4020510)"
+        },
+        "KB4020535": {
+            "releaseDate": "2017-05-31",
+            "releaseVersion": "",
+            "title": "Update for WES09 and POSReady 2009 (KB4020535)"
+        },
+        "KB4018556": {
+            "releaseDate": "2017-06-01",
+            "releaseVersion": "",
+            "title": "Security Update for WES09 and POSReady 2009 (KB4018556)"
         },
         "KB3197835": {
             "releaseDate": "2017-06-13",
@@ -2725,115 +3320,875 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP SP2 for x64-based Systems (KB4018466)"
         },
+        "KB4019204": {
+            "releaseDate": "2017-06-13",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP SP2 for x64-based Systems (KB4019204)"
+        },
+        "KB4021558": {
+            "releaseDate": "2017-06-13",
+            "releaseVersion": "",
+            "title": "Cumulative Security Update for Internet Explorer 8 for WES09 and POSReady 2009 (KB4021558)"
+        },
         "KB4022747": {
             "releaseDate": "2017-06-13",
             "releaseVersion": "",
             "title": "Security Update for Windows XP SP2 for x64-based Systems (KB4022747)"
         },
+        "KB4022884": {
+            "releaseDate": "2017-06-13",
+            "releaseVersion": "",
+            "title": "Security Update for WES09 and POSReady 2009 (KB4022884)"
+        },
+        "KB4024323": {
+            "releaseDate": "2017-06-13",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP SP2 for x64-based Systems (KB4024323)"
+        },
+        "KB4024402": {
+            "releaseDate": "2017-06-13",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP SP2 for x64-based Systems (KB4024402)"
+        },
         "KB4025218": {
             "releaseDate": "2017-06-13",
             "releaseVersion": "",
-            "title": "Security Update for Windows XP SP2 for x64-based Systems (KB4025218)"
+            "title": "Security Update for WES09 and POSReady 2009 (KB4025218)"
+        },
+        "KB4022746": {
+            "releaseDate": "2017-07-11",
+            "releaseVersion": "",
+            "title": "Security Update for WES09 and POSReady 2009 (KB4022746)"
+        },
+        "KB4022883": {
+            "releaseDate": "2017-07-11",
+            "releaseVersion": "",
+            "title": "Security Update for WES09 and POSReady 2009 (KB4022883)"
+        },
+        "KB4025240": {
+            "releaseDate": "2017-07-11",
+            "releaseVersion": "",
+            "title": "Security Update for WES09 and POSReady 2009 (KB4025240)"
+        },
+        "KB4025252": {
+            "releaseDate": "2017-07-11",
+            "releaseVersion": "",
+            "title": "Cumulative Security Update for Internet Explorer 8 for WES09 and POSReady 2009 (KB4025252)"
+        },
+        "KB4025497": {
+            "releaseDate": "2017-07-11",
+            "releaseVersion": "",
+            "title": "Security Update for WES09 and POSReady 2009 (KB4025497)"
+        },
+        "KB4026061": {
+            "releaseDate": "2017-07-11",
+            "releaseVersion": "",
+            "title": "Security Update for WES09 and POSReady 2009 (KB4026061)"
+        },
+        "KB4025409": {
+            "releaseDate": "2017-07-13",
+            "releaseVersion": "",
+            "title": "Security Update for WES09 and POSReady 2009 (KB4025409)"
+        },
+        "KB4034034": {
+            "releaseDate": "2017-08-08",
+            "releaseVersion": "",
+            "title": "Security Update for WES09 and POSReady 2009 (KB4034034)"
+        },
+        "KB4034775": {
+            "releaseDate": "2017-08-08",
+            "releaseVersion": "",
+            "title": "Security Update for WES09 and POSReady 2009 (KB4034775)"
+        },
+        "KB4035055": {
+            "releaseDate": "2017-08-08",
+            "releaseVersion": "",
+            "title": "Security Update for WES09 and POSReady 2009 (KB4035055)"
+        },
+        "KB4035056": {
+            "releaseDate": "2017-08-08",
+            "releaseVersion": "",
+            "title": "Security Update for WES09 and POSReady 2009 (KB4035056)"
+        },
+        "KB4025398": {
+            "releaseDate": "2017-08-29",
+            "releaseVersion": "",
+            "title": "Security Update for WES09 and POSReady 2009 (KB4025398)"
+        },
+        "KB4036586": {
+            "releaseDate": "2017-09-12",
+            "releaseVersion": "",
+            "title": "Cumulative Security Update for Internet Explorer 8 for WES09 and POSReady 2009 (KB4036586)"
+        },
+        "KB4039384": {
+            "releaseDate": "2017-09-12",
+            "releaseVersion": "",
+            "title": "Security Update for WES09 and POSReady 2009 (KB4039384)"
+        },
+        "KB4039111": {
+            "releaseDate": "2017-09-21",
+            "releaseVersion": "",
+            "title": "Update for WES09 and POSReady 2009 (KB4039111)"
+        },
+        "KB4040685": {
+            "releaseDate": "2017-10-10",
+            "releaseVersion": "",
+            "title": "Cumulative Security Update for Internet Explorer 8 for WES09 and POSReady 2009 (KB4040685)"
+        },
+        "KB4040962": {
+            "releaseDate": "2017-10-10",
+            "releaseVersion": "",
+            "title": "2017-10 Security and Quality Rollup for .NET Framework 4 on WES09 and POSReady 2009 (KB4040962)"
+        },
+        "KB4040968": {
+            "releaseDate": "2017-10-10",
+            "releaseVersion": "",
+            "title": "2017-10 Security and Quality Rollup for .NET Framework 2.0 SP2 on WES09 and POSReady 2009 (KB4040968)"
+        },
+        "KB4041995": {
+            "releaseDate": "2017-10-10",
+            "releaseVersion": "",
+            "title": "Security Update for WES09 and POSReady 2009 (KB4041995)"
+        },
+        "KB4042007": {
+            "releaseDate": "2017-10-10",
+            "releaseVersion": "",
+            "title": "Security Update for WES09 and POSReady 2009 (KB4042007)"
+        },
+        "KB4042067": {
+            "releaseDate": "2017-10-10",
+            "releaseVersion": "",
+            "title": "Security Update for WES09 and POSReady 2009 (KB4042067)"
+        },
+        "KB4042120": {
+            "releaseDate": "2017-10-10",
+            "releaseVersion": "",
+            "title": "Security Update for WES09 and POSReady 2009 (KB4042120)"
+        },
+        "KB4042121": {
+            "releaseDate": "2017-10-10",
+            "releaseVersion": "",
+            "title": "Security Update for WES09 and POSReady 2009 (KB4042121)"
+        },
+        "KB4042122": {
+            "releaseDate": "2017-10-10",
+            "releaseVersion": "",
+            "title": "Security Update for WES09 and POSReady 2009 (KB4042122)"
+        },
+        "KB4042723": {
+            "releaseDate": "2017-10-10",
+            "releaseVersion": "",
+            "title": "Security Update for WES09 and POSReady 2009 (KB4042723)"
+        },
+        "KB4047206": {
+            "releaseDate": "2017-11-14",
+            "releaseVersion": "",
+            "title": "Cumulative Security Update for Internet Explorer 8 for WES09 and POSReady 2009 (KB4047206)"
+        },
+        "KB4047211": {
+            "releaseDate": "2017-11-14",
+            "releaseVersion": "",
+            "title": "Security Update for WES09 and POSReady 2009 (KB4047211)"
+        },
+        "KB4048968": {
+            "releaseDate": "2017-11-14",
+            "releaseVersion": "",
+            "title": "2017-11 Security Update for Windows XP Embedded SP3 for x86-based Systems (KB4048968)"
+        },
+        "KB4048970": {
+            "releaseDate": "2017-11-14",
+            "releaseVersion": "",
+            "title": "Security Update for WES09 and POSReady 2009 (KB4048970)"
+        },
+        "KB4050795": {
+            "releaseDate": "2017-11-14",
+            "releaseVersion": "",
+            "title": "Security Update for WES09 and POSReady 2009 (KB4050795)"
+        },
+        "KB4049068": {
+            "releaseDate": "2017-11-27",
+            "releaseVersion": "",
+            "title": "Update for WES09 and POSReady 2009 (KB4049068)"
+        },
+        "KB4021915": {
+            "releaseDate": "2017-12-12",
+            "releaseVersion": "",
+            "title": "June, 2017 Security Only Update for .NET Framework 4 on WES09 and POSReady 2009 (KB4021915)"
+        },
+        "KB4051956": {
+            "releaseDate": "2017-12-12",
+            "releaseVersion": "",
+            "title": "Update for WES09 and POSReady 2009 (KB4051956)"
+        },
+        "KB4052303": {
+            "releaseDate": "2017-12-12",
+            "releaseVersion": "",
+            "title": "2017-12 Security Update for Windows XP Embedded SP3 for x86-based Systems (KB4052303)"
+        },
+        "KB4052978": {
+            "releaseDate": "2017-12-12",
+            "releaseVersion": "",
+            "title": "Cumulative Security Update for Internet Explorer 8 for WES09 and POSReady 2009 (KB4052978)"
+        },
+        "KB4056615": {
+            "releaseDate": "2018-01-05",
+            "releaseVersion": "",
+            "title": "2018-01 Security Update for Windows XP Embedded SP3 for x86-based Systems (KB4056615)"
+        },
+        "KB4056941": {
+            "releaseDate": "2018-01-05",
+            "releaseVersion": "",
+            "title": "2018-01 Security Update for Windows XP Embedded SP3 for x86-based Systems (KB4056941)"
+        },
+        "KB4054173": {
+            "releaseDate": "2018-01-09",
+            "releaseVersion": "",
+            "title": "2018-01 Security Only Update for .NET Framework 4 on WES09 and POSReady 2009 (KB4054173)"
+        },
+        "KB4054178": {
+            "releaseDate": "2018-01-09",
+            "releaseVersion": "",
+            "title": "2018-01 Security Only Update for .NET Framework 2.0 on WES09 and POSReady 2009 (KB4054178)"
+        },
+        "KB4055229": {
+            "releaseDate": "2018-01-09",
+            "releaseVersion": "",
+            "title": "2018-01 Security Only Update for .NET Framework 3.0 on WES09 and POSReady 2009 (KB4055229)"
+        },
+        "KB4019276": {
+            "releaseDate": "2018-02-13",
+            "releaseVersion": "",
+            "title": "Update for WES09 and POSReady 2009 (KB4019276)"
+        },
+        "KB4034044": {
+            "releaseDate": "2018-02-13",
+            "releaseVersion": "",
+            "title": "2018-02 Security Update for WES09 and POSReady 2009 for x86-based Systems (KB4034044)"
+        },
+        "KB4057893": {
+            "releaseDate": "2018-02-13",
+            "releaseVersion": "",
+            "title": "2018-02 Security Update for Windows XP Embedded SP3 for x86-based Systems (KB4057893)"
+        },
+        "KB4074603": {
+            "releaseDate": "2018-02-13",
+            "releaseVersion": "",
+            "title": "2018-02 Security Update for Windows XP Embedded SP3 for x86-based Systems (KB4074603)"
+        },
+        "KB4074736": {
+            "releaseDate": "2018-02-13",
+            "releaseVersion": "",
+            "title": "Cumulative Security Update for Internet Explorer 8 for WES09 and POSReady 2009 (KB4074736)"
+        },
+        "KB4074836": {
+            "releaseDate": "2018-02-13",
+            "releaseVersion": "",
+            "title": "2018-02 Security Update for Windows XP Embedded SP3 for x86-based Systems (KB4074836)"
+        },
+        "KB4074852": {
+            "releaseDate": "2018-02-13",
+            "releaseVersion": "",
+            "title": "2018-02 Security Update for Windows XP Embedded SP3 for x86-based Systems (KB4074852)"
+        },
+        "KB4074837": {
+            "releaseDate": "2018-02-21",
+            "releaseVersion": "",
+            "title": "Update for WES09 and POSReady 2009 (KB4074837)"
+        },
+        "KB4087398": {
+            "releaseDate": "2018-03-13",
+            "releaseVersion": "",
+            "title": "2018-03 Security Update for WES09 and POSReady 2009 for x86-based Systems (KB4087398)"
+        },
+        "KB4089082": {
+            "releaseDate": "2018-03-13",
+            "releaseVersion": "",
+            "title": "2018-03 Security Update for WES09 and POSReady 2009 for x86-based Systems (KB4089082)"
+        },
+        "KB4089175": {
+            "releaseDate": "2018-03-13",
+            "releaseVersion": "",
+            "title": "2018-03 Security Update for WES09 and POSReady 2009 for x86-based Systems (KB4089175)"
+        },
+        "KB4089187": {
+            "releaseDate": "2018-03-13",
+            "releaseVersion": "",
+            "title": "Cumulative Security Update for Internet Explorer 8 for WES09 and POSReady 2009 (KB4089187)"
+        },
+        "KB4089344": {
+            "releaseDate": "2018-03-13",
+            "releaseVersion": "",
+            "title": "2018-03 Security Update for WES09 and POSReady 2009 for x86-based Systems (KB4089344)"
+        },
+        "KB4089694": {
+            "releaseDate": "2018-03-13",
+            "releaseVersion": "",
+            "title": "2018-03 Security Update for WES09 and POSReady 2009 for x86-based Systems (KB4089694)"
+        },
+        "KB4091756": {
+            "releaseDate": "2018-04-10",
+            "releaseVersion": "",
+            "title": "2018-04 Security Update for WES09 and POSReady 2009 for x86-based Systems (KB4091756)"
+        },
+        "KB4092946": {
+            "releaseDate": "2018-04-10",
+            "releaseVersion": "",
+            "title": "Cumulative Security Update for Internet Explorer 8 for WES09 and POSReady 2009 (KB4092946)"
+        },
+        "KB4093223": {
+            "releaseDate": "2018-04-10",
+            "releaseVersion": "",
+            "title": "2018-04 Security Update for WES09 and POSReady 2009 for x86-based Systems (KB4093223)"
+        },
+        "KB4093224": {
+            "releaseDate": "2018-04-10",
+            "releaseVersion": "",
+            "title": "2018-04 Security Update for WES09 and POSReady 2009 for x86-based Systems (KB4093224)"
+        },
+        "KB4093257": {
+            "releaseDate": "2018-04-10",
+            "releaseVersion": "",
+            "title": "2018-04 Security Update for WES09 and POSReady 2009 for x86-based Systems (KB4093257)"
+        },
+        "KB4101864": {
+            "releaseDate": "2018-04-10",
+            "releaseVersion": "",
+            "title": "2018-04 Security Update for WES09 and POSReady 2009 for x86-based Systems (KB4101864)"
+        },
+        "KB4093753": {
+            "releaseDate": "2018-04-17",
+            "releaseVersion": "",
+            "title": "Update for WES09 and POSReady 2009 (KB4093753)"
+        },
+        "KB4056564": {
+            "releaseDate": "2018-05-08",
+            "releaseVersion": "",
+            "title": "2018-05 Security Update for WES09 and POSReady 2009 for x86-based Systems (KB4056564)"
+        },
+        "KB4089453": {
+            "releaseDate": "2018-05-08",
+            "releaseVersion": "",
+            "title": "2018-05 Security Update for WES09 and POSReady 2009 for x86-based Systems (KB4089453)"
+        },
+        "KB4101477": {
+            "releaseDate": "2018-05-08",
+            "releaseVersion": "",
+            "title": "2018-05 Security Update for WES09 and POSReady 2009 for x86-based Systems (KB4101477)"
+        },
+        "KB4103768": {
+            "releaseDate": "2018-05-08",
+            "releaseVersion": "",
+            "title": "Cumulative Security Update for Internet Explorer 8 for WES09 and POSReady 2009 (KB4103768)"
+        },
+        "KB4130957": {
+            "releaseDate": "2018-05-08",
+            "releaseVersion": "",
+            "title": "2018-05 Security Update for WES09 and POSReady 2009 for x86-based Systems (KB4130957)"
+        },
+        "KB4131188": {
+            "releaseDate": "2018-05-08",
+            "releaseVersion": "",
+            "title": "2018-05 Security Update for WES09 and POSReady 2009 for x86-based Systems (KB4131188)"
+        },
+        "KB4095516": {
+            "releaseDate": "2018-05-17",
+            "releaseVersion": "",
+            "title": "2018-05 Security Only Update for .NET Framework 2.0 on WES09 and POSReady 2009 (KB4095516)"
+        },
+        "KB4095528": {
+            "releaseDate": "2018-05-17",
+            "releaseVersion": "",
+            "title": "2018-05 Security Only Update for .NET Framework 4 on WES09 and POSReady 2009 (KB4095528)"
+        },
+        "KB4130978": {
+            "releaseDate": "2018-05-17",
+            "releaseVersion": "",
+            "title": "Update for WES09 and POSReady 2009 (KB4130978)"
+        },
+        "KB4316682": {
+            "releaseDate": "2018-05-30",
+            "releaseVersion": "",
+            "title": "Cumulative Update for Internet Explorer 8 for WES09 and POSReady 2009 (KB4316682)"
+        },
+        "KB4230450": {
+            "releaseDate": "2018-06-12",
+            "releaseVersion": "",
+            "title": "Cumulative Security Update for Internet Explorer 8 for WES09 and POSReady 2009 (KB4230450)"
+        },
+        "KB4230467": {
+            "releaseDate": "2018-06-12",
+            "releaseVersion": "",
+            "title": "2018-06 Security Update for WES09 and POSReady 2009 for x86-based Systems (KB4230467)"
+        },
+        "KB4293928": {
+            "releaseDate": "2018-06-12",
+            "releaseVersion": "",
+            "title": "2018-06 Security Update for WES09 and POSReady 2009 for x86-based Systems (KB4293928)"
+        },
+        "KB4294413": {
+            "releaseDate": "2018-06-12",
+            "releaseVersion": "",
+            "title": "2018-06 Security Update for WES09 and POSReady 2009 for x86-based Systems (KB4294413)"
+        },
+        "KB4134651": {
+            "releaseDate": "2018-07-10",
+            "releaseVersion": "",
+            "title": "2018-07 Security Update for WES09 and POSReady 2009 for x86-based Systems (KB4134651)"
+        },
+        "KB4291391": {
+            "releaseDate": "2018-07-10",
+            "releaseVersion": "",
+            "title": "2018-07 Security Update for WES09 and POSReady 2009 for x86-based Systems (KB4291391)"
+        },
+        "KB4338597": {
+            "releaseDate": "2018-07-10",
+            "releaseVersion": "",
+            "title": "2018-07 Security Only Update for .NET Framework 3.0 on WES09 and POSReady 2009 (KB4338597)"
+        },
+        "KB4338598": {
+            "releaseDate": "2018-07-10",
+            "releaseVersion": "",
+            "title": "2018-07 Security Only Update for .NET Framework 4.0 on WES09 and POSReady 2009 (KB4338598)"
+        },
+        "KB4338615": {
+            "releaseDate": "2018-07-10",
+            "releaseVersion": "",
+            "title": "2018-07 Security Only Update for .NET Framework 2.0 on WES09 and POSReady 2009 (KB4338615)"
+        },
+        "KB4339093": {
+            "releaseDate": "2018-07-10",
+            "releaseVersion": "",
+            "title": "Cumulative Security Update for Internet Explorer 8 for WES09 and POSReady 2009 (KB4339093)"
+        },
+        "KB4339291": {
+            "releaseDate": "2018-07-10",
+            "releaseVersion": "",
+            "title": "2018-07 Security Update for WES09 and POSReady 2009 for x86-based Systems (KB4339291)"
+        },
+        "KB4339854": {
+            "releaseDate": "2018-07-10",
+            "releaseVersion": "",
+            "title": "2018-07 Security Update for WES09 and POSReady 2009 for x86-based Systems (KB4339854)"
+        },
+        "KB4339284": {
+            "releaseDate": "2018-08-14",
+            "releaseVersion": "",
+            "title": "Update for WES09 and POSReady 2009 (KB4339284)"
+        },
+        "KB4340937": {
+            "releaseDate": "2018-08-14",
+            "releaseVersion": "",
+            "title": "2018-08 Security Update for WES09 and POSReady 2009 for x86-based Systems (KB4340937)"
+        },
+        "KB4343205": {
+            "releaseDate": "2018-08-14",
+            "releaseVersion": "",
+            "title": "Cumulative Security Update for Internet Explorer 8 for WES09 and POSReady 2009 (KB4343205)"
+        },
+        "KB4343674": {
+            "releaseDate": "2018-08-14",
+            "releaseVersion": "",
+            "title": "2018-08 Security Update for WES09 and POSReady 2009 for x86-based Systems (KB4343674)"
+        },
+        "KB4344104": {
+            "releaseDate": "2018-08-14",
+            "releaseVersion": "",
+            "title": "2018-08 Security Update for WES09 and POSReady 2009 for x86-based Systems (KB4344104)"
+        },
+        "KB4344180": {
+            "releaseDate": "2018-08-14",
+            "releaseVersion": "",
+            "title": "2018-08 Security Only Update for .NET Framework 2.0 on WES09 and POSReady 2009 (KB4344180)"
+        },
+        "KB4338381": {
+            "releaseDate": "2018-09-11",
+            "releaseVersion": "",
+            "title": "2018-09 Security Update for WES09 and POSReady 2009 for x86-based Systems (KB4338381)"
+        },
+        "KB4457058": {
+            "releaseDate": "2018-09-11",
+            "releaseVersion": "",
+            "title": "2018-09 Security Only Update for .NET Framework 3.0 on WES09 and POSReady 2009 (KB4457058)"
+        },
+        "KB4457163": {
+            "releaseDate": "2018-09-11",
+            "releaseVersion": "",
+            "title": "2018-09 Security Update for WES09 and POSReady 2009 for x86-based Systems (KB4457163)"
+        },
+        "KB4457426": {
+            "releaseDate": "2018-09-11",
+            "releaseVersion": "",
+            "title": "2018-09 Cumulative Security Update for Internet Explorer 8 for WES09 and POSReady 2009 for x86-based systems (KB4457426)"
+        },
+        "KB4458000": {
+            "releaseDate": "2018-09-11",
+            "releaseVersion": "",
+            "title": "2018-09 Security Update for WES09 and POSReady 2009 for x86-based Systems (KB4458000)"
+        },
+        "KB4458001": {
+            "releaseDate": "2018-09-11",
+            "releaseVersion": "",
+            "title": "2018-09 Security Update for WES09 and POSReady 2009 for x86-based Systems (KB4458001)"
+        },
+        "KB4458003": {
+            "releaseDate": "2018-09-11",
+            "releaseVersion": "",
+            "title": "2018-09 Security Update for WES09 and POSReady 2009 for x86-based Systems (KB4458003)"
+        },
+        "KB4458006": {
+            "releaseDate": "2018-09-11",
+            "releaseVersion": "",
+            "title": "2018-09 Security Update for WES09 and POSReady 2009 for x86-based Systems (KB4458006)"
+        },
+        "KB4458318": {
+            "releaseDate": "2018-09-11",
+            "releaseVersion": "",
+            "title": "2018-09 Security Update for WES09 and POSReady 2009 for x86-based Systems (KB4458318)"
+        },
+        "KB4458008": {
+            "releaseDate": "2018-10-09",
+            "releaseVersion": "",
+            "title": "2018-10 Security Update for WES09 and POSReady 2009 for x86-based Systems (KB4458008)"
+        },
+        "KB4462935": {
+            "releaseDate": "2018-10-09",
+            "releaseVersion": "",
+            "title": "2018-10 Security Update for WES09 and POSReady 2009 for x86-based Systems (KB4462935)"
+        },
+        "KB4462949": {
+            "releaseDate": "2018-10-09",
+            "releaseVersion": "",
+            "title": "2018-10 Cumulative Security Update for Internet Explorer 8 for WES09 and POSReady 2009 for x86-based systems (KB4462949)"
+        },
+        "KB4462987": {
+            "releaseDate": "2018-10-09",
+            "releaseVersion": "",
+            "title": "2018-10 Security Update for WES09 and POSReady 2009 for x86-based Systems (KB4462987)"
+        },
+        "KB4463103": {
+            "releaseDate": "2018-10-09",
+            "releaseVersion": "",
+            "title": "2018-10 Security Update for WES09 and POSReady 2009 for x86-based Systems (KB4463103)"
+        },
+        "KB4463361": {
+            "releaseDate": "2018-10-09",
+            "releaseVersion": "",
+            "title": "2018-10 Security Update for WES09 and POSReady 2009 for x86-based Systems (KB4463361)"
+        },
+        "KB4463545": {
+            "releaseDate": "2018-10-09",
+            "releaseVersion": "",
+            "title": "2018-10 Security Update for WES09 and POSReady 2009 for x86-based Systems (KB4463545)"
+        },
+        "KB4463573": {
+            "releaseDate": "2018-10-09",
+            "releaseVersion": "",
+            "title": "2018-10 Security Update for WES09 and POSReady 2009 for x86-based Systems (KB4463573)"
+        },
+        "KB4457046": {
+            "releaseDate": "2018-11-13",
+            "releaseVersion": "",
+            "title": "2018-09 Security Only Update for .NET Framework 4.0 on WES09 and POSReady 2009 (KB4457046)"
+        },
+        "KB4459091": {
+            "releaseDate": "2018-11-13",
+            "releaseVersion": "",
+            "title": "Update for WES09 and POSReady 2009 (KB4459091)"
+        },
+        "KB4462774": {
+            "releaseDate": "2018-11-13",
+            "releaseVersion": "",
+            "title": "2018-08 Security Only Update for .NET Framework 4.0 on WES09 and POSReady 2009 (KB4462774)"
+        },
+        "KB4466388": {
+            "releaseDate": "2018-11-13",
+            "releaseVersion": "",
+            "title": "2018-11 Security Update for WES09 and POSReady 2009 for x86-based Systems (KB4466388)"
+        },
+        "KB4466536": {
+            "releaseDate": "2018-11-13",
+            "releaseVersion": "",
+            "title": "2018-11 Cumulative Security Update for Internet Explorer 8 for WES09 and POSReady 2009 for x86-based systems (KB4466536)"
+        },
+        "KB4467689": {
+            "releaseDate": "2018-11-13",
+            "releaseVersion": "",
+            "title": "2018-11 Security Update for WES09 and POSReady 2009 for x86-based Systems (KB4467689)"
+        },
+        "KB4470118": {
+            "releaseDate": "2018-11-13",
+            "releaseVersion": "",
+            "title": "2018-11 Security Update for WES09 and POSReady 2009 for x86-based Systems (KB4470118)"
+        },
+        "KB4470198": {
+            "releaseDate": "2018-11-13",
+            "releaseVersion": "",
+            "title": "2018-11 Security Update for WES09 and POSReady 2009 for x86-based Systems (KB4470198)"
+        },
+        "KB4467770": {
+            "releaseDate": "2018-11-27",
+            "releaseVersion": "",
+            "title": "Update for WES09 and POSReady 2009 (KB4467770)"
+        },
+        "KB4468323": {
+            "releaseDate": "2018-12-11",
+            "releaseVersion": "",
+            "title": "Update for WES09 and POSReady 2009 (KB4468323)"
+        },
+        "KB4470199": {
+            "releaseDate": "2018-12-11",
+            "releaseVersion": "",
+            "title": "2018-12 Cumulative Security Update for Internet Explorer 8 for WES09 and POSReady 2009 for x86-based systems (KB4470199)"
+        },
+        "KB4470490": {
+            "releaseDate": "2018-12-11",
+            "releaseVersion": "",
+            "title": "2018-12 Security Only Update for .NET Framework 4.0 on WES09 and POSReady 2009 (KB4470490)"
+        },
+        "KB4470633": {
+            "releaseDate": "2018-12-11",
+            "releaseVersion": "",
+            "title": "2018-12 Security Only Update for .NET Framework 3.5 SP1 on WES09 and POSReady 2009 (KB4470633)"
+        },
+        "KB4473077": {
+            "releaseDate": "2018-12-11",
+            "releaseVersion": "",
+            "title": "2018-12 Security Update for WES09 and POSReady 2009 for x86-based Systems (KB4473077)"
+        },
+        "KB4473078": {
+            "releaseDate": "2018-12-11",
+            "releaseVersion": "",
+            "title": "2018-12 Security Update for WES09 and POSReady 2009 for x86-based Systems (KB4473078)"
+        },
+        "KB4483187": {
+            "releaseDate": "2018-12-19",
+            "releaseVersion": "",
+            "title": "2018-12 Cumulative Security Update for Internet Explorer 8 for WES09 and POSReady 2009 for x86-based systems (KB4483187)"
+        },
+        "KB4480077": {
+            "releaseDate": "2019-01-08",
+            "releaseVersion": "",
+            "title": "2019-01 Security Only Update for .NET Framework 4 on WES09 and POSReady 2009 (KB4480077)"
+        },
+        "KB4480087": {
+            "releaseDate": "2019-01-08",
+            "releaseVersion": "",
+            "title": "2019-01 Security Only Update for .NET Framework 2.0 SP2 on WES09 and POSReady 2009 (KB4480087)"
+        },
+        "KB4480965": {
+            "releaseDate": "2019-01-08",
+            "releaseVersion": "",
+            "title": "2019-01 Cumulative Security Update for Internet Explorer 8 for WES09 and POSReady 2009 for x86-based systems (KB4480965)"
+        },
+        "KB4481275": {
+            "releaseDate": "2019-01-08",
+            "releaseVersion": "",
+            "title": "2019-01 Security Update for WES09 and POSReady 2009 for x86-based Systems (KB4481275)"
+        },
+        "KB4483475": {
+            "releaseDate": "2019-02-12",
+            "releaseVersion": "",
+            "title": "2019-02 Security Only Update for .NET Framework 4.0 on WES09 and POSReady 2009 (KB4483475)"
+        },
+        "KB4483485": {
+            "releaseDate": "2019-02-12",
+            "releaseVersion": "",
+            "title": "2019-02 Security Only Update for .NET Framework 2.0 SP2 on WES09 and POSReady 2009 (KB4483485)"
+        },
+        "KB4483495": {
+            "releaseDate": "2019-02-12",
+            "releaseVersion": "",
+            "title": "2019-02 Security Only Update for .NET Framework 3.0 SP2 on WES09 and POSReady 2009 (KB4483495)"
+        },
+        "KB4486463": {
+            "releaseDate": "2019-02-12",
+            "releaseVersion": "",
+            "title": "2019-02 Security Update for WES09 and POSReady 2009 for x86-based Systems (KB4486463)"
+        },
+        "KB4486464": {
+            "releaseDate": "2019-02-12",
+            "releaseVersion": "",
+            "title": "2019-02 Security Update for WES09 and POSReady 2009 for x86-based Systems (KB4486464)"
+        },
+        "KB4486465": {
+            "releaseDate": "2019-02-12",
+            "releaseVersion": "",
+            "title": "2019-02 Security Update for WES09 and POSReady 2009 for x86-based Systems (KB4486465)"
+        },
+        "KB4486474": {
+            "releaseDate": "2019-02-12",
+            "releaseVersion": "",
+            "title": "2019-02 Cumulative Security Update for Internet Explorer 8 for WES09 and POSReady 2009 for x86-based systems (KB4486474)"
+        },
+        "KB4486924": {
+            "releaseDate": "2019-02-12",
+            "releaseVersion": "",
+            "title": "2019-02 Security Update for WES09 and POSReady 2009 for x86-based Systems (KB4486924)"
+        },
+        "KB4487086": {
+            "releaseDate": "2019-02-12",
+            "releaseVersion": "",
+            "title": "2019-02 Security Update for WES09 and POSReady 2009 for x86-based Systems (KB4487086)"
+        },
+        "KB4487385": {
+            "releaseDate": "2019-02-12",
+            "releaseVersion": "",
+            "title": "2019-02 Security Update for WES09 and POSReady 2009 for x86-based Systems (KB4487385)"
+        },
+        "KB4487396": {
+            "releaseDate": "2019-02-12",
+            "releaseVersion": "",
+            "title": "2019-02 Security Update for WES09 and POSReady 2009 for x86-based Systems (KB4487396)"
+        },
+        "KB4487085": {
+            "releaseDate": "2019-02-15",
+            "releaseVersion": "",
+            "title": "Security Update for WES09 and POSReady 2009 for x86-based Systems (KB4487085)"
+        },
+        "KB4486468": {
+            "releaseDate": "2019-03-12",
+            "releaseVersion": "",
+            "title": "2019-03 Security Update for POSReady 2009 for x86-based Systems (KB4486468)"
+        },
+        "KB4486536": {
+            "releaseDate": "2019-03-12",
+            "releaseVersion": "",
+            "title": "2019-03 Security Update for POSReady 2009 for x86-based Systems (KB4486536)"
+        },
+        "KB4486538": {
+            "releaseDate": "2019-03-12",
+            "releaseVersion": "",
+            "title": "2019-03 Security Update for POSReady 2009 for x86-based Systems (KB4486538)"
+        },
+        "KB4487989": {
+            "releaseDate": "2019-03-12",
+            "releaseVersion": "",
+            "title": "2019-03 Update for POSReady 2009 for x86-based Systems (KB4487989)"
+        },
+        "KB4489493": {
+            "releaseDate": "2019-03-12",
+            "releaseVersion": "",
+            "title": "2019-03 Security Update for POSReady 2009 for x86-based Systems (KB4489493)"
+        },
+        "KB4489873": {
+            "releaseDate": "2019-03-12",
+            "releaseVersion": "",
+            "title": "2019-03 Cumulative Security Update for Internet Explorer 8 for POSReady 2009 for x86-based systems (KB4489873)"
+        },
+        "KB4489973": {
+            "releaseDate": "2019-03-12",
+            "releaseVersion": "",
+            "title": "2019-03 Security Update for POSReady 2009 for x86-based Systems (KB4489973)"
+        },
+        "KB4489974": {
+            "releaseDate": "2019-03-12",
+            "releaseVersion": "",
+            "title": "2019-03 Security Update for POSReady 2009 for x86-based Systems (KB4489974)"
+        },
+        "KB4489977": {
+            "releaseDate": "2019-03-12",
+            "releaseVersion": "",
+            "title": "2019-03 Security Update for POSReady 2009 for x86-based Systems (KB4489977)"
+        },
+        "KB4490228": {
+            "releaseDate": "2019-03-12",
+            "releaseVersion": "",
+            "title": "2019-03 Security Update for POSReady 2009 for x86-based Systems (KB4490228)"
+        },
+        "KB4490385": {
+            "releaseDate": "2019-03-12",
+            "releaseVersion": "",
+            "title": "2019-03 Security Update for POSReady 2009 for x86-based Systems (KB4490385)"
+        },
+        "KB4490500": {
+            "releaseDate": "2019-03-12",
+            "releaseVersion": "",
+            "title": "2019-03 Security Update for POSReady 2009 for x86-based Systems (KB4490500)"
+        },
+        "KB4490501": {
+            "releaseDate": "2019-03-12",
+            "releaseVersion": "",
+            "title": "2019-03 Security Update for POSReady 2009 for x86-based Systems (KB4490501)"
+        },
+        "KB4493341": {
+            "releaseDate": "2019-03-12",
+            "releaseVersion": "",
+            "title": "2019-03 Security Update for POSReady 2009 for x86-based Systems (KB4493341)"
+        },
+        "KB4487990": {
+            "releaseDate": "2019-04-09",
+            "releaseVersion": "",
+            "title": "2019-04 Update for POSReady 2009 for x86-based Systems (KB4487990)"
+        },
+        "KB4491443": {
+            "releaseDate": "2019-04-09",
+            "releaseVersion": "",
+            "title": "2019-04 Security Update for POSReady 2009 for x86-based Systems (KB4491443)"
+        },
+        "KB4493435": {
+            "releaseDate": "2019-04-09",
+            "releaseVersion": "",
+            "title": "2019-04 Cumulative Security Update for Internet Explorer 8 for POSReady 2009 for x86-based systems (KB4493435)"
+        },
+        "KB4493563": {
+            "releaseDate": "2019-04-09",
+            "releaseVersion": "",
+            "title": "2019-04 Security Update for POSReady 2009 for x86-based Systems (KB4493563)"
+        },
+        "KB4493790": {
+            "releaseDate": "2019-04-09",
+            "releaseVersion": "",
+            "title": "2019-04 Security Update for POSReady 2009 for x86-based Systems (KB4493790)"
+        },
+        "KB4493793": {
+            "releaseDate": "2019-04-09",
+            "releaseVersion": "",
+            "title": "2019-04 Security Update for POSReady 2009 for x86-based Systems (KB4493793)"
+        },
+        "KB4493794": {
+            "releaseDate": "2019-04-09",
+            "releaseVersion": "",
+            "title": "2019-04 Security Update for POSReady 2009 for x86-based Systems (KB4493794)"
+        },
+        "KB4493795": {
+            "releaseDate": "2019-04-09",
+            "releaseVersion": "",
+            "title": "2019-04 Security Update for POSReady 2009 for x86-based Systems (KB4493795)"
+        },
+        "KB4493796": {
+            "releaseDate": "2019-04-09",
+            "releaseVersion": "",
+            "title": "2019-04 Security Update for POSReady 2009 for x86-based Systems (KB4493796)"
+        },
+        "KB4493797": {
+            "releaseDate": "2019-04-09",
+            "releaseVersion": "",
+            "title": "2019-04 Security Update for POSReady 2009 for x86-based Systems (KB4493797)"
+        },
+        "KB4493927": {
+            "releaseDate": "2019-04-09",
+            "releaseVersion": "",
+            "title": "2019-04 Security Update for POSReady 2009 for x86-based Systems (KB4493927)"
+        },
+        "KB4494059": {
+            "releaseDate": "2019-04-09",
+            "releaseVersion": "",
+            "title": "2019-04 Security Update for POSReady 2009 for x86-based Systems (KB4494059)"
+        },
+        "KB4494528": {
+            "releaseDate": "2019-04-09",
+            "releaseVersion": "",
+            "title": "2019-04 Security Update for POSReady 2009 for x86-based Systems (KB4494528)"
+        },
+        "KB4495022": {
+            "releaseDate": "2019-04-09",
+            "releaseVersion": "",
+            "title": "2019-04 Security Update for POSReady 2009 for x86-based Systems (KB4495022)"
         },
         "KB4500331": {
             "releaseDate": "2019-05-14",
             "releaseVersion": "",
-            "title": "Security Update for Windows XP (KB4500331)"
-        },
-        "KB2794119": {
-            "releaseDate": "2012-12-11",
-            "releaseVersion": "",
-            "title": "Update for Windows XP (KB2794119)"
-        },
-        "KB2935092": {
-            "releaseDate": "2014-03-21",
-            "releaseVersion": "",
-            "title": "Hotfix for Windows XP (KB2935092)"
-        },
-        "KB2849470": {
-            "releaseDate": "2013-08-13",
-            "releaseVersion": "",
-            "title": "Security Update for Windows XP (KB2849470)"
-        },
-        "KB2829361": {
-            "releaseDate": "2013-05-14",
-            "releaseVersion": "",
-            "title": "Security Update for Windows XP (KB2829361)"
-        },
-        "KB2758694": {
-            "releaseDate": "2012-11-13",
-            "releaseVersion": "",
-            "title": "Security Update for Microsoft XML Core Services 4.0 Service Pack 3 (KB2758694)"
-        },
-        "KB2742595": {
-            "releaseDate": "2012-10-09",
-            "releaseVersion": "",
-            "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2742595)"
-        },
-        "KB2736428": {
-            "releaseDate": "2012-10-09",
-            "releaseVersion": "",
-            "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2736428)"
-        },
-        "KB2789642": {
-            "releaseDate": "2013-01-08",
-            "releaseVersion": "",
-            "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2789642)"
-        },
-        "KB2836939": {
-            "releaseDate": "2013-06-11",
-            "releaseVersion": "",
-            "title": "Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2836939)"
-        },
-        "KB2901110": {
-            "releaseDate": "2014-02-11",
-            "releaseVersion": "",
-            "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2901110)"
-        },
-        "KB2858302": {
-            "releaseDate": "2013-10-08",
-            "releaseVersion": "",
-            "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2858302)"
-        },
-        "KB2861188": {
-            "releaseDate": "2013-10-08",
-            "releaseVersion": "",
-            "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2861188)"
-        },
-        "KB2840628": {
-            "releaseDate": "2013-08-13",
-            "releaseVersion": "",
-            "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2840628)"
-        },
-        "KB2804576": {
-            "releaseDate": "2013-05-14",
-            "releaseVersion": "",
-            "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2804576)"
-        },
-        "KB2729449": {
-            "releaseDate": "2012-11-13",
-            "releaseVersion": "",
-            "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2729449)"
-        },
-        "KB2737019": {
-            "releaseDate": "2012-11-13",
-            "releaseVersion": "",
-            "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2737019)"
-        },
-        "KB2656368": {
-            "releaseDate": "2012-08-29",
-            "releaseVersion": "",
-            "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2656368)"
-        },
-        "KB2656405": {
-            "releaseDate": "2012-05-08",
-            "releaseVersion": "",
-            "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2656405)"
-        },
-        "KB2604121": {
-            "releaseDate": "2012-05-08",
-            "releaseVersion": "",
-            "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2604121)"
+            "title": "Security Update for Windows XP SP2 for x64-based Systems (KB4500331)"
         }
     },
     "XP-x64": {
@@ -3147,6 +4502,11 @@
             "releaseVersion": "",
             "title": "Update for Windows XP (KB936357)"
         },
+        "KB942763": {
+            "releaseDate": "2007-12-11",
+            "releaseVersion": "",
+            "title": "Update for Windows XP x64 Edition (KB942763)"
+        },
         "KB944653": {
             "releaseDate": "2007-12-11",
             "releaseVersion": "",
@@ -3242,11 +4602,6 @@
             "releaseVersion": "",
             "title": "Update for Windows Media Player 11 for Windows XP (KB939683)"
         },
-        "KB942763": {
-            "releaseDate": "2008-08-12",
-            "releaseVersion": "",
-            "title": "Update for Windows XP (KB942763)"
-        },
         "KB944338": {
             "releaseDate": "2008-08-12",
             "releaseVersion": "",
@@ -3266,11 +4621,6 @@
             "releaseDate": "2008-08-12",
             "releaseVersion": "",
             "title": "Security Update for Outlook Express for Windows XP (KB951066)"
-        },
-        "KB951072": {
-            "releaseDate": "2008-08-12",
-            "releaseVersion": "",
-            "title": "Update for Windows XP (KB951072)"
         },
         "KB952954": {
             "releaseDate": "2008-08-12",
@@ -3321,11 +4671,6 @@
             "releaseDate": "2008-11-11",
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB957097)"
-        },
-        "KB955839": {
-            "releaseDate": "2008-12-09",
-            "releaseVersion": "",
-            "title": "Update for Windows XP (KB955839)"
         },
         "KB956803": {
             "releaseDate": "2009-01-13",
@@ -3447,11 +4792,6 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP x64 Edition (KB961371)"
         },
-        "KB970653": {
-            "releaseDate": "2009-08-25",
-            "releaseVersion": "",
-            "title": "Update for Windows XP x64 Edition (KB970653)"
-        },
         "KB956744": {
             "releaseDate": "2009-09-08",
             "releaseVersion": "",
@@ -3547,31 +4887,6 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP Service Pack 3 (KB952069)"
         },
-        "KB973687": {
-            "releaseDate": "2009-11-24",
-            "releaseVersion": "",
-            "title": "Update for Windows XP x64 Edition (KB973687)"
-        },
-        "KB976098": {
-            "releaseDate": "2009-11-24",
-            "releaseVersion": "",
-            "title": "Update for Windows XP x64 Edition (KB976098)"
-        },
-        "KB955759": {
-            "releaseDate": "2009-12-08",
-            "releaseVersion": "",
-            "title": "Update for Windows XP x64 Edition (KB955759)"
-        },
-        "KB970430": {
-            "releaseDate": "2009-12-08",
-            "releaseVersion": "",
-            "title": "Update for Windows XP x64 Edition (KB970430)"
-        },
-        "KB971737": {
-            "releaseDate": "2009-12-08",
-            "releaseVersion": "",
-            "title": "Update for Windows XP x64 Edition (KB971737)"
-        },
         "KB973904": {
             "releaseDate": "2009-12-08",
             "releaseVersion": "",
@@ -3622,11 +4937,6 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB978706)"
         },
-        "KB979099": {
-            "releaseDate": "2010-02-09",
-            "releaseVersion": "",
-            "title": "Rights Management Services Client with Service Pack 2 for Windows XP (KB979099)"
-        },
         "KB976569": {
             "releaseDate": "2010-02-23",
             "releaseVersion": "",
@@ -3636,16 +4946,6 @@
             "releaseDate": "2010-02-23",
             "releaseVersion": "",
             "title": "Microsoft .NET Framework 3.0 Service Pack 2 Update for Windows Server 2003 and Windows XP for x64-based Systems (KB976570)"
-        },
-        "KB976662": {
-            "releaseDate": "2010-02-23",
-            "releaseVersion": "",
-            "title": "Update for Windows XP x64 Edition (KB976662)"
-        },
-        "KB979306": {
-            "releaseDate": "2010-02-23",
-            "releaseVersion": "",
-            "title": "Update for Windows XP (KB979306)"
         },
         "KB977165": {
             "releaseDate": "2010-03-02",
@@ -3712,11 +5012,6 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB978542)"
         },
-        "KB981793": {
-            "releaseDate": "2010-05-25",
-            "releaseVersion": "",
-            "title": "Update for Windows XP (KB981793)"
-        },
         "KB975562": {
             "releaseDate": "2010-06-08",
             "releaseVersion": "",
@@ -3755,7 +5050,7 @@
         "KB982167": {
             "releaseDate": "2010-06-08",
             "releaseVersion": "",
-            "title": "Microsoft .NET Framework 3.5 SP1 and .NET Framework 2.0 SP2 Update for Windows Server 2003 and Windows XP for x64-based Systems (KB982167)"
+            "title": "Microsoft .NET Framework 3.5 SP1 and .NET Framework 2.0 SP2 Update for Windows Server 2003 and Windows XP x86 (KB982167)"
         },
         "KB982168": {
             "releaseDate": "2010-06-08",
@@ -3785,7 +5080,7 @@
         "KB982524": {
             "releaseDate": "2010-07-27",
             "releaseVersion": "",
-            "title": "Microsoft .NET Framework 3.5 SP1 and .NET Framework 2.0 SP2 Update for Windows Server 2003 and Windows XP for x64-based Systems (KB982524)"
+            "title": "Microsoft .NET Framework 3.5 SP1 and .NET Framework 2.0 SP2 Update for Windows Server 2003 and Windows XP x86 (KB982524)"
         },
         "KB2115168": {
             "releaseDate": "2010-08-10",
@@ -3842,11 +5137,6 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB2124261)"
         },
-        "KB2141007": {
-            "releaseDate": "2010-09-14",
-            "releaseVersion": "",
-            "title": "Update for Windows XP (KB2141007)"
-        },
         "KB2259922": {
             "releaseDate": "2010-09-14",
             "releaseVersion": "",
@@ -3881,11 +5171,6 @@
             "releaseDate": "2010-10-12",
             "releaseVersion": "",
             "title": "Security Update for Windows XP x64 Edition (KB2296011)"
-        },
-        "KB2345886": {
-            "releaseDate": "2010-10-12",
-            "releaseVersion": "",
-            "title": "Update for Windows XP x64 Edition (KB2345886)"
         },
         "KB2360937": {
             "releaseDate": "2010-10-12",
@@ -4022,11 +5307,6 @@
             "releaseVersion": "",
             "title": "Security Update for Microsoft .NET Framework 4 on Windows XP, Windows Server 2003, Windows Vista, Windows 7, Windows Server 2008 x86 (KB2416472)"
         },
-        "KB971029": {
-            "releaseDate": "2011-02-22",
-            "releaseVersion": "",
-            "title": "Update for Windows XP x64 Edition (KB971029)"
-        },
         "KB2479943": {
             "releaseDate": "2011-03-08",
             "releaseVersion": "",
@@ -4116,16 +5396,6 @@
             "releaseDate": "2011-04-12",
             "releaseVersion": "",
             "title": "Security Update for Windows XP x64 Edition (KB2511455)"
-        },
-        "KB2492386": {
-            "releaseDate": "2011-04-26",
-            "releaseVersion": "",
-            "title": "Update for Windows XP x64 Edition (KB2492386)"
-        },
-        "KB2524375": {
-            "releaseDate": "2011-04-26",
-            "releaseVersion": "",
-            "title": "Update for Windows XP x64 Edition (KB2524375)"
         },
         "KB2476490": {
             "releaseDate": "2011-06-14",
@@ -4217,6 +5487,11 @@
             "releaseVersion": "",
             "title": "Update for Microsoft .NET Framework 4 on Windows XP, Windows Server 2003, Windows Vista, Windows 7, Windows Server 2008, Windows Server 2008 R2 for x64-based Systems (KB2533523)"
         },
+        "KB2616676": {
+            "releaseDate": "2011-09-19",
+            "releaseVersion": "",
+            "title": "Update for Windows XP x64 Edition (KB2616676)"
+        },
         "KB2518870": {
             "releaseDate": "2011-10-11",
             "releaseVersion": "",
@@ -4237,10 +5512,20 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB2592799)"
         },
+        "KB2607712": {
+            "releaseDate": "2011-10-11",
+            "releaseVersion": "",
+            "title": "Update for Windows XP (KB2607712)"
+        },
         "KB2544893": {
             "releaseDate": "2011-11-08",
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB2544893)"
+        },
+        "KB2641690": {
+            "releaseDate": "2011-11-16",
+            "releaseVersion": "",
+            "title": "Update for Windows XP x64 Edition (KB2641690)"
         },
         "KB2618451": {
             "releaseDate": "2011-12-13",
@@ -4276,6 +5561,11 @@
             "releaseDate": "2012-01-10",
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB2598479)"
+        },
+        "KB2632503": {
+            "releaseDate": "2012-01-10",
+            "releaseVersion": "",
+            "title": "Update for Windows XP x64 Edition (KB2632503)"
         },
         "KB2638806": {
             "releaseDate": "2012-01-10",
@@ -4377,6 +5667,16 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP x64 Edition (KB2718523)"
         },
+        "KB2718704": {
+            "releaseDate": "2012-08-29",
+            "releaseVersion": "",
+            "title": "Update for Windows XP x64 Edition (KB2718704)"
+        },
+        "KB2661254": {
+            "releaseDate": "2012-10-09",
+            "releaseVersion": "",
+            "title": "Update for Windows XP (KB2661254)"
+        },
         "KB2705219": {
             "releaseDate": "2012-10-09",
             "releaseVersion": "",
@@ -4386,6 +5686,11 @@
             "releaseDate": "2012-10-09",
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB2724197)"
+        },
+        "KB2749655": {
+            "releaseDate": "2012-10-09",
+            "releaseVersion": "",
+            "title": "Update for Windows XP (KB2749655)"
         },
         "KB2698023": {
             "releaseDate": "2012-11-13",
@@ -4401,6 +5706,11 @@
             "releaseDate": "2012-11-13",
             "releaseVersion": "",
             "title": "Security Update for Microsoft .NET Framework 2.0 SP2 on Windows Server 2003 and Windows XP for x64-based Systems (KB2729450)"
+        },
+        "KB2770660": {
+            "releaseDate": "2012-12-11",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP x64 Edition (KB2770660)"
         },
         "KB2807986": {
             "releaseDate": "2013-03-12",
@@ -4476,6 +5786,11 @@
             "releaseDate": "2013-08-13",
             "releaseVersion": "",
             "title": "Security Update for Microsoft .NET Framework 2.0 SP2 on Windows Server 2003 and Windows XP for x64-based Systems (KB2844285)"
+        },
+        "KB2863058": {
+            "releaseDate": "2013-08-13",
+            "releaseVersion": "",
+            "title": "Update for Windows XP x64 Edition (KB2863058)"
         },
         "KB2803821": {
             "releaseDate": "2013-08-27",
@@ -4607,6 +5922,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP x64 Edition (KB2898715)"
         },
+        "KB2904266": {
+            "releaseDate": "2013-12-10",
+            "releaseVersion": "",
+            "title": "Update for Windows XP (KB2904266)"
+        },
         "KB2914368": {
             "releaseDate": "2014-01-14",
             "releaseVersion": "",
@@ -4647,6 +5967,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP x64 Edition (KB2916036)"
         },
+        "KB2922717": {
+            "releaseDate": "2014-03-11",
+            "releaseVersion": "",
+            "title": "Update for Windows XP x64 Edition (KB2922717)"
+        },
         "KB2929961": {
             "releaseDate": "2014-03-11",
             "releaseVersion": "",
@@ -4677,6 +6002,16 @@
             "releaseVersion": "",
             "title": "Security Update for Microsoft .NET Framework 2.0 SP2 on Windows Server 2003 and Windows XP x86 (KB2742596)"
         },
+        "KB2748349": {
+            "releaseDate": "2017-05-30",
+            "releaseVersion": "",
+            "title": "Update for Windows XP x64 Edition (KB2748349)"
+        },
+        "KB2756918": {
+            "releaseDate": "2017-05-30",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 3.0 SP2 on Windows Server 2003 and Windows XP for x64-based Systems (KB2756918)"
+        },
         "KB2780091": {
             "releaseDate": "2017-05-30",
             "releaseVersion": "",
@@ -4687,20 +6022,15 @@
             "releaseVersion": "",
             "title": "Security Update for Microsoft .NET Framework 2.0 SP2 on Windows Server 2003 and Windows XP for x64-based Systems (KB2789643)"
         },
+        "KB2794119": {
+            "releaseDate": "2017-05-30",
+            "releaseVersion": "",
+            "title": "Update for Windows XP x64 Edition (KB2794119)"
+        },
         "KB2742597": {
             "releaseDate": "2017-05-31",
             "releaseVersion": "",
             "title": "Security Update for Microsoft .NET Framework 1.1 SP1 on Windows XP, Server 2003, Vista, and Server 2008 for x64 (KB2742597)"
-        },
-        "KB2756918": {
-            "releaseDate": "2017-05-31",
-            "releaseVersion": "",
-            "title": "Security Update for Microsoft .NET Framework 3.0 SP2 on Windows Server 2003 and Windows XP x86 (KB2756918)"
-        },
-        "KB2770660": {
-            "releaseDate": "2017-05-31",
-            "releaseVersion": "",
-            "title": "Security Update for Windows XP (KB2770660)"
         },
         "KB4012598": {
             "releaseDate": "2017-05-31",
@@ -4750,112 +6080,12 @@
         "KB4025218": {
             "releaseDate": "2017-06-13",
             "releaseVersion": "",
-            "title": "Security Update for Windows XP SP2 for x64-based Systems (KB4025218)"
+            "title": "Security Update for WES09 and POSReady 2009 (KB4025218)"
         },
         "KB4500331": {
             "releaseDate": "2019-05-14",
             "releaseVersion": "",
-            "title": "Security Update for Windows XP (KB4500331)"
-        },
-        "KB956438": {
-            "releaseDate": "2013-03-12",
-            "releaseVersion": "",
-            "title": "Hotfix for Windows XP x64 Edition (KB956438)"
-        },
-        "KB2794119": {
-            "releaseDate": "2012-12-11",
-            "releaseVersion": "",
-            "title": "Update for Windows XP (KB2794119)"
-        },
-        "KB2935092": {
-            "releaseDate": "2014-03-21",
-            "releaseVersion": "",
-            "title": "Hotfix for Windows XP (KB2935092)"
-        },
-        "KB2849470": {
-            "releaseDate": "2013-08-13",
-            "releaseVersion": "",
-            "title": "Security Update for Windows XP (KB2849470)"
-        },
-        "KB2829361": {
-            "releaseDate": "2013-05-14",
-            "releaseVersion": "",
-            "title": "Security Update for Windows XP (KB2829361)"
-        },
-        "KB2758694": {
-            "releaseDate": "2012-11-13",
-            "releaseVersion": "",
-            "title": "Security Update for Microsoft XML Core Services 4.0 Service Pack 3 (KB2758694)"
-        },
-        "KB2742595": {
-            "releaseDate": "2012-10-09",
-            "releaseVersion": "",
-            "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2742595)"
-        },
-        "KB2736428": {
-            "releaseDate": "2012-10-09",
-            "releaseVersion": "",
-            "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2736428)"
-        },
-        "KB2789642": {
-            "releaseDate": "2013-01-08",
-            "releaseVersion": "",
-            "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2789642)"
-        },
-        "KB2836939": {
-            "releaseDate": "2013-06-11",
-            "releaseVersion": "",
-            "title": "Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2836939)"
-        },
-        "KB2901110": {
-            "releaseDate": "2014-02-11",
-            "releaseVersion": "",
-            "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2901110)"
-        },
-        "KB2858302": {
-            "releaseDate": "2013-10-08",
-            "releaseVersion": "",
-            "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2858302)"
-        },
-        "KB2861188": {
-            "releaseDate": "2013-10-08",
-            "releaseVersion": "",
-            "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2861188)"
-        },
-        "KB2840628": {
-            "releaseDate": "2013-08-13",
-            "releaseVersion": "",
-            "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2840628)"
-        },
-        "KB2804576": {
-            "releaseDate": "2013-05-14",
-            "releaseVersion": "",
-            "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2804576)"
-        },
-        "KB2729449": {
-            "releaseDate": "2012-11-13",
-            "releaseVersion": "",
-            "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2729449)"
-        },
-        "KB2737019": {
-            "releaseDate": "2012-11-13",
-            "releaseVersion": "",
-            "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2737019)"
-        },
-        "KB2656368": {
-            "releaseDate": "2012-08-29",
-            "releaseVersion": "",
-            "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2656368)"
-        },
-        "KB2656405": {
-            "releaseDate": "2012-05-08",
-            "releaseVersion": "",
-            "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2656405)"
-        },
-        "KB2604121": {
-            "releaseDate": "2012-05-08",
-            "releaseVersion": "",
-            "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2604121)"
+            "title": "Security Update for Windows XP SP2 for x64-based Systems (KB4500331)"
         }
     },
     "2003": {
@@ -5194,6 +6424,11 @@
             "releaseVersion": "",
             "title": "Update for Windows XP (KB936357)"
         },
+        "KB942763": {
+            "releaseDate": "2007-12-11",
+            "releaseVersion": "",
+            "title": "Update for Windows XP x64 Edition (KB942763)"
+        },
         "KB941644": {
             "releaseDate": "2008-01-08",
             "releaseVersion": "",
@@ -5284,15 +6519,10 @@
             "releaseVersion": "",
             "title": "Windows Server 2003 Service Pack 2 for Windows Small Business Server 2003 (KB940276)"
         },
-        "KB942763": {
-            "releaseDate": "2008-08-12",
-            "releaseVersion": "",
-            "title": "Update for Windows XP (KB942763)"
-        },
         "KB951072": {
             "releaseDate": "2008-08-12",
             "releaseVersion": "",
-            "title": "Update for Windows XP (KB951072)"
+            "title": "Update for Windows Server 2003 x64 Edition (KB951072)"
         },
         "KB952954": {
             "releaseDate": "2008-08-12",
@@ -5308,11 +6538,6 @@
             "releaseDate": "2008-10-23",
             "releaseVersion": "",
             "title": "Security Update for Windows XP x64 Edition (KB958644)"
-        },
-        "KB955839": {
-            "releaseDate": "2008-12-09",
-            "releaseVersion": "",
-            "title": "Update for Windows XP (KB955839)"
         },
         "KB960089": {
             "releaseDate": "2009-02-10",
@@ -5392,7 +6617,7 @@
         "KB970653": {
             "releaseDate": "2009-08-25",
             "releaseVersion": "",
-            "title": "Update for Windows XP x64 Edition (KB970653)"
+            "title": "Update for Windows Server 2003 x64 Edition (KB970653)"
         },
         "KB956844": {
             "releaseDate": "2009-09-08",
@@ -5452,27 +6677,27 @@
         "KB973687": {
             "releaseDate": "2009-11-24",
             "releaseVersion": "",
-            "title": "Update for Windows XP x64 Edition (KB973687)"
+            "title": "Update for Windows XP (KB973687)"
         },
         "KB976098": {
             "releaseDate": "2009-11-24",
             "releaseVersion": "",
-            "title": "Update for Windows XP x64 Edition (KB976098)"
+            "title": "Update for Windows Server 2003 x64 Edition (KB976098)"
         },
         "KB955759": {
             "releaseDate": "2009-12-08",
             "releaseVersion": "",
-            "title": "Update for Windows XP x64 Edition (KB955759)"
+            "title": "Update for Windows Server 2003 (KB955759)"
         },
         "KB970430": {
             "releaseDate": "2009-12-08",
             "releaseVersion": "",
-            "title": "Update for Windows XP x64 Edition (KB970430)"
+            "title": "Update for Windows Server 2003 (KB970430)"
         },
         "KB971737": {
             "releaseDate": "2009-12-08",
             "releaseVersion": "",
-            "title": "Update for Windows XP x64 Edition (KB971737)"
+            "title": "Update for Windows Server 2003 (KB971737)"
         },
         "KB974392": {
             "releaseDate": "2009-12-08",
@@ -5517,12 +6742,12 @@
         "KB976662": {
             "releaseDate": "2010-02-23",
             "releaseVersion": "",
-            "title": "Update for Windows XP x64 Edition (KB976662)"
+            "title": "Update for Windows Server 2003 x64 Edition (KB976662)"
         },
         "KB979306": {
             "releaseDate": "2010-02-23",
             "releaseVersion": "",
-            "title": "Update for Windows XP (KB979306)"
+            "title": "Update for Windows Server 2003 x64 Edition (KB979306)"
         },
         "KB973917": {
             "releaseDate": "2010-04-13",
@@ -5559,6 +6784,11 @@
             "releaseVersion": "",
             "title": "Microsoft .NET Framework 2.0 Service Pack 2 Security Update for Windows Server 2003 and Windows XP for x64-based Systems (KB974417)"
         },
+        "KB981793": {
+            "releaseDate": "2010-05-25",
+            "releaseVersion": "",
+            "title": "Update for Windows Server 2003 x64 Edition (KB981793)"
+        },
         "KB979332": {
             "releaseDate": "2010-06-08",
             "releaseVersion": "",
@@ -5572,7 +6802,7 @@
         "KB982167": {
             "releaseDate": "2010-06-08",
             "releaseVersion": "",
-            "title": "Microsoft .NET Framework 3.5 SP1 and .NET Framework 2.0 SP2 Update for Windows Server 2003 and Windows XP for x64-based Systems (KB982167)"
+            "title": "Microsoft .NET Framework 3.5 SP1 and .NET Framework 2.0 SP2 Update for Windows Server 2003 and Windows XP x86 (KB982167)"
         },
         "KB982168": {
             "releaseDate": "2010-06-08",
@@ -5582,7 +6812,7 @@
         "KB968930": {
             "releaseDate": "2010-06-22",
             "releaseVersion": "",
-            "title": "Windows PowerShell 2.0 and WinRM 2.0 for Windows XP and Windows Embedded (KB968930)"
+            "title": "Windows PowerShell 2.0 and WinRM 2.0 for Windows Server 2003 x64 Edition (KB968930)"
         },
         "KB982865": {
             "releaseDate": "2010-06-22",
@@ -5597,7 +6827,7 @@
         "KB982524": {
             "releaseDate": "2010-07-27",
             "releaseVersion": "",
-            "title": "Microsoft .NET Framework 3.5 SP1 and .NET Framework 2.0 SP2 Update for Windows Server 2003 and Windows XP for x64-based Systems (KB982524)"
+            "title": "Microsoft .NET Framework 3.5 SP1 and .NET Framework 2.0 SP2 Update for Windows Server 2003 and Windows XP x86 (KB982524)"
         },
         "KB982214": {
             "releaseDate": "2010-08-10",
@@ -5617,12 +6847,17 @@
         "KB2141007": {
             "releaseDate": "2010-09-14",
             "releaseVersion": "",
-            "title": "Update for Windows XP (KB2141007)"
+            "title": "Update for Windows Server 2003 (KB2141007)"
         },
         "KB981550": {
             "releaseDate": "2010-09-14",
             "releaseVersion": "",
             "title": "Security Update for Windows Server 2003 (KB981550)"
+        },
+        "KB2158563": {
+            "releaseDate": "2010-09-28",
+            "releaseVersion": "",
+            "title": "Update for Windows Server 2003 (KB2158563)"
         },
         "KB2296011": {
             "releaseDate": "2010-10-12",
@@ -5632,7 +6867,7 @@
         "KB2345886": {
             "releaseDate": "2010-10-12",
             "releaseVersion": "",
-            "title": "Update for Windows XP x64 Edition (KB2345886)"
+            "title": "Update for Windows Server 2003 (KB2345886)"
         },
         "KB2360937": {
             "releaseDate": "2010-10-12",
@@ -5679,6 +6914,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP x64 Edition (KB2440591)"
         },
+        "KB2443685": {
+            "releaseDate": "2010-12-14",
+            "releaseVersion": "",
+            "title": "Update for Windows Server 2003 (KB2443685)"
+        },
         "KB2447961": {
             "releaseDate": "2010-12-14",
             "releaseVersion": "",
@@ -5707,7 +6947,7 @@
         "KB971029": {
             "releaseDate": "2011-02-22",
             "releaseVersion": "",
-            "title": "Update for Windows XP x64 Edition (KB971029)"
+            "title": "Update for Windows Server 2003 (KB971029)"
         },
         "KB2412687": {
             "releaseDate": "2011-04-12",
@@ -5747,12 +6987,12 @@
         "KB2492386": {
             "releaseDate": "2011-04-26",
             "releaseVersion": "",
-            "title": "Update for Windows XP x64 Edition (KB2492386)"
+            "title": "Update for Windows Server 2003 (KB2492386)"
         },
         "KB2524375": {
             "releaseDate": "2011-04-26",
             "releaseVersion": "",
-            "title": "Update for Windows XP x64 Edition (KB2524375)"
+            "title": "Update for Windows Server 2003 (KB2524375)"
         },
         "KB2478656": {
             "releaseDate": "2011-06-14",
@@ -5789,6 +7029,11 @@
             "releaseVersion": "",
             "title": "Security Update for Microsoft .NET Framework 2.0 SP2 on Windows Server 2003 and Windows XP x86 (KB2539631)"
         },
+        "KB2562937": {
+            "releaseDate": "2011-08-09",
+            "releaseVersion": "",
+            "title": "Update Rollup for ActiveX Killbits for Windows XP x64 Edition (KB2562937)"
+        },
         "KB2566454": {
             "releaseDate": "2011-08-09",
             "releaseVersion": "",
@@ -5804,6 +7049,11 @@
             "releaseVersion": "",
             "title": "Security Update for Microsoft .NET Framework 4 on Windows XP, Windows Server 2003, Windows Vista, Windows 7, Windows Server 2008, Windows Server 2008 R2 for x64-based Systems (KB2539636)"
         },
+        "KB2570791": {
+            "releaseDate": "2011-08-23",
+            "releaseVersion": "",
+            "title": "Update for Windows Server 2003 (KB2570791)"
+        },
         "KB2468871": {
             "releaseDate": "2011-09-13",
             "releaseVersion": "",
@@ -5812,7 +7062,7 @@
         "KB2616676": {
             "releaseDate": "2011-09-19",
             "releaseVersion": "",
-            "title": "Update for Windows Server 2003 (KB2616676)"
+            "title": "Update for Windows XP x64 Edition (KB2616676)"
         },
         "KB2518870": {
             "releaseDate": "2011-10-11",
@@ -5832,12 +7082,12 @@
         "KB2607712": {
             "releaseDate": "2011-10-11",
             "releaseVersion": "",
-            "title": "Update for Windows Server 2003 x64 Edition (KB2607712)"
+            "title": "Update for Windows XP (KB2607712)"
         },
         "KB2641690": {
             "releaseDate": "2011-11-16",
             "releaseVersion": "",
-            "title": "Update for Windows Server 2003 (KB2641690)"
+            "title": "Update for Windows XP x64 Edition (KB2641690)"
         },
         "KB2621146": {
             "releaseDate": "2011-12-13",
@@ -5852,7 +7102,7 @@
         "KB2633952": {
             "releaseDate": "2011-12-29",
             "releaseVersion": "",
-            "title": "Update for Windows XP (KB2633952)"
+            "title": "Update for Windows Server 2003 (KB2633952)"
         },
         "KB2656358": {
             "releaseDate": "2011-12-29",
@@ -5862,7 +7112,7 @@
         "KB2632503": {
             "releaseDate": "2012-01-10",
             "releaseVersion": "",
-            "title": "Update for Windows XP (KB2632503)"
+            "title": "Update for Windows XP x64 Edition (KB2632503)"
         },
         "KB2644615": {
             "releaseDate": "2012-01-10",
@@ -5972,12 +7222,12 @@
         "KB2718704": {
             "releaseDate": "2012-08-29",
             "releaseVersion": "",
-            "title": "Update for Windows Server 2003 x64 Edition (KB2718704)"
+            "title": "Update for Windows XP x64 Edition (KB2718704)"
         },
         "KB2661254": {
             "releaseDate": "2012-10-09",
             "releaseVersion": "",
-            "title": "Update for Windows Server 2003 (KB2661254)"
+            "title": "Update for Windows XP (KB2661254)"
         },
         "KB2731847": {
             "releaseDate": "2012-10-09",
@@ -5987,7 +7237,12 @@
         "KB2749655": {
             "releaseDate": "2012-10-09",
             "releaseVersion": "",
-            "title": "Update for Windows Server 2003 (KB2749655)"
+            "title": "Update for Windows XP (KB2749655)"
+        },
+        "KB2756822": {
+            "releaseDate": "2012-10-09",
+            "releaseVersion": "",
+            "title": "Update for Windows Server 2003 x64 Edition (KB2756822)"
         },
         "KB2698032": {
             "releaseDate": "2012-11-13",
@@ -6052,7 +7307,7 @@
         "KB2863058": {
             "releaseDate": "2013-08-13",
             "releaseVersion": "",
-            "title": "Update for Windows XP (KB2863058)"
+            "title": "Update for Windows XP x64 Edition (KB2863058)"
         },
         "KB2876217": {
             "releaseDate": "2013-09-10",
@@ -6142,7 +7397,7 @@
         "KB2904266": {
             "releaseDate": "2013-12-10",
             "releaseVersion": "",
-            "title": "Update for Windows Server 2003 x64 Edition (KB2904266)"
+            "title": "Update for Windows XP (KB2904266)"
         },
         "KB2836941": {
             "releaseDate": "2014-02-11",
@@ -6167,7 +7422,7 @@
         "KB2922717": {
             "releaseDate": "2014-03-11",
             "releaseVersion": "",
-            "title": "Update for Windows Server 2003 (KB2922717)"
+            "title": "Update for Windows XP x64 Edition (KB2922717)"
         },
         "KB2923392": {
             "releaseDate": "2014-03-11",
@@ -6229,20 +7484,10 @@
             "releaseVersion": "",
             "title": "Security Update for Windows Server 2003 x64 Edition (KB942288)"
         },
-        "KB2972214": {
-            "releaseDate": "2014-09-09",
-            "releaseVersion": "",
-            "title": "Security Update for Microsoft .NET Framework 2.0 SP2 on Windows Server 2003 for x64-based Systems (KB2972214)"
-        },
         "KB2972215": {
             "releaseDate": "2014-09-09",
             "releaseVersion": "",
             "title": "Security Update for Microsoft .NET Framework 4 on Windows Server 2003, Vista, Windows 7, Server 2008 x86 (KB2972215)"
-        },
-        "KB2973115": {
-            "releaseDate": "2014-09-09",
-            "releaseVersion": "",
-            "title": "Security Update for Microsoft .NET Framework 3.0 SP2 on Windows Server 2003 (KB2973115)"
         },
         "KB2998527": {
             "releaseDate": "2014-09-23",
@@ -6337,7 +7582,7 @@
         "KB3013410": {
             "releaseDate": "2014-12-09",
             "releaseVersion": "",
-            "title": "Update for Windows Server 2003 x64 Edition (KB3013410)"
+            "title": "Update for Windows Server 2003 (KB3013410)"
         },
         "KB3008923": {
             "releaseDate": "2015-01-13",
@@ -6364,20 +7609,10 @@
             "releaseVersion": "",
             "title": "Security Update for Windows Server 2003 (KB3013455)"
         },
-        "KB3020338": {
-            "releaseDate": "2015-02-10",
-            "releaseVersion": "",
-            "title": "Update for Windows Server 2003 x64 Edition (KB3020338)"
-        },
         "KB3023562": {
             "releaseDate": "2015-02-10",
             "releaseVersion": "",
             "title": "Security Update for Windows Server 2003 (KB3023562)"
-        },
-        "KB3000988": {
-            "releaseDate": "2015-03-10",
-            "releaseVersion": "",
-            "title": "Update for Windows Server 2003 x64 Edition (KB3000988)"
         },
         "KB3033889": {
             "releaseDate": "2015-03-10",
@@ -6403,11 +7638,6 @@
             "releaseDate": "2015-03-26",
             "releaseVersion": "",
             "title": "Security Update for Windows Server 2003 (KB3050995)"
-        },
-        "KB3049874": {
-            "releaseDate": "2015-03-27",
-            "releaseVersion": "",
-            "title": "Update for Windows Server 2003 x64 Edition (KB3049874)"
         },
         "KB2894842": {
             "releaseDate": "2015-04-14",
@@ -6497,147 +7727,62 @@
         "KB3065979": {
             "releaseDate": "2015-07-14",
             "releaseVersion": "",
-            "title": "Update for Windows Server 2003 x64 Edition (KB3065979)"
-        },
-        "KB3067903": {
-            "releaseDate": "2015-07-14",
-            "releaseVersion": "",
-            "title": "Security Update for Windows Server 2003 (KB3067903)"
-        },
-        "KB3068368": {
-            "releaseDate": "2015-07-14",
-            "releaseVersion": "",
-            "title": "Security Update for Windows Server 2003 (KB3068368)"
-        },
-        "KB3068457": {
-            "releaseDate": "2015-07-14",
-            "releaseVersion": "",
-            "title": "Security Update for Windows Server 2003 x64 Edition (KB3068457)"
-        },
-        "KB3069392": {
-            "releaseDate": "2015-07-14",
-            "releaseVersion": "",
-            "title": "Security Update for Windows Server 2003 (KB3069392)"
-        },
-        "KB3070102": {
-            "releaseDate": "2015-07-14",
-            "releaseVersion": "",
-            "title": "Security Update for Windows Server 2003 x64 Edition (KB3070102)"
-        },
-        "KB3077657": {
-            "releaseDate": "2015-07-14",
-            "releaseVersion": "",
-            "title": "Security Update for Windows Server 2003 (KB3077657)"
+            "title": "Update for WEPOS and POSReady 2009 (KB3065979)"
         },
         "KB2742596": {
             "releaseDate": "2017-05-30",
             "releaseVersion": "",
             "title": "Security Update for Microsoft .NET Framework 2.0 SP2 on Windows Server 2003 and Windows XP x86 (KB2742596)"
         },
+        "KB2748349": {
+            "releaseDate": "2017-05-30",
+            "releaseVersion": "",
+            "title": "Update for Windows XP x64 Edition (KB2748349)"
+        },
         "KB2756918": {
-            "releaseDate": "2017-05-31",
+            "releaseDate": "2017-05-30",
             "releaseVersion": "",
-            "title": "Security Update for Microsoft .NET Framework 3.0 SP2 on Windows Server 2003 and Windows XP x86 (KB2756918)"
+            "title": "Security Update for Microsoft .NET Framework 3.0 SP2 on Windows Server 2003 and Windows XP for x64-based Systems (KB2756918)"
         },
-        "KB4500331": {
-            "releaseDate": "2019-05-14",
+        "KB2789643": {
+            "releaseDate": "2017-05-30",
             "releaseVersion": "",
-            "title": "Security Update for Windows XP (KB4500331)"
-        },
-        "KB956438": {
-            "releaseDate": "2013-03-12",
-            "releaseVersion": "",
-            "title": "Hotfix for Windows XP x64 Edition (KB956438)"
+            "title": "Security Update for Microsoft .NET Framework 2.0 SP2 on Windows Server 2003 and Windows XP for x64-based Systems (KB2789643)"
         },
         "KB2794119": {
-            "releaseDate": "2012-12-11",
+            "releaseDate": "2017-05-30",
             "releaseVersion": "",
-            "title": "Update for Windows XP (KB2794119)"
-        },
-        "KB2935092": {
-            "releaseDate": "2014-03-21",
-            "releaseVersion": "",
-            "title": "Hotfix for Windows XP (KB2935092)"
-        },
-        "KB2849470": {
-            "releaseDate": "2013-08-13",
-            "releaseVersion": "",
-            "title": "Security Update for Windows XP (KB2849470)"
-        },
-        "KB2829361": {
-            "releaseDate": "2013-05-14",
-            "releaseVersion": "",
-            "title": "Security Update for Windows XP (KB2829361)"
+            "title": "Update for Windows XP x64 Edition (KB2794119)"
         },
         "KB2742604": {
-            "releaseDate": "2012-10-09",
+            "releaseDate": "2017-05-31",
             "releaseVersion": "",
-            "title": "Security Update for Microsoft .NET Framework 1.1 SP1 on Windows Server 2003 (KB2742604)"
+            "title": "Security Update for Microsoft .NET Framework 1.1 SP1 on Windows Server 2003 and Windows Server 2003 R2 x86 (KB2742604)"
         },
-        "KB2742595": {
-            "releaseDate": "2012-10-09",
+        "KB2753842": {
+            "releaseDate": "2017-05-31",
             "releaseVersion": "",
-            "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2742595)"
+            "title": "Security Update for Windows XP (KB2753842)"
         },
-        "KB2736428": {
-            "releaseDate": "2012-10-09",
+        "KB4012583": {
+            "releaseDate": "2017-06-13",
             "releaseVersion": "",
-            "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2736428)"
+            "title": "Security Update for Windows XP for x64-based Systems (KB4012583)"
         },
-        "KB2789642": {
-            "releaseDate": "2013-01-08",
+        "KB4018466": {
+            "releaseDate": "2017-06-13",
             "releaseVersion": "",
-            "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2789642)"
+            "title": "Security Update for Windows XP SP2 for x64-based Systems (KB4018466)"
         },
-        "KB2836939": {
-            "releaseDate": "2013-06-11",
+        "KB4024323": {
+            "releaseDate": "2017-06-13",
             "releaseVersion": "",
-            "title": "Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2836939)"
+            "title": "Security Update for Windows XP SP2 for x64-based Systems (KB4024323)"
         },
-        "KB2901110": {
-            "releaseDate": "2014-02-11",
+        "KB4024402": {
+            "releaseDate": "2017-06-13",
             "releaseVersion": "",
-            "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2901110)"
-        },
-        "KB2858302": {
-            "releaseDate": "2013-10-08",
-            "releaseVersion": "",
-            "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2858302)"
-        },
-        "KB2861188": {
-            "releaseDate": "2013-10-08",
-            "releaseVersion": "",
-            "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2861188)"
-        },
-        "KB2840628": {
-            "releaseDate": "2013-08-13",
-            "releaseVersion": "",
-            "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2840628)"
-        },
-        "KB2804576": {
-            "releaseDate": "2013-05-14",
-            "releaseVersion": "",
-            "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2804576)"
-        },
-        "KB2729449": {
-            "releaseDate": "2012-11-13",
-            "releaseVersion": "",
-            "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2729449)"
-        },
-        "KB2737019": {
-            "releaseDate": "2012-11-13",
-            "releaseVersion": "",
-            "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2737019)"
-        },
-        "KB2656368": {
-            "releaseDate": "2012-08-29",
-            "releaseVersion": "",
-            "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2656368)"
-        },
-        "KB2604121": {
-            "releaseDate": "2012-05-08",
-            "releaseVersion": "",
-            "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2604121)"
+            "title": "Security Update for Windows XP SP2 for x64-based Systems (KB4024402)"
         }
     },
     "2003-x64": {
@@ -6916,6 +8061,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows Server 2003 x64 Edition (KB941672)"
         },
+        "KB942763": {
+            "releaseDate": "2007-12-11",
+            "releaseVersion": "",
+            "title": "Update for Windows XP x64 Edition (KB942763)"
+        },
         "KB944275": {
             "releaseDate": "2007-12-11",
             "releaseVersion": "",
@@ -6986,11 +8136,6 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB951748)"
         },
-        "KB942763": {
-            "releaseDate": "2008-08-12",
-            "releaseVersion": "",
-            "title": "Update for Windows XP (KB942763)"
-        },
         "KB944338": {
             "releaseDate": "2008-08-12",
             "releaseVersion": "",
@@ -7004,7 +8149,7 @@
         "KB951072": {
             "releaseDate": "2008-08-12",
             "releaseVersion": "",
-            "title": "Update for Windows XP (KB951072)"
+            "title": "Update for Windows Server 2003 x64 Edition (KB951072)"
         },
         "KB954156": {
             "releaseDate": "2008-09-15",
@@ -7025,11 +8170,6 @@
             "releaseDate": "2008-12-09",
             "releaseVersion": "",
             "title": "Security Update for Windows Server 2003 x64 Edition (KB952068)"
-        },
-        "KB955839": {
-            "releaseDate": "2008-12-09",
-            "releaseVersion": "",
-            "title": "Update for Windows XP (KB955839)"
         },
         "KB960089": {
             "releaseDate": "2009-02-10",
@@ -7139,7 +8279,7 @@
         "KB970653": {
             "releaseDate": "2009-08-25",
             "releaseVersion": "",
-            "title": "Update for Windows XP x64 Edition (KB970653)"
+            "title": "Update for Windows Server 2003 x64 Edition (KB970653)"
         },
         "KB956744": {
             "releaseDate": "2009-09-08",
@@ -7249,22 +8389,22 @@
         "KB973687": {
             "releaseDate": "2009-11-24",
             "releaseVersion": "",
-            "title": "Update for Windows XP x64 Edition (KB973687)"
+            "title": "Update for Windows XP (KB973687)"
         },
         "KB976098": {
             "releaseDate": "2009-11-24",
             "releaseVersion": "",
-            "title": "Update for Windows XP x64 Edition (KB976098)"
+            "title": "Update for Windows Server 2003 x64 Edition (KB976098)"
         },
         "KB955759": {
             "releaseDate": "2009-12-08",
             "releaseVersion": "",
-            "title": "Update for Windows XP x64 Edition (KB955759)"
+            "title": "Update for Windows Server 2003 (KB955759)"
         },
         "KB970430": {
             "releaseDate": "2009-12-08",
             "releaseVersion": "",
-            "title": "Update for Windows XP x64 Edition (KB970430)"
+            "title": "Update for Windows Server 2003 (KB970430)"
         },
         "KB971726": {
             "releaseDate": "2009-12-08",
@@ -7274,7 +8414,7 @@
         "KB971737": {
             "releaseDate": "2009-12-08",
             "releaseVersion": "",
-            "title": "Update for Windows XP x64 Edition (KB971737)"
+            "title": "Update for Windows Server 2003 (KB971737)"
         },
         "KB973904": {
             "releaseDate": "2009-12-08",
@@ -7349,12 +8489,12 @@
         "KB976662": {
             "releaseDate": "2010-02-23",
             "releaseVersion": "",
-            "title": "Update for Windows XP x64 Edition (KB976662)"
+            "title": "Update for Windows Server 2003 x64 Edition (KB976662)"
         },
         "KB979306": {
             "releaseDate": "2010-02-23",
             "releaseVersion": "",
-            "title": "Update for Windows XP (KB979306)"
+            "title": "Update for Windows Server 2003 x64 Edition (KB979306)"
         },
         "KB977165": {
             "releaseDate": "2010-03-02",
@@ -7419,7 +8559,7 @@
         "KB981793": {
             "releaseDate": "2010-05-25",
             "releaseVersion": "",
-            "title": "Update for Windows XP (KB981793)"
+            "title": "Update for Windows Server 2003 x64 Edition (KB981793)"
         },
         "KB982632": {
             "releaseDate": "2010-05-25",
@@ -7459,7 +8599,7 @@
         "KB982167": {
             "releaseDate": "2010-06-08",
             "releaseVersion": "",
-            "title": "Microsoft .NET Framework 3.5 SP1 and .NET Framework 2.0 SP2 Update for Windows Server 2003 and Windows XP for x64-based Systems (KB982167)"
+            "title": "Microsoft .NET Framework 3.5 SP1 and .NET Framework 2.0 SP2 Update for Windows Server 2003 and Windows XP x86 (KB982167)"
         },
         "KB982168": {
             "releaseDate": "2010-06-08",
@@ -7469,7 +8609,7 @@
         "KB968930": {
             "releaseDate": "2010-06-22",
             "releaseVersion": "",
-            "title": "Windows PowerShell 2.0 and WinRM 2.0 for Windows XP and Windows Embedded (KB968930)"
+            "title": "Windows PowerShell 2.0 and WinRM 2.0 for Windows Server 2003 x64 Edition (KB968930)"
         },
         "KB982865": {
             "releaseDate": "2010-06-22",
@@ -7494,7 +8634,7 @@
         "KB982524": {
             "releaseDate": "2010-07-27",
             "releaseVersion": "",
-            "title": "Microsoft .NET Framework 3.5 SP1 and .NET Framework 2.0 SP2 Update for Windows Server 2003 and Windows XP for x64-based Systems (KB982524)"
+            "title": "Microsoft .NET Framework 3.5 SP1 and .NET Framework 2.0 SP2 Update for Windows Server 2003 and Windows XP x86 (KB982524)"
         },
         "KB2115168": {
             "releaseDate": "2010-08-10",
@@ -7544,7 +8684,7 @@
         "KB2141007": {
             "releaseDate": "2010-09-14",
             "releaseVersion": "",
-            "title": "Update for Windows XP (KB2141007)"
+            "title": "Update for Windows Server 2003 (KB2141007)"
         },
         "KB2259922": {
             "releaseDate": "2010-09-14",
@@ -7584,7 +8724,7 @@
         "KB2345886": {
             "releaseDate": "2010-10-12",
             "releaseVersion": "",
-            "title": "Update for Windows XP x64 Edition (KB2345886)"
+            "title": "Update for Windows Server 2003 (KB2345886)"
         },
         "KB2360937": {
             "releaseDate": "2010-10-12",
@@ -7729,7 +8869,7 @@
         "KB971029": {
             "releaseDate": "2011-02-22",
             "releaseVersion": "",
-            "title": "Update for Windows XP x64 Edition (KB971029)"
+            "title": "Update for Windows Server 2003 (KB971029)"
         },
         "KB2481109": {
             "releaseDate": "2011-03-08",
@@ -7809,12 +8949,12 @@
         "KB2492386": {
             "releaseDate": "2011-04-26",
             "releaseVersion": "",
-            "title": "Update for Windows XP x64 Edition (KB2492386)"
+            "title": "Update for Windows Server 2003 (KB2492386)"
         },
         "KB2524375": {
             "releaseDate": "2011-04-26",
             "releaseVersion": "",
-            "title": "Update for Windows XP x64 Edition (KB2524375)"
+            "title": "Update for Windows Server 2003 (KB2524375)"
         },
         "KB2524426": {
             "releaseDate": "2011-05-10",
@@ -7871,6 +9011,11 @@
             "releaseVersion": "",
             "title": "Security Update for Microsoft .NET Framework 2.0 SP2 on Windows Server 2003 and Windows XP x86 (KB2539631)"
         },
+        "KB2562937": {
+            "releaseDate": "2011-08-09",
+            "releaseVersion": "",
+            "title": "Update Rollup for ActiveX Killbits for Windows XP x64 Edition (KB2562937)"
+        },
         "KB2566454": {
             "releaseDate": "2011-08-09",
             "releaseVersion": "",
@@ -7904,7 +9049,7 @@
         "KB2616676": {
             "releaseDate": "2011-09-19",
             "releaseVersion": "",
-            "title": "Update for Windows Server 2003 (KB2616676)"
+            "title": "Update for Windows XP x64 Edition (KB2616676)"
         },
         "KB2518870": {
             "releaseDate": "2011-10-11",
@@ -7919,7 +9064,7 @@
         "KB2607712": {
             "releaseDate": "2011-10-11",
             "releaseVersion": "",
-            "title": "Update for Windows Server 2003 x64 Edition (KB2607712)"
+            "title": "Update for Windows XP (KB2607712)"
         },
         "KB2562485": {
             "releaseDate": "2011-10-25",
@@ -7934,7 +9079,7 @@
         "KB2641690": {
             "releaseDate": "2011-11-16",
             "releaseVersion": "",
-            "title": "Update for Windows Server 2003 (KB2641690)"
+            "title": "Update for Windows XP x64 Edition (KB2641690)"
         },
         "KB2618451": {
             "releaseDate": "2011-12-13",
@@ -7964,7 +9109,7 @@
         "KB2632503": {
             "releaseDate": "2012-01-10",
             "releaseVersion": "",
-            "title": "Update for Windows XP (KB2632503)"
+            "title": "Update for Windows XP x64 Edition (KB2632503)"
         },
         "KB2644615": {
             "releaseDate": "2012-01-10",
@@ -8054,12 +9199,17 @@
         "KB2718704": {
             "releaseDate": "2012-08-29",
             "releaseVersion": "",
-            "title": "Update for Windows Server 2003 x64 Edition (KB2718704)"
+            "title": "Update for Windows XP x64 Edition (KB2718704)"
         },
         "KB2719985": {
             "releaseDate": "2012-08-29",
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB2719985)"
+        },
+        "KB2661254": {
+            "releaseDate": "2012-10-09",
+            "releaseVersion": "",
+            "title": "Update for Windows XP (KB2661254)"
         },
         "KB2705219": {
             "releaseDate": "2012-10-09",
@@ -8071,20 +9221,20 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB2724197)"
         },
+        "KB2749655": {
+            "releaseDate": "2012-10-09",
+            "releaseVersion": "",
+            "title": "Update for Windows XP (KB2749655)"
+        },
         "KB2756822": {
             "releaseDate": "2012-10-09",
             "releaseVersion": "",
-            "title": "Update for Windows XP (KB2756822)"
+            "title": "Update for Windows Server 2003 x64 Edition (KB2756822)"
         },
         "KB2729450": {
             "releaseDate": "2012-11-13",
             "releaseVersion": "",
             "title": "Security Update for Microsoft .NET Framework 2.0 SP2 on Windows Server 2003 and Windows XP for x64-based Systems (KB2729450)"
-        },
-        "KB2748349": {
-            "releaseDate": "2012-12-11",
-            "releaseVersion": "",
-            "title": "Update for Windows Server 2003 x64 Edition (KB2748349)"
         },
         "KB2772930": {
             "releaseDate": "2013-04-09",
@@ -8125,6 +9275,11 @@
             "releaseDate": "2013-08-13",
             "releaseVersion": "",
             "title": "Security Update for Microsoft .NET Framework 2.0 SP2 on Windows Server 2003 and Windows XP for x64-based Systems (KB2844285)"
+        },
+        "KB2863058": {
+            "releaseDate": "2013-08-13",
+            "releaseVersion": "",
+            "title": "Update for Windows XP x64 Edition (KB2863058)"
         },
         "KB2834902": {
             "releaseDate": "2013-08-27",
@@ -8209,7 +9364,7 @@
         "KB2904266": {
             "releaseDate": "2013-12-10",
             "releaseVersion": "",
-            "title": "Update for Windows Server 2003 x64 Edition (KB2904266)"
+            "title": "Update for Windows XP (KB2904266)"
         },
         "KB2914368": {
             "releaseDate": "2014-01-14",
@@ -8239,7 +9394,7 @@
         "KB2922717": {
             "releaseDate": "2014-03-11",
             "releaseVersion": "",
-            "title": "Update for Windows Server 2003 (KB2922717)"
+            "title": "Update for Windows XP x64 Edition (KB2922717)"
         },
         "KB2927811": {
             "releaseDate": "2014-03-11",
@@ -8306,11 +9461,6 @@
             "releaseVersion": "",
             "title": "Security Update for Microsoft .NET Framework 4 on Windows Server 2003, Vista, Windows 7, Server 2008 x86 (KB2972215)"
         },
-        "KB2973115": {
-            "releaseDate": "2014-09-09",
-            "releaseVersion": "",
-            "title": "Security Update for Microsoft .NET Framework 3.0 SP2 on Windows Server 2003 (KB2973115)"
-        },
         "KB2998527": {
             "releaseDate": "2014-09-23",
             "releaseVersion": "",
@@ -8325,11 +9475,6 @@
             "releaseDate": "2014-10-14",
             "releaseVersion": "",
             "title": "Security Update for Microsoft .NET Framework 4 on Windows Server 2003, Vista, Windows 7, Server 2008 x86 (KB2972106)"
-        },
-        "KB2979574": {
-            "releaseDate": "2014-10-14",
-            "releaseVersion": "",
-            "title": "Security Update for Microsoft .NET Framework 2.0 SP2 on Windows Server 2003 (KB2979574)"
         },
         "KB2979575": {
             "releaseDate": "2014-10-14",
@@ -8356,11 +9501,6 @@
             "releaseVersion": "",
             "title": "Security Update for Windows Server 2003 x64 Edition (KB3000061)"
         },
-        "KB2978124": {
-            "releaseDate": "2014-11-11",
-            "releaseVersion": "",
-            "title": "Security Update for Microsoft .NET Framework 2.0 SP2 on Windows Server 2003 (KB2978124)"
-        },
         "KB2978125": {
             "releaseDate": "2014-11-11",
             "releaseVersion": "",
@@ -8386,11 +9526,6 @@
             "releaseVersion": "",
             "title": "Security Update for Windows Server 2003 x64 Edition (KB3012172)"
         },
-        "KB3013410": {
-            "releaseDate": "2014-12-09",
-            "releaseVersion": "",
-            "title": "Update for Windows Server 2003 x64 Edition (KB3013410)"
-        },
         "KB3014029": {
             "releaseDate": "2015-01-13",
             "releaseVersion": "",
@@ -8401,20 +9536,10 @@
             "releaseVersion": "",
             "title": "Security Update for Windows Server 2003 x64 Edition (KB3020393)"
         },
-        "KB3020338": {
-            "releaseDate": "2015-02-10",
-            "releaseVersion": "",
-            "title": "Update for Windows Server 2003 x64 Edition (KB3020338)"
-        },
-        "KB3000988": {
-            "releaseDate": "2015-03-10",
-            "releaseVersion": "",
-            "title": "Update for Windows Server 2003 x64 Edition (KB3000988)"
-        },
         "KB3032359": {
             "releaseDate": "2015-03-10",
             "releaseVersion": "",
-            "title": "Cumulative Security Update for Internet Explorer 7 for Windows Server 2003 x64 Edition (KB3032359)"
+            "title": "Cumulative Security Update for Internet Explorer 6 for WEPOS and POSReady 2009 (KB3032359)"
         },
         "KB3035132": {
             "releaseDate": "2015-03-10",
@@ -8436,11 +9561,6 @@
             "releaseVersion": "",
             "title": "Security Update for Windows Server 2003 (KB3033395)"
         },
-        "KB3049874": {
-            "releaseDate": "2015-03-27",
-            "releaseVersion": "",
-            "title": "Update for Windows Server 2003 x64 Edition (KB3049874)"
-        },
         "KB2894842": {
             "releaseDate": "2015-04-14",
             "releaseVersion": "",
@@ -8450,6 +9570,11 @@
             "releaseDate": "2015-04-14",
             "releaseVersion": "",
             "title": "Security Update for Microsoft .NET Framework 2.0 SP2 on Windows Server 2003 for x64-based Systems (KB2894843)"
+        },
+        "KB3037577": {
+            "releaseDate": "2015-04-14",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 2.0 SP2 on Windows Server 2003 (KB3037577)"
         },
         "KB3037578": {
             "releaseDate": "2015-04-14",
@@ -8529,147 +9654,52 @@
         "KB3065979": {
             "releaseDate": "2015-07-14",
             "releaseVersion": "",
-            "title": "Update for Windows Server 2003 x64 Edition (KB3065979)"
-        },
-        "KB3067505": {
-            "releaseDate": "2015-07-14",
-            "releaseVersion": "",
-            "title": "Security Update for Windows Server 2003 x64 Edition (KB3067505)"
-        },
-        "KB3068368": {
-            "releaseDate": "2015-07-14",
-            "releaseVersion": "",
-            "title": "Security Update for Windows Server 2003 (KB3068368)"
-        },
-        "KB3068457": {
-            "releaseDate": "2015-07-14",
-            "releaseVersion": "",
-            "title": "Security Update for Windows Server 2003 x64 Edition (KB3068457)"
-        },
-        "KB3070102": {
-            "releaseDate": "2015-07-14",
-            "releaseVersion": "",
-            "title": "Security Update for Windows Server 2003 x64 Edition (KB3070102)"
-        },
-        "KB3072633": {
-            "releaseDate": "2015-07-14",
-            "releaseVersion": "",
-            "title": "Security Update for Windows Server 2003 x64 Edition (KB3072633)"
-        },
-        "KB3077657": {
-            "releaseDate": "2015-07-14",
-            "releaseVersion": "",
-            "title": "Security Update for Windows Server 2003 (KB3077657)"
+            "title": "Update for WEPOS and POSReady 2009 (KB3065979)"
         },
         "KB2742596": {
             "releaseDate": "2017-05-30",
             "releaseVersion": "",
             "title": "Security Update for Microsoft .NET Framework 2.0 SP2 on Windows Server 2003 and Windows XP x86 (KB2742596)"
         },
+        "KB2748349": {
+            "releaseDate": "2017-05-30",
+            "releaseVersion": "",
+            "title": "Update for Windows XP x64 Edition (KB2748349)"
+        },
+        "KB2756918": {
+            "releaseDate": "2017-05-30",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 3.0 SP2 on Windows Server 2003 and Windows XP for x64-based Systems (KB2756918)"
+        },
         "KB2789643": {
             "releaseDate": "2017-05-30",
             "releaseVersion": "",
             "title": "Security Update for Microsoft .NET Framework 2.0 SP2 on Windows Server 2003 and Windows XP for x64-based Systems (KB2789643)"
         },
-        "KB2756918": {
+        "KB2794119": {
+            "releaseDate": "2017-05-30",
+            "releaseVersion": "",
+            "title": "Update for Windows XP x64 Edition (KB2794119)"
+        },
+        "KB2753842": {
             "releaseDate": "2017-05-31",
             "releaseVersion": "",
-            "title": "Security Update for Microsoft .NET Framework 3.0 SP2 on Windows Server 2003 and Windows XP x86 (KB2756918)"
+            "title": "Security Update for Windows XP (KB2753842)"
         },
-        "KB4500331": {
-            "releaseDate": "2019-05-14",
+        "KB3197835": {
+            "releaseDate": "2017-06-13",
             "releaseVersion": "",
-            "title": "Security Update for Windows XP (KB4500331)"
+            "title": "Security Update for Windows XP SP3 for XPe and WEPOS (KB3197835)"
         },
-        "KB956438": {
-            "releaseDate": "2013-03-12",
+        "KB4024402": {
+            "releaseDate": "2017-06-13",
             "releaseVersion": "",
-            "title": "Hotfix for Windows XP x64 Edition (KB956438)"
+            "title": "Security Update for Windows XP SP2 for x64-based Systems (KB4024402)"
         },
-        "KB2794119": {
-            "releaseDate": "2012-12-11",
+        "KB4025218": {
+            "releaseDate": "2017-06-13",
             "releaseVersion": "",
-            "title": "Update for Windows XP (KB2794119)"
-        },
-        "KB2935092": {
-            "releaseDate": "2014-03-21",
-            "releaseVersion": "",
-            "title": "Hotfix for Windows XP (KB2935092)"
-        },
-        "KB2849470": {
-            "releaseDate": "2013-08-13",
-            "releaseVersion": "",
-            "title": "Security Update for Windows XP (KB2849470)"
-        },
-        "KB2829361": {
-            "releaseDate": "2013-05-14",
-            "releaseVersion": "",
-            "title": "Security Update for Windows XP (KB2829361)"
-        },
-        "KB2742595": {
-            "releaseDate": "2012-10-09",
-            "releaseVersion": "",
-            "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2742595)"
-        },
-        "KB2736428": {
-            "releaseDate": "2012-10-09",
-            "releaseVersion": "",
-            "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2736428)"
-        },
-        "KB2789642": {
-            "releaseDate": "2013-01-08",
-            "releaseVersion": "",
-            "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2789642)"
-        },
-        "KB2836939": {
-            "releaseDate": "2013-06-11",
-            "releaseVersion": "",
-            "title": "Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2836939)"
-        },
-        "KB2901110": {
-            "releaseDate": "2014-02-11",
-            "releaseVersion": "",
-            "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2901110)"
-        },
-        "KB2858302": {
-            "releaseDate": "2013-10-08",
-            "releaseVersion": "",
-            "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2858302)"
-        },
-        "KB2861188": {
-            "releaseDate": "2013-10-08",
-            "releaseVersion": "",
-            "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2861188)"
-        },
-        "KB2840628": {
-            "releaseDate": "2013-08-13",
-            "releaseVersion": "",
-            "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2840628)"
-        },
-        "KB2804576": {
-            "releaseDate": "2013-05-14",
-            "releaseVersion": "",
-            "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2804576)"
-        },
-        "KB2729449": {
-            "releaseDate": "2012-11-13",
-            "releaseVersion": "",
-            "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2729449)"
-        },
-        "KB2737019": {
-            "releaseDate": "2012-11-13",
-            "releaseVersion": "",
-            "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2737019)"
-        },
-        "KB2656368": {
-            "releaseDate": "2012-08-29",
-            "releaseVersion": "",
-            "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2656368)"
-        },
-        "KB2604121": {
-            "releaseDate": "2012-05-08",
-            "releaseVersion": "",
-            "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2604121)"
+            "title": "Security Update for WES09 and POSReady 2009 (KB4025218)"
         }
     }
 }
