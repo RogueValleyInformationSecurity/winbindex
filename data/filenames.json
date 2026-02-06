@@ -509,6 +509,7 @@
 "setupengine.dll",
 "setupresources.dll",
 "setupui.dll",
+"setuputility.exe",
 "shdoclc.dll",
 "shdocvw.dll",
 "shell32.dll",
