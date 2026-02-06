@@ -735,6 +735,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows Server 2003 (KB939778)"
         },
+        "KB940157": {
+            "releaseDate": "2008-07-22",
+            "releaseVersion": "",
+            "title": "Windows Search 4.0 for Windows XP (KB940157)"
+        },
         "KB940276": {
             "releaseDate": "2008-08-12",
             "releaseVersion": "",
