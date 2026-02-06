@@ -4218,6 +4218,11 @@
             "releaseVersion": "",
             "title": "Update for Microsoft .NET Framework 4 on Windows XP, Windows Server 2003, Windows Vista, Windows 7, Windows Server 2008, Windows Server 2008 R2 for x64-based Systems (KB2533523)"
         },
+        "KB2535512": {
+            "releaseDate": "2011-06-14",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP x64 Edition (KB2535512)"
+        },
         "KB2539636": {
             "releaseDate": "2011-08-23",
             "releaseVersion": "",
