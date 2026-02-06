@@ -425,6 +425,11 @@
             "releaseVersion": "",
             "title": "Update for Windows XP Media Center Edition 2005 (KB913800)"
         },
+        "KB914388": {
+            "releaseDate": "2006-07-11",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB914388)"
+        },
         "KB914548": {
             "releaseDate": "2006-04-25",
             "releaseVersion": "",
