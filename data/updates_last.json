@@ -84,6 +84,11 @@
             "releaseDate": "2007-01-29",
             "releaseVersion": "",
             "title": "Update for Windows SharePoint Services for Windows Server 2003 x64 Edition (KB924881)"
+        },
+        "KB928255": {
+            "releaseDate": "2007-02-13",
+            "releaseVersion": "",
+            "title": "Security Update for Windows Server 2003 (KB928255)"
         }
     },
     "XP": {
