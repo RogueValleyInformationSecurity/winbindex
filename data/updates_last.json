@@ -3938,6 +3938,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP Embedded (KB2286198)"
         },
+        "KB2296011": {
+            "releaseDate": "2010-10-12",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP x64 Edition (KB2296011)"
+        },
         "KB2347290": {
             "releaseDate": "2010-09-14",
             "releaseVersion": "",
