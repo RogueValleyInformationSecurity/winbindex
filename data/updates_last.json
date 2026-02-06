@@ -205,6 +205,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows Server 2003 x64 Edition (KB3012172)"
         },
+        "KB3013126": {
+            "releaseDate": "2014-12-09",
+            "releaseVersion": "",
+            "title": "Security Update for Windows Server 2003 (KB3013126)"
+        },
         "KB829358": {
             "releaseDate": "2005-04-26",
             "releaseVersion": "",
