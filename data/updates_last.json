@@ -4406,6 +4406,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB2727528)"
         },
+        "KB2729449": {
+            "releaseDate": "2012-11-13",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2729449)"
+        },
         "KB2729450": {
             "releaseDate": "2012-11-13",
             "releaseVersion": "",
