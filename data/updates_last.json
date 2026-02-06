@@ -5181,6 +5181,11 @@
             "releaseVersion": "",
             "title": "Security Update for WEPOS and POSReady 2009 (KB3121918)"
         },
+        "KB3122653": {
+            "releaseDate": "2016-07-12",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft .NET Framework 4 for WEPOS and POSReady 2009 (KB3122653)"
+        },
         "KB3124275": {
             "releaseDate": "2016-01-12",
             "releaseVersion": "",
