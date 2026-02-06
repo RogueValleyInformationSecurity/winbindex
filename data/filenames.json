@@ -727,6 +727,7 @@
 "ws2_32.dll",
 "ws301_spcustom.dll",
 "wschannel.dll",
+"wscrrun.dll",
 "wsdueng.dll",
 "wshdocvw.dll",
 "wshell32.dll",

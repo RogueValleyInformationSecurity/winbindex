@@ -3336,6 +3336,7 @@
 "77f81016fea124054a6ed99e7ab3fd74900899e1aa703ad0ba409e4aeda9ff55": "pe"
 },
 "scrrun.dll": {
+"8ac3e093afd70bb1c0d5248b6d89bb361fc41dc2cd5c8059201b649c7f192240": "pe",
 "fb1a693b0628cdd6e289e01f0bd0bdda0cd3d5aa2fe3aefeb7c451a1dcf5defc": "pe"
 },
 "searchfilterhost.exe": {
@@ -4953,6 +4954,9 @@
 "bdf1d67b674a5d35976944c3dadf861fbfafe04859a51e3ee6d4f3c193240f09": "pe",
 "cf385076dc9e18b3ffa16beb697508fdaeddac9f7869524002b23a43d54257fd": "pe",
 "f2aba855b1eb73915026604cf53f62935bb98eb9923816c283f7fe9b7e8685eb": "pe"
+},
+"wscrrun.dll": {
+"32cbd5fd1350a957763ae23828551b5afa9f6c76a1ec42f629c4ff2d4a45af1f": "pe"
 },
 "wsdueng.dll": {
 "40c34c5d7c96c6394334df99a5dc7ffd3a2a7a304c4a6fd52a2bce3887a86803": "pe"
