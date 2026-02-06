@@ -4811,6 +4811,10 @@
 "winrssrv.dll": {
 "f65444aebf3fecfb8e7fd10dda2e485a944ebf5899885368a4ac426abfb95384": "pe"
 },
+"wins.exe": {
+"1ca18ffae4dbe43ed332c5b2e82d09fd86233a5abfcb8a0e74b349d3271a5d56": "pe",
+"fb5a8c9a33d67250b253be26c906ce6af3e39357f7bc56cd40d91796d3c3c04a": "pe"
+},
 "winsrv.dll": {
 "11e9b296950f6c78f7c963aca47586daa9bd58b77d461bf4a25493fca8b5970c": "pe",
 "1c22e7211a8bc10fe541c4b3377ac27dbe29af80d8dbd5e4f156b57ad7859f78": "pe",

@@ -1,5 +1,10 @@
 {
     "2003": {
+        "KB830352": {
+            "releaseDate": "2005-02-18",
+            "releaseVersion": "",
+            "title": "Security Update for Windows Server 2003 (KB830352)"
+        },
         "KB843496": {
             "releaseDate": "2004-09-20",
             "releaseVersion": "",
