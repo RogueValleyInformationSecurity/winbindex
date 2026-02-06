@@ -488,6 +488,7 @@
 "winntbba.dll",
 "winntbbu.dll",
 "winsrv.dll",
+"wintrust.dll",
 "wisptis.exe",
 "wksprt.exe",
 "wksprtps.dll",
