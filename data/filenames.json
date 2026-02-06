@@ -144,6 +144,7 @@
 "mqupgrd.dll",
 "mqutil.dll",
 "mrxdav.sys",
+"mrxsmb.sys",
 "msadce.dll",
 "msadox.dll",
 "mscms.dll",
