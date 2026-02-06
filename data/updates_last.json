@@ -2972,6 +2972,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB2807986)"
         },
+        "KB2808735": {
+            "releaseDate": "2013-04-09",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP x64 Edition (KB2808735)"
+        },
         "KB896424": {
             "releaseDate": "2005-11-08",
             "releaseVersion": "",
