@@ -1139,6 +1139,11 @@
             "releaseDate": "2009-07-14",
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB971633)"
+        },
+        "KB971657": {
+            "releaseDate": "2009-08-11",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP x64 Edition (KB971657)"
         }
     }
 }
