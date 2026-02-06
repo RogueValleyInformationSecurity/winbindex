@@ -599,6 +599,7 @@
 "webclnt.dll",
 "wes.dll",
 "wevtfwd.dll",
+"wgdi32.dll",
 "wiaservc.dll",
 "wicm32.dll",
 "win32k.sys",
