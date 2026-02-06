@@ -5046,6 +5046,11 @@
             "releaseVersion": "",
             "title": "Cumulative Security Update for Internet Explorer 8 for Windows Server 2003 x64 Edition (KB3049563)"
         },
+        "KB3058515": {
+            "releaseDate": "2015-06-09",
+            "releaseVersion": "",
+            "title": "Cumulative Security Update for Internet Explorer 6 for Windows Server 2003 x64 Edition (KB3058515)"
+        },
         "KB3061518": {
             "releaseDate": "2015-05-12",
             "releaseVersion": "",
