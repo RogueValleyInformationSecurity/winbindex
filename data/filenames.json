@@ -695,6 +695,7 @@
 "wbrowseui.dll",
 "wcatsrv.dll",
 "wcatsrvut.dll",
+"wcdosys.dll",
 "wclbcatex.dll",
 "wclbcatq.dll",
 "wcolbact.dll",
