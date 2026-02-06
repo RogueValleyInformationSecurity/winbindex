@@ -38,6 +38,7 @@
 "corperfmonext.dll",
 "csc.exe",
 "cscomp.dll",
+"csrsrv.dll",
 "custdll.dll",
 "custom.dll",
 "custom_uninstall.dll",
