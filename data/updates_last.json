@@ -4503,6 +4503,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP x64 Edition (KB899591)"
         },
+        "KB900725": {
+            "releaseDate": "2005-10-13",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP x64 Edition (KB900725)"
+        },
         "KB901017": {
             "releaseDate": "2005-10-11",
             "releaseVersion": "",
