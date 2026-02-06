@@ -594,6 +594,11 @@
             "releaseDate": "2007-02-13",
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB926436)"
+        },
+        "KB927779": {
+            "releaseDate": "2007-02-13",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB927779)"
         }
     }
 }
