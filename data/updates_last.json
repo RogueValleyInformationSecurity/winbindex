@@ -240,6 +240,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP x64 Edition (KB2644615)"
         },
+        "KB2646524": {
+            "releaseDate": "2012-01-10",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB2646524)"
+        },
         "KB2647170": {
             "releaseDate": "2012-03-13",
             "releaseVersion": "",
