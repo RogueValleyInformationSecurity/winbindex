@@ -150,6 +150,7 @@
 "netman.dll",
 "netsh.exe",
 "netshell.dll",
+"ntfs.sys",
 "ntkrnlpa.exe",
 "nwapi32.dll",
 "nwprovau.dll",
