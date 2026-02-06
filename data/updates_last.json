@@ -2314,6 +2314,11 @@
             "releaseVersion": "",
             "title": "February 2007 CardSpace Update for Windows XP x64 Edition (KB925720)"
         },
+        "KB925876": {
+            "releaseDate": "2007-02-27",
+            "releaseVersion": "",
+            "title": "Remote Desktop Connection (Terminal Services Client 6.0) for Windows XP (KB925876)"
+        },
         "KB926122": {
             "releaseDate": "2007-07-10",
             "releaseVersion": "",
