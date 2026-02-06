@@ -5063,6 +5063,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows Media Player 11 for Windows XP X64 Edition (KB973540)"
         },
+        "KB973815": {
+            "releaseDate": "2009-08-11",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP x64 Edition (KB973815)"
+        },
         "KB978338": {
             "releaseDate": "2010-04-13",
             "releaseVersion": "",
