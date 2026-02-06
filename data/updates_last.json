@@ -390,6 +390,11 @@
             "releaseVersion": "",
             "title": "Update for Windows XP Media Center Edition 2005 (KB910393)"
         },
+        "KB911565": {
+            "releaseDate": "2006-11-28",
+            "releaseVersion": "",
+            "title": "Security Update for Windows Media Player 10 for Windows XP (KB911565)"
+        },
         "KB911567": {
             "releaseDate": "2006-04-11",
             "releaseVersion": "",
