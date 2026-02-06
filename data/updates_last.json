@@ -5238,6 +5238,11 @@
             "releaseVersion": "",
             "title": "Microsoft .NET Framework 2.0 Service Pack 2 Update for Windows Server 2003 and Windows XP x86 (KB976569)"
         },
+        "KB976570": {
+            "releaseDate": "2010-02-23",
+            "releaseVersion": "",
+            "title": "Microsoft .NET Framework 3.0 Service Pack 2 Update for Windows Server 2003 and Windows XP for x64-based Systems (KB976570)"
+        },
         "KB977914": {
             "releaseDate": "2010-02-09",
             "releaseVersion": "",
