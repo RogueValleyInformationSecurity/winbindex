@@ -770,6 +770,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows Media Player 11 for Windows XP (KB936782)"
         },
+        "KB936929": {
+            "releaseDate": "2009-05-19",
+            "releaseVersion": "",
+            "title": "Windows XP Service Pack 3 (KB936929)"
+        },
         "KB938464": {
             "releaseDate": "2009-03-10",
             "releaseVersion": "",
