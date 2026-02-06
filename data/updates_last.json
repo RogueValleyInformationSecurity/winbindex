@@ -734,6 +734,11 @@
             "releaseDate": "2007-07-10",
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB939373)"
+        },
+        "KB941202": {
+            "releaseDate": "2007-10-09",
+            "releaseVersion": "",
+            "title": "Security Update for Outlook Express for Windows XP (KB941202)"
         }
     }
 }
