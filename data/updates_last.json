@@ -640,6 +640,11 @@
             "releaseVersion": "",
             "title": "February 2007 CardSpace Update for Windows XP x64 Edition (KB925720)"
         },
+        "KB926436": {
+            "releaseDate": "2007-02-13",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB926436)"
+        },
         "KB928255": {
             "releaseDate": "2007-02-13",
             "releaseVersion": "",
