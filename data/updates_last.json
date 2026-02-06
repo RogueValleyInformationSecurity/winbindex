@@ -3037,6 +3037,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows Media Format Runtime 11 for Windows XP SP2 and Windows Server 2003 SP2 x64 Edition (KB2834904)"
         },
+        "KB2836940": {
+            "releaseDate": "2014-02-11",
+            "releaseVersion": "",
+            "title": "Update for Microsoft .NET Framework 3.5 SP1 on Windows XP, Server 2003, Vista and Server 2008 for x64-based Systems (KB2836940)"
+        },
         "KB2844285": {
             "releaseDate": "2013-08-13",
             "releaseVersion": "",
