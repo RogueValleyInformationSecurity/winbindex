@@ -450,6 +450,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB2598479)"
         },
+        "KB2603381": {
+            "releaseDate": "2012-01-10",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB2603381)"
+        },
         "KB2616310": {
             "releaseDate": "2011-11-08",
             "releaseVersion": "",

@@ -48,6 +48,7 @@
 "custdll.dll",
 "custom.dll",
 "custom_uninstall.dll",
+"customaddreg.dll",
 "dbghelp.dll",
 "dbres.dll",
 "dbsetup.dll",
