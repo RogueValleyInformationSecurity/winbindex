@@ -4456,6 +4456,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB2757638)"
         },
+        "KB2758694": {
+            "releaseDate": "2012-11-13",
+            "releaseVersion": "",
+            "title": "Security Update for Microsoft XML Core Services 4.0 Service Pack 3 (KB2758694)"
+        },
         "KB2758857": {
             "releaseDate": "2012-12-11",
             "releaseVersion": "",
