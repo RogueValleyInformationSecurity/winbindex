@@ -5481,6 +5481,11 @@
             "releaseVersion": "",
             "title": "Cumulative Security Update for Outlook Express for Windows XP x64 Edition (KB923694)"
         },
+        "KB923789": {
+            "releaseDate": "2007-01-09",
+            "releaseVersion": "",
+            "title": "Flash Player Security Update for Windows XP (KB923789)"
+        },
         "KB923980": {
             "releaseDate": "2006-12-12",
             "releaseVersion": "",
