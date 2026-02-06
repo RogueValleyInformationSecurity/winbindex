@@ -1005,6 +1005,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB954600)"
         },
+        "KB955759": {
+            "releaseDate": "2009-12-08",
+            "releaseVersion": "",
+            "title": "Update for Windows XP x64 Edition (KB955759)"
+        },
         "KB955839": {
             "releaseDate": "2008-12-09",
             "releaseVersion": "",
