@@ -2289,6 +2289,11 @@
             "releaseVersion": "",
             "title": "Update for Windows Server 2003 x64 Edition (KB2808679)"
         },
+        "KB2813345": {
+            "releaseDate": "2013-04-09",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP x64 Edition (KB2813345)"
+        },
         "KB2890882": {
             "releaseDate": "2013-10-22",
             "releaseVersion": "",
