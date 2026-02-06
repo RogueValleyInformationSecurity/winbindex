@@ -960,6 +960,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB954459)"
         },
+        "KB954600": {
+            "releaseDate": "2008-12-09",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB954600)"
+        },
         "KB956841": {
             "releaseDate": "2008-10-14",
             "releaseVersion": "",

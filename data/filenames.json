@@ -252,6 +252,7 @@
 "srrstr.dll",
 "srv.sys",
 "srvsvc.dll",
+"strmdll.dll",
 "stub_fpsrvadm.exe",
 "stub_fpsrvwin.exe",
 "sxs.dll",
