@@ -2579,6 +2579,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows Server 2003 x64 Edition (KB967723)"
         },
+        "KB968537": {
+            "releaseDate": "2009-06-09",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB968537)"
+        },
         "KB969883": {
             "releaseDate": "2009-08-11",
             "releaseVersion": "",
