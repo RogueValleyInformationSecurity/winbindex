@@ -569,6 +569,11 @@
             "releaseDate": "2006-12-12",
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB926247)"
+        },
+        "KB926251": {
+            "releaseDate": "2006-12-12",
+            "releaseVersion": "",
+            "title": "Update for Windows XP Media Center Edition 2005 (KB926251)"
         }
     }
 }
