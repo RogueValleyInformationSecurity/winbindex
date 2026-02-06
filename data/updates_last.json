@@ -849,6 +849,11 @@
             "releaseDate": "2008-06-10",
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB950762)"
+        },
+        "KB951376": {
+            "releaseDate": "2008-06-18",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB951376)"
         }
     }
 }

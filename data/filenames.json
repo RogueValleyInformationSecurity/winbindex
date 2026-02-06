@@ -16,6 +16,7 @@
 "bdaplgin.ax",
 "browser.dll",
 "browseui.dll",
+"bthport.sys",
 "cdosys.dll",
 "cfgwiz.exe",
 "ciodm.dll",
