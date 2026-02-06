@@ -5303,6 +5303,11 @@
             "releaseVersion": "",
             "title": "Update for Windows XP (KB979306)"
         },
+        "KB979309": {
+            "releaseDate": "2010-04-13",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB979309)"
+        },
         "KB980195": {
             "releaseDate": "2010-06-08",
             "releaseVersion": "",
