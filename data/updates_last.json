@@ -4763,6 +4763,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP x64 Edition (KB936021)"
         },
+        "KB941202": {
+            "releaseDate": "2007-10-09",
+            "releaseVersion": "",
+            "title": "Security Update for Outlook Express for Windows XP (KB941202)"
+        },
         "KB944338": {
             "releaseDate": "2008-08-12",
             "releaseVersion": "",
