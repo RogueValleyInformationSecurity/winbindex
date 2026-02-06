@@ -934,6 +934,11 @@
             "releaseDate": "2008-06-24",
             "releaseVersion": "",
             "title": "Update for Windows XP (KB953356)"
+        },
+        "KB954156": {
+            "releaseDate": "2008-09-15",
+            "releaseVersion": "",
+            "title": "Security Update for Windows Media Encoder 9 Series for Windows XP (KB954156)"
         }
     }
 }
