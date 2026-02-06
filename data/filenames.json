@@ -959,6 +959,7 @@
 "wwins.exe",
 "wwinsevnt.dll",
 "wwintrust.dll",
+"wwmasf.dll",
 "wwmp.dll",
 "wwmvcore.dll",
 "wwmvdmod.dll",
