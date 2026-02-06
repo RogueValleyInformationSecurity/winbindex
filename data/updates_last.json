@@ -210,6 +210,11 @@
             "releaseVersion": "",
             "title": "Windows Server 2003 Service Pack 2 for Windows Small Business Server 2003 (KB940276)"
         },
+        "KB942288": {
+            "releaseDate": "2014-08-12",
+            "releaseVersion": "",
+            "title": "Security Update for Windows Server 2003 x64 Edition (KB942288)"
+        },
         "KB943484": {
             "releaseDate": "2008-02-12",
             "releaseVersion": "",
