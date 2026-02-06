@@ -2659,6 +2659,11 @@
             "releaseVersion": "",
             "title": "Update for Windows Server 2003 (KB973825)"
         },
+        "KB973869": {
+            "releaseDate": "2009-08-14",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP x64 Edition (KB973869)"
+        },
         "KB973917": {
             "releaseDate": "2010-04-13",
             "releaseVersion": "",
