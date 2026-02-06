@@ -92,6 +92,7 @@
 "http.sys",
 "inetcomm.dll",
 "inetmib1.dll",
+"infocomm.dll",
 "input.dll",
 "intl.cpl",
 "iphlpapi.dll",
