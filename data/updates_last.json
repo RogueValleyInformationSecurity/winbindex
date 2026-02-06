@@ -4258,6 +4258,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP x64 Edition (KB2555917)"
         },
+        "KB2562937": {
+            "releaseDate": "2011-08-09",
+            "releaseVersion": "",
+            "title": "Update Rollup for ActiveX Killbits for Windows XP x64 Edition (KB2562937)"
+        },
         "KB2564958": {
             "releaseDate": "2011-10-11",
             "releaseVersion": "",
