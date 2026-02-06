@@ -4208,6 +4208,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP x64 Edition (KB2525694)"
         },
+        "KB2530095": {
+            "releaseDate": "2011-06-14",
+            "releaseVersion": "",
+            "title": "Security Update for .NET Framework 3.5 on Windows Server 2003 and Windows XP for x64-based Systems (KB2530095)"
+        },
         "KB2533523": {
             "releaseDate": "2011-09-13",
             "releaseVersion": "",
