@@ -4138,6 +4138,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP x64 Edition (KB2507618)"
         },
+        "KB2508272": {
+            "releaseDate": "2011-04-12",
+            "releaseVersion": "",
+            "title": "Cumulative Security Update for ActiveX Killbits for Windows XP x64 Edition (KB2508272)"
+        },
         "KB2510587": {
             "releaseDate": "2011-04-12",
             "releaseVersion": "",
