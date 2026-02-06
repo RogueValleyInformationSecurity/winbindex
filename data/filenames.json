@@ -639,6 +639,7 @@
 "wicm32.dll",
 "wieencode.dll",
 "wiepeers.dll",
+"wimagehlp.dll",
 "win32k.sys",
 "win32spl.dll",
 "windowssearch.exe",
