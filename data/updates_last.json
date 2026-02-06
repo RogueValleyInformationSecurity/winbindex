@@ -4238,6 +4238,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB2544893)"
         },
+        "KB2555917": {
+            "releaseDate": "2011-07-12",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP x64 Edition (KB2555917)"
+        },
         "KB2564958": {
             "releaseDate": "2011-10-11",
             "releaseVersion": "",
