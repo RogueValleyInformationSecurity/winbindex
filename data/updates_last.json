@@ -50,6 +50,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP x64 Edition (KB902400)"
         },
+        "KB904942": {
+            "releaseDate": "2006-05-23",
+            "releaseVersion": "",
+            "title": "Update for Windows Server 2003 x64 Edition (KB904942)"
+        },
         "KB908981": {
             "releaseDate": "2006-04-11",
             "releaseVersion": "",
@@ -64,6 +69,11 @@
             "releaseDate": "2006-04-11",
             "releaseVersion": "",
             "title": "Security Update for Windows Server 2003 (KB911562)"
+        },
+        "KB914389": {
+            "releaseDate": "2006-06-13",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP x64 Edition (KB914389)"
         }
     },
     "XP": {
