@@ -1095,6 +1095,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP SP2 for x64-based Systems (KB4012598)"
         },
+        "KB4018271": {
+            "releaseDate": "2017-06-13",
+            "releaseVersion": "",
+            "title": "Cumulative Security Update for Internet Explorer 7 for Windows XP SP3 for XPe (KB4018271)"
+        },
         "KB810217": {
             "releaseDate": "2004-10-12",
             "releaseVersion": "",
