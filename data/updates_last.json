@@ -5541,6 +5541,11 @@
             "releaseVersion": "",
             "title": "Security Update for WES09 and POSReady 2009 (KB4019206)"
         },
+        "KB4020517": {
+            "releaseDate": "2017-05-30",
+            "releaseVersion": "",
+            "title": "Update for .NET Framework 2.0 SP2 on WES09 and POSReady 2009 (KB4020517)"
+        },
         "KB4022747": {
             "releaseDate": "2017-06-13",
             "releaseVersion": "",
