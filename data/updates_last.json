@@ -2851,6 +2851,11 @@
             "releaseDate": "2008-11-11",
             "releaseVersion": "",
             "title": "Security Update for Windows XP x64 Edition (KB955069)"
+        },
+        "KB978338": {
+            "releaseDate": "2010-04-13",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP x64 Edition (KB978338)"
         }
     }
 }
