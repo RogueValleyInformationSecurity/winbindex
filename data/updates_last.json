@@ -5536,6 +5536,11 @@
             "releaseVersion": "",
             "title": "Security Update for WES09 and POSReady 2009 (KB4017018)"
         },
+        "KB4017101": {
+            "releaseDate": "2017-05-31",
+            "releaseVersion": "",
+            "title": "May, 2017 Security and Quality Rollup for .NET Framework 3.0 SP2 on WES09 and POSReady 2009 (KB4017101)"
+        },
         "KB4018271": {
             "releaseDate": "2017-06-13",
             "releaseVersion": "",
