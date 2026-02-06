@@ -475,6 +475,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB2633171)"
         },
+        "KB2633952": {
+            "releaseDate": "2011-12-29",
+            "releaseVersion": "",
+            "title": "Update for Windows XP (KB2633952)"
+        },
         "KB2639417": {
             "releaseDate": "2011-12-13",
             "releaseVersion": "",
