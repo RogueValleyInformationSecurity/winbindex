@@ -5317,6 +5317,11 @@
             "releaseDate": "2010-06-08",
             "releaseVersion": "",
             "title": "Cumulative Security Update for ActiveX Killbits for Windows XP x64 Edition (KB980195)"
+        },
+        "KB980232": {
+            "releaseDate": "2010-04-13",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP x64 Edition (KB980232)"
         }
     }
 }
