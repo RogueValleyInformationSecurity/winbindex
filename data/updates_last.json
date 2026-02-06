@@ -2229,6 +2229,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP x64 Edition (KB2691442)"
         },
+        "KB2698365": {
+            "releaseDate": "2012-08-29",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB2698365)"
+        },
         "KB2718704": {
             "releaseDate": "2012-08-29",
             "releaseVersion": "",
