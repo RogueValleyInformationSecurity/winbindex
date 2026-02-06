@@ -2144,6 +2144,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows Server 2003 x64 Edition (KB898458)"
         },
+        "KB898715": {
+            "releaseDate": "2005-07-11",
+            "releaseVersion": "",
+            "title": "Update for Windows XP x64 Edition (KB898715)"
+        },
         "KB920683": {
             "releaseDate": "2006-08-08",
             "releaseVersion": "",
