@@ -7418,6 +7418,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP SP2 for x64-based Systems (KB4025218)"
         },
+        "KB4500331": {
+            "releaseDate": "2019-05-14",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB4500331)"
+        },
         "KB890046": {
             "releaseDate": "2007-05-08",
             "releaseVersion": "",
