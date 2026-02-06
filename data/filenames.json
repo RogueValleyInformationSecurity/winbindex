@@ -61,6 +61,7 @@
 "dnsapi.dll",
 "dnsrslvr.dll",
 "dplayx.dll",
+"dpnet.dll",
 "dpwsockx.dll",
 "dwwin.exe",
 "dxmrtp.dll",

@@ -785,6 +785,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB2761226)"
         },
+        "KB2770660": {
+            "releaseDate": "2017-05-31",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB2770660)"
+        },
         "KB2778344": {
             "releaseDate": "2017-05-30",
             "releaseVersion": "",
