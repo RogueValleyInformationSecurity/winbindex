@@ -55,6 +55,11 @@
             "releaseVersion": "",
             "title": "Security Update for Microsoft .NET Framework 2.0 SP2 and 3.5 SP1 on Windows Server 2003 and Windows XP for x64-based Systems (KB2418241)"
         },
+        "KB2440591": {
+            "releaseDate": "2010-12-14",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP x64 Edition (KB2440591)"
+        },
         "KB2518295": {
             "releaseDate": "2011-06-14",
             "releaseVersion": "",
