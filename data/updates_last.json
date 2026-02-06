@@ -2364,6 +2364,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP x64 Edition (KB2876315)"
         },
+        "KB2883150": {
+            "releaseDate": "2013-10-08",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP x64 Edition (KB2883150)"
+        },
         "KB2890882": {
             "releaseDate": "2013-10-22",
             "releaseVersion": "",
