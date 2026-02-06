@@ -842,6 +842,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows Server 2003 x64 Edition (KB3046049)"
         },
+        "KB3049874": {
+            "releaseDate": "2015-03-27",
+            "releaseVersion": "",
+            "title": "Update for Windows Server 2003 x64 Edition (KB3049874)"
+        },
         "KB898458": {
             "releaseDate": "2005-06-14",
             "releaseVersion": "",
