@@ -4533,6 +4533,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP x64 Edition (KB911280)"
         },
+        "KB911567": {
+            "releaseDate": "2006-04-11",
+            "releaseVersion": "",
+            "title": "Cumulative Security Update for Outlook Express for Windows XP (KB911567)"
+        },
         "KB911897": {
             "releaseDate": "2006-12-12",
             "releaseVersion": "",
