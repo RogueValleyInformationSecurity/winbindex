@@ -475,6 +475,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB2633171)"
         },
+        "KB2639417": {
+            "releaseDate": "2011-12-13",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB2639417)"
+        },
         "KB328940": {
             "releaseDate": "2004-05-15",
             "releaseVersion": "",
