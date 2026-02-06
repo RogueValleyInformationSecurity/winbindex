@@ -2299,6 +2299,11 @@
             "releaseVersion": "",
             "title": "Security Update for Microsoft .NET Framework 3.0 SP2 on Windows Server 2003 and Windows XP x86 (KB2656407)"
         },
+        "KB2661254": {
+            "releaseDate": "2012-10-09",
+            "releaseVersion": "",
+            "title": "Update for Windows XP (KB2661254)"
+        },
         "KB2685939": {
             "releaseDate": "2012-08-29",
             "releaseVersion": "",
