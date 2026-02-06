@@ -2299,6 +2299,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP (KB923414)"
         },
+        "KB923694": {
+            "releaseDate": "2006-12-12",
+            "releaseVersion": "",
+            "title": "Cumulative Security Update for Outlook Express for Windows XP x64 Edition (KB923694)"
+        },
         "KB924881": {
             "releaseDate": "2007-01-29",
             "releaseVersion": "",
