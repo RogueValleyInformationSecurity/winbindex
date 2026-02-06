@@ -4591,6 +4591,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows Media Format Runtime 9.5 for Windows XP (KB2834905)"
         },
+        "KB2836939": {
+            "releaseDate": "2013-06-11",
+            "releaseVersion": "",
+            "title": "Update for Microsoft .NET Framework 4 on XP, Server 2003 (KB2836939)"
+        },
         "KB2836940": {
             "releaseDate": "2014-02-11",
             "releaseVersion": "",
