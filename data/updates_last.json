@@ -4963,6 +4963,11 @@
             "releaseVersion": "",
             "title": "Security Update for Windows XP x64 Edition (KB958644)"
         },
+        "KB958687": {
+            "releaseDate": "2009-01-13",
+            "releaseVersion": "",
+            "title": "Security Update for Windows XP (KB958687)"
+        },
         "KB978338": {
             "releaseDate": "2010-04-13",
             "releaseVersion": "",
