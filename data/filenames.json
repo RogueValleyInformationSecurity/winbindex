@@ -131,6 +131,7 @@
 "gacutil.exe",
 "gdi32.dll",
 "gdiplus.dll",
+"gpkcsp.dll",
 "hccoin.dll",
 "helpctr.exe",
 "helpsvc.exe",
